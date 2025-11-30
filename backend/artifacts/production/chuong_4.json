@@ -1,0 +1,1493 @@
+[
+  {
+    "id": "q1",
+    "type": "question",
+    "text": "Trong mặt phẳng cho tam giác AB",
+    "options": [
+      "A. Đường thẳng A",
+      "B. ",
+      "C. Tập hợp tất cả các điểm M thoả mãn AM cùng phương với BC là hình gì?",
+      "D. Đường thẳng đi qua A song song với B"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Theo định nghĩa hai vectơ cùng phương, vectơ AM cùng phương với vectơ BC khi và chỉ khi giá của chúng (đường thẳng chứa vectơ) song song hoặc trùng nhau.\n\nGiá của vectơ AM là đường thẳng AM.\n\nGiá của vectơ BC là đường thẳng BC.\n\nDo đó, đường thẳng AM phải song song hoặc trùng với đường thẳng BC.\n\nVì M là điểm di động nhưng A là điểm cố định không thuộc đường thẳng BC (do ABC là một tam giác), nên đường thẳng AM không thể trùng với đường thẳng BC.\n\nVậy đường thẳng AM phải song song với đường thẳn",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q2",
+    "type": "question",
+    "text": "Trong mặt phẳng cho tam giác AB",
+    "options": [
+      "A. Đoạn thẳng A",
+      "B. ",
+      "C. Tập hợp tất cả các điểm M thoả mãn AM cùng hướng với AB là hình gì?",
+      "D. Đường thẳng A"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Hai vectơ AM và AB được gọi là cùng hướng nếu chúng cùng phương và có cùng chiều.\n\nĐể AM và AB cùng phương, ba điểm A, M, B phải thẳng hàng.\n\nĐể AM và AB cùng chiều, điểm M phải nằm trên tia bắt đầu từ gốc A và đi qua B.\n\nTập hợp các điểm M thỏa mãn điều kiện trên chính là tia AB.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q3",
+    "type": "question",
+    "text": "Trong mặt phẳng cho hai điểm phân biệt A,",
+    "options": [
+      "A. Đường tròn tâm A bán kính A",
+      "B. Tập hợp tất cả các điểm M thoả mãn |AM| = |BM| là hình gì?",
+      "C. Đường tròn tâm B bán kính A",
+      "D. Đoạn thẳng A"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Biểu thức |AM| = |BM| thể hiện độ dài của vectơ AM bằng độ dài của vectơ BM.\n\nĐộ dài của vectơ AM chính là khoảng cách từ điểm M đến điểm A, kí hiệu là MA.\n\nĐộ dài của vectơ BM chính là khoảng cách từ điểm M đến điểm B, kí hiệu là MB.\n\nVậy ta có MA = MB.\n\nTheo định nghĩa, tập hợp các điểm M cách đều hai điểm A và B cho trước là đường trung trực của đoạn thẳng AB.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q4",
+    "type": "question",
+    "text": "Trong mặt phẳng cho hai điểm phân biệt A,",
+    "options": [
+      "A. Đường thẳng A",
+      "B. Tập hợp tất cả các điểm M thoả mãn AM ngược hướng với AB là hình gì?",
+      "C. Tia đối của tia AB trừ điểm",
+      "D. Đoạn thẳng A"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Hai vectơ AM và AB được gọi là ngược hướng nếu chúng cùng phương và ngược chiều.\n\nĐể AM và AB cùng phương, ba điểm A, M, B phải thẳng hàng.\n\nĐể AM và AB ngược chiều, M phải nằm trên tia đối của tia AB (tia có gốc A và không chứa B).\n\nLưu ý: Nếu M trùng với A, vectơ AM trở thành vectơ-không, không có hướng xác định, nên ta loại điểm A.\n\nVậy tập hợp các điểm M là tia đối của tia AB, không bao gồm điểm A.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q5",
+    "type": "question",
+    "text": "Trong mặt phẳng cho hai điểm phân biệt A,",
+    "options": [
+      "A. Đường trung trực của đoạn thẳng A",
+      "B. Tập hợp tất cả các điểm M thoả mãn |AM| = |AB| là hình gì?",
+      "C. Đường tròn tâm B bán kính A",
+      "D. Đoạn thẳng A"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Biểu thức |AM| = |AB| có nghĩa là độ dài vectơ AM bằng độ dài vectơ AB.\n\nĐộ dài vectơ AM là khoảng cách MA.\n\nĐộ dài vectơ AB là khoảng cách AB (một giá trị không đổi vì A, B cố định).\n\nVậy ta có MA = AB.\n\nTập hợp các điểm M cách điểm A cố định một khoảng không đổi bằng AB chính là đường tròn tâm A, bán kính AB.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q6",
+    "type": "question",
+    "text": "Cho hình thang ABCD có AB và CD song song với nhau. Phát biểu nào sau đây là đúng?",
+    "options": [
+      "A. AB = C",
+      "B. AB và DC cùng hướng.",
+      "C. AB và DC ngược hướng.",
+      "D. "
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Vì ABCD là hình thang có hai đáy là AB và CD, nên đường thẳng AB song song với đường thẳng CD.\n\nDo đó, các vectơ có giá nằm trên hai đường thẳng này đều cùng phương. Cụ thể, vectơ AB và vectơ DC cùng phương.\n\nHai vectơ AB và DC đều có chiều từ trái sang phải (hoặc từ phải sang trái, tùy thuộc vào cách vẽ hình), do đó chúng cùng hướng.\n\nA sai vì vectơ bằng nhau yêu cầu cả cùng hướng và cùng độ dài, nhưng hình thang không đảm bảo AB = CD.\n\nC sai vì chúng cùng hướng.\n\nD sai vì độ dài hai đáy của hì",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q7",
+    "type": "question",
+    "text": "Cho a = b. Phát biểu nào sau đây là sai?",
+    "options": [
+      "A. a và b cùng hướng.",
+      "B. |a| và |b| cùng độ dài.",
+      "C. a và b không cùng phương.",
+      "D. a và b cùng phương."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Theo định nghĩa hai vectơ bằng nhau, nếu a = b thì chúng phải cùng hướng và có cùng độ dài.\n\nA. \"a và b cùng hướng\" là đúng.\n\nB. \"|a| và |b| cùng độ dài\" là đúng (cách diễn đạt khác của \"có cùng độ dài\").\n\nD. Hai vectơ cùng hướng thì suy ra chúng cùng phương. Do đó, \"a và b cùng phương\" là đúng.\n\nC. \"a và b không cùng phương\" mâu thuẫn với D, do đó đây là phát biểu sai.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q8",
+    "type": "question",
+    "text": "Cho điểm I là trung điểm của đoạn thẳng A",
+    "options": [
+      "A. IA = I",
+      "B. Phát biểu nào sau đây là đúng?",
+      "C. AI = BI.",
+      "D. |AI| = |IB|."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Vì I là trung điểm của AB, ta có:\n\nVectơ IA (hướng từ I đến A) và vectơ IB (hướng từ I đến B) là hai vectơ đối nhau. Chúng cùng độ dài nhưng ngược hướng.\n\nVectơ AI (hướng từ A đến I) và vectơ IB (hướng từ I đến B) là hai vectơ bằng nhau. Chúng cùng hướng và cùng độ dài.\n\nA. IA = IB (vectơ bằng nhau) là sai vì chúng ngược hướng. Đúng phải là IA = -IB.\n\nB. IA và IB cùng hướng là sai.\n\nC. AI = BI (vectơ bằng nhau) là sai. Vectơ AI và BI là hai vectơ đối nhau.\n\nD. |AI| = |IB| (độ dài bằng nhau) là đ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q9",
+    "type": "question",
+    "text": "Vectơ có điểm đầu là D, điểm cuối là E được kí hiệu là:",
+    "options": [
+      "A. DE.",
+      "B. |DE|.",
+      "C. E",
+      "D. "
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Theo quy ước ký hiệu vectơ, vectơ có điểm đầu là D và điểm cuối là E được viết là DE, với mũi tên ở trên để chỉ đây là một đại lượng có hướng.\n\nA. DE là ký hiệu cho đoạn thẳng hoặc độ dài đoạn thẳng.\n\nB. |DE| là ký hiệu cho độ dài của vectơ.\n\nC. ED là ký hiệu cho vectơ có điểm đầu E và điểm cuối D.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q10",
+    "type": "question",
+    "text": "Cho tứ giác ABC",
+    "options": [
+      "A. 4",
+      "B. 6",
+      "C. 8",
+      "D. Số các vectơ khác 0 có điểm đầu và cuối là đỉnh của tứ giác bằng:"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Một vectơ được xác định bởi một cặp điểm có thứ tự (điểm đầu, điểm cuối).\n\nVới 4 đỉnh A, B, C, D, ta có thể tạo ra các cặp điểm có thứ tự.\n\nSố cách chọn điểm đầu: 4 cách (A, B, C, hoặc D).\n\nSau khi chọn điểm đầu, số cách chọn điểm cuối (phải khác điểm đầu để vectơ khác 0): 3 cách.\n\nTheo quy tắc nhân, tổng số vectơ có thể tạo thành là: 4 × 3 = 12.\n\nCác vectơ đó là: AB, AC, AD, BA, BC, BD, CA, CB, CD, DA, DB, DC.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q11",
+    "type": "question",
+    "text": "Gọi M, N lần lượt là trung điểm của các cạnh AB, AC của tam giác đều AB",
+    "options": [
+      "A. MN và C",
+      "B. ",
+      "C. Hỏi cặp vectơ nào sau đây cùng hướng?",
+      "D. AN và C"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Vì M, N lần lượt là trung điểm của AB và AC, nên MN là đường trung bình của tam giác ABC.\n\nTheo tính chất đường trung bình, MN song song với BC và MN = 1/2 BC.\n\nA. Vectơ MN và CB: Đường thẳng MN song song với đường thẳng CB nên hai vectơ này cùng phương. Khi vẽ hình, ta thấy chiều từ M đến N cùng chiều với chiều từ C đến B. Do đó, MN và CB cùng hướng.\n\nB. Vectơ AB và MB: Hai vectơ này có giá trùng nhau (cùng nằm trên đường thẳng AB) nên cùng phương. Tuy nhiên, chiều từ A đến B ngược với chiều từ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q12",
+    "type": "question",
+    "text": "Cho AB ≠ 0 và một điểm C, có bao nhiêu điểm D thỏa mãn: |AB| = |CD|",
+    "options": [
+      "A. 0.",
+      "B. 1.",
+      "C. 2.",
+      "D. Vô số."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Đẳng thức |AB| = |CD| có nghĩa là độ dài vectơ AB bằng độ dài vectơ CD.\n\nĐộ dài vectơ AB là khoảng cách giữa hai điểm A và B, là một số dương không đổi, đặt là R = AB.\n\nĐộ dài vectơ CD là khoảng cách giữa hai điểm C và D.\n\nVậy ta có CD = R.\n\nVới điểm C cố định và một độ dài R > 0 cho trước, tập hợp các điểm D sao cho khoảng cách CD = R là một đường tròn tâm C, bán kính R.\n\nMột đường tròn có vô số điểm.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q13",
+    "type": "question",
+    "text": "Xét các mệnh đề sau\n(I): Véc tơ – không là véc tơ có độ dài bằng 0.\n(II): Véc tơ – không là véc tơ có nhiều phương.",
+    "options": [
+      "A. Chỉ (I) đúng.",
+      "B. Chỉ (II) đúng.",
+      "C. (I) và (II) đúng.",
+      "D. (I) và (II) sai."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "(I) Vectơ-không, ký hiệu là 0, được định nghĩa là vectơ có điểm đầu và điểm cuối trùng nhau (ví dụ AA). Theo định nghĩa, độ dài của nó bằng 0. Vậy mệnh đề (I) đúng.\n\n(II) Vectơ-không không có phương và hướng xác định. Quy ước rằng nó cùng phương và cùng hướng với mọi vectơ. Do đó, nói nó có \"nhiều phương\" là một cách hiểu đúng theo quy ước. Vậy mệnh đề (II) cũng đúng.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q14",
+    "type": "question",
+    "text": "Cho tam giác đều ABC cạnh a, mệnh đề nào sau đây đúng?",
+    "options": [
+      "A. |AC| = |BC|.",
+      "B. |AC| = a.",
+      "C. AB = A",
+      "D. |AB| = a."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Tam giác ABC đều cạnh a, nghĩa là ba cạnh AB, BC, CA đều có độ dài bằng a.\n\nA. |AC| = |BC| là đẳng thức về độ dài. AC = a và BC = a, nên |AC| = |BC| là đúng.\n\nB. |AC| = a là đúng.\n\nC. AB = AC là đẳng thức vectơ, nó đòi hỏi hai vectơ phải cùng hướng và cùng độ dài. Vectơ AB và AC có cùng độ dài nhưng không cùng hướng (góc giữa chúng là 60°). Do đó, mệnh đề này sai.\n\nD. |AB| = a là đúng.\n\nLưu ý: Câu hỏi có thể có nhiều đáp án đúng về mặt toán học (A, B, D). Tuy nhiên, trong các bài tập trắc nghiệm",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q15",
+    "type": "question",
+    "text": "Cho M là một điểm thuộc đoạn thẳng AB sao cho AB = 3AM. Hãy tìm khẳng định sai?",
+    "options": [
+      "A. MB = 2 M",
+      "B. |MA| = 2|MB|.",
+      "C. BA = -3AM.",
+      "D. |AM| = 1/2 |BM|."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "AB = 3AM, M thuộc đoạn AB nên A, M, B thẳng hàng và M nằm giữa A, B. Vectơ AM và AB cùng hướng.\n\nTừ AB = 3AM, ta có AM = 1/3 AB.\n\nMB = AB - AM = AB - 1/3 AB = 2/3 AB.\n\nVậy AM = 1/2 MB.\n\nA. Vectơ AM và MB cùng hướng, nên từ AM = 1/2 MB ta có AM = 1/2 MB. Suy ra MB = 2MA. Khẳng định A đúng.\n\nB. Từ AM = 1/2 MB, suy ra độ dài |AM| = 1/2 |MB|. Khẳng định |MA| = 2|MB| là sai.\n\nC. BA = -AB = -3AM. Khẳng định C đúng.\n\nD. |AM| = 1/2 |BM| là đúng.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q16",
+    "type": "question",
+    "text": "Cho hình bình hành ABC",
+    "options": [
+      "A. AD = B",
+      "B. AB = A",
+      "C. ",
+      "D. Khẳng định nào sau đây đúng?"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Trong hình bình hành ABCD, các cặp cạnh đối song song và bằng nhau.\n\nA. Cạnh AD và BC song song và bằng nhau. Vectơ AD và BC cùng hướng và cùng độ dài. Vậy AD = BC. Khẳng định này đúng.\n\nB. AB và AC là hai vectơ có chung điểm đầu A nhưng không cùng phương. Khẳng định sai.\n\nC. AC và DB là hai đường chéo, chúng không cùng phương và cũng không chắc chắn bằng nhau về độ dài. Khẳng định sai.\n\nD. AB và CD là hai vectơ của hai cạnh đối. Chúng có cùng độ dài nhưng ngược hướng. Do đó AB = -DC, chứ không ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q17",
+    "type": "question",
+    "text": "Cho hình bình hành ABCD tâm O. Các véctơ ngược hướng với OB là:",
+    "options": [
+      "A. BD, O",
+      "B. DB, OD, BO.",
+      "C. DB, DO.",
+      "D. "
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Vectơ OB có hướng từ O đến B.\n\nVectơ ngược hướng với OB phải cùng phương và ngược chiều với OB.\n\nVectơ BD: có giá là đường thẳng BD, cùng phương với OB. Nhưng chiều từ B đến D khác chiều với OB.\n\nVectơ OD: O là trung điểm BD nên vectơ OD ngược hướng với OB.\n\nVectơ DB: có giá là đường thẳng BD, cùng phương với OB. Chiều từ D đến B cùng chiều với OB.\n\nVectơ BO: là vectơ đối của OB, nên ngược hướng với OB.\n\nDo đó, các vectơ ngược hướng với OB là DO, BO.\n\nPhân tích lại các lựa chọn: Lỗi OCR có thể x",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q18",
+    "type": "question",
+    "text": "Cho hình chữ nhật ABCD có AB = 3, AD = 4. Khẳng định nào sau đây đúng?",
+    "options": [
+      "A. |AC| = |BD|.",
+      "B. |CD| = |BC|.",
+      "C. |AC| = |AB|.",
+      "D. |BD| = 7."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Trong hình chữ nhật, hai đường chéo bằng nhau. Do đó, độ dài đoạn AC bằng độ dài đoạn BD.\n\n|AC| là độ dài vectơ AC, bằng độ dài đoạn AC.\n\n|BD| là độ dài vectơ BD, bằng độ dài đoạn BD.\n\nA. |AC| = |BD| là đúng vì hai đường chéo hình chữ nhật bằng nhau.\n\nB. |CD| = AB = 3, |BC| = AD = 4. Do đó |CD| ≠ |BC|. Khẳng định sai.\n\nC. Áp dụng định lý Pytago trong tam giác ABC vuông tại B: AC² = AB² + BC² = 3² + 4² = 25, suy ra AC = 5. Vậy |AC| = 5. Mà |AB| = 3. Khẳng định sai.\n\nD. BD = AC = 5. Khẳng định |BD",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q19",
+    "type": "question",
+    "text": "Cho hình chữ nhật ABCD tâm I, AB = 3, BC = 4. Khi đó |BI| là:",
+    "options": [
+      "A. 7.",
+      "B. 5/2.",
+      "C. 5.",
+      "D. 7/2."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Trong hình chữ nhật ABCD, tâm I là trung điểm của hai đường chéo AC và BD.\n\nĐộ dài đường chéo BD được tính bằng định lý Pytago trong tam giác ABD vuông tại A: BD² = AB² + AD² = 3² + 4² = 25.\n\nSuy ra BD = 5.\n\nVì I là trung điểm của BD, nên độ dài đoạn BI = BD / 2 = 5/2.\n\n|BI| là độ dài của vectơ BI, chính là độ dài đoạn BI.\n\nVậy |BI| = 5/2.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q20",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây đúng?",
+    "options": [
+      "A. Hai vectơ cùng phương thì chúng cùng hướng.",
+      "B. Hai vectơ cùng phương thì giá của chúng song song hoặc trùng nhau.",
+      "C. Hai vectơ có giá vuông góc thì cùng phương.",
+      "D. Hai vectơ ngược hướng với 1 vectơ thứ ba thì cùng phương."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "A. Hai vectơ cùng phương có thể cùng hướng hoặc ngược hướng. Ví dụ, trong hình bình hành ABCD, AB và DC cùng phương nhưng ngược hướng. Mệnh đề sai.\n\nB. Đây là định nghĩa của hai vectơ cùng phương. Mệnh đề đúng.\n\nC. Hai vectơ có giá vuông góc thì không cùng phương. Mệnh đề sai.\n\nD. Nếu a ngược hướng với c, và b ngược hướng với c, thì a và b sẽ cùng hướng với nhau, do đó chúng cùng phương. Mệnh đề này đúng.\n\nSo sánh B và D: B là định nghĩa cơ bản và tổng quát nhất. D là một hệ quả. Trong các câu h",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q21",
+    "type": "question",
+    "text": "Cho tam giác đều ABC với đường cao AH. Đẳng thức nào sau đây đúng?",
+    "options": [
+      "A. HB = -H",
+      "B. |AC| = 2|HC|.",
+      "C. ",
+      "D. |AB| = |AC|."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Trong tam giác đều ABC, đường cao AH cũng là đường trung tuyến, nên H là trung điểm của BC.\n\nA. HB = -HC: Vectơ HB (từ H đến B) và vectơ HC (từ H đến C) ngược hướng và bằng nhau về độ dài. Đây là đẳng thức đúng.\n\nB. |AC| = 2|HC|: Độ dài cạnh AC là a. H là trung điểm BC nên HC = BC/2 = a/2. Vậy |AC| = a = 2 * (a/2) = 2|HC|. Đẳng thức này đúng.\n\nC. |AH| = (√3/2)|HC|: Độ dài đường cao AH = a√3/2. Độ dài HC = a/2. Tỷ lệ |AH|/|HC| = (a√3/2) / (a/2) = √3. Vậy |AH| = √3|HC|. Đẳng thức C sai.\n\nD. |AB| =",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q22",
+    "type": "question",
+    "text": "Nếu AB = AC thì:",
+    "options": [
+      "A. tam giác ABC là tam giác cân",
+      "B. tam giác ABC là tam giác đều",
+      "C. A là trung điểm đoạn BC",
+      "D. điểm B trùng với điểm C"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Đẳng thức vectơ AB = AC có nghĩa là hai vectơ này có cùng hướng và cùng độ dài.\n\nCùng hướng: Vì chúng có chung điểm đầu A, nên để cùng hướng thì tia AB phải trùng với tia AC. Điều này có nghĩa là ba điểm A, B, C phải thẳng hàng và B, C nằm cùng phía so với A.\n\nCùng độ dài: Khoảng cách AB phải bằng khoảng cách AC.\n\nKết hợp cả hai điều kiện, nếu A, B, C thẳng hàng và AB = AC, thì B phải trùng với C.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q23",
+    "type": "question",
+    "text": "Cho ba điểm M, N, P thẳng hàng, trong đó N nằm giữa hai điểm M và P. Khi đó cặp vectơ nào sau đây cùng hướng?",
+    "options": [
+      "A. MN và MP",
+      "B. MN và PN",
+      "C. MP và PN",
+      "D. NP và NM"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Vì N nằm giữa M và P, thứ tự các điểm trên đường thẳng là M - N - P.\n\nA. MN và MP: Cả hai vectơ đều có hướng từ M đi về phía P. Chúng cùng hướng.\n\nB. MN và PN: Vectơ MN có hướng từ M đến N, vectơ PN có hướng từ P đến N. Chúng ngược hướng.\n\nC. MP và PN: Vectơ MP có hướng từ M đến P, vectơ PN có hướng từ P đến N. Chúng ngược hướng.\n\nD. NP và NM: Vectơ NP có hướng từ N đến P, vectơ NM có hướng từ N đến M. Chúng ngược hướng.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q24",
+    "type": "question",
+    "text": "Cho hình lục giác đều ABCDEF tâm O. Số các vectơ khác vectơ không, cùng phương với vectơ OB có điểm đầu và điểm cuối là các đỉnh của lục giác là",
+    "options": [
+      "A. 4",
+      "B. 6",
+      "C. 8",
+      "D. 10"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Trong lục giác đều, các cặp cạnh đối song song với nhau: AB//ED, BC//FE, CD//AF.\n\nCác đường chéo chính AD, BE, CF đồng quy tại tâm O.\n\nVectơ OB có giá là đường thẳng BE.\n\nCác vectơ cùng phương với OB phải có giá song song hoặc trùng với đường thẳng BE.\n\nCác đường thẳng thỏa mãn là: BE, AF, CD.\n\nCác vectơ có điểm đầu và điểm cuối là đỉnh của lục giác và có giá là các đường thẳng trên bao gồm:\n\nTrên đường thẳng BE: BE, EB.\n\nTrên đường thẳng CD: CD, DC.\n\nTrên đường thẳng AF: AF, FA.\n\nTổng cộng có 6",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q25",
+    "type": "question",
+    "text": "Cho tứ giác ABC",
+    "options": [
+      "A. Mệnh đề nào sau đây là sai?",
+      "B. |QP| = |MN|",
+      "C. MQ = NP",
+      "D. Gọi M, N, P, Q lần lượt là trung điểm của AB, BC, CD, D"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "MN là đường trung bình của tam giác ABC, nên MN // AC và MN = 1/2 AC.\n\nQP là đường trung bình của tam giác ADC, nên QP // AC và QP = 1/2 AC.\n\nDo đó, MN // QP và MN = QP. Suy ra MNPQ là hình bình hành.\n\nA. MN = QP: Vì MN // QP và MN = QP, hai vectơ MN và QP cùng hướng và cùng độ dài. Đẳng thức vectơ này đúng.\n\nB. |QP| = |MN|: Đây là đẳng thức độ dài, suy ra từ A. Đúng.\n\nC. MQ = NP: MNPQ là hình bình hành nên hai cạnh đối MQ và NP song song và bằng nhau. Vectơ MQ và NP cùng hướng và cùng độ dài. Đ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q26",
+    "type": "question",
+    "text": "Cho ba điểm A, B, C phân biệt và thẳng hàng. Mệnh đề nào sau đây đúng?",
+    "options": [
+      "A. AB = BC",
+      "B. CA và CB cùng hướng",
+      "C. AB và AC ngược hướng",
+      "D. BA và BC cùng phương"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Vì A, B, C thẳng hàng nên tất cả các vectơ tạo bởi các điểm này đều có giá trùng nhau (đường thẳng chứa A, B, C). Do đó, mọi cặp vectơ đều cùng phương.\n\nA. AB = BC: Sai, không có gì đảm bảo B là trung điểm AC.\n\nB. CA và CB cùng hướng: Chỉ đúng khi A nằm giữa C và B. Các trường hợp khác thì sai.\n\nC. AB và AC ngược hướng: Chỉ đúng khi A nằm giữa B và C. Các trường hợp khác thì sai.\n\nD. BA và BC cùng phương: Đúng, vì A, B, C thẳng hàng nên giá của hai vectơ này trùng nhau.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q27",
+    "type": "question",
+    "text": "Gọi M, N lần lượt là trung điểm của các cạnh AB, AC của tam giác AB",
+    "options": [
+      "A. MA = M",
+      "B. ",
+      "C. Đẳng thức nào sau đây đúng?",
+      "D. |BC| = 2|MN|."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "A. MA = MB (đẳng thức vectơ) sai, vì đây là hai vectơ đối nhau (MA = -MB).\n\nB. AB = AC (đẳng thức vectơ) sai, tam giác ABC không nhất thiết cân tại A và hai vectơ này cũng không cùng hướng.\n\nC. MN = 1/2 BC (đẳng thức vectơ): MN là đường trung bình của tam giác ABC, nên MN song song và bằng 1/2 BC. Do đó, hai vectơ MN và BC cùng hướng, và |MN| = 1/2 |BC|. Vậy MN = 1/2 BC. Đẳng thức này đúng.\n\nD. |BC| = 2|MN| (đẳng thức độ dài): Từ tính chất đường trung bình, BC = 2MN, nên |BC| = 2|MN|. Đẳng thức ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q28",
+    "type": "question",
+    "text": "Cho tứ giác ABC",
+    "options": [
+      "A. ABCD là hình bình hành.",
+      "B. ABDC là hình bình hành.",
+      "C. AD và BC có cùng trung điểm.",
+      "D. Điều kiện nào là điều kiện cần và đủ để AB = DC?"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Đẳng thức vectơ AB = DC có nghĩa là vectơ AB và vectơ DC cùng hướng và cùng độ dài.\n\nCùng hướng: AB // DC.\n\nCùng độ dài: AB = DC.\n\nMột tứ giác có một cặp cạnh đối song song và bằng nhau là một hình bình hành.\n\nVới tứ giác ABDC, cặp cạnh đối là AB và DC. Điều kiện AB // DC và AB = DC tương đương với việc ABDC là hình bình hành.\n\nA. Nếu ABCD là hình bình hành thì AB = CD, không phải DC.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q29",
+    "type": "question",
+    "text": "Cho lục giác đều ABCDEF có tâm O. Đẳng thức nào sau đây là sai?",
+    "options": [
+      "A. AB = E",
+      "B. |AB| = |AF|.",
+      "C. OD = B",
+      "D. "
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "A. Trong lục giác đều, AB song song và bằng ED. Tuy nhiên, chiều từ A đến B ngược với chiều từ E đến D. Vậy AB = -ED. Đẳng thức AB = ED là sai.\n\nB. Lục giác đều có các cạnh bằng nhau, nên độ dài AB bằng độ dài AF. Đẳng thức |AB| = |AF| là đúng.\n\nC. Tứ giác OBCD là hình thoi, nên OD song song và bằng BC, cùng hướng. Vậy OD = BC. Đẳng thức này đúng.\n\nD. O là trung điểm của đường chéo BE, nên OB và OE là hai vectơ đối nhau. Vậy OB = -OE. Đẳng thức này đúng.\n\nLưu ý: Mệnh đề A sai. Các mệnh đề B, C, ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q30",
+    "type": "question",
+    "text": "Cho hình bình hành ABCD tâm O. Gọi P,Q,R lần lượt là trung điểm AB, BC, A",
+    "options": [
+      "A. Có 2 vectơ bằng PQ",
+      "B. Có 4 vectơ bằng AR",
+      "C. Có 3 vectơ bằng BO",
+      "D. Lấy 8 điểm trên làm điểm gốc hoặc điểm ngọn các vectơ. Tìm mệnh đề sai:"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A. PQ là đường trung bình của tam giác ABC => PQ = 1/2 AC. RA cũng là 1/2 AC. Vậy PQ = RA. Do đó có 2 vectơ bằng PQ là PQ và RA. Mệnh đề A đúng.\n\nB. AR = RQ = OD = QO' (O' trung điểm CD) = PB. Các vectơ có thể bằng AR gồm: AR, PB, DQ, QC (nếu Q, R là trung điểm BC, CD). Đề bài cho P, Q, R là trung điểm AB, BC, AD. Vậy AR = RD. Vectơ bằng AR gồm AR, RD, BQ, QC. Mệnh đề B đúng.\n\nC. BO = OD. Chỉ có 2 vectơ là BO và OD bằng nhau. Không thể có 3 vectơ. Mệnh đề C sai.\n\nD. OP là đường trung bình tam gi",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q31",
+    "type": "question",
+    "text": "Cho hai điểm phân biệt A và",
+    "options": [
+      "A. IA = BI.",
+      "B. Điều kiện để điểm I là trung điểm của đoạn thẳng AB là:",
+      "C. IA = I",
+      "D. |IA| = |IB|."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Điểm I là trung điểm của đoạn thẳng AB khi và chỉ khi vectơ IA và vectơ IB là hai vectơ đối nhau.\n\nHai vectơ đối nhau tức là IA = -IB.\n\nA. IA = BI: Sai, đây là hai vectơ cùng hướng.\n\nB. AI = BI: Sai, đây là hai vectơ đối nhau (AI = -BI).\n\nC. IA + IB = 0: Đây là đẳng thức đúng, tương đương với IA = -IB.\n\nD. |IA| = |IB|: Điều này chỉ nói I cách đều A và B, I có thể nằm bất kỳ đâu trên đường trung trực của AB. Điều kiện này chưa đủ.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q32",
+    "type": "question",
+    "text": "Cho hình thoi ABCD có tâm I. Hãy cho biết số khẳng định đúng trong các khẳng định sau?\na) |AB| = |BC| b) AB = DC c) IA = -IC\nd) |IB| = |IA| e) AB = BC f) 2|IA| = |BD|",
+    "options": [
+      "A. 3.",
+      "B. 4.",
+      "C. 5.",
+      "D. 6."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "a) |AB| = |BC|: Đúng, các cạnh của hình thoi bằng nhau.\n\nb) AB = DC: Đúng, trong hình bình hành (hình thoi), hai cạnh đối AB và DC tạo thành hai vectơ bằng nhau.\n\nc) IA = -IC: Đúng, I là trung điểm của AC nên IA và IC là hai vectơ đối.\n\nd) |IB| = |IA|: Sai, hai nửa đường chéo của hình thoi không nhất thiết bằng nhau.\n\ne) AB = BC (vectơ): Sai, hai vectơ này không cùng hướng.\n\nf) 2|IA| = |BD|: Sai, 2|IA| = |AC|. |AC| không nhất thiết bằng |BD|.\n\nVậy có 3 khẳng định đúng là a, b, c. Lời giải trong ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q33",
+    "type": "question",
+    "text": "Điền từ thích hợp vào dấu (...) để được mệnh đề đúng. Hai véc tơ ngược hướng thì (...).",
+    "options": [
+      "A. Bằng nhau.",
+      "B. Cùng phương.",
+      "C. Cùng độ dài.",
+      "D. Cùng điểm đầu."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Hai vectơ ngược hướng là một trường hợp đặc biệt của hai vectơ cùng phương. Theo định nghĩa, nếu hai vectơ ngược hướng thì giá của chúng phải song song hoặc trùng nhau, tức là chúng cùng phương.\n\nA, C: Hai vectơ ngược hướng không nhất thiết bằng nhau hoặc cùng độ dài.\n\nD: Không liên quan.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q34",
+    "type": "question",
+    "text": "Cho vectơ a. Mệnh đề nào sau đây đúng?",
+    "options": [
+      "A. Có vô số vectơ u mà |u| = |a|.",
+      "B. Có duy nhất một u mà u = a.",
+      "C. Có duy nhất một u mà u = -a.",
+      "D. Không có vectơ u nào mà |u| = |a|."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "|u| = |a| nghĩa là vectơ u có cùng độ dài với vectơ a.\n\nA. Có vô số vectơ có cùng độ dài cho trước. Tập hợp các điểm ngọn của chúng (nếu lấy chung gốc O) sẽ tạo thành một đường tròn. Do đó mệnh đề này đúng.\n\nB. u = a là một vectơ duy nhất. Mệnh đề này sai, vì nó chỉ là một trường hợp trong vô số trường hợp ở A.\n\nC. u = -a là một vectơ duy nhất. Mệnh đề này sai.\n\nD. Sai, ít nhất có vectơ a và -a thỏa mãn.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q35",
+    "type": "question",
+    "text": "Cho hình bình hành ABGE. Đẳng thức nào sau đây đúng.",
+    "options": [
+      "A. BA = EG.",
+      "B. AG = BE.",
+      "C. GA = -BE.",
+      "D. BA = -GE."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Nếu ABGE là hình bình hành thì các cặp cạnh đối song song và bằng nhau, tạo thành các vectơ bằng nhau.\n\nAB = EG và BG = AE.\n\nA. BA = EG: Sai, BA = -AB = -EG.\n\nB. AG và BE là hai đường chéo, chúng không bằng nhau.\n\nD. BA = -AB. GE = -EG. Vì AB = EG nên -AB = -EG. Vậy BA = GE. Đẳng thức này đúng.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q36",
+    "type": "question",
+    "text": "Cho lục giác đều ABCDEF tâm O. Hãy tìm các vectơ khác vectơ-không có điểm đầu, điểm cuối là đỉnh của lục giác và tâm O sao cho bằng với AB?",
+    "options": [
+      "A. FO, OC, FD",
+      "B. FO, AC, ED",
+      "C. BO, OC, ED",
+      "D. FO, OC, ED"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Vectơ bằng vectơ AB phải cùng hướng và có cùng độ dài với AB.\n\nFO: Tứ giác ABOF là hình bình hành (cụ thể là hình thoi), nên FO // AB và FO = AB. Hai vectơ này cùng hướng. Vậy FO = AB.\n\nOC: Tứ giác ABCO là hình bình hành (hình thoi), nên OC // AB và OC = AB. Hai vectơ này cùng hướng. Vậy OC = AB.\n\nED: Cạnh đối của lục giác đều, ED // AB và ED = AB. Hai vectơ này cùng hướng. Vậy ED = AB.\n\nFD và AC là các đường chéo, không cùng phương với AB.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q37",
+    "type": "question",
+    "text": "Cho tam giác AB",
+    "options": [
+      "A. Xác định các vectơ cùng phương với MN.",
+      "B. NM, BC, CB, PA, AP",
+      "C. Gọi M, N, P lần lượt là trung điểm của AB, BC, C",
+      "D. NM, BC, CA, AM, MA, PN, CP"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "MN là đường trung bình của tam giác ABC (với M là trung điểm AB, N là trung điểm BC) -> MN // AC.\n\nVậy các vectơ cùng phương với MN phải có giá song song hoặc trùng với AC.\n\nNM: là vectơ đối của MN, nên cùng phương.\n\nAC, CA: có giá là đường thẳng AC.\n\nAP, PA, PC, CP: có giá là đường thẳng AC (vì P là trung điểm CA).\n\nCác vectơ ở đáp án A, C đều thỏa mãn. Tuy nhiên đáp án C có thêm NM là đầy đủ hơn.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q38",
+    "type": "question",
+    "text": "Cho ba điểm A, B, C cùng nằm trên một đường thẳng. Các vectơ AB, BC cùng hướng khi và chỉ khi:",
+    "options": [
+      "A. Điểm B thuộc đoạn AC",
+      "B. Điểm A thuộc đoạn BC",
+      "C. Điểm C thuộc đoạn AB",
+      "D. Điểm A nằm ngoài đoạn BC"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Hai vectơ AB (hướng từ A đến B) và BC (hướng từ B đến C) cùng hướng. Điều này có nghĩa là chúng cùng chiều.\n\nVì chúng có điểm B chung, để chúng cùng chiều thì B phải nằm giữa A và C.\n\nNếu B nằm giữa A và C, thì thứ tự các điểm là A - B - C. Khi đó AB và BC cùng hướng từ trái sang phải.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q39",
+    "type": "question",
+    "text": "Cho tam giác đều cạnh 2a. Đẳng thức nào sau đây là đúng?",
+    "options": [
+      "A. |AB| = |AC|",
+      "B. |AB| = 2a",
+      "C. AB = 2a",
+      "D. AB = AC"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Tam giác đều cạnh 2a có nghĩa là độ dài các cạnh AB, BC, CA đều bằng 2a.\n\nA. |AB| = |AC| (độ dài bằng nhau): Đúng.\n\nB. |AB| = 2a (độ dài bằng 2a): Đúng.\n\nC. AB = 2a: Sai, vế trái là một vectơ, vế phải là một số.\n\nD. AB = AC (vectơ bằng nhau): Sai, hai vectơ này không cùng hướng.\n\nGiữa A và B, thì B là một phát biểu cụ thể hơn và đầy đủ thông tin hơn A.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q40",
+    "type": "question",
+    "text": "Cho tam giác không cân AB",
+    "options": [
+      "A. Tam giác ABC nhọn thì AH, OM cùng hướng.",
+      "B. AH, OM luôn cùng hướng.",
+      "C. Gọi H, O lần lượt là trực tâm, tâm đường tròn ngoại tiếp của tam giác. M là trung điểm của B",
+      "D. AH, OM có cùng giá"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Đây là một tính chất của đường thẳng Euler. Vectơ AH và OM cùng phương. Cụ thể, AH = 2OM.\n\nDo đó, chúng luôn cùng phương.\n\nKhi tam giác ABC nhọn, cả trực tâm H và tâm ngoại tiếp O đều nằm trong tam giác. Vectơ AH (từ đỉnh đến chân đường cao) và OM (từ tâm đến trung điểm cạnh đối) sẽ cùng hướng.\n\nKhi tam giác ABC tù, H sẽ nằm ngoài tam giác và AH, OM sẽ ngược hướng.\n\nVậy B và C sai vì hướng phụ thuộc vào dạng tam giác. D sai vì giá của chúng chỉ song song, không trùng nhau. A là mệnh đề đúng tron",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q41",
+    "type": "question",
+    "text": "Cho hình thoi tâm O, cạnh bằng a và góc A = 60°. Kết luận nào sau đây là đúng?",
+    "options": [
+      "A. |AO| = a√3 / 2",
+      "B. |OA| = a",
+      "C. |OA| = |OB|",
+      "D. |OA| = a√2 / 2"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Hình thoi ABCD có góc A = 60° thì tam giác ABD là tam giác đều (vì AB = AD = a và góc A = 60°).\n\nAO là đường cao trong tam giác đều ABD cạnh a.\n\nĐộ dài đường cao trong tam giác đều cạnh a là a√3/2.\n\nVậy |AO| = AO = a√3/2.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q42",
+    "type": "question",
+    "text": "Cho 3 điểm A, B, C không thẳng hàng, M là điểm bất kỳ. Mệnh đề nào sau đây đúng?",
+    "options": [
+      "A. ∀M, MA = M",
+      "B. ",
+      "C. ",
+      "D. ∃M, MA = M"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "A, C, D đều là các đẳng thức hoặc bất đẳng thức vectơ, không thể đúng với mọi M hoặc tồn tại M (trừ khi A, B, C có vị trí đặc biệt, nhưng đề cho không thẳng hàng).\n\nB. ∃M, MA = MB = MC: Tồn tại một điểm M sao cho vectơ MA, MB, MC bằng nhau. Điều này không thể xảy ra vì nếu MA = MB thì C phải trùng A hoặc B, mâu thuẫn.\n\nLưu ý: Có thể đề bài có lỗi, và các dấu bằng/khác đang nói về độ dài. Nếu là độ dài:\n\n∃M, MA = MB = MC: Tồn tại điểm M cách đều 3 đỉnh A, B, C. Đây chính là tâm đường tròn ngoại t",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q43",
+    "type": "question",
+    "text": "Cho hai điểm phân biệt A,",
+    "options": [
+      "A. 2.",
+      "B. Số vectơ (khác 0) có điểm đầu và điểm cuối lấy từ các điểm A, B là:",
+      "C. 13.",
+      "D. 12."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Với hai điểm A, B, ta có thể tạo ra hai vectơ khác 0:\n\nVectơ có điểm đầu A, điểm cuối B: AB.\n\nVectơ có điểm đầu B, điểm cuối A: BA.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q44",
+    "type": "question",
+    "text": "Gọi C là trung điểm của đoạn A",
+    "options": [
+      "A. CA = C",
+      "B. Hãy chọn khẳng định đúng trong các khẳng định sau:",
+      "C. AB và CB ngược hướng.",
+      "D. |AB| = |CB|."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "C là trung điểm AB, thứ tự các điểm là A - C - B.\n\nA. CA = CB (vectơ): Sai, đây là hai vectơ đối nhau (CA = -CB).\n\nB. AB và AC cùng hướng: Đúng, cả hai đều có hướng từ A về phía B.\n\nC. AB và CB ngược hướng: Sai, AB hướng từ A->B, CB hướng từ C->B, chúng cùng hướng.\n\nD. |AB| = |CB|: Sai, |AB| = 2|CB|.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q45",
+    "type": "question",
+    "text": "Cho hình bình hành ABC",
+    "options": [
+      "A. AD, B",
+      "B. BD, A",
+      "C. ",
+      "D. Các vectơ là vectơ đối của vectơ AD là"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Vectơ đối của AD là vectơ có cùng độ dài và ngược hướng với AD.\n\nDA: là vectơ đối của AD.\n\nCB: Trong hình bình hành ABCD, AD = BC. Do đó, vectơ đối của AD cũng là vectơ đối của BC, tức là CB. Vậy CB cũng là vectơ đối của AD.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q46",
+    "type": "question",
+    "text": "Số vectơ (khác 0) có điểm đầu và điểm cuối lấy từ 7 điểm phân biệt cho trước là",
+    "options": [
+      "A. 42.",
+      "B. 3.",
+      "C. 9.",
+      "D. 27."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Tương tự Câu 10, để tạo một vectơ khác 0 từ 7 điểm, ta chọn 1 điểm làm điểm đầu và 1 điểm khác làm điểm cuối.\n\nSố cách chọn điểm đầu: 7 cách.\n\nSố cách chọn điểm cuối (khác điểm đầu): 6 cách.\n\nTổng số vectơ có thể tạo thành là: 7 × 6 = 42.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q47",
+    "type": "question",
+    "text": "Cho tam giác ABC đều cạnh a và G là trọng tâm. Gọi I là trung điểm của AG. Độ dài của vectơ BI là",
+    "options": [
+      "A. a√21 / 6",
+      "B. a√21 / 3",
+      "C. a√3 / 6",
+      "D. a√3 / 2"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Trong tam giác đều ABC cạnh a, trung tuyến BM có độ dài a√3/2.\n\nG là trọng tâm nên BG = 2/3 BM = 2/3 * (a√3/2) = a√3/3.\n\nTrong tam giác ABM, BI là trung tuyến. Áp dụng công thức độ dài trung tuyến:\nBI² = (2(BA² + BM²)-AM²)/4. Cách này phức tạp.\n\nSử dụng tọa độ hoặc tích vô hướng. Ta có:\nBI = 1/2(BA + BG).\nBI² = 1/4 (BA² + BG² + 2BA.BG)\nBA² = a²; BG² = (a√3/3)² = a²/3.\nBA.BG = |BA|.|BG|.cos(30°) = a * (a√3/3) * (√3/2) = a²/2.\nBI² = 1/4 (a² + a²/3 + 2(a²/2)) = 1/4 (a² + a²/3 + a²) = 1/4 (7a²/3) = ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q48",
+    "type": "question",
+    "text": "Cho hình bình hành ABC",
+    "options": [
+      "A. DP = Q",
+      "B. Khẳng định nào đúng?",
+      "C. |PQ| = |MN|.",
+      "D. Trên các đoạn thẳng DC, AB theo thứ tự lấy các điểm M, N sao cho DM = BN. Gọi P là giao điểm của AM, DB và Q là giao điểm của CN, D"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Xét hai tam giác ΔADM và ΔCBN, có AD = CB, DM = BN, và góc ADM = góc CBN (so le trong).\n\nVậy ΔADM = ΔCBN (c.g.c). Suy ra AM = CN và AM // CN. Do đó AMCN là hình bình hành.\n\nXét hai tam giác ΔDPM và ΔBQN.\n\nTa có DM = BN (giả thiết).\n\nGóc PDM = góc QBN (so le trong vì AD//BC).\n\nGóc DMP = góc BNQ (so le trong vì AM//CN).\n\nVậy ΔDPM = ΔBQN (g.c.g).\n\nSuy ra DP = QB.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q49",
+    "type": "question",
+    "text": "Cho hình thoi ABCD cạnh a và góc BAD = 60°. Đẳng thức nào sau đây đúng?",
+    "options": [
+      "A. |AB| = |AD|.",
+      "B. |BD| = a.",
+      "C. BD = A",
+      "D. BC = D"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Hình thoi ABCD có góc BAD = 60° và AB = AD = a nên tam giác ABD là tam giác đều.\n\nA. |AB| = |AD|: Đúng, vì là hình thoi.\n\nB. |BD| = a: Đúng, vì tam giác ABD đều.\n\nC. BD = AC (vectơ): Sai, hai đường chéo không cùng hướng.\n\nD. BC = DA (vectơ): Sai, BC = AD mới đúng.\n\nGiữa A và B, B cung cấp thông tin đặc trưng hơn từ giả thiết góc 60°. Thường những câu hỏi như vậy sẽ nhắm vào kết quả suy luận.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q50",
+    "type": "question",
+    "text": "Cho a và b là các vectơ khác 0 với a là vectơ đối của b. Khẳng định nào sau đây sai?",
+    "options": [
+      "A. Hai vectơ a, b cùng phương.",
+      "B. Hai vectơ a, b ngược hướng.",
+      "C. Hai vectơ a, b cùng độ dài.",
+      "D. Hai vectơ a, b chung điểm đầu."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "a là vectơ đối của b (a = -b) có nghĩa là chúng cùng độ dài và ngược hướng.\n\nA. Cùng phương: Đúng, vì chúng ngược hướng.\n\nB. Ngược hướng: Đúng, theo định nghĩa.\n\nC. Cùng độ dài: Đúng, theo định nghĩa.\n\nD. Chung điểm đầu: Không có thông tin nào cho thấy chúng chung điểm đầu. Đây là một thuộc tính vị trí, không phải là thuộc tính của bản thân các vectơ tự do. Do đó đây là khẳng định không thể suy ra và có khả năng sai.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q51",
+    "type": "question",
+    "text": "Cho tam giác ABC có M, N, D lần lượt là trung điểm của AB, AC, B",
+    "options": [
+      "A. AM, MB, N",
+      "B. MA, MB, N",
+      "C. Khi đó, các vectơ đối của vectơ DN là:",
+      "D. "
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Vectơ đối của một vectơ là một vectơ có cùng độ dài nhưng ngược hướng.\n\nTrong tam giác ABC, vì N và D lần lượt là trung điểm của AC và BC, nên DN là đường trung bình của tam giác ABC.\n\nTheo tính chất đường trung bình, DN song song và bằng một nửa AB (DN // AB, DN = 1/2 AB).\n\nDo đó, vectơ DN cùng hướng với vectơ AB và |DN| = 1/2 |AB|.\n\nTa có: M là trung điểm của AB nên AM = MB = 1/2 AB.\n\nSuy ra: DN = AM = MB.\n\nVectơ đối của DN là vectơ -DN.\n\nND là vectơ đối của DN.\n\nVì DN = AM, nên -DN = -AM = MA",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q52",
+    "type": "question",
+    "text": "Cho hình bình hành ABC",
+    "options": [
+      "A. DM = NB",
+      "B. Khẳng định nào sau đây là đúng nhất.",
+      "C. Cả A, B đều đúng",
+      "D. Gọi M, N lần lượt là trung điểm của DC, AB; P là giao điểm của AM, DB và Q là giao điểm của CN, D"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Phân tích khẳng định A: Vì ABCD là hình bình hành nên AB // DC và AB = DC.\n\nN là trung điểm AB => NB = 1/2 AB.\n\nM là trung điểm DC => DM = 1/2 DC.\n\nDo đó, NB = DM và NB // DM. Tứ giác DMB N là hình bình hành. Suy ra, vectơ DM = NB. Vậy A đúng.\n\nPhân tích khẳng định B:\n\nXét tam giác DQC. Ta có M là trung điểm của DC. Tứ giác ANCM là hình bình hành (vì AN//MC và AN=MC), suy ra AM // NC. Do đó, MP // QC.\n\nTheo định lý đường trung bình (hoặc Thales), trong tam giác DQC, đường thẳng MP đi qua trung đ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q53",
+    "type": "question",
+    "text": "Cho hình thang ABCD có hai đáy là AB và CD với AB = 2C",
+    "options": [
+      "A. Khẳng định nào sau đây là đúng nhất?",
+      "B. DI = CB",
+      "C. Cả A, B đều đúng",
+      "D. Từ C vẽ CI = D"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Phân tích khẳng định A: CI = DA. Đây là đẳng thức vectơ, có nghĩa là DA // CI và DA = CI.\n\nVectơ đối của CI là IC. Vectơ đối của DA là AD.\n\nTừ CI = DA, suy ra -IC = -DA, hay IC = AD. Vậy A đúng.\n\nPhân tích khẳng định B:\n\nTừ CI = DA, ta có tứ giác ADCI là một hình bình hành. Do đó, DC // AI và DC = AI.\n\nVì AB // DC và AB = 2CD, nên A, I, B thẳng hàng và I là trung điểm của AB.\n\nKhi đó, ta có DC // IB và DC = AI = IB.\n\nTứ giác DCBI có một cặp cạnh đối DC và IB song song và bằng nhau. Do đó, DCBI l",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q54",
+    "type": "question",
+    "text": "Cho tam giác ABC có trực tâm H. Gọi D là điểm đối xứng với B qua tâm O của đường tròn ngoại tiếp tam giác AB",
+    "options": [
+      "A. HA = CD và AD = CH.",
+      "B. HA = CD và AD = H",
+      "C. Khẳng định nào sau đây là đúng?",
+      "D. HA = CD và AD = H"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "D là điểm đối xứng của B qua O => BD là đường kính của đường tròn (O).\n\nTa có các tính chất:\n\nAD ⊥ AB (góc nội tiếp chắn nửa đường tròn).\n\nCD ⊥ BC (góc nội tiếp chắn nửa đường tròn).\n\nVì H là trực tâm của ΔABC, ta có:\n\nCH ⊥ AB.\n\nAH ⊥ BC.\n\nTừ AD ⊥ AB và CH ⊥ AB => AD // CH.\n\nTừ CD ⊥ BC và AH ⊥ BC => CD // AH.\n\nTứ giác ADCH có các cặp cạnh đối song song nên nó là hình bình hành.\n\nTừ đó suy ra các đẳng thức vectơ: AD = HC và AH = CD.\n\nSo sánh với các đáp án:\n\nA: HA = CD (sai hướng), AD = CH (đúng).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q55",
+    "type": "question",
+    "text": "Cho tam giác ABC với trực tâm H. D là điểm đối xứng với B qua tâm O của đường tròn ngoại tiếp tam giác AB",
+    "options": [
+      "A. HA = CD và AD = CH",
+      "B. HA = CD và DA = HC",
+      "C. Khẳng định nào sau đây là đúng?",
+      "D. AD = HC và OB = OD"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Câu hỏi này tương tự câu 54. Ta đã chứng minh được tứ giác AHCD là hình bình hành.\n\nDo đó: AH = DC và AD = HC.\n\nChuyển về vectơ đối:\n\nHA = -AH = -DC = CD.\n\nDA = -AD = -HC.\n\nVậy các khẳng định đúng là: HA = CD và DA = -HC (hoặc AD = HC).\n\nXét các đáp án:\n\nA. HA = CD (đúng), AD = CH (sai, phải là HC).\n\nB. HA = CD (đúng), DA = HC (đúng).\n\nC. HA = CD (đúng), AD = HC (đúng). Đáp án B và C giống hệt nhau.\n\nD. AD = HC (đúng), OB = OD (sai, O là trung điểm BD nên OB = -OD).\n\nDo B và C giống nhau và đều ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q56",
+    "type": "question",
+    "text": "Cho ΔABC với điểm M nằm trong tam giác. Gọi A', B', C' lần lượt là trung điểm của BC, CA, AB và N, P, Q lần lượt là các điểm đối xứng với M qua A', B', C'. Câu nào sau đây đúng?",
+    "options": [
+      "A. AM = PC và QB = NC",
+      "B. AC = QN và AM = PC",
+      "C. AB = CN và AP = QN",
+      "D. AB' = BN và MN = BC"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "N đối xứng với M qua A' => A' là trung điểm MN => MN = 2MA'.\n\nA' là trung điểm BC => MB + MC = 2MA'.\n\nVậy MN = MB + MC.\n\nTương tự: MP = MC + MA và MQ = MA + MB.\n\nXét B: AC = QN và AM = PC.\n\nAM = PC: Ta có AM + MC = MP. Nếu M trùng P thì AM = -MC. Không đúng. AM = PC <=> AMCP là hình bình hành.\n\nAC = QN: QN = QM + MN = -(MA + MB) + (MB + MC) = MC - MA = AC. Đẳng thức này đúng.\n\nKiểm tra AM = PC: PC = PM + MC = (MC + MA) + MC = MA + 2MC. Không đúng.\n\nXem lại các mối quan hệ:\n\nTứ giác AMCP là hình ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q57",
+    "type": "question",
+    "text": "Cho tam giác ABC có H là trực tâm và O là tâm đường tròn ngoại tiếp. Gọi D là điểm đối xứng với B qua O. Câu nào sau đây đúng?",
+    "options": [
+      "A. AH = DC",
+      "B. AB = DC",
+      "C. AD = BC",
+      "D. AO = AH"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Đây là một tính chất quen thuộc liên quan đến đường thẳng Euler.\n\nD đối xứng với B qua O nên BD là đường kính.\n\nTa có CD ⊥ BC.\n\nH là trực tâm nên AH ⊥ BC.\n\nTừ đó suy ra AH // DC.\n\nTương tự, AD ⊥ AB và CH ⊥ AB => AD // CH.\n\nTứ giác AHCD có các cặp cạnh đối song song nên là hình bình hành.\n\nDo đó, AH = DC.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q58",
+    "type": "question",
+    "text": "Cho đường tròn tâm O. Từ điểm A nằm ngoài (O), kẻ hai tiếp tuyến AB, AC tới (O). Xét mệnh đề:\n(I) |AB| = |AC| (II) OB = -OC (III) |BO| = |CO|\nMệnh đề đúng là:",
+    "options": [
+      "A. Chỉ (I)",
+      "B. (I) và (III)",
+      "C. (I), (II), (III)",
+      "D. Chỉ (III)"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "(I) |AB| = |AC|: Theo tính chất hai tiếp tuyến cắt nhau, độ dài hai đoạn tiếp tuyến AB và AC bằng nhau. Mệnh đề này đúng.\n\n(II) OB = -OC (vectơ): Điều này có nghĩa là O là trung điểm của BC. Điều này không đúng, O chỉ nằm trên đường trung trực của BC. Mệnh đề sai.\n\n(III) |BO| = |CO|: B và C nằm trên đường tròn tâm O nên khoảng cách từ O đến B và C bằng nhau (bằng bán kính R). Mệnh đề này đúng.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q59",
+    "type": "question",
+    "text": "Cho hình bình hành ABCD tâm O. Gọi P, Q, R lần lượt là trung điểm của AB, BC, A",
+    "options": [
+      "A. Có 2 vectơ bằng PR",
+      "B. Có 4 vectơ bằng AR",
+      "C. Có 2 vectơ bằng BO",
+      "D. Lấy 8 điểm trên là gốc hoặc ngọn của các vectơ. Tìm mệnh đề sai?"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A. PR là đường trung bình của hình thang APQD => PR // DQ. PR = 1/2(AB+CD) + ... Cách khác: PR = PA + AR = 1/2 BA + 1/2 AD = 1/2(BA+AD) = 1/2 BD. Các vectơ bằng 1/2 BD gồm PR, ...\n\nB. Vectơ bằng AR: AR, RD, BQ, QC. Có 4 vectơ. Đúng.\n\nC. Vectơ bằng BO: Chỉ có OD. Chỉ có 2 vectơ là BO và OD. Mệnh đề sai.\n\nD. Vectơ bằng OP: OP là đường trung bình tam giác ABD => OP = 1/2 DB. Có nhiều vectơ bằng 1/2 DB.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q60",
+    "type": "question",
+    "text": "Cho hình vuông ABCD tâm O cạnh a. Gọi M là trung điểm của AB, N là điểm đối xứng với C qua",
+    "options": [
+      "A. |MN| = a√15 / 2",
+      "B. |MN| = a√5 / 3",
+      "C. |MN| = a√13 / 2",
+      "D. Hãy tính độ dài của vectơ MN."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Chọn hệ trục tọa độ gốc A(0,0), AB dọc theo Ox, AD dọc theo Oy.\n\nA(0,0), B(a,0), C(a,a), D(0,a).\n\nM là trung điểm AB => M(a/2, 0).\n\nN đối xứng với C qua D => D là trung điểm CN.\n\nxD = (xC + xN)/2 => 0 = (a + xN)/2 => xN = -a.\n\nyD = (yC + yN)/2 => a = (a + yN)/2 => yN = a.\n\nVậy N(-a, a).\n\nVectơ MN = (xN - xM, yN - yM) = (-a - a/2, a - 0) = (-3a/2, a).\n\nĐộ dài vectơ MN là: |MN| = √((-3a/2)² + a²) = √(9a²/4 + a²) = √(13a²/4) = a√13 / 2.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q61",
+    "type": "question",
+    "text": "Cho tứ giác ABC",
+    "options": [
+      "A. Gọi O là giao điểm của các đường chéo của tứ giác MNPQ, trung điểm của các đoạn thẳng AC, BD tương ứng là I, J. Khẳng định nào sau đây là đúng?",
+      "B. MP = NQ",
+      "C. MN = PQ",
+      "D. Gọi M, N, P, Q lần lượt là trung điểm của các cạnh AB, BC, CD, D"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "MNPQ là hình bình hành (đã chứng minh ở câu 25). O là tâm của hình bình hành nên O là trung điểm MP và NQ.\n\nB. MP = NQ: Sai, hai đường chéo hình bình hành không nhất thiết bằng nhau.\n\nC. MN = PQ: Sai, đây là hai vectơ đối nhau (MN = -PQ).\n\nSử dụng tính chất: 2OI = OA + OC + OB + OD (kết hợp trung điểm).\n\nO là trung điểm MP => OM + OP = 2OO = 0.\n\n2OI = OA + OC. 2OJ = OB + OD.\n\n2(OI + OJ) = OA + OB + OC + OD.\n\nMặt khác, M, N, P, Q là trung điểm => 2(OM + ON + OP + OQ) = (OA+OB) + (OB+OC) + (OC+OD)",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q62",
+    "type": "question",
+    "text": "Cho tam giác ABC có trực tâm H, D là điểm đối xứng với B qua tâm O của đường tròn ngoại tiếp tam giác AB",
+    "options": [
+      "A. HA = CD và AD = CH.",
+      "B. HA = CD và AD = H",
+      "C. Khẳng định nào sau đây là đúng?",
+      "D. "
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Đây là câu hỏi lặp lại từ câu 54 và 55.\n\nTa đã chứng minh tứ giác AHCD là hình bình hành (ở câu 54).\n\nDo đó, AH = DC và AD = HC.\n\nChuyển sang vectơ đối: HA = CD và DA = -HC.\n\nSo sánh với các đáp án, B (HA = CD và AD = HC) là đáp án đúng nhất.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q63",
+    "type": "question",
+    "text": "Cho ba vectơ a, b, c khác vectơ không. Nếu a cùng phương với b và b cùng phương với c thì:",
+    "options": [
+      "A. a và c có thể không cùng phương.",
+      "B. a và c luôn cùng hướng.",
+      "C. a và c luôn cùng phương.",
+      "D. a và c luôn ngược hướng."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Đây là tính chất bắc cầu của quan hệ cùng phương.\n\na cùng phương với b nghĩa là giá của a song song hoặc trùng với giá của b.\n\nb cùng phương với c nghĩa là giá của b song song hoặc trùng với giá của c.\n\nTừ hai điều trên, suy ra giá của a song song hoặc trùng với giá của c.\n\nDo đó, a và c luôn cùng phương.\n\nB và D sai vì chúng có thể cùng hướng hoặc ngược hướng. Ví dụ: nếu a cùng hướng b, b ngược hướng c thì a ngược hướng c.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q64",
+    "type": "question",
+    "text": "Cho hình vuông ABC",
+    "options": [
+      "A. B",
+      "B. C",
+      "C. ",
+      "D. Vectơ nào sau đây bằng vectơ AB?"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Hai vectơ bằng nhau nếu chúng cùng hướng và cùng độ dài.\n\nTrong hình vuông ABCD, cạnh AB song song với cạnh DC và có độ dài bằng nhau.\n\nVectơ AB có hướng từ A đến B.\n\nVectơ DC có hướng từ D đến C.\n\nHai vectơ AB và DC cùng hướng và cùng độ dài. Do đó, AB = DC.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q65",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây là mệnh đề phủ định của mệnh đề \"∀x ∈ ℝ, x² > 0\"?",
+    "options": [
+      "A. ∃x ∈ ℝ, x² > 0.",
+      "B. ∀x ∈ ℝ, x² ≤ 0.",
+      "C. ∀x ∈ ℝ, x² < 0.",
+      "D. ∃x ∈ ℝ, x² ≤ 0."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Phủ định của mệnh đề \"∀x ∈ P(x)\" là \"∃x ∈ ¬P(x)\".\n\nTrong trường hợp này, P(x) là \"x² > 0\".\n\nPhủ định của P(x), tức là ¬P(x), là \"x² không lớn hơn 0\", hay \"x² ≤ 0\".\n\nVậy, mệnh đề phủ định là \"∃x ∈ ℝ, x² ≤ 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q66",
+    "type": "question",
+    "text": "Cho hai tập hợp A = {1, 2, 3, 5} và B = {2, 5, 7}. Tập hợp A ∩ B là:",
+    "options": [
+      "A. {1, 3, 7}.",
+      "B. {2, 5}.",
+      "C. {1, 2, 3, 5, 7}.",
+      "D. {1, 3}."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Tập hợp A ∩ B (giao của A và B) là tập hợp chứa tất cả các phần tử vừa thuộc A vừa thuộc B.\n\nSo sánh hai tập hợp A và B, ta thấy các phần tử chung là 2 và 5.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q67",
+    "type": "question",
+    "text": "Trong các mệnh đề sau, mệnh đề nào là mệnh đề kéo theo đúng?",
+    "options": [
+      "A. Nếu một số chia hết cho 3 thì nó chia hết cho 9.",
+      "B. Nếu một tứ giác là hình vuông thì nó có hai đường chéo bằng nhau.",
+      "C. Nếu một tam giác có một góc 60 độ thì nó là tam giác đều.",
+      "D. Nếu hai vectơ cùng phương thì chúng bằng nhau."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "A. Sai. Ví dụ: số 6 chia hết cho 3 nhưng không chia hết cho 9.\n\nB. Đúng. Hình vuông là một trường hợp đặc biệt của hình chữ nhật, mà hình chữ nhật có hai đường chéo bằng nhau.\n\nC. Sai. Một tam giác cân có một góc 60 độ mới là tam giác đều.\n\nD. Sai. Hai vectơ cùng phương có thể có độ dài khác nhau hoặc ngược hướng.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q68",
+    "type": "question",
+    "text": "Mệnh đề đảo của mệnh đề \"Nếu một tứ giác là hình thoi thì nó có hai đường chéo vuông góc\" là:",
+    "options": [
+      "A. Nếu một tứ giác không phải là hình thoi thì nó không có hai đường chéo vuông góc.",
+      "B. Nếu một tứ giác có hai đường chéo vuông góc thì nó là hình thoi.",
+      "C. Nếu một tứ giác có hai đường chéo không vuông góc thì nó không phải là hình thoi.",
+      "D. Một tứ giác là hình thoi khi và chỉ khi nó có hai đường chéo vuông góc."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Mệnh đề kéo theo có dạng P => Q. Mệnh đề đảo của nó là Q => P.\n\nTrong mệnh đề đã cho:\n\nP: \"Một tứ giác là hình thoi\".\n\nQ: \"Nó có hai đường chéo vuông góc\".\n\nMệnh đề đảo Q => P là: \"Nếu một tứ giác có hai đường chéo vuông góc thì nó là hình thoi\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q69",
+    "type": "question",
+    "text": "Cho vectơ a ≠ 0. Vectơ nào sau đây cùng hướng với vectơ -2a?",
+    "options": [
+      "A. 2a",
+      "B. 3a",
+      "C. -3a",
+      "D. a"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Hai vectơ u và v cùng hướng khi và chỉ khi u = k.v với k > 0.\n\nVectơ -2a có hệ số là -2 < 0, do đó nó ngược hướng với a.\n\nTa cần tìm một vectơ cũng ngược hướng với a.\n\nA. 2a: cùng hướng với a.\n\nB. 3a: cùng hướng với a.\n\nC. -3a: ngược hướng với a. Do đó, -3a cùng hướng với -2a.\n\nD. a: cùng hướng với a.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q70",
+    "type": "question",
+    "text": "Cho ba điểm A, B, C bất kỳ. Đẳng thức nào sau đây đúng?",
+    "options": [
+      "A. AB + BC = CA",
+      "B. AB - AC = CB",
+      "C. CA + BA = CB",
+      "D. AB + CA = CB"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Đây là quy tắc cộng và trừ vectơ.\n\nA. Quy tắc cộng ba điểm: AB + BC = AC. Mệnh đề sai.\n\nB. Quy tắc trừ: AB - AC = CB. Đúng.\n\nC. Không phải là một quy tắc cơ bản và thường không đúng.\n\nD. AB + CA = CA + AB = CB. Quy tắc ba điểm. Đúng.\n\nSo sánh B và D: Cả hai đều đúng. AB - AC = AB + CA = CA + AB = CB. D là dạng cộng, B là dạng trừ của cùng một quy tắc.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q100",
+    "type": "question",
+    "text": "Cho tam giác ABC và điểm M thỏa mãn MA + MB + MC = 0. M là điểm gì?",
+    "options": [
+      "A. Trung điểm của A",
+      "B. ",
+      "C. Trọng tâm tam giác AB",
+      "D. Tâm đường tròn ngoại tiếp tam giác AB"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Đẳng thức MA + MB + MC = 0 là một tính chất vector đặc trưng của trọng tâm tam giác. Nó là điều kiện cần và đủ để M là trọng tâm của tam giác ABC.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  }
+]

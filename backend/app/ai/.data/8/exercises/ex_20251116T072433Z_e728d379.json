@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251116T072433Z_e728d379",
+  "user_id": 8,
+  "topic": "Mệnh đề – Tập hợp",
+  "difficulty": 1,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Tìm mệnh đề sai.",
+      "type": "mcq",
+      "difficulty": 1,
+      "options": [
+        "A. Hình thang ABCD nội tiếp đường tròn (O) ⇔ ABCD là hình thang cân.",
+        "B. 63 chia hết cho 7 ⇒ Hình bình hành có hai đường chéo vuông góc.",
+        "C. Tam giác ABC vuông tại C ⇔ AB² = CA² + CB².",
+        "D. 10 chia hết cho 5 ⇔ Hình vuông có hai đường chéo bằng nhau và vuông góc nhau."
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Trong các câu sau, câu nào là mệnh đề?",
+      "type": "mcq",
+      "difficulty": 1,
+      "options": [
+        "A. Tiết trời mùa thu thật dễ chịu!",
+        "B. Số 15 không chia hết cho 2.",
+        "C. Bạn An có đi học không?",
+        "D. Chúc các bạn học sinh thi đạt kết quả tốt!"
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Trong các câu sau, câu nào là mệnh đề đúng?",
+      "type": "mcq",
+      "difficulty": 1,
+      "options": [
+        "A. Người miền Trung khổ quá!",
+        "B. Sài Gòn là thủ đô của nước Việt Nam.",
+        "C. 5 là số lẻ.",
+        "D. Phương trình x – 1 = 0 vô nghiệm."
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Mệnh đề nào sau đây là mệnh đề phủ định của mệnh đề: “Mọi động vật đều di chuyển”?",
+      "type": "mcq",
+      "difficulty": 1,
+      "options": [
+        "A. Mọi động vật đều không di chuyển.",
+        "B. Mọi động vật đều đứng yên.",
+        "C. Có ít nhất một động vật không di chuyển.",
+        "D. Có ít nhất một động vật di chuyển."
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Cho mệnh đề chứa biến P(x) = {x ∈ ℤ: |x² – 2x – 3| = x² + 2x + 3}. Trong đoạn [–2020; 2021] có bao nhiêu giá trị của x để mệnh đề chứa biến P(x) là mệnh đề đúng?",
+      "type": "mcq",
+      "difficulty": 1,
+      "options": [
+        "A. 2020.",
+        "B. 2021.",
+        "C. 2022.",
+        "D. 2023."
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251116T072433Z"
+}

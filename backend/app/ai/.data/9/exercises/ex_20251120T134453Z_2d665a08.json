@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251120T134453Z_2d665a08",
+  "user_id": 9,
+  "topic": "Chương V: Phương trình đường thẳng và đường tròn",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cho mệnh đề P: \"Nếu tam giác ABC là tam giác vuông tại A thì AB² + AC² = BC²\". Mệnh đề đảo của P là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Nếu tam giác ABC không vuông tại A thì AB² + AC² ≠ BC²",
+        "B. Nếu AB² + AC² = BC² thì tam giác ABC là tam giác vuông tại A",
+        "C. Tam giác ABC là tam giác vuông tại A và AB² + AC² = BC²",
+        "D. Nếu AB² + AC² ≠ BC² thì tam giác ABC không vuông tại A"
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Hãy viết số quy tròn của số a với độ chính xác d được cho sau đây: a = 17658 ± 16.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 18000",
+        "B. 17800",
+        "C. 17600",
+        "D. 17700"
+      ],
+      "correct_index": 3,
+      "solution": "D"
+    },
+    {
+      "question": "Cho số gần đúng a = 1234567 với độ chính xác d = 500. Số chữ số chắc chắn là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 3",
+        "B. 4",
+        "C. 5",
+        "D. 6"
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Trong số gần đúng a dưới đây có bao nhiêu chữ số chắc a = 174325 với Δa = 17",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 6",
+        "B. 5",
+        "C. 4",
+        "D. 3"
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Cho A = (-∞, 5] và B = (2, +∞). Tìm A ∩",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. (2, 5]",
+        "B.",
+        "C. (2, 5)",
+        "D."
+      ],
+      "correct_index": 0,
+      "solution": "A"
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251120T134453Z"
+}

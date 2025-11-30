@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251116T063124Z_8a0df90d",
+  "user_id": 7,
+  "topic": "Giá tr? lu?ng giác",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Giá trị của sin(90° - α) bằng:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "sin(α)",
+        "cos(α)",
+        "-sin(α)",
+        "-cos(α)"
+      ],
+      "correct_index": 1,
+      "solution": null
+    },
+    {
+      "question": "Nếu cos(α) = 1/2, thì giá trị của α (với 0° < α < 90°) là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "90°"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "Biểu thức tan(180° - α) bằng:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "tan(α)",
+        "-tan(α)",
+        "cot(α)",
+        "-cot(α)"
+      ],
+      "correct_index": 1,
+      "solution": null
+    },
+    {
+      "question": "Cho tam giác ABC vuông tại A. Giá trị của sin(B) bằng:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "cạnh đối / cạnh huyền",
+        "cạnh kề / cạnh huyền",
+        "cạnh đối / cạnh kề",
+        "cạnh kề / cạnh đối"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "Nếu sin(α) = 3/5 và 0° < α < 90°, thì giá trị của cos(α) là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "4/5",
+        "5/4",
+        "3/4",
+        "4/3"
+      ],
+      "correct_index": 0,
+      "solution": null
+    }
+  ],
+  "contexts": [],
+  "used_model": "gemini-1.5-flash",
+  "created_at": "20251116T063124Z"
+}

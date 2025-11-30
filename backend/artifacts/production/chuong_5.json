@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "q1",
+    "type": "question",
+    "text": "Số quy tròn của 219,46 đến hàng chục là:",
+    "options": [
+      "A. 210.",
+      "B. 219,4.",
+      "C. 219,5.",
+      "D. 220."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Xác định chữ số ở hàng cần làm tròn (hàng chục). Chữ số hàng chục của 219,46 là 1.\n\nXét chữ số ngay bên phải hàng làm tròn, đó là chữ số hàng đơn vị: 9.\n\nÁp dụng quy tắc làm tròn: Vì chữ số bên phải là 9 (lớn hơn hoặc bằng 5), ta cộng thêm 1 vào chữ số hàng chục (1 + 1 = 2) và thay tất cả các chữ số bên phải nó bằng số 0.\n\nSố 219,46 trở thành 220.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q2",
+    "type": "question",
+    "text": "Số quy tròn của số gần đúng 673582 với độ chính xác d = 500 là:",
+    "options": [
+      "A. 673500.",
+      "B. 674000.",
+      "C. 673000.",
+      "D. 673600."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Độ chính xác d = 500. Chữ số có nghĩa đầu tiên của d là 5, nằm ở hàng trăm.\n\nTheo quy tắc làm tròn số với độ chính xác cho trước, ta làm tròn số đã cho đến hàng cao hơn một bậc so với hàng của chữ số có nghĩa đầu tiên của d. Hàng cao hơn hàng trăm là hàng nghìn.\n\nDo đó, ta quy tròn số 673582 đến hàng nghìn.\n\nChữ số hàng nghìn là 3. Chữ số ngay bên phải nó là 5.\n\nVì 5 ≥ 5, ta cộng 1 vào chữ số hàng nghìn (3 + 1 = 4) và thay các chữ số bên phải bằng 0.\n\nSố sau khi quy tròn là 674000.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q3",
+    "type": "question",
+    "text": "Cho hình chữ nhật ABC",
+    "options": [
+      "A. 4,24",
+      "B. 2,242",
+      "C. 4,2",
+      "D. Gọi AL và CI tương ứng là đường cao của các tam giác ADB và BC"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Xét tam giác vuông ADB có đường cao AL ứng với cạnh huyền DB.\n\nĐộ dài đường chéo DB = DL + LI + IB = 1 + 1 + 1 = 3.\n\nTrong tam giác vuông, bình phương đường cao bằng tích hai hình chiếu của hai cạnh góc vuông trên cạnh huyền. Ta có: AL² = DL * LB = DL * (LI + IB) = 1 * (1 + 1) = 2. Suy ra AL = √2.\n\nDiện tích tam giác ADB là: S_ADB = (1/2) * AL * DB = (1/2) * √2 * 3 = (3√2)/2.\n\nDiện tích hình chữ nhật ABCD bằng hai lần diện tích tam giác ADB: S_ABCD = 2 * S_ADB = 3√2.\n\nTính giá trị số: 3√2 ≈ 4,24",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q4",
+    "type": "question",
+    "text": "Biết số gần đúng a = 37975421 có độ chính xác d = 150. Hãy xác định các chữ số đáng tin của a.",
+    "options": [
+      "A. 3, 7, 9",
+      "B. 3, 7, 9, 7",
+      "C. 3, 7, 9, 7, 5",
+      "D. 3, 7, 9, 7, 5, 4"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Độ chính xác d = 150, có chữ số khác 0 đầu tiên bên trái là 1, ở hàng trăm. Do đó, hàng không chắc chắn là hàng trăm.\n\nCác chữ số đáng tin (chữ số chắc) là các chữ số nằm ở hàng cao hơn hàng không chắc chắn. Tức là các chữ số từ hàng nghìn trở lên.\n\nTrong số a = 37975421, các chữ số từ hàng nghìn trở về bên trái là: 5 (hàng nghìn), 7 (hàng chục nghìn), 9 (hàng trăm nghìn), 7 (hàng triệu), 3 (hàng chục triệu).\n\nVậy các chữ số đáng tin là 3, 7, 9, 7, 5.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q5",
+    "type": "question",
+    "text": "Biết số gần đúng a = 7975421 có độ chính xác d = 150. Hãy ước lượng sai số tương đối của a.",
+    "options": [
+      "A. δa ≤ 0,0000099",
+      "B. δa ≤ 0,000039",
+      "C. δa ≥ 0,000039",
+      "D. δa < 0,000039"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Sai số tương đối δa của số gần đúng a được ước lượng qua công thức: δa ≤ d / |a|.\n\nVới a = 7975421 và d = 150, ta có: δa ≤ 150 / 7975421.\n\nThực hiện phép tính: 150 / 7975421 ≈ 0,0000188.\n\nTa cần tìm một chặn trên cho giá trị này trong các đáp án.\n\nSo sánh 0,0000188 với các đáp án:\n\n0,0000188 > 0,0000099 (Loại A)\n\n0,0000188 < 0,000039 (Nhận B)\n\nVậy ta có thể ước lượng δa ≤ 0,000039.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q6",
+    "type": "question",
+    "text": "Biết số gần đúng a = 173,4592 có sai số tương đối không vượt quá 1/10000, hãy ước lượng sai số tuyệt đối của a và viết a dưới dạng chuẩn.",
+    "options": [
+      "A. Δa ≤ 0,17; a = 173,4",
+      "B. Δa ≤ 0,017; a = 173,5",
+      "C. Δa ≤ 0,4592; a = 173,5",
+      "D. Δa ≤ 0,017; a = 173,4"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ước lượng sai số tuyệt đối (Δa):\n\nTa có sai số tương đối δa ≤ 1/10000 = 0,0001.\n\nSai số tuyệt đối Δa = |a| * δa ≤ 173,4592 * 0,0001 ≈ 0,01734.\n\nVậy ta có thể ước lượng Δa ≤ 0,017. Điều này làm ta loại các đáp án A và C.\n\nViết dạng chuẩn:\n\nĐộ chính xác d ≈ 0,017. Chữ số khác 0 đầu tiên của d là 1, ở hàng phần trăm. Theo quy tắc, ta làm tròn số a đến hàng cao hơn một bậc, tức là hàng phần mười.\n\nLàm tròn a = 173,4592 đến hàng phần mười: chữ số hàng phần mười là 4, chữ số bên phải là 5.\n\nVì 5 ≥ 5, ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q7",
+    "type": "question",
+    "text": "Tính chu vi của hình chữ nhật có các cạnh là x = 3,456±0,01 (m) và y = 12,732±0,015 (m) và ước lượng sai số tuyệt đối mắc phải.",
+    "options": [
+      "A. L = 32,376±0,025; ΔL ≤ 0,05",
+      "B. L = 32,376±0,05; ΔL ≤ 0,025",
+      "C. L = 32,376±0,5; ΔL ≤ 0,5",
+      "D. L = 32,376±0,05; ΔL ≤ 0,05"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Tính chu vi gần đúng (L):\n\nChu vi P = 2(x + y).\n\nGiá trị gần đúng của chu vi là L = 2(3,456 + 12,732) = 2(16,188) = 32,376 m.\n\nƯớc lượng sai số tuyệt đối (ΔL):\n\nSai số tuyệt đối của tổng (x+y) là tổng các sai số tuyệt đối: Δ(x+y) ≤ Δx + Δy = 0,01 + 0,015 = 0,025 m.\n\nSai số tuyệt đối của chu vi là ΔL = Δ(2(x+y)) = 2 * Δ(x+y) ≤ 2 * 0,025 = 0,05 m.\n\nViết kết quả:\n\nKết quả chu vi được viết dưới dạng L ± ΔL = 32,376 ± 0,05 m.\n\nƯớc lượng sai số tuyệt đối là ΔL ≤ 0,05.\n\nSo sánh với các đáp án, chỉ có đ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q8",
+    "type": "question",
+    "text": "Tính diện tích S của hình chữ nhật có các cạnh là x = 3,456±0,01 (m) và y = 12,732±0,015 (m) và ước lượng sai số tuyệt đối mắc phải.",
+    "options": [
+      "A. S = 44,002 (m²); ΔS ≤ 0,176",
+      "B. S = 44,002 (m²); ΔS ≤ 0,0015",
+      "C. S = 44,002 (m²); ΔS ≤ 0,025",
+      "D. S = 44,002 (m²); ΔS < 0,0025"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Tính diện tích gần đúng:\n\nS_approx = 3,456 * 12,732 ≈ 44,002 m².\n\nƯớc lượng sai số tuyệt đối (ΔS):\n\nSử dụng sai số tương đối: δS ≤ δx + δy.\n\nδx ≤ 0,01 / 3,456 ≈ 0,00289\n\nδy ≤ 0,015 / 12,732 ≈ 0,00118\n\nδS ≤ 0,00289 + 0,00118 = 0,00407.\n\nSai số tuyệt đối ΔS = S_approx * δS ≤ 44,002 * 0,00407 ≈ 0,179.\n\nLàm tròn, ta có thể ước lượng ΔS ≤ 0,176 (giá trị ở đáp án A).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q9",
+    "type": "question",
+    "text": "Xấp xỉ số π bởi số 355/113. Hãy đánh giá sai số tuyệt đối biết: 3,14159265 < π < 3,14159266.",
+    "options": [
+      "A. Δa ≤ 2,8.10⁻⁷",
+      "B. Δa ≤ 28.10⁻⁷",
+      "C. Δa ≤ 1.10⁻⁷",
+      "D. Δa ≤ 2,8.10⁻⁶"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Giá trị gần đúng: a = 355/113 ≈ 3,14159292.\n\nKhoảng giá trị của số đúng: 3,14159265 < π < 3,14159266.\n\nSai số tuyệt đối là Δa = |a - π|.\n\nTa có: a - 3,14159266 ≈ 3,14159292 - 3,14159266 = 0,00000026.\n\nVà: a - 3,14159265 ≈ 3,14159292 - 3,14159265 = 0,00000027.\n\nVì π nằm giữa hai cận trên, nên hiệu a - π cũng sẽ nằm giữa hai hiệu số trên: 0,00000026 < a - π < 0,00000027.\n\nDo đó, sai số tuyệt đối |a - π| < 0,00000027 hay Δa < 2,7.10⁻⁷.\n\nTa có thể chọn một chặn trên lớn hơn giá trị này. Trong các đá",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q10",
+    "type": "question",
+    "text": "Độ cao của một ngọn núi đo được là h = 1372,5 m. Với sai số tương đối mắc phải là 0,5%. Hãy xác định sai số tuyệt đối của kết quả đo trên và viết h dưới dạng chuẩn.",
+    "options": [
+      "A. Δh = 0,68625; h = 1373(m)",
+      "B. Δh = 0,68626; h = 1372(m)",
+      "C. Δh = 0,68625; h = 1372(m)",
+      "D. Δh = 0,68626; h = 1373(m)"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Phân tích đề bài: Có sự mâu thuẫn giữa sai số tương đối 0,5% và các giá trị Δh trong đáp án.\n\nNếu δh = 0,5% = 0,005, thì Δh = 1372,5 * 0,005 = 6,8625. Giá trị này không khớp với bất kỳ đáp án nào (sai 10 lần).\n\nNếu δh = 0,05% = 0,0005, thì Δh = 1372,5 * 0,0005 = 0,68625. Giá trị này khớp với đáp án A và C. Ta sẽ giả sử đây là ý đồ của câu hỏi.\n\nXác định sai số tuyệt đối: Δh = 0,68625.\n\nViết dạng chuẩn:\n\nĐộ chính xác d ≈ 0,68625. Chữ số có nghĩa đầu tiên là 6, ở hàng phần mười.\n\nTa cần làm tròn s",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q11",
+    "type": "question",
+    "text": "Kết quả đo chiều dài một cây cầu có độ chính xác là 0,75m với dụng cụ đo đảm bảo sai số tương đối không vượt quá 1,5%. Tính độ dài gần đúng của cầu.",
+    "options": [
+      "A. 500,1 m",
+      "B. 499,9 m",
+      "C. 500 m",
+      "D. 501 m"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Phân tích đề bài: Tương tự câu 10, có sự mâu thuẫn.\n\nĐộ chính xác d = 0,75 m (tức Δa ≤ 0,75).\n\nSai số tương đối δa ≤ 1,5% = 0,015.\n\nTừ công thức δa = Δa / a, ta có a = Δa / δa.\n\nNếu ta lấy giá trị lớn nhất có thể của các sai số, a ≈ Δa / δa = 0,75 / 0,015 = 50 m. Kết quả này không hợp lý với các đáp án.\n\nNếu giả sử ký hiệu \"%\" là lỗi đánh máy của \"‰\" (phần nghìn), thì δa ≤ 1,5‰ = 0,0015.\n\nKhi đó, a ≈ 0,75 / 0,0015 = 500 m. Kết quả này khớp với đáp án C.\n\nDựa trên giả định trên, độ dài gần đúng c",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q12",
+    "type": "question",
+    "text": "Theo thống kê, dân số Việt Nam năm 2002 là 79715675 người. Giả sử sai số tuyệt đối của thống kê này không vượt quá 10000 người, hãy viết số trên dưới dạng chuẩn và ước lượng sai số tương đối của số liệu thống kê trên.",
+    "options": [
+      "A. a = 797.10⁵, δa = 0,0001254",
+      "B. a = 797.10⁴, δa = 0,000012",
+      "C. a = 797.10⁶, δa = 0,001254",
+      "D. a = 797.10³, δa < 0,00012"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Viết dạng chuẩn:\n\nSố gần đúng a_approx = 79715675. Sai số tuyệt đối d = 10000.\n\nHàng của chữ số khác 0 đầu tiên của d là hàng chục nghìn. Do đó, các chữ số từ hàng trăm nghìn trở lên là chữ số đáng tin: 7, 9, 7.\n\nDạng chuẩn được viết bằng cách giữ lại các chữ số đáng tin và làm tròn các số còn lại: 79700000 = 797 * 10⁵.\n\nƯớc lượng sai số tương đối (δa):\n\nδa ≤ d / |a| = 10000 / 79715675 ≈ 0,00012544...\n\nLàm tròn giá trị này ta được 0,0001254.\n\nKết hợp hai kết quả, ta thấy đáp án A phù hợp.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q13",
+    "type": "question",
+    "text": "Độ cao của một ngọn núi đo được là h = 2373,5 m với sai số tương đối mắc phải là 0,5%. Hãy viết h dưới dạng chuẩn.",
+    "options": [
+      "A. 2373 m",
+      "B. 2370 m",
+      "C. 2373,5 m",
+      "D. 2374 m"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Tính sai số tuyệt đối (d):\n\nd = Δh = h * δh = 2373,5 * 0,5% = 2373,5 * 0,005 = 11,8675 m.\n\nViết dạng chuẩn:\n\nĐộ chính xác d ≈ 11.87. Chữ số khác 0 đầu tiên của d là 1, ở hàng chục.\n\nTa làm tròn số h = 2373,5 đến hàng cao hơn một bậc, tức là hàng trăm. Kết quả là 2400. Tuy nhiên, quy tắc phổ biến hơn là làm tròn đến hàng có chữ số không chắc chắn đầu tiên. Hàng không chắc chắn là hàng chục, ta làm tròn đến hàng chục.\n\nLàm tròn 2373,5 đến hàng chục: chữ số hàng đơn vị là 3 (< 5), ta giữ nguyên hàn",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q14",
+    "type": "question",
+    "text": "Trong một phòng thí nghiệm, hằng số c được xác định gần đúng là 3,54965 với độ chính xác d = 0,00321. Dựa vào d, hãy xác định chữ số chắc chắn của c.",
+    "options": [
+      "A. 3; 5; 4",
+      "B. 3; 5; 4; 9",
+      "C. 3; 5; 4; 9; 6",
+      "D. 3; 5; 4; 9; 6; 5"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Một chữ số được coi là chắc chắn nếu độ chính xác d nhỏ hơn một nửa đơn vị của hàng tương ứng.\n\nXét từng chữ số của c = 3,54965:\n\nHàng đơn vị (chữ số 3): Nửa đơn vị là 0,5. Ta có d = 0,00321 < 0,5. ⇒ 3 là chữ số chắc.\n\nHàng phần mười (chữ số 5): Nửa đơn vị là 0,05. Ta có d = 0,00321 < 0,05. ⇒ 5 là chữ số chắc.\n\nHàng phần trăm (chữ số 4): Nửa đơn vị là 0,005. Ta có d = 0,00321 < 0,005. ⇒ 4 là chữ số chắc.\n\nHàng phần nghìn (chữ số 9): Nửa đơn vị là 0,0005. Ta có d = 0,00321 > 0,0005. ⇒ 9 không phả",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q15",
+    "type": "question",
+    "text": "Cho giá trị gần đúng của 8/17 là 0,47. Sai số tuyệt đối của số 0,47 là:",
+    "options": [
+      "A. 0,001",
+      "B. 0,002",
+      "C. 0,003",
+      "D. 0,004"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Giá trị đúng: ā = 8/17 ≈ 0,470588...\n\nGiá trị gần đúng: a = 0,47.\n\nSai số tuyệt đối Δa = |a - ā| = |0,47 - 8/17| = |0,47 - 0,470588...| ≈ 0,000588...\n\nCâu hỏi có thể hiểu là \"Sai số tuyệt đối không vượt quá bao nhiêu?\". Ta thấy 0,000588... < 0,001. Do đó, 0,001 là một chặn trên hợp lý của sai số.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q16",
+    "type": "question",
+    "text": "Cho giá trị gần đúng của 3/7 là 0,429. Sai số tuyệt đối của số 0,429 là:",
+    "options": [
+      "A. 0,0001",
+      "B. 0,0002",
+      "C. 0,0004",
+      "D. 0,0005"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Giá trị đúng: ā = 3/7 ≈ 0,428571...\n\nGiá trị gần đúng: a = 0,429.\n\nSai số tuyệt đối Δa = |a - ā| = |0,429 - 0,428571...| ≈ 0,000428...\n\nSo sánh với các đáp án, ta thấy 0,000428... < 0,0005. Do đó, có thể nói sai số tuyệt đối không vượt quá 0,0005.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q17",
+    "type": "question",
+    "text": "Qua điều tra dân số kết quả thu được số dân ở tỉnh B là 2.731.425 người với sai số ước lượng không quá 200 người. Các chữ số không đáng tin ở các hàng là:",
+    "options": [
+      "A. Hàng đơn vị.",
+      "B. Hàng chục.",
+      "C. Hàng trăm.",
+      "D. Cả A, B,"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Số gần đúng a = 2.731.425, độ chính xác d = 200.\n\nVì d = 200, chữ số khác 0 đầu tiên bên trái là 2, ở hàng trăm.\n\nHàng không chắc chắn là hàng trăm. Do đó, các chữ số ở hàng trăm, hàng chục và hàng đơn vị đều không đáng tin.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q18",
+    "type": "question",
+    "text": "Nếu lấy 3,14 làm giá trị gần đúng của π thì sai số là:",
+    "options": [
+      "A. 0,001",
+      "B. 0,002",
+      "C. 0,003",
+      "D. 0,004"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Giá trị gần đúng a = 3,14.\n\nGiá trị đúng π ≈ 3,14159265...\n\nSai số tuyệt đối Δa = |π - a| ≈ |3,14159 - 3,14| = 0,00159.\n\nGiá trị 0,00159 gần nhất với 0,002. Hoặc có thể hiểu là sai số không vượt quá 0,002.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q19",
+    "type": "question",
+    "text": "Nếu lấy 3,1416 làm giá trị gần đúng của π thì có số chữ số chắc là:",
+    "options": [
+      "A. 5",
+      "B. 4",
+      "C. 3",
+      "D. 2"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Giá trị gần đúng a = 3,1416. Giá trị đúng π ≈ 3,14159265...\n\nSai số tuyệt đối Δa = |a - π| ≈ |3,1416 - 3,14159| = 0,00001.\n\nTa xét độ chính xác d = 0,0001.\n\nKiểm tra các chữ số chắc:\n\nHàng đơn vị (3): d < 0,5. Chắc.\n\nHàng phần mười (1): d < 0,05. Chắc.\n\nHàng phần trăm (4): d < 0,005. Chắc.\n\nHàng phần nghìn (1): d < 0,0005. Chắc.\n\nHàng phần chục nghìn (6): d = 0,0001 không nhỏ hơn 0,00005. Không chắc.\n\nVậy có 4 chữ số chắc là 3, 1, 4, 1.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q20",
+    "type": "question",
+    "text": "Số gần đúng của a = 2,57656 có ba chữ số đáng tin viết dưới dạng chuẩn là:",
+    "options": [
+      "A. 2,57",
+      "B. 2,576",
+      "C. 2,58",
+      "D. 2,577"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Ba chữ số đáng tin đầu tiên là 2, 5, 7.\n\nĐể viết dạng chuẩn, ta làm tròn số đến chữ số đáng tin cuối cùng (hàng phần trăm).\n\nChữ số hàng phần trăm là 7, chữ số bên phải nó là 6.\n\nVì 6 ≥ 5, ta làm tròn lên: 2,57 + 0,01 = 2,58.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q21",
+    "type": "question",
+    "text": "Trong số gần đúng a dưới đây có bao nhiêu chữ số chắc a = 174325 với Δa = 17",
+    "options": [
+      "A. 6",
+      "B. 5",
+      "C. 4",
+      "D. 3"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Sai số tuyệt đối Δa = 17. Độ chính xác d = 17.\n\nHàng không chắc chắn đầu tiên là hàng chục (vì d=17, chữ số khác 0 đầu tiên là 1 ở hàng chục).\n\nCác chữ số chắc là những chữ số ở hàng cao hơn hàng chục.\n\nTrong số 174325, các chữ số ở hàng trăm, nghìn, chục nghìn, trăm nghìn là chắc. Đó là các số: 3, 4, 7, 1.\n\nVậy có 4 chữ số chắc.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q22",
+    "type": "question",
+    "text": "Trái đất quay một vòng quanh mặt trời là 365 ngày. Kết quả này có độ chính xác là 1/4 ngày. Sai số tuyệt đối là:",
+    "options": [
+      "A. 1/4",
+      "B. 1/365",
+      "C. 1/1460",
+      "D. Đáp án khác."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Độ chính xác của một số gần đúng là một số dương lớn hơn hoặc bằng sai số tuyệt đối của số đó.\n\nĐề bài cho biết \"độ chính xác là 1/4 ngày\", nghĩa là sai số tuyệt đối không vượt quá 1/4 ngày.\n\nΔa ≤ 1/4. Do đó, sai số tuyệt đối được lấy là 1/4.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q23",
+    "type": "question",
+    "text": "Độ dài các cạnh của một đám vườn hình chữ nhật là x = 7,8m ± 2cm và y = 25,6m ± 4cm. Số đo chu vi của đám vườn dưới dạng chuẩn là:",
+    "options": [
+      "A. 66m ± 12cm",
+      "B. 67m ± 11cm",
+      "C. 66m ± 11cm",
+      "D. 67m ± 12cm"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Đổi đơn vị: 2cm = 0,02m; 4cm = 0,04m.\n\nx = 7,8 ± 0,02 (m); y = 25,6 ± 0,04 (m).\n\nChu vi P = 2(x + y).\n\nGiá trị gần đúng chu vi L = 2(7,8 + 25,6) = 2(33,4) = 66,8 m.\n\nSai số tuyệt đối ΔL ≤ 2(Δx + Δy) = 2(0,02 + 0,04) = 0,12 m = 12 cm.\n\nKết quả: P = 66,8m ± 0,12m = 66,8m ± 12cm.\n\nLàm tròn kết quả: vì sai số đến hàng phần mười của mét (hàng chục của cm), ta làm tròn giá trị chu vi đến hàng mét. 66,8m làm tròn thành 67m.\n\nKết quả cuối cùng dưới dạng chuẩn là 67m ± 12cm.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q24",
+    "type": "question",
+    "text": "Độ dài các cạnh của một đám vườn hình chữ nhật là x = 7,8m ± 2cm và y = 25,6m ± 4cm. Cách viết chuẩn của diện tích (sau khi quy tròn) là:",
+    "options": [
+      "A. 199m² ± 0,8m²",
+      "B. 199m² ± 1m²",
+      "C. 200m² ± 1cm²",
+      "D. 200m² ± 0,9m²"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "x = 7,8 ± 0,02; y = 25,6 ± 0,04.\n\nDiện tích S = xy.\n\nGiá trị gần đúng S_approx = 7,8 * 25,6 = 199,68 m².\n\nSai số tương đối δS ≤ δx + δy ≤ (0,02/7,8) + (0,04/25,6) ≈ 0,00256 + 0,00156 = 0,00412.\n\nSai số tuyệt đối ΔS ≤ S_approx * δS ≈ 199,68 * 0,00412 ≈ 0,823 m².\n\nKết quả: S = 199,68 ± 0,823 m².\n\nLàm tròn: Sai số đến hàng phần mười, ta làm tròn diện tích đến hàng đơn vị. S_rounded = 200 m². ΔS_rounded ≈ 1 m². Kết quả là 200m² ± 1m². Tuy nhiên đáp án A gần với giá trị chưa làm tròn hơn.\n\nXét lại: 7",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q25",
+    "type": "question",
+    "text": "Một hình chữ nhật có các cạnh: x = 4,2m ± 1cm, y = 7m ± 2cm. Chu vi của hình chữ nhật và sai số tuyệt đối của giá trị đó.",
+    "options": [
+      "A. 22,4m và 3cm",
+      "B. 22,4m và 1cm",
+      "C. 22,4m và 2cm",
+      "D. 22,4m và 6cm"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "x = 4,2m ± 1cm; y = 7m ± 2cm.\n\nChu vi P = 2(x + y).\n\nGiá trị gần đúng L = 2(4,2 + 7) = 2(11,2) = 22,4 m.\n\nSai số tuyệt đối ΔL ≤ 2(Δx + Δy) = 2(1cm + 2cm) = 6cm.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q26",
+    "type": "question",
+    "text": "Hình chữ nhật có các cạnh: x = 2m ± 1cm, y = 5m ± 2cm. Diện tích hình chữ nhật và sai số tuyệt đối của giá trị đó là:",
+    "options": [
+      "A. 10m² và 900cm²",
+      "B. 10m² và 500cm²",
+      "C. 10m² và 400cm²",
+      "D. 10m² và 1404 cm²"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Đổi đơn vị: x = 200 ± 1 cm; y = 500 ± 2 cm.\n\nDiện tích S = xy. Giá trị gần đúng S_approx = 200 * 500 = 100000 cm² = 10 m².\n\nTính sai số:\n\n199 ≤ x ≤ 201\n\n498 ≤ y ≤ 502\n\n199 * 498 ≤ S ≤ 201 * 502\n\n99102 ≤ S ≤ 100902\n\nTrung điểm là (99102 + 100902)/2 = 100002.\n\nSai số là (100902 - 99102)/2 = 900.\n\nVậy S = 100002 ± 900 cm². Kết quả này gần với đáp án A.\n\nSử dụng sai số tương đối: ΔS ≤ S_approx * (Δx/x + Δy/y) = 100000 * (1/200 + 2/500) = 100000 * (0,005 + 0,004) = 100000 * 0,009 = 900 cm².\n\nCả hai c",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q27",
+    "type": "question",
+    "text": "Trong bốn lần cân một lượng hóa chất làm thí nghiệm ta thu được các kết quả sau đây với độ chính xác 0,001g : 5,382g ; 5,384g ; 5,385g ; 5,386g. Sai số tuyệt đối và số chữ số chắc của kết quả là:",
+    "options": [
+      "A. Sai số tuyệt đối là 0,001g và số chữ số chắc là 3 chữ số.",
+      "B. Sai số tuyệt đối là 0,001g và số chữ số chắc là 4 chữ số.",
+      "C. Sai số tuyệt đối là 0,002g và số chữ số chắc là 3 chữ số.",
+      "D. Sai số tuyệt đối là 0,002g và số chữ số chắc là 4 chữ số."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Sai số tuyệt đối được cho là d = 0,001g.\n\nSố chữ số chắc:\n\nGiá trị trung bình a = (5,382 + 5,384 + 5,385 + 5,386)/4 = 5,38425g.\n\nVì d = 0,001, hàng không chắc chắn là hàng phần nghìn.\n\nCác chữ số ở hàng cao hơn (đơn vị, phần mười, phần trăm) là chữ số chắc.\n\nVậy các chữ số 5, 3, 8, 4 là chữ số chắc. Có 4 chữ số chắc.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q28",
+    "type": "question",
+    "text": "Một hình chữ nhật có diện tích là S = 180,57cm² ± 0,6cm². Kết quả gần đúng của S viết dưới dạng chuẩn là:",
+    "options": [
+      "A. 180,58cm²",
+      "B. 180,59cm²",
+      "C. 0,181cm²",
+      "D. 181,01cm²"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "S = 180,57 ± 0,6.\n\nĐộ chính xác d = 0,6. Chữ số có nghĩa đầu tiên ở hàng phần mười.\n\nTa phải làm tròn S đến hàng đơn vị.\n\nLàm tròn 180,57 đến hàng đơn vị: Chữ số hàng đơn vị là 0, chữ số bên phải là 5, nên ta làm tròn lên thành 181.\n\nDạng chuẩn sẽ là 181 cm². Không có đáp án nào khớp. Các đáp án đều giữ lại phần thập phân, điều này mâu thuẫn với quy tắc làm tròn. Có thể có sự nhầm lẫn trong đề bài hoặc các đáp án. Nếu làm tròn đến 1 chữ số thập phân, ta được 180.6, cũng không có trong đáp án.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q29",
+    "type": "question",
+    "text": "Đường kính của một đồng hồ cát là 8,52m với độ chính xác đến 1cm. Dùng giá trị gần đúng của π là 3,14 cách viết chuẩn của chu vi (sau khi quy tròn) là:",
+    "options": [
+      "A. 26,6",
+      "B. 26,7",
+      "C. 26,8",
+      "D. Đáp án khác."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "d = 8,52m ± 1cm = 8,52 ± 0,01 m.\n\nChu vi C = πd.\n\nGiá trị gần đúng L = 3,14 * 8,52 = 26,7528 m.\n\nSai số tuyệt đối ΔL ≤ |d|Δπ + |π|Δd ≈ 8,52 * |Δπ| + 3,14 * 0,01. Vì không có sai số của π, ta bỏ qua. ΔL ≈ 3,14 * 0,01 = 0,0314.\n\nKết quả: L = 26,7528 ± 0,0314.\n\nLàm tròn: Sai số đến hàng phần trăm, ta làm tròn kết quả đến hàng phần mười. 26,7528 làm tròn thành 26,8.\n\nTuy nhiên, lời giải trong tài liệu (trang 21) ra 26,7. Lý do là 0,0314 < 0,05 nên dạng chuẩn là 26,7. Đây là một quy tắc làm tròn khác",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q30",
+    "type": "question",
+    "text": "Một hình lập phương có cạnh là 2,4m ± 1cm. Cách viết chuẩn của diện tích toàn phần (sau khi quy tròn) là:",
+    "options": [
+      "A. 35m² ± 0,3m²",
+      "B. 34m² ± 0,3m²",
+      "C. 34,5m² ± 0,3m²",
+      "D. 34,5m² ± 0,1m²"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Cạnh a = 2,4m ± 1cm = 2,4 ± 0,01 m.\n\nDiện tích toàn phần S = 6a².\n\nGiá trị gần đúng S_approx = 6 * (2,4)² = 34,56 m².\n\nSai số tương đối δS ≤ 2 * δa = 2 * (0,01 / 2,4) ≈ 0,00833.\n\nSai số tuyệt đối ΔS ≤ S_approx * δS ≈ 34,56 * 0,00833 ≈ 0,288 m².\n\nKết quả: S = 34,56 ± 0,288 m².\n\nLàm tròn: Sai số ở hàng phần mười. Ta làm tròn S đến hàng đơn vị. 34,56 làm tròn thành 35. Sai số làm tròn thành 0,3. Kết quả là 35 ± 0,3 m².\n\nLời giải trang 21 ra 34m² ± 0,3m². Có thể có sự khác biệt trong cách làm tròn. ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q31",
+    "type": "question",
+    "text": "Một vật thể có thể tích V = 180,37cm³ ± 0,05cm³. Sai số tương đối của giá trị gần đúng ấy là:",
+    "options": [
+      "A. 0,01%",
+      "B. 0,03%",
+      "C. 0,04%",
+      "D. 0,05%"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Giá trị gần đúng V = 180,37. Sai số tuyệt đối ΔV = 0,05.\n\nSai số tương đối δV = ΔV / |V| = 0,05 / 180,37.\n\nδV ≈ 0,000277...\n\nĐổi ra phần trăm: 0,000277 * 100% ≈ 0,0277% ≈ 0,03%.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q32",
+    "type": "question",
+    "text": "Cho giá trị gần đúng của 23/7 là 3,28. Sai số tuyệt đối của số 3,28 là:",
+    "options": [
+      "A. 0,04",
+      "B. 0,04/7",
+      "C. 0,06",
+      "D. Đáp án khác."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Giá trị đúng ā = 23/7. Giá trị gần đúng a = 3,28 = 328/100 = 82/25.\n\nSai số tuyệt đối Δa = |a - ā| = |82/25 - 23/7| = |(574 - 575) / 175| = |-1/175| = 1/175.\n\nSo sánh với các đáp án: 0,04/7 = (4/100)/7 = 4/700 = 1/175.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q33",
+    "type": "question",
+    "text": "Trong các thí nghiệm hằng số C được xác định là 5,73675 với cận trên sai số tuyệt đối là d = 0,00421. Viết chuẩn giá trị gần đúng của C là:",
+    "options": [
+      "A. 5,74",
+      "B. 5,736",
+      "C. 5,737",
+      "D. 5,7368"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Độ chính xác d = 0,00421. Chữ số có nghĩa đầu tiên là 4, ở hàng phần nghìn.\n\nTa làm tròn số C = 5,73675 đến hàng cao hơn một bậc, là hàng phần trăm.\n\nChữ số hàng phần trăm là 3, chữ số bên phải là 6.\n\nVì 6 ≥ 5, ta làm tròn lên: 5,73 + 0,01 = 5,74.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q34",
+    "type": "question",
+    "text": "Cho số a = 1754731, trong đó chỉ có chữ số hàng trăm trở lên là đáng tin. Hãy viết chuẩn số gần đúng của a.",
+    "options": [
+      "A. 17547.10²",
+      "B. 17548.10²",
+      "C. 1754.10³",
+      "D. 1755.10²"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Chữ số đáng tin cuối cùng là ở hàng trăm (chữ số 7).\n\nViết dạng chuẩn là làm tròn đến chữ số đáng tin cuối cùng này.\n\nLàm tròn 1754731 đến hàng trăm: chữ số hàng chục là 3 (< 5), nên ta giữ nguyên hàng trăm.\n\nKết quả: 1754700.\n\nViết dưới dạng ký hiệu khoa học như đáp án: 1754700 = 17547 * 100 = 17547.10².",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q35",
+    "type": "question",
+    "text": "Hình chữ nhật có các cạnh: x = 2m ± 1cm, y = 5m ± 2cm. Diện tích hình chữ nhật và sai số tương đối của giá trị đó là:",
+    "options": [
+      "A. 10m² và 5‰",
+      "B. 10m² và 4‰",
+      "C. 10m² và 9‰",
+      "D. 10m² và 20‰"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Diện tích gần đúng S = 2 * 5 = 10 m².\n\nSai số tương đối δS ≤ δx + δy = (1cm/2m) + (2cm/5m) = (0,01/2) + (0,02/5) = 0,005 + 0,004 = 0,009.\n\nĐổi ra phần nghìn (‰): 0,009 * 1000‰ = 9‰.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q36",
+    "type": "question",
+    "text": "Hình chữ nhật có các cạnh: x = 2m ± 1cm, y = 5m ± 2cm. Chu vi hình chữ nhật và sai số tương đối của giá trị đó là:",
+    "options": [
+      "A. 22,4 và 1/2240",
+      "B. 22,4 và 6/2240",
+      "C. 22,4 và 6cm",
+      "D. Một đáp số khác."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Chu vi gần đúng L = 2(2 + 5) = 14 m.\n\nSai số tuyệt đối ΔL ≤ 2(Δx + Δy) = 2(1cm + 2cm) = 6cm = 0,06 m.\n\nSai số tương đối δL ≤ ΔL / L = 0,06 / 14 ≈ 0,00428.\n\nCác đáp án A, B, C đều ghi chu vi là 22,4. Đây là một lỗi sai. Chu vi đúng là 14m. Do đó không có đáp án đúng.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q37",
+    "type": "question",
+    "text": "Một hình chữ nhật có diện tích là S = 108,57cm² ± 0,06cm². Số các chữ số chắc của S là:",
+    "options": [
+      "A. 5",
+      "B. 4",
+      "C. 3",
+      "D. 2"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Độ chính xác d = 0,06. Chữ số có nghĩa đầu tiên là 6, ở hàng phần trăm.\n\nHàng không chắc chắn là hàng phần trăm.\n\nCác chữ số chắc là các chữ số ở hàng cao hơn: hàng phần mười (5), hàng đơn vị (8), hàng chục (0), hàng trăm (1).\n\nVậy có 4 chữ số chắc: 1, 0, 8, 5.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q38",
+    "type": "question",
+    "text": "Ký hiệu khoa học của số –0,000567 là:",
+    "options": [
+      "A. -567.10⁻⁶",
+      "B. –5,67.10⁻⁵",
+      "C. -567.10⁻⁴",
+      "D. -567.10⁻³"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ký hiệu khoa học có dạng a * 10ⁿ, với 1 ≤ |a| < 10.\n\nTa dời dấu phẩy sang phải 5 vị trí để được số -5,67.\n\n-5,67 thỏa mãn điều kiện 1 ≤ |-5,67| < 10.\n\nVì đã dời dấu phẩy sang phải 5 vị trí, số mũ của 10 là -5.\n\nKết quả: –5,67.10⁻⁵.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q39",
+    "type": "question",
+    "text": "Khi sử dụng máy tính bỏ túi với 10 chữ số thập phân ta được: √8 = 2,828427125. Giá trị gần đúng của √8 chính xác đến hàng phần trăm là:",
+    "options": [
+      "A. 2,80",
+      "B. 2,81",
+      "C. 2,82",
+      "D. 2,83"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Để làm tròn đến hàng phần trăm, ta xét chữ số ở hàng phần nghìn.\n\n√8 = 2,8284... Chữ số hàng phần trăm là 2, chữ số hàng phần nghìn là 8.\n\nVì 8 ≥ 5, ta làm tròn lên: 2,82 + 0,01 = 2,83.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q40",
+    "type": "question",
+    "text": "Viết giá trị gần đúng của √10 đến hàng phần trăm (dùng MTBT):",
+    "options": [
+      "A. 3,16",
+      "B. 3,17",
+      "C. 3,10",
+      "D. 3,162"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Dùng máy tính, √10 ≈ 3,162277...\n\nLàm tròn đến hàng phần trăm, ta xét chữ số hàng phần nghìn là 2.\n\nVì 2 < 5, ta giữ nguyên chữ số hàng phần trăm.\n\nKết quả là 3,16.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q41",
+    "type": "question",
+    "text": "Độ dài của một cây cầu người ta đo được là 996m ± 0,5m. Sai số tương đối tối đa trong phép đo là bao nhiêu.",
+    "options": [
+      "A. 0,05%",
+      "B. 0,5%",
+      "C. 0,25%",
+      "D. 0,025%"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "a = 996, d = 0,5.\n\nSai số tương đối tối đa δa ≤ d / |a| = 0,5 / 996.\n\nδa ≤ 0,000502...\n\nĐổi ra phần trăm: 0,000502 * 100% ≈ 0,05%.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q42",
+    "type": "question",
+    "text": "Số ā được cho bởi số gần đúng a = 5,7824 với sai số tương đối không vượt quá 0,5%. Hãy đánh giá sai số tuyệt đối của ā.",
+    "options": [
+      "A. 2,9%",
+      "B. 2,89%",
+      "C. 2,5%",
+      "D. 0,5%"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Câu hỏi này có vẻ bị nhầm lẫn. \"Đánh giá sai số tuyệt đối của ā\" nhưng các đáp án lại ở dạng phần trăm (sai số tương đối). Có lẽ câu hỏi muốn hỏi \"Hãy đánh giá sai số tuyệt đối của a\" hoặc là có sự nhầm lẫn nghiêm trọng trong câu hỏi và đáp án.\n\nGiả sử câu hỏi là: \"Hãy đánh giá sai số tuyệt đối của a\".\n\na = 5,7824; δa ≤ 0,5% = 0,005.\n\nΔa = a * δa ≤ 5,7824 * 0,005 ≈ 0,028912.\n\nĐây là sai số tuyệt đối. Nó tương ứng với 2,89% của 1, không có ý nghĩa. Đáp án B có số 2,89% nhưng đó là sai số tương đố",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q43",
+    "type": "question",
+    "text": "Cho số x = 2/7 và các giá trị gần đúng của x là 0,28 ; 0,29 ; 0,286 ; 0,3. Hãy xác định sai số tuyệt đối trong từng trường hợp và cho biết giá trị gần đúng nào là tốt nhất.",
+    "options": [
+      "A. 0,28",
+      "B. 0,29",
+      "C. 0,286",
+      "D. 0,3"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Giá trị đúng x = 2/7 ≈ 0,285714...\n\nTính sai số tuyệt đối cho từng giá trị gần đúng:\n\n|0,28 - 2/7| ≈ |0,28 - 0,2857| = 0,0057\n\n|0,29 - 2/7| ≈ |0,29 - 0,2857| = 0,0043\n\n|0,286 - 2/7| ≈ |0,286 - 0,285714| = 0,000286\n\n|0,3 - 2/7| ≈ |0,3 - 0,2857| = 0,0143\n\nGiá trị gần đúng tốt nhất là giá trị có sai số tuyệt đối nhỏ nhất. So sánh các sai số, ta thấy 0,000286 là nhỏ nhất.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q44",
+    "type": "question",
+    "text": "Một cái ruộng hình chữ nhật có chiều dài là x = 23m ± 0,01m và chiều rộng là y = 15m ± 0,01m. Chu vi của ruộng là:",
+    "options": [
+      "A. P = 76m ± 0,4m",
+      "B. P = 76m ± 0,04m",
+      "C. P = 76m ± 0,02m",
+      "D. P = 76m ± 0,08m"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Chu vi P = 2(x + y).\n\nGiá trị gần đúng L = 2(23 + 15) = 76 m.\n\nSai số tuyệt đối ΔP ≤ 2(Δx + Δy) = 2(0,01 + 0,01) = 2(0,02) = 0,04 m.\n\nKết quả: P = 76m ± 0,04m.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q45",
+    "type": "question",
+    "text": "Một cái ruộng hình chữ nhật có chiều dài là x = 23m ± 0,01m và chiều rộng là y = 15m ± 0,01m. Diện tích của ruộng là:",
+    "options": [
+      "A. S = 345m ± 0,3801m",
+      "B. S = 345m ± 0,38m",
+      "C. S = 345m ± 0,03801m",
+      "D. S = 345m ± 0,3801m"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Diện tích S = xy.\n\nGiá trị gần đúng S_approx = 23 * 15 = 345 m².\n\nSai số tương đối δS ≤ δx + δy = (0,01/23) + (0,01/15) ≈ 0,00043 + 0,00067 = 0,0011.\n\nSai số tuyệt đối ΔS ≤ S_approx * δS ≈ 345 * 0,0011 ≈ 0,3795 m.\n\nLàm tròn sai số, ta được ΔS ≈ 0,38 m.\n\nKết quả S = 345m ± 0,38m.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q46",
+    "type": "question",
+    "text": "Cho tam giác ABC có độ dài ba cạnh đo được như sau a = 12cm ± 0,2cm; b = 10,2cm ± 0,2cm; c = 8cm ± 0,1cm. Tính chu vi P của tam giác và đánh giá sai số tuyệt đối, sai số tương đối của số gần đúng của chu vi qua phép đo.",
+    "options": [
+      "A. 1,6%",
+      "B. 1,7%",
+      "C. 1,662%",
+      "D. 1,66%"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Chu vi P = a + b + c.\n\nGiá trị gần đúng L = 12 + 10,2 + 8 = 30,2 cm.\n\nSai số tuyệt đối ΔP ≤ Δa + Δb + Δc = 0,2 + 0,2 + 0,1 = 0,5 cm.\n\nSai số tương đối δP ≤ ΔP / L = 0,5 / 30,2 ≈ 0,016556.\n\nĐổi ra phần trăm: 0,016556 * 100% ≈ 1,6556% ≈ 1,66%.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q47",
+    "type": "question",
+    "text": "Viết giá trị gần đúng của số √3, chính xác đến hàng phần trăm và hàng phần nghìn.",
+    "options": [
+      "A. 1,73; 1,733",
+      "B. 1,7; 1,73",
+      "C. 1,732; 1,7323",
+      "D. 1,73; 1,732"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "√3 ≈ 1,7320508...\n\nLàm tròn đến hàng phần trăm: xét chữ số hàng phần nghìn là 2. Vì 2 < 5, giữ nguyên. Kết quả là 1,73.\n\nLàm tròn đến hàng phần nghìn: xét chữ số hàng phần chục nghìn là 0. Vì 0 < 5, giữ nguyên. Kết quả là 1,732.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q48",
+    "type": "question",
+    "text": "Viết giá trị gần đúng của số π², chính xác đến hàng phần trăm và hàng phần nghìn.",
+    "options": [
+      "A. 9,9; 9,87",
+      "B. 9,87; 9,870",
+      "C. 9,87; 9,87",
+      "D. 9,870; 9,87"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "π² ≈ 9,8696044...\n\nLàm tròn đến hàng phần trăm: xét chữ số hàng phần nghìn là 9. Vì 9 ≥ 5, làm tròn lên. 9,86 + 0,01 = 9,87.\n\nLàm tròn đến hàng phần nghìn: xét chữ số hàng phần chục nghìn là 6. Vì 6 ≥ 5, làm tròn lên. 9,869 + 0,001 = 9,870.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q49",
+    "type": "question",
+    "text": "Hãy viết số quy tròn của số a với độ chính xác d được cho sau đây: a = 17658 ± 16.",
+    "options": [
+      "A. 18000",
+      "B. 17800",
+      "C. 17600",
+      "D. 17700"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "a = 17658, d = 16.\n\nĐộ chính xác d = 16, chữ số có nghĩa đầu tiên ở hàng chục.\n\nTa làm tròn số a đến hàng cao hơn một bậc, là hàng trăm.\n\nLàm tròn 17658 đến hàng trăm: chữ số hàng chục là 5. Vì 5 ≥ 5, làm tròn lên.\n\n17600 + 100 = 17700.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q50",
+    "type": "question",
+    "text": "Hãy viết số quy tròn của số a với độ chính xác d được cho sau đây: a = 15,318 ± 0,056.",
+    "options": [
+      "A. 15",
+      "B. 15,5",
+      "C. 15,3",
+      "D. 16"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "a = 15,318, d = 0,056.\n\nĐộ chính xác d = 0,056, chữ số có nghĩa đầu tiên ở hàng phần trăm.\n\nTa làm tròn số a đến hàng cao hơn một bậc, là hàng phần mười.\n\nLàm tròn 15,318 đến hàng phần mười: chữ số hàng phần trăm là 1. Vì 1 < 5, giữ nguyên.\n\nKết quả là 15,3.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q51",
+    "type": "question",
+    "text": "Các nhà khoa học Mỹ đang nghiên cứu liệu một máy bay có thể có tốc độ gấp bảy lần tốc độ ánh sáng. Với máy bay đó trong một năm (giả sử một năm có 365 ngày) nó bay được bao nhiêu? Biết vận tốc ánh sáng là 300 nghìn km/s. Viết kết quả dưới dạng kí hiệu khoa học.",
+    "options": [
+      "A. 9,5.10⁹",
+      "B. 9,4608.10⁹",
+      "C. 9,461.10⁹",
+      "D. 9,46080.10⁹"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Câu hỏi có phần dẫn dắt gây nhiễu về \"tốc độ gấp bảy lần tốc độ ánh sáng\". Tuy nhiên, dữ liệu cho là vận tốc ánh sáng 300 nghìn km/s và yêu cầu tính quãng đường bay được trong 1 năm. Dựa trên các đáp án, bài toán thực chất yêu cầu tính quãng đường ánh sáng đi được trong 1 năm (1 năm ánh sáng).\n\nĐổi đơn vị thời gian:\n\n1 năm = 365 ngày\n\n1 ngày = 24 giờ\n\n1 giờ = 60 phút\n\n1 phút = 60 giây\n\nSố giây trong 1 năm = 365 × 24 × 60 × 60 = 31.536.000 giây.\n\nVận tốc ánh sáng = 300 nghìn km/s = 300.000 km/s =",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q52",
+    "type": "question",
+    "text": "Số dân của một tỉnh là A = 1034258 ± 300 (người). Hãy tìm các chữ số chắc.",
+    "options": [
+      "A. 1, 0, 3, 4, 5",
+      "B. 1, 0, 3, 4",
+      "C. 1, 0, 3, 4",
+      "D. 1, 0, 3"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Số gần đúng a = 1034258, độ chính xác d = 300.\n\nHàng của chữ số khác 0 đầu tiên bên trái của d là hàng trăm. Do đó, hàng không chắc chắn là hàng trăm.\n\nCác chữ số chắc (đáng tin) là các chữ số ở hàng cao hơn hàng không chắc chắn, tức là từ hàng nghìn trở lên.\n\nTrong số 1034258, các chữ số từ hàng nghìn trở về bên trái là: 4 (hàng nghìn), 3 (hàng chục nghìn), 0 (hàng trăm nghìn), 1 (hàng triệu).\n\nVậy các chữ số chắc là 1, 0, 3, 4.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q53",
+    "type": "question",
+    "text": "Đo chiều dài của một con dốc, ta được số đo a = 192,55 m, với sai số tương đối không vượt quá 0,3%. Hãy tìm các chữ số chắc của a và nêu cách viết chuẩn giá trị gần đúng của a.",
+    "options": [
+      "A. 193 m",
+      "B. 192 m",
+      "C. 192,6 m",
+      "D. 190 m"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Tính sai số tuyệt đối (d):\n\nδa ≤ 0,3% = 0,003.\n\nd = Δa ≤ a * δa = 192,55 * 0,003 ≈ 0,57765.\n\nXác định chữ số chắc:\n\nVì d ≈ 0,57, hàng không chắc chắn đầu tiên là hàng phần mười.\n\nCác chữ số chắc là các chữ số ở hàng cao hơn: hàng đơn vị (2), hàng chục (9), hàng trăm (1). Các chữ số chắc là 1, 9, 2.\n\nViết dạng chuẩn:\n\nTa làm tròn số a = 192,55 đến hàng có chữ số chắc cuối cùng, tức là hàng đơn vị.\n\nChữ số hàng phần mười là 5, nên ta làm tròn lên: 192 + 1 = 193.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q54",
+    "type": "question",
+    "text": "Viết dạng chuẩn của số gần đúng a biết số người dân tỉnh Lâm Đồng là a = 3214056 người với độ chính xác d = 100 người.",
+    "options": [
+      "A. 3214.10³",
+      "B. 3214000",
+      "C. 3.10⁶",
+      "D. 32.10⁵"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "d = 100, hàng không chắc chắn là hàng trăm.\n\nCác chữ số chắc là từ hàng nghìn trở lên: 4, 1, 2, 3.\n\nDạng chuẩn là viết số dưới dạng tích của một số gồm các chữ số chắc với một lũy thừa của 10.\n\nGiữ lại các chữ số chắc: 3214.\n\nĐể có giá trị tương đương 3.214.000, ta nhân với 10³.\n\nKết quả: 3214.10³.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q55",
+    "type": "question",
+    "text": "Tìm số chắc và viết dạng chuẩn của số gần đúng a biết a = 1,3462, sai số tương đối của a bằng 1%.",
+    "options": [
+      "A. 1,3",
+      "B. 1,34",
+      "C. 1,35",
+      "D. 1,346"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Tính độ chính xác (d):\n\nδa = 1% = 0,01.\n\nd = Δa = a * δa = 1,3462 * 0,01 = 0,013462.\n\nXác định chữ số chắc:\n\nd ≈ 0,013. Hàng không chắc chắn đầu tiên là hàng phần trăm.\n\nCác chữ số chắc là ở hàng cao hơn: hàng phần mười (3) và hàng đơn vị (1).\n\nViết dạng chuẩn:\n\nLàm tròn số a = 1,3462 đến chữ số chắc cuối cùng (hàng phần mười).\n\nChữ số hàng phần trăm là 4 (< 5), ta giữ nguyên.\n\nKết quả là 1,3.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q56",
+    "type": "question",
+    "text": "Một hình lập phương có thể tích V = 180,57cm³ ± 0,05cm³. Xác định các chữ số chắc chắn của V.",
+    "options": [
+      "A. 1, 8",
+      "B. 1, 8, 0",
+      "C. 1, 8, 0, 5",
+      "D. 1, 8, 0, 5, 7"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Độ chính xác d = 0,05. Hàng không chắc chắn là hàng phần trăm.\n\nCác chữ số chắc là các chữ số từ hàng phần mười trở lên.\n\nTrong số 180,57, các chữ số chắc là: 5 (hàng phần mười), 0 (hàng đơn vị), 8 (hàng chục), 1 (hàng trăm).\n\nVậy các chữ số chắc là 1, 8, 0, 5.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q57",
+    "type": "question",
+    "text": "Viết các số gần đúng sau dưới dạng chuẩn: a = 467346 ± 12.",
+    "options": [
+      "A. 46735.10",
+      "B. 47.10⁴",
+      "C. 467.10³",
+      "D. 4673.10²"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "d = 12. Hàng không chắc chắn là hàng chục.\n\nCác chữ số chắc là từ hàng trăm trở lên: 3, 7, 6, 4.\n\nDạng chuẩn giữ lại các chữ số chắc: 4673.\n\nĐể có giá trị tương đương 467300 (làm tròn từ 467346), ta nhân với 10².\n\nKết quả: 4673.10².",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q58",
+    "type": "question",
+    "text": "Viết các số gần đúng sau dưới dạng chuẩn: b = 2,4653245 ± 0,006.",
+    "options": [
+      "A. 2,46",
+      "B. 2,47",
+      "C. 2,5",
+      "D. 2,465"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "d = 0,006. Hàng không chắc chắn là hàng phần nghìn.\n\nCác chữ số chắc là từ hàng phần trăm trở lên.\n\nTa làm tròn số b = 2,4653245 đến hàng phần trăm.\n\nChữ số hàng phần trăm là 6, chữ số bên phải là 5, làm tròn lên: 2,47.\n\nTuy nhiên, lời giải trong tài liệu (trang 26) ra đáp án là 2,5. Điều này xảy ra nếu quy tắc là làm tròn đến hàng cao hơn hàng không chắc chắn, tức là hàng phần mười.\n\nLàm tròn 2,465... đến hàng phần mười: chữ số hàng phần trăm là 6, làm tròn lên thành 2,5.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q59",
+    "type": "question",
+    "text": "Quy tròn số 7216,4 đến hàng đơn vị, được số 7216. Sai số tuyệt đối là:",
+    "options": [
+      "A. 0,2",
+      "B. 0,3",
+      "C. 0,4",
+      "D. 0,6"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Số ban đầu ā = 7216,4.\n\nSố quy tròn a = 7216.\n\nSai số tuyệt đối Δa = |a - ā| = |7216 - 7216,4| = |-0,4| = 0,4.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q60",
+    "type": "question",
+    "text": "Quy tròn số 2,654 đến hàng phần chục, được số 2,7. Sai số tuyệt đối là:",
+    "options": [
+      "A. 0,05",
+      "B. 0,04",
+      "C. 0,046",
+      "D. 0,1"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Số ban đầu ā = 2,654.\n\nSố quy tròn a = 2,7.\n\nSai số tuyệt đối Δa = |a - ā| = |2,7 - 2,654| = |0,046| = 0,046.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q61",
+    "type": "question",
+    "text": "Trong 5 lần đo độ cao một đập nước, người ta thu được các kết quả sau với độ chính xác 1dm: 15,6m; 15,8m; 15,4m; 15,7m; 15,9m. Hãy xác định độ cao của đập nước.",
+    "options": [
+      "A. Δh' = 3dm",
+      "B. 16m ± 3dm",
+      "C. 15,5m ± 1dm",
+      "D. 15,6m ± 0,6dm"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Tính giá trị trung bình:\n\nh_tb = (15,6 + 15,8 + 15,4 + 15,7 + 15,9) / 5 = 78,4 / 5 = 15,68 m.\n\nXác định sai số:\n\nĐộ chính xác của dụng cụ đo là 1dm = 0,1m.\n\nSai số ngẫu nhiên được đánh giá qua độ lệch chuẩn hoặc sai số trung bình. Sai số của giá trị trung bình là Δh_tb = max(|h_i - h_tb|) = max(|15,4 - 15,68|, |15,9 - 15,68|) = max(0,28, 0,22) = 0,28 m.\n\nTổng sai số = sai số dụng cụ + sai số ngẫu nhiên = 0,1 + 0,28 = 0,38 m = 3,8 dm.\n\nViết kết quả: h = 15,68 ± 0,38 m.\n\nLàm tròn và so sánh: Làm t",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q62",
+    "type": "question",
+    "text": "Mệnh đề phủ định của mệnh đề \"∀x ∈ ℝ, x² + 1 > 0\" là:",
+    "options": [
+      "A. ∀x ∈ ℝ, x² + 1 ≤ 0",
+      "B. ∃x ∈ ℝ, x² + 1 ≤ 0",
+      "C. ∃x ∈ ℝ, x² + 1 < 0",
+      "D. ∀x ∈ ℝ, x² + 1 < 0"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Mệnh đề gốc có dạng \"∀x, P(x)\".\n\nPhủ định của \"∀\" là \"∃\".\n\nPhủ định của \"P(x)\", tức là phủ định của \"x² + 1 > 0\", là \"x² + 1 ≤ 0\".\n\nKết hợp lại, mệnh đề phủ định là \"∃x ∈ ℝ, x² + 1 ≤ 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q63",
+    "type": "question",
+    "text": "Cho mệnh đề P: \"Nếu tam giác ABC là tam giác vuông tại A thì AB² + AC² = BC²\". Mệnh đề đảo của P là:",
+    "options": [
+      "A. Nếu tam giác ABC không vuông tại A thì AB² + AC² ≠ BC²",
+      "B. Nếu AB² + AC² = BC² thì tam giác ABC là tam giác vuông tại A",
+      "C. Tam giác ABC là tam giác vuông tại A và AB² + AC² = BC²",
+      "D. Nếu AB² + AC² ≠ BC² thì tam giác ABC không vuông tại A"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Mệnh đề P có dạng \"Nếu A thì B\".\n\nMệnh đề đảo có dạng \"Nếu B thì A\".\n\nTrong trường hợp này, A là \"tam giác ABC là tam giác vuông tại A\" và B là \"AB² + AC² = BC²\".\n\nVậy mệnh đề đảo là \"Nếu AB² + AC² = BC² thì tam giác ABC là tam giác vuông tại A\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q64",
+    "type": "question",
+    "text": "Cho hai tập hợp A = {1, 3, 5, 7} và B = {3, 4, 5, 6}. Tập hợp A ∪ B là:",
+    "options": [
+      "A. {3, 5}",
+      "B. {1, 3, 4, 5, 6, 7}",
+      "C. {1, 7}",
+      "D. {4, 6}"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Phép hợp của hai tập hợp (A ∪ B) là tập hợp chứa tất cả các phần tử thuộc A hoặc thuộc B (hoặc cả hai).\n\nLiệt kê tất cả các phần tử từ cả hai tập, không lặp lại: {1, 3, 5, 7, 4, 6}.\n\nSắp xếp lại cho dễ nhìn: {1, 3, 4, 5, 6, 7}.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q65",
+    "type": "question",
+    "text": "Cho tập hợp C = {x ∈ ℕ | 2 < x ≤ 7}. Viết tập hợp C dưới dạng liệt kê các phần tử.",
+    "options": [
+      "A. {3, 4, 5, 6, 7}",
+      "B. {2, 3, 4, 5, 6, 7}",
+      "C. {3, 4, 5, 6}",
+      "D. (2, 7]"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Tập hợp C gồm các số tự nhiên x (x ∈ ℕ).\n\nĐiều kiện là x lớn hơn 2 (x > 2) và nhỏ hơn hoặc bằng 7 (x ≤ 7).\n\nCác số tự nhiên thỏa mãn điều kiện này là: 3, 4, 5, 6, 7.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q66",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây là một mệnh đề sai?",
+    "options": [
+      "A. ∃x ∈ ℤ, x² = 9",
+      "B. ∀x ∈ ℕ, x + 1 > 0",
+      "C. π là một số hữu tỉ",
+      "D. Hà Nội là thủ đô của Việt Nam"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A. Đúng, vì có x = 3 hoặc x = -3 thuộc Z thỏa mãn x² = 9.\n\nB. Đúng, vì mọi số tự nhiên x đều không âm, nên x + 1 luôn lớn hơn 0.\n\nC. Sai, vì π là một số vô tỉ, không thể biểu diễn dưới dạng phân số a/b.\n\nD. Đúng.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q67",
+    "type": "question",
+    "text": "Đo chiều cao của một tòa nhà được kết quả là h = 155,3m ± 0,2m. Sai số tương đối không vượt quá giá trị nào sau đây?",
+    "options": [
+      "A. 0,13%",
+      "B. 1,3%",
+      "C. 0,013%",
+      "D. 0,0013%"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "a = 155,3; d = 0,2.\n\nSai số tương đối δa ≤ d / |a| = 0,2 / 155,3 ≈ 0,0012878.\n\nĐổi ra phần trăm: 0,0012878 * 100% ≈ 0,12878%.\n\nLàm tròn, giá trị này nhỏ hơn 0,13%.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q68",
+    "type": "question",
+    "text": "Khi quy tròn số 8,1245 đến hàng phần trăm, ta được số:",
+    "options": [
+      "A. 8,12",
+      "B. 8,13",
+      "C. 8,1",
+      "D. 8,125"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Hàng phần trăm là chữ số 2.\n\nChữ số ngay bên phải nó là 4.\n\nVì 4 < 5, ta giữ nguyên chữ số hàng phần trăm và bỏ các chữ số phía sau.\n\nKết quả: 8,12.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q69",
+    "type": "question",
+    "text": "Cho A = {x ∈ ℝ | (x - 1)(x + 2) = 0} và B = {x ∈ ℤ | |x| < 2}. Tập hợp A \\ B là:",
+    "options": [
+      "A. {1, -2}",
+      "B. {1}",
+      "C. {-2}",
+      "D. {-1, 0, 1}"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Xác định tập A: (x - 1)(x + 2) = 0 ⇔ x = 1 hoặc x = -2. Vậy A = {1, -2}.\n\nXác định tập B: |x| < 2 và x ∈ ℤ ⇔ -2 < x < 2 và x ∈ ℤ. Vậy B = {-1, 0, 1}.\n\nPhép hiệu A \\ B là tập hợp các phần tử thuộc A nhưng không thuộc B.\n\nSo sánh A và B, phần tử 1 thuộc cả A và B. Phần tử -2 thuộc A nhưng không thuộc B.\n\nVậy A \\ B = {-2}.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q70",
+    "type": "question",
+    "text": "Sử dụng kí hiệu ∀, ∃ để viết mệnh đề: \"Mọi số tự nhiên đều lớn hơn hoặc bằng 0\".",
+    "options": [
+      "A. ∀x ∈ ℕ, x ≥ 0",
+      "B. ∃x ∈ ℕ, x ≥ 0",
+      "C. ∀x ∈ ℤ, x ≥ 0",
+      "D. ∀x ∈ ℕ, x > 0"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "\"Mọi\" tương ứng với ký hiệu ∀ (với mọi).\n\n\"số tự nhiên\" tương ứng với tập hợp ℕ (x ∈ ℕ).\n\n\"đều lớn hơn hoặc bằng 0\" tương ứng với biểu thức x ≥ 0.\n\nGhép lại ta được: ∀x ∈ ℕ, x ≥ 0.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q71",
+    "type": "question",
+    "text": "Một quả bóng có bán kính đo được là r = 5,0 cm với độ chính xác d = 0,1 cm. Thể tích của quả bóng được tính gần đúng là bao nhiêu (lấy π ≈ 3,14 và V = (4/3)πr³)?",
+    "options": [
+      "A. 523,3 cm³",
+      "B. 523,3 ± 31,4 cm³",
+      "C. 523,3 ± 0,1 cm³",
+      "D. 523,3 ± 1,0 cm³"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Tính thể tích gần đúng:\n\nV_approx = (4/3) * 3,14 * (5,0)³ ≈ 523,33 cm³.\n\nTính sai số tương đối:\n\nδV ≈ 3 * δr (vì V tỉ lệ với r³ và sai số của hằng số 4/3 và π được bỏ qua).\n\nδr = d/r = 0,1 / 5,0 = 0,02.\n\nδV ≈ 3 * 0,02 = 0,06.\n\nTính sai số tuyệt đối:\n\nΔV ≈ V_approx * δV ≈ 523,33 * 0,06 ≈ 31,4.\n\nKết quả: V ≈ 523,3 ± 31,4 cm³.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q72",
+    "type": "question",
+    "text": "Quy tròn số 34567 đến hàng nghìn.",
+    "options": [
+      "A. 34000",
+      "B. 35000",
+      "C. 34500",
+      "D. 34600"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Chữ số hàng nghìn là 4.\n\nChữ số ngay bên phải nó là 5.\n\nVì 5 ≥ 5, ta cộng 1 vào chữ số hàng nghìn (4 + 1 = 5) và thay các chữ số bên phải bằng 0.\n\nKết quả: 35000.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q73",
+    "type": "question",
+    "text": "Cho mệnh đề chứa biến P(x): \"x² - 4 = 0\". Mệnh đề nào sau đây đúng?",
+    "options": [
+      "A. P(1)",
+      "B. P(4)",
+      "C. P(-2)",
+      "D. P(0)"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A. P(1): 1² - 4 = -3 ≠ 0. Sai.\n\nB. P(4): 4² - 4 = 12 ≠ 0. Sai.\n\nC. P(-2): (-2)² - 4 = 4 - 4 = 0. Đúng.\n\nD. P(0): 0² - 4 = -4 ≠ 0. Sai.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q74",
+    "type": "question",
+    "text": "Phủ định của mệnh đề \"Có ít nhất một học sinh trong lớp không làm bài tập về nhà\" là:",
+    "options": [
+      "A. Mọi học sinh trong lớp đều không làm bài tập về nhà",
+      "B. Có ít nhất một học sinh trong lớp làm bài tập về nhà",
+      "C. Mọi học sinh trong lớp đều làm bài tập về nhà",
+      "D. Không có học sinh nào trong lớp làm bài tập về nhà"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề gốc có thể viết lại là: \"∃ học sinh, học sinh đó không làm bài tập\".\n\nPhủ định của \"∃\" là \"∀\".\n\nPhủ định của \"không làm bài tập\" là \"làm bài tập\".\n\nKết hợp lại, mệnh đề phủ định là: \"∀ học sinh, học sinh đó làm bài tập\", tức là \"Mọi học sinh trong lớp đều làm bài tập về nhà\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q75",
+    "type": "question",
+    "text": "Cho các tập hợp M = {a, b, c} và N = {b, d}. Tập hợp M \\ N là:",
+    "options": [
+      "A. {a, c}",
+      "B. {d}",
+      "C. {b}",
+      "D. {a, c, d}"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Phép hiệu M \\ N là tập hợp các phần tử thuộc M nhưng không thuộc N.\n\nCác phần tử của M là a, b, c.\n\nPhần tử b của M cũng thuộc N.\n\nCác phần tử a, c của M không thuộc N.\n\nVậy M \\ N = {a, c}.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q76",
+    "type": "question",
+    "text": "Sai số tương đối của số gần đúng a = 1,234 với sai số tuyệt đối là 0,005 là khoảng:",
+    "options": [
+      "A. 0,4%",
+      "B. 0,04%",
+      "C. 4%",
+      "D. 0,004%"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "δa = Δa / |a| = 0,005 / 1,234.\n\nδa ≈ 0,00405.\n\nĐổi ra phần trăm: 0,00405 * 100% ≈ 0,4%.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q77",
+    "type": "question",
+    "text": "Biết √5 ≈ 2,236. Quy tròn giá trị này đến độ chính xác d = 0,05.",
+    "options": [
+      "A. 2,2",
+      "B. 2,23",
+      "C. 2,24",
+      "D. 2,3"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "d = 0,05. Hàng không chắc chắn là hàng phần trăm.\n\nTa làm tròn số 2,236 đến hàng cao hơn một bậc, là hàng phần mười.\n\nChữ số hàng phần mười là 2, chữ số bên phải là 3 (< 5), giữ nguyên.\n\nKết quả là 2,2.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q78",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây là mệnh đề tương đương với mệnh đề \"Nếu trời mưa thì đường ướt\"?",
+    "options": [
+      "A. Nếu trời không mưa thì đường không ướt",
+      "B. Nếu đường ướt thì trời mưa",
+      "C. Nếu đường không ướt thì trời không mưa",
+      "D. Trời mưa và đường ướt"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề P ⇒ Q tương đương với mệnh đề phản đảo của nó là ¬Q ⇒ ¬P.\n\nP: \"trời mưa\", Q: \"đường ướt\".\n\n¬Q: \"đường không ướt\", ¬P: \"trời không mưa\".\n\nMệnh đề phản đảo là \"Nếu đường không ướt thì trời không mưa\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q79",
+    "type": "question",
+    "text": "Cho A = (-∞, 5] và B = (2, +∞). Tìm A ∩",
+    "options": [
+      "A. (2, 5]",
+      "B. ",
+      "C. (2, 5)",
+      "D. "
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "A ∩ B là tập hợp các số thực x sao cho x thuộc cả A và B.\n\nx ∈ A ⇔ x ≤ 5.\n\nx ∈ B ⇔ x > 2.\n\nKết hợp cả hai điều kiện: 2 < x ≤ 5.\n\nĐây chính là khoảng (2, 5].",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q80",
+    "type": "question",
+    "text": "Một sợi dây dài l = 10,25 m ± 0,01 m. Chiều dài của sợi dây nằm trong đoạn nào?",
+    "options": [
+      "A. [10,24; 10,26]",
+      "B. (10,24; 10,26)",
+      "C. [10,2; 10,3]",
+      "D. [10,25; 10,26]"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Giá trị gần đúng a = 10,25. Độ chính xác d = 0,01.\n\nGiá trị đúng ā nằm trong đoạn [a - d, a + d].\n\na - d = 10,25 - 0,01 = 10,24.\n\na + d = 10,25 + 0,01 = 10,26.\n\nVậy chiều dài sợi dây nằm trong đoạn [10,24; 10,26].",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q81",
+    "type": "question",
+    "text": "Trong các số sau, số nào là số gần đúng?",
+    "options": [
+      "A. Số π trong công thức tính chu vi hình tròn.",
+      "B. Số học sinh trong một lớp học.",
+      "C. Số 2 trong phương trình x - 2 = 0.",
+      "D. Nhiệt độ cơ thể đo được bằng nhiệt kế."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "A, B, C là các số đúng, chính xác tuyệt đối. Số π là một hằng số toán học, số học sinh là số đếm, số 2 trong phương trình là một hệ số chính xác.\n\nD là kết quả của một phép đo, luôn có sai số do dụng cụ và người đo, do đó nó là một số gần đúng.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q82",
+    "type": "question",
+    "text": "Cho mệnh đề: \"∀x ∈ ℤ, x là số chẵn hoặc x là số lẻ\". Mệnh đề phủ định là:",
+    "options": [
+      "A. ∃x ∈ ℤ, x không là số chẵn và x không là số lẻ",
+      "B. ∃x ∈ ℤ, x là số chẵn và x là số lẻ",
+      "C. ∀x ∈ ℤ, x không là số chẵn và x không là số lẻ",
+      "D. ∀x ∈ ℤ, x là số chẵn và x là số lẻ"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Mệnh đề gốc có dạng \"∀x, (P(x) ∨ Q(x))\".\n\nPhủ định của nó là \"∃x, ¬(P(x) ∨ Q(x))\", tương đương với \"∃x, (¬P(x) ∧ ¬Q(x))\".\n\nP(x): \"x là số chẵn\". ¬P(x): \"x không là số chẵn\".\n\nQ(x): \"x là số lẻ\". ¬Q(x): \"x không là số lẻ\".\n\nVậy mệnh đề phủ định là: \"Tồn tại một số nguyên x, x không là số chẵn và x không là số lẻ\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q83",
+    "type": "question",
+    "text": "Một hình vuông có cạnh đo được là a = 10cm ± 0,2cm. Chu vi của hình vuông được viết là:",
+    "options": [
+      "A. 40cm ± 0,2cm",
+      "B. 40cm ± 0,4cm",
+      "C. 40cm ± 0,6cm",
+      "D. 40cm ± 0,8cm"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Chu vi P = 4a.\n\nGiá trị gần đúng L = 4 * 10 = 40 cm.\n\nSai số tuyệt đối ΔP = 4 * Δa = 4 * 0,2 = 0,8 cm.\n\nKết quả: P = 40cm ± 0,8cm.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q84",
+    "type": "question",
+    "text": "Số 1,41 được dùng làm giá trị gần đúng của √2. Sai số tuyệt đối không vượt quá:",
+    "options": [
+      "A. 0,001",
+      "B. 0,002",
+      "C. 0,003",
+      "D. 0,004"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "√2 ≈ 1,41421...\n\nΔa = |1,41 - √2| ≈ |1,41 - 1,41421| ≈ 0,00421.\n\nTuy nhiên, nếu ta biết 1,41 < √2 < 1,42, thì khi làm tròn √2 xuống thành 1,41, sai số sẽ không vượt quá độ dài của khoảng đó, tức là 1,42 - 1,41 = 0,01.\n\nNếu ta biết 1,414 < √2 < 1,415, thì sai số của 1,41 là |1,41 - √2| < |1,41 - 1,415| = 0,005.\n\nThông thường, khi nói 1,41 là giá trị gần đúng của √2 (làm tròn đến 2 chữ số thập phân), sai số tuyệt đối được ước tính không vượt quá 0,005. Nhưng ở đây, ta có |1.41 - 1.4142...| ≈ 0,004",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q85",
+    "type": "question",
+    "text": "Cho hai tập hợp E = {x ∈ ℕ | x là ước của 12} và F = {x ∈ ℕ | x là ước của 18}. Tìm E ∩ F.",
+    "options": [
+      "A. {1, 2, 3, 6}",
+      "B. {1, 2, 3, 4, 6, 12}",
+      "C. {1, 2, 3, 6, 9, 18}",
+      "D. {4, 12, 9, 18}"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "E (ước của 12) = {1, 2, 3, 4, 6, 12}.\n\nF (ước của 18) = {1, 2, 3, 6, 9, 18}.\n\nE ∩ F là tập hợp các phần tử chung của E và F (tức là ước chung của 12 và 18).\n\nCác phần tử chung là {1, 2, 3, 6}.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q86",
+    "type": "question",
+    "text": "Số 9,8 được quy tròn từ số a = 9,845. Sai số tuyệt đối trong trường hợp này là:",
+    "options": [
+      "A. 0,045",
+      "B. 0,055",
+      "C. 0,45",
+      "D. 0,55"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Sai số tuyệt đối = |số quy tròn - số ban đầu|.\n\nΔa = |9,8 - 9,845| = |-0,045| = 0,045.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q87",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây có mệnh đề đảo là mệnh đề đúng?",
+    "options": [
+      "A. Nếu một số chia hết cho 6 thì nó chia hết cho 3",
+      "B. Nếu hai tam giác bằng nhau thì chúng có diện tích bằng nhau",
+      "C. Nếu một tứ giác là hình thoi thì nó có hai đường chéo vuông góc",
+      "D. Nếu một số tự nhiên là số chính phương thì nó có chữ số tận cùng là 0, 1, 4, 5, 6, 9"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "A. Đảo: \"Nếu một số chia hết cho 3 thì nó chia hết cho 6\" (Sai, ví dụ số 9).\n\nB. Đảo: \"Nếu hai tam giác có diện tích bằng nhau thì chúng bằng nhau\" (Sai, ví dụ tam giác 3-4-5 và tam giác có 3 cạnh là 6-2-√40 có cùng diện tích là 6 nhưng không bằng nhau).\n\nC. Đảo: \"Nếu một tứ giác có hai đường chéo vuông góc thì nó là hình thoi\" (Sai, ví dụ hình thang vuông).\n\nD. Đảo: \"Nếu một số tự nhiên có chữ số tận cùng là 0, 1, 4, 5, 6, 9 thì nó là số chính phương\" (Sai, ví dụ số 10).\n\nLỗi phân tích: Cần xem",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q88",
+    "type": "question",
+    "text": "Cho số gần đúng a = 1234567 với độ chính xác d = 500. Số chữ số chắc chắn là:",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "d = 500. Hàng không chắc chắn là hàng trăm.\n\nChữ số chắc là từ hàng nghìn trở lên.\n\nCác chữ số chắc trong 1234567 là 4, 3, 2, 1.\n\nVậy có 4 chữ số chắc.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q89",
+    "type": "question",
+    "text": "Ký hiệu khoa học của số 150.000.000 (khoảng cách từ Trái Đất đến Mặt Trời theo km) là:",
+    "options": [
+      "A. 1,5 × 10⁸",
+      "B. 15 × 10⁷",
+      "C. 0,15 × 10⁹",
+      "D. 150 × 10⁶"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Để đưa về dạng a × 10ⁿ với 1 ≤ a < 10, ta dời dấu phẩy từ cuối sang trái 8 vị trí.\n\nTa được số 1,5.\n\nVì dời sang trái 8 vị trí nên số mũ của 10 là 8.\n\nKết quả: 1,5 × 10⁸.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q90",
+    "type": "question",
+    "text": "Một bánh xe có đường kính d = 50cm ± 0,5cm. Chu vi của bánh xe được ước tính là (lấy π ≈ 3,14):",
+    "options": [
+      "A. 157cm ± 1,57cm",
+      "B. 157cm ± 0,5cm",
+      "C. 157cm ± 3,14cm",
+      "D. 157cm ± 1cm"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Chu vi C = πd.\n\nGiá trị gần đúng L = 3,14 * 50 = 157 cm.\n\nSai số tuyệt đối ΔC ≤ |d|Δπ + |π|Δd. Bỏ qua sai số của π, ΔC ≈ |π|Δd = 3,14 * 0,5 = 1,57 cm.\n\nKết quả: 157cm ± 1,57cm.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q91",
+    "type": "question",
+    "text": "Làm tròn số e ≈ 2,71828 đến hàng phần nghìn.",
+    "options": [
+      "A. 2,71",
+      "B. 2,718",
+      "C. 2,719",
+      "D. 2,72"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Chữ số hàng phần nghìn là 8.\n\nChữ số bên phải là 2.\n\nVì 2 < 5, ta giữ nguyên chữ số hàng phần nghìn.\n\nKết quả: 2,718.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q92",
+    "type": "question",
+    "text": "Mệnh đề phủ định của \"Tất cả các loài chim đều biết bay\" là:",
+    "options": [
+      "A. Tất cả các loài chim đều không biết bay",
+      "B. Không có loài chim nào biết bay",
+      "C. Có ít nhất một loài chim không biết bay",
+      "D. Có ít nhất một loài chim biết bay"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề gốc: \"∀ chim, chim biết bay\".\n\nPhủ định: \"∃ chim, chim không biết bay\".\n\nDiễn đạt bằng lời: \"Tồn tại ít nhất một loài chim không biết bay\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q93",
+    "type": "question",
+    "text": "Kết quả đo chiều rộng một căn phòng là 3,5 m với sai số tương đối là 1%. Sai số tuyệt đối của phép đo này là:",
+    "options": [
+      "A. 0,035 m",
+      "B. 0,35 m",
+      "C. 3,5 cm",
+      "D. Cả A và C đều đúng"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "a = 3,5 m; δa = 1% = 0,01.\n\nSai số tuyệt đối Δa = a * δa = 3,5 * 0,01 = 0,035 m.\n\nĐổi ra cm: 0,035 m = 3,5 cm.\n\nCả hai đáp án A và C đều biểu diễn cùng một giá trị.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q94",
+    "type": "question",
+    "text": "Cho tập hợp A = {x ∈ ℝ | -2 ≤ x < 3}. Cách viết nào sau đây là đúng?",
+    "options": [
+      "A. A = (-2, 3)",
+      "B. A = [-2, 3)",
+      "C. A = [-2, 3]",
+      "D. A = (-2, 3]"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Điều kiện x ≥ -2 (có dấu bằng) tương ứng với ngoặc vuông [.\n\nĐiều kiện x < 3 (không có dấu bằng) tương ứng với ngoặc tròn ).\n\nKết hợp lại ta có đoạn [-2, 3).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q95",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây là một mệnh đề đúng?",
+    "options": [
+      "A. ∀x ∈ ℝ, x > -x",
+      "B. ∃n ∈ ℕ, n² + 1 là số nguyên tố",
+      "C. Nếu một số chia hết cho 5 thì nó tận cùng bằng 5",
+      "D. Tổng ba góc trong một tam giác bằng 360 độ"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "A. Sai, với x = -2, -2 > -(-2) là -2 > 2, sai.\n\nB. Đúng, ví dụ n = 1 thì n² + 1 = 2 (là số nguyên tố); n = 2 thì n² + 1 = 5 (là số nguyên tố).\n\nC. Sai, một số chia hết cho 5 có thể tận cùng bằng 0.\n\nD. Sai, tổng ba góc trong một tam giác bằng 180 độ.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q96",
+    "type": "question",
+    "text": "Viết dạng chuẩn của số a = 0,09876 với độ chính xác d = 0,005.",
+    "options": [
+      "A. 0,1",
+      "B. 0,09",
+      "C. 0,098",
+      "D. 0,099"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "d = 0,005. Hàng không chắc chắn là hàng phần nghìn.\n\nTa làm tròn a đến hàng cao hơn một bậc, là hàng phần trăm.\n\nLàm tròn 0,09876 đến hàng phần trăm: chữ số hàng phần nghìn là 8 ≥ 5, làm tròn lên.\n\n0,09 + 0,01 = 0,10. Dạng chuẩn là 0,1.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q97",
+    "type": "question",
+    "text": "Cho tập hợp A = (-∞; 2] và B = [2; +∞). Tập hợp A ∩ B là:",
+    "options": [
+      "A. Ø (tập rỗng)",
+      "B. {2}",
+      "C. ℝ",
+      "D. (-∞; +∞)"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "A ∩ B là tập hợp các phần tử thuộc cả A và B.\n\nPhần tử duy nhất thỏa mãn cả hai điều kiện x ≤ 2 và x ≥ 2 là x = 2.\n\nVậy giao của hai tập hợp là {2}.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q98",
+    "type": "question",
+    "text": "Phép đo chiều dài một vật cho kết quả là 25cm, biết sai số tương đối không vượt quá 0,4%. Sai số tuyệt đối không vượt quá:",
+    "options": [
+      "A. 1cm",
+      "B. 0,1cm",
+      "C. 0,01cm",
+      "D. 0,4cm"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "a = 25 cm, δa ≤ 0,4% = 0,004.\n\nΔa ≤ a * δa = 25 * 0,004 = 0,1 cm.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q99",
+    "type": "question",
+    "text": "Cho mệnh đề P: \"Một tứ giác là hình vuông\". Mệnh đề Q: \"Tứ giác đó là hình chữ nhật\". Mệnh đề nào sau đây là đúng?",
+    "options": [
+      "A. Q ⇒ P",
+      "B. P ⇔ Q",
+      "C. P ⇒ Q",
+      "D. ¬P ⇒ ¬Q"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề P ⇒ Q: \"Nếu một tứ giác là hình vuông thì nó là hình chữ nhật\". Đây là mệnh đề đúng vì hình vuông thỏa mãn mọi tính chất của hình chữ nhật.\n\nMệnh đề đảo Q ⇒ P: \"Nếu một tứ giác là hình chữ nhật thì nó là hình vuông\". Đây là mệnh đề sai.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q100",
+    "type": "question",
+    "text": "Số các chữ số chắc chắn của số a = 3,14159 biết rằng |a - π| < 0,00001 là:",
+    "options": [
+      "A. 3",
+      "B. 4",
+      "C. 5",
+      "D. 6"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Độ chính xác d = 0,00001. Hàng không chắc chắn là hàng phần trăm nghìn.\n\nCác chữ số chắc là các chữ số từ hàng phần chục nghìn trở lên.\n\nCác chữ số chắc là: 3, 1, 4, 1, 5.\n\nVậy có 5 chữ số chắc.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  }
+]

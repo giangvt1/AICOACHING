@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251120T140418Z_60bf1da9",
+  "user_id": 9,
+  "topic": "Chương I: Mệnh đề và Tập hợp",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Trong các mệnh đề sau, mệnh đề nào là mệnh đề đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 2 + 6 = 7.",
+        "B. x² + 1 > 0, ∀x ∈ ℝ.",
+        "C. 14 là số nguyên tố.",
+        "D. Nếu một tam giác có một góc bằng 60° thì tam giác đó là đều."
+      ],
+      "correct_index": 1,
+      "solution": "A. Là mệnh đề sai (2 + 6 = 8).\n\nB. Là mệnh đề đúng. Vì ∀x ∈ ℝ, ta có x² ≥ 0, suy ra x² + 1 ≥ 1 > 0.\n\nC. Là mệnh đề sai (14 chia hết cho 2 và 7).\n\nD. Là mệnh đề sai. Một tam giác có một góc 60° chưa chắc là tam giác đều (ví dụ: tam giác vuông có các góc 30°, 60°, 90°)."
+    },
+    {
+      "question": "Trong các câu sau, câu nào là một mệnh đề đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. √9 > 3\".",
+        "B. √9 ≥ 3\".",
+        "C. √9 < 3\".",
+        "D. √9 = 81\"."
+      ],
+      "correct_index": 1,
+      "solution": "Ta có √9 = 3.\n\nA. \"3 > 3\" là sai.\n\nB. \"3 ≥ 3\" là đúng (vì có dấu bằng).\n\nC. \"3 < 3\" là sai.\n\nD. \"3 = 81\" là sai."
+    },
+    {
+      "question": "Mệnh đề phủ định của P: \"∀x ∈ ℝ, x² > 0\" là",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. P: \"∀x ∈ ℝ, x² ≤ 0",
+        "B. P: \"∃x ∈ ℝ, x² ≤ 0",
+        "C. P: \"∃x ∈ ℝ, x² < 0",
+        "D. P: \"∀x ∈ ℝ, x² < 0"
+      ],
+      "correct_index": 1,
+      "solution": "Mệnh đề P: \"∀x ∈ ℝ, x² > 0\" là mệnh đề sai (vì tại x=0, x²=0).\n\nPhủ định của \"∀x ∈ ℝ\" là \"∃x ∈ ℝ\".\n\nPhủ định của \"x² > 0\" là \"x² ≤ 0\".\n\nKết hợp lại, mệnh đề phủ định P là: \"∃x ∈ ℝ, x² ≤ 0\". Mệnh đề phủ định này đúng (tồn tại x=0 sao cho 0²≤0)."
+    },
+    {
+      "question": "Trong các câu sau, câu nào là mệnh đề đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Người miền Trung khổ quá!",
+        "B. Sài Gòn là thủ đô của nước Việt Nam.",
+        "C. 5 là số lẻ.",
+        "D. Phương trình x – 1 = 0 vô nghiệm."
+      ],
+      "correct_index": 2,
+      "solution": "A là câu cảm thán, không phải mệnh đề.\n\nB là một mệnh đề sai (Hà Nội là thủ đô).\n\nC là một mệnh đề đúng (5 là số lẻ).\n\nD là một mệnh đề sai (phương trình x – 1 = 0 có nghiệm x = 1)."
+    },
+    {
+      "question": "Mệnh đề phủ định của mệnh đề P: \"∀x ∈ ℝ : x² + 1 > 2x\" là",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. P: \"∃x ∈ ℝ : x² + 1 < 2x\".",
+        "B. P: \"∃x ∈ ℝ : x² + 1 ≤ 2x\".",
+        "C. P: \"∃x ∈ ℝ : x² + 1 > 2x\".",
+        "D. P: \"∀x ∈ ℝ : x² + 1 ≤ 2x\"."
+      ],
+      "correct_index": 1,
+      "solution": "Phủ định của \"∀x ∈ ℝ\" là \"∃x ∈ ℝ\".\n\nPhủ định của \"x² + 1 > 2x\" là \"x² + 1 ≤ 2x\".\n\nKết hợp lại, mệnh đề phủ định là: \"∃x ∈ ℝ : x² + 1 ≤ 2x\"."
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251120T140418Z"
+}

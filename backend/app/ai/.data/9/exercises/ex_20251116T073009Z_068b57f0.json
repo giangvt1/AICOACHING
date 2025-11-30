@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251116T073009Z_068b57f0",
+  "user_id": 9,
+  "topic": "Mệnh đề – Tập hợp",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Phủ định của mệnh đề \"∃x ∈ ℝ : x² < 0\" là",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. ∀x ∈ ℝ : x² ≤ 0.",
+        "B. ∃x ∈ ℝ : x² ≤ 0.",
+        "C. ∀x ∈ ℝ : x² < 0.",
+        "D. ∀x ∈ ℝ : x² ≥ 0."
+      ],
+      "correct_index": 3,
+      "solution": "D"
+    },
+    {
+      "question": "Trong các câu sau, câu nào là mệnh đề?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Nha Trang là một thành phố ven biển ở Việt Nam.",
+        "B. Bạn đi đâu đấy?.",
+        "C. Bài hát này hay thật!.",
+        "D. Không được nói chuyện riêng trong giờ học."
+      ],
+      "correct_index": 0,
+      "solution": "A"
+    },
+    {
+      "question": "Trong các câu sau, câu nào là mệnh đề?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Số n là một số chẵn.",
+        "B. Hãy cố gắng học thật tốt!.",
+        "C. Số 24 chia hết cho 6.",
+        "D. Bạn đã đội mũ bảo hiểm chưa?"
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Cho mệnh đề chứa biến P(x): \"x² = 4\", x ∈ ℝ. Chọn mệnh đề đúng trong các mệnh đề sau.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. P(4).",
+        "B. P(–3).",
+        "C. P(–2).",
+        "D. P(–1)."
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Phát biểu nào sau đây là một mệnh đề?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Mùa thu Hà Nội đẹp quá!",
+        "B. Hà Nội là thủ đô của Việt Nam.",
+        "C. Bạn có đi học không?",
+        "D. Đề thi môn Toán khó quá!"
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251116T073009Z"
+}

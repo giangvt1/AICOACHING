@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251116T073025Z_377dcd47",
+  "user_id": 9,
+  "topic": "Giá trị tuyệt đối",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Giá trị tuyệt đối của -7 là bao nhiêu?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "7",
+        "-7",
+        "0",
+        "49"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "Tìm giá trị của |5 - 9|.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "4",
+        "-4",
+        "14",
+        "2"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "Phương trình |x| = 5 có bao nhiêu nghiệm?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "0",
+        "1",
+        "2",
+        "Vô số"
+      ],
+      "correct_index": 2,
+      "solution": null
+    },
+    {
+      "question": "Tìm giá trị của |-3| + |2|.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "1",
+        "-1",
+        "5",
+        "-5"
+      ],
+      "correct_index": 2,
+      "solution": null
+    },
+    {
+      "question": "Nếu |a| = 0 thì giá trị của a là bao nhiêu?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "Bất kỳ số nào"
+      ],
+      "correct_index": 0,
+      "solution": null
+    }
+  ],
+  "contexts": [],
+  "used_model": "gemini-1.5-flash",
+  "created_at": "20251116T073025Z"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251120T134338Z_b2870301",
+  "user_id": 9,
+  "topic": "Chương II: Bất phương trình",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Phủ định của mệnh đề \"Nếu trời mưa thì đường trơn\" là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Nếu trời không mưa thì đường không trơn\".",
+        "B. Trời mưa và đường không trơn\".",
+        "C. Trời không mưa và đường trơn\".",
+        "D. Nếu đường không trơn thì trời không mưa\"."
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Cho A = (-2, 1), B = [-3, 5]. Tìm C = B \\",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A.",
+        "B. [-3, -2] ∪.",
+        "C. (-3, -2) ∪ (1, 5).",
+        "D. [-3, -2] ∪ (1, 5]."
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Cho hệ bất phương trình {x-y>3, 1-1/2x+y>0}. Khẳng định nào sau đây là khẳng định đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. (1;-2) ∈ S.",
+        "B. (2;1) ∈ S.",
+        "C. (5;-6) ∈ S.",
+        "D. S = ∅."
+      ],
+      "correct_index": 3,
+      "solution": "D"
+    },
+    {
+      "question": "Miền nghiệm của hệ bất phương trình {2x-1≤0, -3x+5≤0} chứa điểm nào sau đây?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Không có.",
+        "B. B(5/3; 2).",
+        "C. C(-3; 1).",
+        "D. D(1/2; 10)."
+      ],
+      "correct_index": 0,
+      "solution": "A"
+    },
+    {
+      "question": "Miền nghiệm của bất phương trình 3x + 2y > 6 là",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A.",
+        "B.",
+        "C.",
+        "D."
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251120T134338Z"
+}

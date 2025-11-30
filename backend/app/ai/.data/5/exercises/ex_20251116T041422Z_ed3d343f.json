@@ -1,0 +1,52 @@
+{
+  "id": "ex_20251116T041422Z_ed3d343f",
+  "user_id": 5,
+  "topic": "Mệnh đề – Tập hợp",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cho A = {x ∈ ℝ | x² - 5x - 6 = 0}, B = {x ∈ ℝ | x² = 1}. Tìm A ∩ B, A ∪ B, A \\ B, B \\ A.\nLời giải\nPhương trình x² - 5x - 6 = 0 có hai nghiệm là -1 và 6, nên A = {-1;6}\nPhương trình x² = 1 có hai nghiệm là 1 và -1, nên B = {-1;1}\nDo đó\nA ∩ B = {-1}\nA ∪ B = {-1;1;6}\nA \\ B = {6}\nB \\ A = {1}",
+      "type": "open",
+      "difficulty": 3,
+      "options": null,
+      "correct_index": null,
+      "solution": "Đáp án đang được cập nhật..."
+    },
+    {
+      "question": "a) Cho A là tập hợp các số chẵn có hai chữ số. Hỏi A có bao nhiêu phần tử?\nb) Cho B là tập hợp các số lẻ có 3 chữ số. Hỏi B có bao nhiêu phần tử?\nc) Cho C là tập hợp các số nguyên dương bé hơn 500 và là bội của 3. Hỏi C có bao nhiêu phần tử?",
+      "type": "open",
+      "difficulty": 3,
+      "options": null,
+      "correct_index": null,
+      "solution": "Đáp án đang được cập nhật..."
+    },
+    {
+      "question": "Điền kí hiệu (∈, ∉, ⊂, ⊄, =) thích hợp vào chỗ chấm.\na) 0...{0; 1; 2};\nb) {0; 1}...ℤ\nc) 0...{x | x² = 0};\nd) {0}...{x | x² = x};\ne) ∅...{x ∈ ℝ | x² + 4 = 0};\ng) {4; 1}...{x | x² − 5x + 4 = 0};\nh) {n; a; m}...{m; a; n};\ni) {nam}...{n; a; m}.",
+      "type": "open",
+      "difficulty": 3,
+      "options": null,
+      "correct_index": null,
+      "solution": "Đáp án đang được cập nhật..."
+    },
+    {
+      "question": "Cho các tập hợp: D = {−2; 3; 5; 6}; E = {x | x là số nguyên tố nhỏ hơn 10}; X = {x | x là số nguyên dương nhỏ hơn 10}.\na) Tìm D\\E và E\\D.\nb) E có là tập con của X không? Hãy tìm phần bù của E trong X (nếu có).",
+      "type": "open",
+      "difficulty": 3,
+      "options": null,
+      "correct_index": null,
+      "solution": "Đáp án đang được cập nhật..."
+    },
+    {
+      "question": "Trong các tập hợp sau, tập nào là tập rỗng?\nA = {x ∈ ℕ | x ≤ 0}; B = {x ∈ ℕ | 2x² - 3x - 5 = 0}.",
+      "type": "open",
+      "difficulty": 3,
+      "options": null,
+      "correct_index": null,
+      "solution": "Đáp án đang được cập nhật..."
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251116T041422Z"
+}

@@ -1,0 +1,117 @@
+# ============================================
+# BACKEND (Python/FastAPI) GITIGNORE
+# ============================================
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+app/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+conda_env/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# pytest
+.pytest_cache/
+.cache/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+migrations/*.db
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+test_*.py.bak
+
+# SQL Scripts (except migrations)
+*.sql
+!migrations/*.sql
+!12345.sql
+
+# Scripts output
+scripts/*.json
+scripts/*.txt
+scripts/*.log
+scripts/output/
+scripts/temp/
+
+# Generated data
+app/data/temp/
+app/data/cache/
+
+# PDF processing temp files
+*.pdf.txt
+*.pdf.json
+
+# Alembic (if used later)
+alembic/versions/*.pyc
+
+# FastAPI auto-generated
+.pytest_cache/
+.mypy_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+

@@ -1,0 +1,142 @@
+{
+  "id": "ex_20251116T042702Z_5120eccc",
+  "user_id": 7,
+  "topic": "Mệnh đề – Tập hợp",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "[Mệnh đề – Tập hợp] Bài 1: Hãy trình bày/giải một bài ngắn phù hợp độ khó 3.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "[Mệnh đề – Tập hợp] Bài 2: Hãy trình bày/giải một bài ngắn phù hợp độ khó 3.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "[Mệnh đề – Tập hợp] Bài 3: Hãy trình bày/giải một bài ngắn phù hợp độ khó 3.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "[Mệnh đề – Tập hợp] Bài 4: Hãy trình bày/giải một bài ngắn phù hợp độ khó 3.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "[Mệnh đề – Tập hợp] Bài 5: Hãy trình bày/giải một bài ngắn phù hợp độ khó 3.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "[Mệnh đề – Tập hợp] Bài 6: Hãy trình bày/giải một bài ngắn phù hợp độ khó 3.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "[Mệnh đề – Tập hợp] Bài 7: Hãy trình bày/giải một bài ngắn phù hợp độ khó 3.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "[Mệnh đề – Tập hợp] Bài 8: Hãy trình bày/giải một bài ngắn phù hợp độ khó 3.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "[Mệnh đề – Tập hợp] Bài 9: Hãy trình bày/giải một bài ngắn phù hợp độ khó 3.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "[Mệnh đề – Tập hợp] Bài 10: Hãy trình bày/giải một bài ngắn phù hợp độ khó 3.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_index": 0,
+      "solution": null
+    }
+  ],
+  "contexts": [],
+  "used_model": "fallback",
+  "created_at": "20251116T042702Z"
+}

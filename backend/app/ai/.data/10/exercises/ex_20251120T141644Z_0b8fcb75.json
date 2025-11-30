@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251120T141644Z_0b8fcb75",
+  "user_id": 10,
+  "topic": "Chương IV: Vectơ",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cho tam giác đều cạnh 2a. Đẳng thức nào sau đây là đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. |AB| = |AC|",
+        "B. |AB| = 2a",
+        "C. AB = 2a",
+        "D. AB = AC"
+      ],
+      "correct_index": 1,
+      "solution": "Tam giác đều cạnh 2a có nghĩa là độ dài các cạnh AB, BC, CA đều bằng 2a.\n\nA. |AB| = |AC| (độ dài bằng nhau): Đúng.\n\nB. |AB| = 2a (độ dài bằng 2a): Đúng.\n\nC. AB = 2a: Sai, vế trái là một vectơ, vế phải là một số.\n\nD. AB = AC (vectơ bằng nhau): Sai, hai vectơ này không cùng hướng.\n\nGiữa A và B, thì B là một phát biểu cụ thể hơn và đầy đủ thông tin hơn A."
+    },
+    {
+      "question": "Cho hình bình hành ABC",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. AD = B",
+        "B. AB = A",
+        "C.",
+        "D. Khẳng định nào sau đây đúng?"
+      ],
+      "correct_index": 0,
+      "solution": "Trong hình bình hành ABCD, các cặp cạnh đối song song và bằng nhau.\n\nA. Cạnh AD và BC song song và bằng nhau. Vectơ AD và BC cùng hướng và cùng độ dài. Vậy AD = BC. Khẳng định này đúng.\n\nB. AB và AC là hai vectơ có chung điểm đầu A nhưng không cùng phương. Khẳng định sai.\n\nC. AC và DB là hai đường chéo, chúng không cùng phương và cũng không chắc chắn bằng nhau về độ dài. Khẳng định sai.\n\nD. AB và CD là hai vectơ của hai cạnh đối. Chúng có cùng độ dài nhưng ngược hướng. Do đó AB = -DC, chứ không"
+    },
+    {
+      "question": "Nếu AB = AC thì:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. tam giác ABC là tam giác cân",
+        "B. tam giác ABC là tam giác đều",
+        "C. A là trung điểm đoạn BC",
+        "D. điểm B trùng với điểm C"
+      ],
+      "correct_index": 3,
+      "solution": "Đẳng thức vectơ AB = AC có nghĩa là hai vectơ này có cùng hướng và cùng độ dài.\n\nCùng hướng: Vì chúng có chung điểm đầu A, nên để cùng hướng thì tia AB phải trùng với tia AC. Điều này có nghĩa là ba điểm A, B, C phải thẳng hàng và B, C nằm cùng phía so với A.\n\nCùng độ dài: Khoảng cách AB phải bằng khoảng cách AC.\n\nKết hợp cả hai điều kiện, nếu A, B, C thẳng hàng và AB = AC, thì B phải trùng với C."
+    },
+    {
+      "question": "Cho vectơ a. Mệnh đề nào sau đây đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Có vô số vectơ u mà |u| = |a|.",
+        "B. Có duy nhất một u mà u = a.",
+        "C. Có duy nhất một u mà u = -a.",
+        "D. Không có vectơ u nào mà |u| = |a|."
+      ],
+      "correct_index": 0,
+      "solution": "|u| = |a| nghĩa là vectơ u có cùng độ dài với vectơ a.\n\nA. Có vô số vectơ có cùng độ dài cho trước. Tập hợp các điểm ngọn của chúng (nếu lấy chung gốc O) sẽ tạo thành một đường tròn. Do đó mệnh đề này đúng.\n\nB. u = a là một vectơ duy nhất. Mệnh đề này sai, vì nó chỉ là một trường hợp trong vô số trường hợp ở A.\n\nC. u = -a là một vectơ duy nhất. Mệnh đề này sai.\n\nD. Sai, ít nhất có vectơ a và -a thỏa mãn."
+    },
+    {
+      "question": "Trong các mệnh đề sau, mệnh đề nào là mệnh đề kéo theo đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Nếu một số chia hết cho 3 thì nó chia hết cho 9.",
+        "B. Nếu một tứ giác là hình vuông thì nó có hai đường chéo bằng nhau.",
+        "C. Nếu một tam giác có một góc 60 độ thì nó là tam giác đều.",
+        "D. Nếu hai vectơ cùng phương thì chúng bằng nhau."
+      ],
+      "correct_index": 1,
+      "solution": "A. Sai. Ví dụ: số 6 chia hết cho 3 nhưng không chia hết cho 9.\n\nB. Đúng. Hình vuông là một trường hợp đặc biệt của hình chữ nhật, mà hình chữ nhật có hai đường chéo bằng nhau.\n\nC. Sai. Một tam giác cân có một góc 60 độ mới là tam giác đều.\n\nD. Sai. Hai vectơ cùng phương có thể có độ dài khác nhau hoặc ngược hướng."
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251120T141644Z"
+}

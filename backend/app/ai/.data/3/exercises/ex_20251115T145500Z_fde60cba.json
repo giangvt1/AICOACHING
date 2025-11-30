@@ -1,0 +1,106 @@
+{
+  "id": "ex_20251115T145500Z_fde60cba",
+  "user_id": 3,
+  "topic": "Mệnh đề – Tập hợp",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "[Mệnh đề – Tập hợp] Bài 1: Hãy trình bày/giải một bài ngắn phù hợp độ khó 3.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "[Mệnh đề – Tập hợp] Bài 2: Hãy trình bày/giải một bài ngắn phù hợp độ khó 3.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "[Mệnh đề – Tập hợp] Bài 3: Hãy trình bày/giải một bài ngắn phù hợp độ khó 3.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "[Mệnh đề – Tập hợp] Bài 4: Hãy trình bày/giải một bài ngắn phù hợp độ khó 3.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "[Mệnh đề – Tập hợp] Bài 5: Hãy trình bày/giải một bài ngắn phù hợp độ khó 3.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_index": 0,
+      "solution": null
+    }
+  ],
+  "contexts": [
+    {
+      "id": "D:\\vtg\\ai\\AI_Coach\\backend\\artifacts\\json\\Bài 1. Mệnh đề\\Bài 1. Mệnh đề\\chunks.json#c0",
+      "source": "D:\\vtg\\ai\\AI_Coach\\backend\\artifacts\\json\\Bài 1. Mệnh đề\\Bài 1. Mệnh đề\\chunks.json",
+      "chunk_index": 0,
+      "text": "BÀI TẬP TOÁN 10 Điện thoại: 0946798489\nBài 1. MỆNH ĐỀ\n•|FanPage: Nguyễn Bảo Vương\nA. KIẾN THỨC CẦN NHỚ\n1. Mệnh đề\n1.1. Định nghĩa mệnh đề\n- Mệnh đề là một khẳng định đúng hoặc sai.\nMột khẳng định đúng gọi là mệnh đề đúng.\nMột khẳng định sai gọi là mệnh đề sai.\nMột mệnh đề không thể vừa đúng vừa sai.\nChú ý: Người ta thường sử dụng các chữ cái in hoa P,Q,R, để kí hiệu mệnh đề.\n1.2. Định nghĩa mệnh đề toán học\nMỗi mệnh đề toán học phải hoặc đúng hoặc sai. Một mệnh đề toán học không thể vừa đúng, vừa\nsai.\nKhi mệnh đề toán học là đúng, ta gọi mệnh đề đó là một mệnh đề đúng.\nKhi mệnh đề toán học là sai, ta gọi mệnh đề đó là một mệnh đề sai.\n1.3. Mệnh đề phủ định\nPhủ định của mệnh đề P là mệnh đề “Không phải P”, kí hiệu P. Mệnh đề P đúng khi P sai và\nP sai khi P đúng.\n1.4. Mệnh đề kéo theo và mệnh đề đảo\n- Mệnh đề \"Nếu P thì Q \" được gọi là mệnh đề kéo theo, kí hiệu PQ. Mệnh đề PQ chỉ\nsai khi P đúng và Q sai.\n- Nếu mệnh đề PQ đúng (định lí) thì ta nói:",
+      "preview": "BÀI TẬP TOÁN 10 Điện thoại: 0946798489 Bài 1. MỆNH ĐỀ •|FanPage: Nguyễn Bảo Vương A. KIẾN THỨC CẦN NHỚ 1. Mệnh đề 1.1. Định nghĩa mệnh đề - Mệnh đề là một khẳng định đúng hoặc sai. Một khẳng định đúng gọi là mệnh đề đúng. Một khẳng định sai gọi là mệnh đề sai. Một mệnh đề không t"
+    },
+    {
+      "id": "D:\\vtg\\ai\\AI_Coach\\backend\\artifacts\\json\\Bài 1. Mệnh đề\\Bài 1. Mệnh đề - đáp án\\chunks.json#c0",
+      "source": "D:\\vtg\\ai\\AI_Coach\\backend\\artifacts\\json\\Bài 1. Mệnh đề\\Bài 1. Mệnh đề - đáp án\\chunks.json",
+      "chunk_index": 0,
+      "text": "BÀI TẬP TOÁN 10 Điện thoại: 0946798489\nBài 1. MỆNH ĐỀ\n•|FanPage: Nguyễn Bảo Vương\nA. KIẾN THỨC CẦN NHỚ\n1. Mệnh đề\n1.1. Định nghĩa mệnh đề\n- Mệnh đề là một khẳng định đúng hoặc sai.\nMột khẳng định đúng gọi là mệnh đề đúng.\nMột khẳng định sai gọi là mệnh đề sai.\nMột mệnh đề không thể vừa đúng vừa sai.\nChú ý: Người ta thường sử dụng các chữ cái in hoa P,Q,R, để kí hiệu mệnh đề.\n1.2. Định nghĩa mệnh đề toán học\nMỗi mệnh đề toán học phải hoặc đúng hoặc sai. Một mệnh đề toán học không thể vừa đúng, vừa\nsai.\nKhi mệnh đề toán học là đúng, ta gọi mệnh đề đó là một mệnh đề đúng.\nKhi mệnh đề toán học là sai, ta gọi mệnh đề đó là một mệnh đề sai.\n1.3. Mệnh đề phủ định\nPhủ định của mệnh đề P là mệnh đề “Không phải P”, kí hiệu P. Mệnh đề P đúng khi P sai và\nP sai khi P đúng.\n1.4. Mệnh đề kéo theo và mệnh đề đảo\n- Mệnh đề \"Nếu P thì Q \" được gọi là mệnh đề kéo theo, kí hiệu PQ. Mệnh đề PQ chỉ\nsai khi P đúng và Q sai.\n- Nếu mệnh đề PQ đúng (định lí) thì ta nói:",
+      "preview": "BÀI TẬP TOÁN 10 Điện thoại: 0946798489 Bài 1. MỆNH ĐỀ •|FanPage: Nguyễn Bảo Vương A. KIẾN THỨC CẦN NHỚ 1. Mệnh đề 1.1. Định nghĩa mệnh đề - Mệnh đề là một khẳng định đúng hoặc sai. Một khẳng định đúng gọi là mệnh đề đúng. Một khẳng định sai gọi là mệnh đề sai. Một mệnh đề không t"
+    },
+    {
+      "id": "D:\\vtg\\ai\\AI_Coach\\backend\\artifacts\\json\\Bài 1. Mệnh đề\\Bài 1. Mệnh đề\\chunks.json#c66",
+      "source": "D:\\vtg\\ai\\AI_Coach\\backend\\artifacts\\json\\Bài 1. Mệnh đề\\Bài 1. Mệnh đề\\chunks.json",
+      "chunk_index": 66,
+      "text": "Chú ý: Người ta thường sử dụng các chữ cái in hoa P,Q,R, để kí hiệu mệnh đề.\n1.2. Định nghĩa mệnh đề toán học\nMỗi mệnh đề toán học phải hoặc đúng hoặc sai. Một mệnh đề toán học không thể vừa đúng, vừa\nsai.\nKhi mệnh đề toán học là đúng, ta gọi mệnh đề đó là một mệnh đề đúng.\nKhi mệnh đề toán học là sai, ta gọi mệnh đề đó là một mệnh đề sai.\n1.3. Mệnh đề phủ định\nPhủ định của mệnh đề P là mệnh đề “Không phải P”, kí hiệu P. Mệnh đề P đúng khi P sai và\nP sai khi P đúng.\n1.4. Mệnh đề kéo theo và mệnh đề đảo\n- Mệnh đề \"Nếu P thì Q \" được gọi là mệnh đề kéo theo, kí hiệu PQ. Mệnh đề PQ chỉ\nsai khi P đúng và Q sai.\n- Nếu mệnh đề PQ đúng (định lí) thì ta nói:\n+ P là giả thiết, Q là kết luận của định lí;\n+ P là điều kiện đủ để có Q;Q là điều kiện cần để có P.\nChú ý:\na) Mệnh đề PQ còn được phát biểu là \"P kéo theo Q \" hoặc \"Từ P suy ra Q \".\nb) Để xét tính đúng sai của mệnh đề PQ, ta chỉ cần xét trường hợp P đúng. Khi đó, nếu Q\nđúng thì mệnh đề đúng, nếu Q sai thì mệnh đề sai.",
+      "preview": "Chú ý: Người ta thường sử dụng các chữ cái in hoa P,Q,R, để kí hiệu mệnh đề. 1.2. Định nghĩa mệnh đề toán học Mỗi mệnh đề toán học phải hoặc đúng hoặc sai. Một mệnh đề toán học không thể vừa đúng, vừa sai. Khi mệnh đề toán học là đúng, ta gọi mệnh đề đó là một mệnh đề đúng. Khi"
+    },
+    {
+      "id": "D:\\vtg\\ai\\AI_Coach\\backend\\artifacts\\json\\Bài 1. Mệnh đề\\Bài 1. Mệnh đề - đáp án\\chunks.json#c56",
+      "source": "D:\\vtg\\ai\\AI_Coach\\backend\\artifacts\\json\\Bài 1. Mệnh đề\\Bài 1. Mệnh đề - đáp án\\chunks.json",
+      "chunk_index": 56,
+      "text": "0\", tức là: \"Mọi số thực đều có bình phương cộng với 1 khác 0\".\nTa có thể viết mệnh đề phủ định của P là P: x,x210 \". Mệnh đề phủ định này đúng.\nCâu 81. Xác định tính đúng sai của mệnh đề sau và tìm mệnh đề phủ định của nó. Q: \" n,n chia hết\ncho n1\nLời giải\nMệnh đề Q: “ n,n chia hết cho n1\" đúng. Vì 0,01.\nMệnh đề phủ định của mệnh đề Q, kí hiệu Q là: \" n,n không chia hết cho n1\"\nCâu 82. Cho mệnh đề P: \" 2 là số hữu tỉ\". Hãy phát biểu mệnh đề phủ định của mệnh đề P.\nLời giải\nMệnh đề Q: \" 2 không phải là số hữu tỉ\" nhận được từ mệnh đề P bằng cách thêm cụm từ\n\"không phải\" trước vị ngữ. Mệnh đề Q là mệnh đề phủ đinh của mệnh đề P.\nVì với mổi số thực chỉ xảy ra một trong hai trường hợp: là số hữu tỉ hoặc là số vô tỉ, không có\ntrường hợp khác. Do vậy khi viết \" 2 không phải là số hữu tì\" së cùng nghĩa với \" 2 là số vô\ntỉ\". Vì vậy mệnh đề R: \" 2 là số vô tỉ\" cũng là mệnh để phủ định của mệnh đề P.\nVậy cả hai mệnh đề Q và R đều là các mệnh đề phủ định của mệnh đề P.",
+      "preview": "0\", tức là: \"Mọi số thực đều có bình phương cộng với 1 khác 0\". Ta có thể viết mệnh đề phủ định của P là P: x,x210 \". Mệnh đề phủ định này đúng. Câu 81. Xác định tính đúng sai của mệnh đề sau và tìm mệnh đề phủ định của nó. Q: \" n,n chia hết cho n1 Lời giải Mệnh đề Q:"
+    }
+  ],
+  "used_model": "fallback",
+  "created_at": "20251115T145500Z"
+}

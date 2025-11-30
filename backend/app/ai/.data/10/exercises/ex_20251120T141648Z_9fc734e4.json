@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251120T141648Z_9fc734e4",
+  "user_id": 10,
+  "topic": "Chương IV: Vectơ",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cho lục giác đều ABCDEF có tâm O. Đẳng thức nào sau đây là sai?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. AB = E",
+        "B. |AB| = |AF|.",
+        "C. OD = B",
+        "D."
+      ],
+      "correct_index": 3,
+      "solution": "A. Trong lục giác đều, AB song song và bằng ED. Tuy nhiên, chiều từ A đến B ngược với chiều từ E đến D. Vậy AB = -ED. Đẳng thức AB = ED là sai.\n\nB. Lục giác đều có các cạnh bằng nhau, nên độ dài AB bằng độ dài AF. Đẳng thức |AB| = |AF| là đúng.\n\nC. Tứ giác OBCD là hình thoi, nên OD song song và bằng BC, cùng hướng. Vậy OD = BC. Đẳng thức này đúng.\n\nD. O là trung điểm của đường chéo BE, nên OB và OE là hai vectơ đối nhau. Vậy OB = -OE. Đẳng thức này đúng.\n\nLưu ý: Mệnh đề A sai. Các mệnh đề B, C,"
+    },
+    {
+      "question": "Cho hình bình hành ABGE. Đẳng thức nào sau đây đúng.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. BA = EG.",
+        "B. AG = BE.",
+        "C. GA = -BE.",
+        "D. BA = -GE."
+      ],
+      "correct_index": 3,
+      "solution": "Nếu ABGE là hình bình hành thì các cặp cạnh đối song song và bằng nhau, tạo thành các vectơ bằng nhau.\n\nAB = EG và BG = AE.\n\nA. BA = EG: Sai, BA = -AB = -EG.\n\nB. AG và BE là hai đường chéo, chúng không bằng nhau.\n\nD. BA = -AB. GE = -EG. Vì AB = EG nên -AB = -EG. Vậy BA = GE. Đẳng thức này đúng."
+    },
+    {
+      "question": "Cho hai điểm phân biệt A,",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 2.",
+        "B. Số vectơ (khác 0) có điểm đầu và điểm cuối lấy từ các điểm A, B là:",
+        "C. 13.",
+        "D. 12."
+      ],
+      "correct_index": 0,
+      "solution": "Với hai điểm A, B, ta có thể tạo ra hai vectơ khác 0:\n\nVectơ có điểm đầu A, điểm cuối B: AB.\n\nVectơ có điểm đầu B, điểm cuối A: BA."
+    },
+    {
+      "question": "Cho hình thoi ABCD cạnh a và góc BAD = 60°. Đẳng thức nào sau đây đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. |AB| = |AD|.",
+        "B. |BD| = a.",
+        "C. BD = A",
+        "D. BC = D"
+      ],
+      "correct_index": 1,
+      "solution": "Hình thoi ABCD có góc BAD = 60° và AB = AD = a nên tam giác ABD là tam giác đều.\n\nA. |AB| = |AD|: Đúng, vì là hình thoi.\n\nB. |BD| = a: Đúng, vì tam giác ABD đều.\n\nC. BD = AC (vectơ): Sai, hai đường chéo không cùng hướng.\n\nD. BC = DA (vectơ): Sai, BC = AD mới đúng.\n\nGiữa A và B, B cung cấp thông tin đặc trưng hơn từ giả thiết góc 60°. Thường những câu hỏi như vậy sẽ nhắm vào kết quả suy luận."
+    },
+    {
+      "question": "Gọi C là trung điểm của đoạn A",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. CA = C",
+        "B. Hãy chọn khẳng định đúng trong các khẳng định sau:",
+        "C. AB và CB ngược hướng.",
+        "D. |AB| = |CB|."
+      ],
+      "correct_index": 1,
+      "solution": "C là trung điểm AB, thứ tự các điểm là A - C - B.\n\nA. CA = CB (vectơ): Sai, đây là hai vectơ đối nhau (CA = -CB).\n\nB. AB và AC cùng hướng: Đúng, cả hai đều có hướng từ A về phía B.\n\nC. AB và CB ngược hướng: Sai, AB hướng từ A->B, CB hướng từ C->B, chúng cùng hướng.\n\nD. |AB| = |CB|: Sai, |AB| = 2|CB|."
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251120T141648Z"
+}

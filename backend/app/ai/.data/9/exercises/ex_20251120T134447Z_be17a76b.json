@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251120T134447Z_be17a76b",
+  "user_id": 9,
+  "topic": "Chương III: Góc lượng giác và Hệ thức lượng",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cho tập hợp X = {a, b, c}. Số tập hợp con của X là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 3.",
+        "B. 6.",
+        "C. 8.",
+        "D. 9."
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Giá trị của B = cos² 73° + cos² 87° + cos² 3° + cos² 17° là",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. √2.",
+        "B. 2.",
+        "C. -2.",
+        "D. 1."
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Cho tam giác ABC có a=8, b=10, góc C bằng 60°. Độ dài cạnh c là?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. c = 3√21.",
+        "B. c = 7√2.",
+        "C. c = 2√11.",
+        "D. c = 2√21."
+      ],
+      "correct_index": 3,
+      "solution": "D"
+    },
+    {
+      "question": "Tính giá trị của biểu thức P = sin 30°cos 60° + sin 60°cos 30°.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. P = 1.",
+        "B. P = 0.",
+        "C. P = √3.",
+        "D. P = -√3."
+      ],
+      "correct_index": 0,
+      "solution": "A"
+    },
+    {
+      "question": "Cho tam giác ABC đều cạnh 2a. Tính bán kính R của đường tròn ngoại tiếp tam giác AB",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 2a/√3.",
+        "B. 4a/3.",
+        "C.",
+        "D. 6a/√3."
+      ],
+      "correct_index": 0,
+      "solution": "A"
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251120T134447Z"
+}

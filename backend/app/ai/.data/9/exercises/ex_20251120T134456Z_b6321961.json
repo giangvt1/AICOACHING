@@ -1,0 +1,142 @@
+{
+  "id": "ex_20251120T134456Z_b6321961",
+  "user_id": 9,
+  "topic": "Chương V: Phương trình đường thẳng và đường tròn",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cho tập hợp C = {x ∈ ℕ | 2 < x ≤ 7}. Viết tập hợp C dưới dạng liệt kê các phần tử.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. {3, 4, 5, 6, 7}",
+        "B. {2, 3, 4, 5, 6, 7}",
+        "C. {3, 4, 5, 6}",
+        "D. (2, 7]"
+      ],
+      "correct_index": 0,
+      "solution": "A"
+    },
+    {
+      "question": "Cho giá trị gần đúng của 8/17 là 0,47. Sai số tuyệt đối của số 0,47 là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 0,001",
+        "B. 0,002",
+        "C. 0,003",
+        "D. 0,004"
+      ],
+      "correct_index": 0,
+      "solution": "A"
+    },
+    {
+      "question": "Viết các số gần đúng sau dưới dạng chuẩn: b = 2,4653245 ± 0,006.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 2,46",
+        "B. 2,47",
+        "C. 2,5",
+        "D. 2,465"
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Trong bốn lần cân một lượng hóa chất làm thí nghiệm ta thu được các kết quả sau đây với độ chính xác 0,001g : 5,382g ; 5,384g ; 5,385g ; 5,386g. Sai số tuyệt đối và số chữ số chắc của kết quả là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Sai số tuyệt đối là 0,001g và số chữ số chắc là 3 chữ số.",
+        "B. Sai số tuyệt đối là 0,001g và số chữ số chắc là 4 chữ số.",
+        "C. Sai số tuyệt đối là 0,002g và số chữ số chắc là 3 chữ số.",
+        "D. Sai số tuyệt đối là 0,002g và số chữ số chắc là 4 chữ số."
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Mệnh đề nào sau đây là một mệnh đề sai?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. ∃x ∈ ℤ, x² = 9",
+        "B. ∀x ∈ ℕ, x + 1 > 0",
+        "C. π là một số hữu tỉ",
+        "D. Hà Nội là thủ đô của Việt Nam"
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Một hình lập phương có cạnh là 2,4m ± 1cm. Cách viết chuẩn của diện tích toàn phần (sau khi quy tròn) là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 35m² ± 0,3m²",
+        "B. 34m² ± 0,3m²",
+        "C. 34,5m² ± 0,3m²",
+        "D. 34,5m² ± 0,1m²"
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Biết số gần đúng a = 7975421 có độ chính xác d = 150. Hãy ước lượng sai số tương đối của a.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. δa ≤ 0,0000099",
+        "B. δa ≤ 0,000039",
+        "C. δa ≥ 0,000039",
+        "D. δa < 0,000039"
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Quy tròn số 34567 đến hàng nghìn.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 34000",
+        "B. 35000",
+        "C. 34500",
+        "D. 34600"
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Ký hiệu khoa học của số –0,000567 là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. -567.10⁻⁶",
+        "B. –5,67.10⁻⁵",
+        "C. -567.10⁻⁴",
+        "D. -567.10⁻³"
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Biết số gần đúng a = 37975421 có độ chính xác d = 150. Hãy xác định các chữ số đáng tin của a.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 3, 7, 9",
+        "B. 3, 7, 9, 7",
+        "C. 3, 7, 9, 7, 5",
+        "D. 3, 7, 9, 7, 5, 4"
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251120T134456Z"
+}

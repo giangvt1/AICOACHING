@@ -1,0 +1,2081 @@
+[
+  {
+    "id": "q1",
+    "type": "question",
+    "text": "Cho mệnh đề A : \"Nghiệm của phương trình x² – 5 = 0 là số hữu tỉ\". Mệnh đề phủ định của mệnh đề trên là:",
+    "options": [
+      "A. Nghiệm của phương trình x² – 5 = 0 không là số hữu tỉ\".",
+      "B. Nghiệm của phương trình x² – 5 = 0 không là số vô tỉ\".",
+      "C. Phương trình x² – 5 = 0 vô nghiệm\".",
+      "D. Nghiệm của phương trình x² – 5 = 0 không là số nguyên\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Mệnh đề đã cho có dạng \"P\". Mệnh đề phủ định của \"P\" là \"Không phải P\".\n\nMệnh đề A khẳng định: \"Nghiệm của phương trình... là số hữu tỉ\".\n\nPhủ định của \"là số hữu tỉ\" là \"không là số hữu tỉ\".\n\nDo đó, mệnh đề phủ định là: \"Nghiệm của phương trình x² – 5 = 0 không là số hữu tỉ\".\n\nCác đáp án khác:\n\nB: \"không là số vô tỉ\" có nghĩa là \"là số hữu tỉ\", đây chính là mệnh đề gốc.\n\nC và D thay đổi nội dung của mệnh đề chứ không phải là phủ định.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q2",
+    "type": "question",
+    "text": "Cho số tự nhiên n. Xét mệnh đề \"Nếu số tự nhiên n chia hết cho 4 thì n chia hết cho 2\". Mệnh đề đảo của mệnh đề đó là:",
+    "options": [
+      "A. Nếu số tự nhiên n chia hết cho 2 thì n không chia hết cho 4\".",
+      "B. Nếu số tự nhiên n chia hết cho 4 thì n không chia hết cho 2\".",
+      "C. Nếu số tự nhiên n chia hết cho 2 thì n chia hết cho 4\".",
+      "D. Nếu số tự nhiên n không chia hết cho 2 thì n không chia hết cho 4\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề đã cho có dạng \"Nếu P thì Q\", trong đó:\n\nP: \"số tự nhiên n chia hết cho 4\"\n\nQ: \"n chia hết cho 2\"\n\nMệnh đề đảo của \"Nếu P thì Q\" là \"Nếu Q thì P\".\n\nÁp dụng vào câu hỏi, mệnh đề đảo sẽ là \"Nếu n chia hết cho 2 thì số tự nhiên n chia hết cho 4\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q3",
+    "type": "question",
+    "text": "Cho tứ giác ABC",
+    "options": [
+      "A. Nếu tứ giác ABCD là hình chữ nhật thì tứ giác ABCD không có hai đường chéo bằng nhau\".",
+      "B. Nếu tứ giác ABCD không có hai đường chéo bằng nhau thì tứ giác ABCD không là hình chữ nhật\".",
+      "C. Nếu tứ giác ABCD có hai đường chéo bằng nhau thì tứ giác ABCD không là hình chữ nhật\".",
+      "D. Xét mệnh đề 'Nếu tứ giác ABCD là hình chữ nhật thì tứ giác ABCD có hai đường chéo bằng nhau\". Mệnh đề đảo của mệnh đề đó là:"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Mệnh đề đã cho có dạng \"Nếu P thì Q\", trong đó:\n\nP: \"tứ giác ABCD là hình chữ nhật\"\n\nQ: \"tứ giác ABCD có hai đường chéo bằng nhau\"\n\nMệnh đề đảo của \"Nếu P thì Q\" là \"Nếu Q thì P\".\n\nÁp dụng vào câu hỏi, mệnh đề đảo sẽ là \"Nếu tứ giác ABCD có hai đường chéo bằng nhau thì tứ giác ABCD là hình chữ nhật\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q4",
+    "type": "question",
+    "text": "Phủ định của mệnh đề \"∃x ∈ ℝ, x² − x + 1 < 0\" là mệnh đề:",
+    "options": [
+      "A. ∀x ∈ ℝ, x² − x + 1 ≥ 0\".",
+      "B. ∀x ∈ ℝ, x² − x + 1 < 0\".",
+      "C. ∀x ∈ ℝ, x² − x + 1 > 0\".",
+      "D. ∃x ∈ ℝ, x² − x + 1 ≥ 0\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Quy tắc phủ định mệnh đề chứa ký hiệu ∀, ∃: Phủ định của \"∃x ∈ X, P(x)\" là \"∀x ∈ X, P(x)\".\n\nÁp dụng vào mệnh đề đã cho:\n\nPhủ định của \"∃x ∈ ℝ\" là \"∀x ∈ ℝ\".\n\nPhủ định của \"x² − x + 1 < 0\" là \"x² − x + 1 ≥ 0\".\n\nKết hợp lại, mệnh đề phủ định là: \"∀x ∈ ℝ, x² − x + 1 ≥ 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q5",
+    "type": "question",
+    "text": "Phủ định của mệnh đề \"∃x ∈ ℚ, x = 1/x\" là mệnh đề:",
+    "options": [
+      "A. ∃x ∈ ℚ, x ≠ 1/x\".",
+      "B. ∀x ∈ ℚ, x = 1/x\".",
+      "C. ∀x ∉ ℚ, x ≠ 1/x\".",
+      "D. ∀x ∈ ℚ, x ≠ 1/x\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Quy tắc phủ định mệnh đề chứa ký hiệu ∀, ∃: Phủ định của \"∃x ∈ X, P(x)\" là \"∀x ∈ X, P(x)\".\n\nÁp dụng vào mệnh đề đã cho:\n\nPhủ định của \"∃x ∈ ℚ\" là \"∀x ∈ ℚ\".\n\nPhủ định của \"x = 1/x\" là \"x ≠ 1/x\".\n\nKết hợp lại, mệnh đề phủ định là: \"∀x ∈ ℚ, x ≠ 1/x\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q6",
+    "type": "question",
+    "text": "Phủ định của mệnh đề \"∀x ∈ ℝ, x² ≥ 0\" là mệnh đề:",
+    "options": [
+      "A. ∃x ∈ ℝ, x² ≥ 0\".",
+      "B. ∃x ∈ ℝ, x² > 0\".",
+      "C. ∃x ∈ ℝ, x² ≤ 0\".",
+      "D. ∃x ∈ ℝ, x² < 0\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Quy tắc phủ định mệnh đề chứa ký hiệu ∀, ∃: Phủ định của \"∀x ∈ X, P(x)\" là \"∃x ∈ X, P(x)\".\n\nÁp dụng vào mệnh đề đã cho:\n\nPhủ định của \"∀x ∈ ℝ\" là \"∃x ∈ ℝ\".\n\nPhủ định của \"x² ≥ 0\" là \"x² < 0\".\n\nKết hợp lại, mệnh đề phủ định là: \"∃x ∈ ℝ, x² < 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q7",
+    "type": "question",
+    "text": "Phủ định của mệnh đề \"∀x ∈ ℝ, |x| ≥ x\" là mệnh đề:",
+    "options": [
+      "A. ∀x ∈ ℝ, |x| < x\".",
+      "B. ∃x ∈ ℝ, |x| ≤ x\".",
+      "C. ∃x ∈ ℝ, |x| < x\".",
+      "D. ∃x ∈ ℝ, |x| > x\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Quy tắc phủ định mệnh đề chứa ký hiệu ∀, ∃: Phủ định của \"∀x ∈ X, P(x)\" là \"∃x ∈ X, P(x)\".\n\nÁp dụng vào mệnh đề đã cho:\n\nPhủ định của \"∀x ∈ ℝ\" là \"∃x ∈ ℝ\".\n\nPhủ định của \"|x| ≥ x\" là \"|x| < x\".\n\nKết hợp lại, mệnh đề phủ định là: \"∃x ∈ ℝ, |x| < x\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q8",
+    "type": "question",
+    "text": "Cho x, y là hai số thực cùng khác –1. Kết luận nào sau đây là đúng?",
+    "options": [
+      "A. x + y + xy ≠ –1.",
+      "B. x + y + xy = –1.",
+      "C. x + y = –2.",
+      "D. xy = –1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Ta xét biểu thức: x + y + xy + 1.\n\nTa có thể phân tích biểu thức này thành nhân tử:\nx + y + xy + 1 = (x + xy) + (y + 1) = x(1 + y) + (y + 1) = (x + 1)(y + 1).\n\nTheo giả thiết, x và y là hai số thực cùng khác –1.\n\nDo đó, x + 1 ≠ 0 và y + 1 ≠ 0.\n\nTích của hai số khác 0 là một số khác 0: (x + 1)(y + 1) ≠ 0.\n\nSuy ra: x + y + xy + 1 ≠ 0, hay x + y + xy ≠ –1.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q9",
+    "type": "question",
+    "text": "Cho a,b là hai số thực thoả mãn a + b < 2. Kết luận nào sau đây là đúng?",
+    "options": [
+      "A. Cả hai số a, b đều nhỏ hơn 1.",
+      "B. Có ít nhất một trong hai số a, b nhỏ hơn 1.",
+      "C. Có ít nhất một trong hai số a, b lớn hơn 1.",
+      "D. Cả hai số a, b không vượt quá 1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta sử dụng phương pháp chứng minh bằng phản chứng. Giả sử kết luận B là sai.\n\nPhủ định của \"Có ít nhất một trong hai số a, b nhỏ hơn 1\" là \"Cả hai số a và b đều không nhỏ hơn 1\", tức là a ≥ 1 và b ≥ 1.\n\nNếu a ≥ 1 và b ≥ 1, ta cộng vế theo vế: a + b ≥ 1 + 1 ⇒ a + b ≥ 2.\n\nĐiều này mâu thuẫn với giả thiết đã cho là a + b < 2.\n\nVậy giả sử ban đầu là sai. Do đó, phải có ít nhất một trong hai số a, b nhỏ hơn 1.\n\nLoại các đáp án khác:\n\nA sai: Ví dụ a = 0, b = 1.5. Khi đó a + b = 1.5 < 2 nhưng b > 1.\n\nC",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q10",
+    "type": "question",
+    "text": "Mệnh đề là một khẳng định:",
+    "options": [
+      "A. Hoặc đúng hoặc sai.",
+      "B. Đúng.",
+      "C. Vừa đúng vừa sai.",
+      "D. Sai."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Theo định nghĩa, một mệnh đề logic là một câu khẳng định có tính đúng hoặc sai một cách rõ ràng.\n\nMột khẳng định không thể vừa đúng vừa sai.\n\nMột khẳng định chỉ là mệnh đề khi nó có một giá trị chân lý xác định (hoặc là \"đúng\", hoặc là \"sai\").\n\nDo đó, \"Hoặc đúng hoặc sai\" là mô tả đầy đủ và chính xác nhất cho một mệnh đề.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q11",
+    "type": "question",
+    "text": "Trong các câu sau, câu nào là mệnh đề?",
+    "options": [
+      "A. An học lớp mấy?",
+      "B. Các bạn hãy đọc đi!",
+      "C. Hôm nay là thứ mấy?",
+      "D. Việt Nam là một nước thuộc Châu Á."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Mệnh đề là một câu khẳng định có tính đúng hoặc sai.\n\nA và C là các câu hỏi, không phải câu khẳng định.\n\nB là một câu mệnh lệnh, không phải câu khẳng định.\n\nD là một câu khẳng định và nó có tính đúng (Việt Nam thực sự là một nước thuộc Châu Á). Do đó, D là một mệnh đề.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q12",
+    "type": "question",
+    "text": "Phát biểu nào sau đây là một mệnh đề?",
+    "options": [
+      "A. Mùa thu Hà Nội đẹp quá!",
+      "B. Hà Nội là thủ đô của Việt Nam.",
+      "C. Bạn có đi học không?",
+      "D. Đề thi môn Toán khó quá!"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "A và D là các câu cảm thán, thể hiện quan điểm cá nhân, không có tính đúng sai khách quan.\n\nC là một câu hỏi.\n\nB là một câu khẳng định có tính đúng sai rõ ràng (và đây là một khẳng định đúng). Do đó, B là một mệnh đề.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q13",
+    "type": "question",
+    "text": "Trong các câu sau, có bao nhiêu câu là mệnh đề?\na) Mấy giờ rồi?\nb) Buôn Mê Thuột là thành phố của Đắk Lắk.\nc) 2019 là số nguyên tố.\nd) Làm việc đi!",
+    "options": [
+      "A. 4",
+      "B. 2.",
+      "C. 3.",
+      "D. 1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "a) \"Mấy giờ rồi?\" là câu hỏi, không phải mệnh đề.\n\nb) \"Buôn Mê Thuột là thành phố của Đắk Lắk.\" là một khẳng định đúng, vậy đây là mệnh đề.\n\nc) \"2019 là số nguyên tố.\" là một khẳng định. Ta có 2019 chia hết cho 3 (vì 2+0+1+9=12 chia hết cho 3), nên 2019 là hợp số. Do đó, khẳng định này sai. Vì nó là một khẳng định sai nên nó là một mệnh đề.\n\nd) \"Làm việc đi!\" là câu mệnh lệnh, không phải mệnh đề.\n\nVậy có 2 câu là mệnh đề: b và c.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q14",
+    "type": "question",
+    "text": "Trong các câu sau, câu nào không phải mệnh đề?",
+    "options": [
+      "A. 8 là số chính phương.",
+      "B. Hà Nội là thủ đô Việt Nam.",
+      "C. Buồn ngủ quá!",
+      "D. Hình thoi có hai đường chéo vuông góc với nhau."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A. \"8 là số chính phương\" là một khẳng định sai (vì không có số nguyên nào bình phương bằng 8), do đó nó là một mệnh đề.\n\nB. \"Hà Nội là thủ đô Việt Nam\" là một khẳng định đúng, do đó nó là một mệnh đề.\n\nC. \"Buồn ngủ quá!\" là một câu cảm thán, thể hiện cảm xúc, không có tính đúng sai. Do đó, nó không phải là mệnh đề.\n\nD. \"Hình thoi có hai đường chéo vuông góc với nhau\" là một khẳng định đúng (tính chất hình học), do đó nó là một mệnh đề.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q15",
+    "type": "question",
+    "text": "Trong số các câu sau, câu nào là mệnh đề?",
+    "options": [
+      "A. Thời tiết hôm nay thật đẹp!",
+      "B. Các bạn có làm được bài kiểm tra này không?",
+      "C. Số 15 chia hết cho 2.",
+      "D. Chúc các bạn đạt điểm như mong đợi!"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A và D là câu cảm thán/lời chúc, không phải mệnh đề.\n\nB là câu hỏi, không phải mệnh đề.\n\nC. \"Số 15 chia hết cho 2\" là một khẳng định, và khẳng định này sai. Vì có tính đúng/sai rõ ràng nên nó là một mệnh đề.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q16",
+    "type": "question",
+    "text": "Trong các câu sau có bao nhiêu câu là mệnh đề?\na) Huế là một thành phố của Việt Nam.\nb) Sông Hương làm thành phố Huế thêm thơ mộng.\nc) Hãy trả lời câu hỏi này!\nd) 5 + 9 = 24.\ne) 6 + 81 = 25.\nf) Bạn có rỗi tối nay không?\ng) x + 2 = 11.",
+    "options": [
+      "A. 4.",
+      "B. 2.",
+      "C. 1.",
+      "D. 3."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "a) Là mệnh đề (đúng).\n\nb) Là mệnh đề (tính thơ mộng là chủ quan nhưng câu này được trình bày như một sự thật, có thể coi là mệnh đề đúng).\n\nc) Là câu mệnh lệnh, không phải mệnh đề.\n\nd) \"5 + 9 = 24\" (tức 14 = 24) là mệnh đề (sai).\n\ne) \"6 + 81 = 25\" (tức 87 = 25) là mệnh đề (sai).\n\nf) Là câu hỏi, không phải mệnh đề.\n\ng) \"x + 2 = 11\" là mệnh đề chứa biến, không phải mệnh đề vì tính đúng sai phụ thuộc vào giá trị của x.\n\nVậy có 4 câu là mệnh đề: a, b, d, e.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q17",
+    "type": "question",
+    "text": "Trong các câu sau có bao nhiêu câu là mệnh đề:\n(1): Số 3 là một số chẵn.\n(2): 2x + 1 = 3.\n(3): Các em hãy cố gắng làm bài thi cho tốt.\n(4): 1 < 3 < 4 < 2",
+    "options": [
+      "A. 2.",
+      "B. 3.",
+      "C. 1.",
+      "D. 4."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "(1) \"Số 3 là một số chẵn\" là một khẳng định sai, do đó là một mệnh đề.\n\n(2) \"2x + 1 = 3\" là mệnh đề chứa biến, không phải mệnh đề.\n\n(3) Là câu mệnh lệnh/cổ vũ, không phải mệnh đề.\n\n(4) \"1 < 3 < 4 < 2\" là một chuỗi các bất đẳng thức. Ta có 1 < 3 (đúng), 3 < 4 (đúng), nhưng 4 < 2 (sai). Toàn bộ khẳng định này là sai, do đó nó là một mệnh đề.\n\nVậy có 2 mệnh đề là (1) và (4).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q18",
+    "type": "question",
+    "text": "Trong các câu sau, câu nào là mệnh đề đúng?",
+    "options": [
+      "A. Người miền Trung khổ quá!",
+      "B. Sài Gòn là thủ đô của nước Việt Nam.",
+      "C. 5 là số lẻ.",
+      "D. Phương trình x – 1 = 0 vô nghiệm."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A là câu cảm thán, không phải mệnh đề.\n\nB là một mệnh đề sai (Hà Nội là thủ đô).\n\nC là một mệnh đề đúng (5 là số lẻ).\n\nD là một mệnh đề sai (phương trình x – 1 = 0 có nghiệm x = 1).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q19",
+    "type": "question",
+    "text": "Trong các câu sau, câu nào không phải là một mệnh đề",
+    "options": [
+      "A. Ăn phở rất ngon!",
+      "B. 8 – 4 = 4.",
+      "C. Số 18 chia hết cho 6.",
+      "D. 2 + 8 = 6."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "A là câu cảm thán, không phải mệnh đề.\n\nB là mệnh đề (đúng).\n\nC là mệnh đề (đúng).\n\nD là mệnh đề (sai).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q20",
+    "type": "question",
+    "text": "Trong các câu sau, có bao nhiêu câu là mệnh đề?\na) Hãy học thật tốt!\nb) Số 32 chia hết cho 2.\nc) Số 7 là số nguyên tố.\nd) Số thực x là số chẵn.",
+    "options": [
+      "A. 1.",
+      "B. 4.",
+      "C. 2.",
+      "D. 3."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "a) Là câu mệnh lệnh, không phải mệnh đề.\n\nb) Là mệnh đề (đúng).\n\nc) Là mệnh đề (đúng).\n\nd) \"Số thực x là số chẵn\" là mệnh đề chứa biến, không phải mệnh đề.\n\nVậy có 2 mệnh đề là b và c. Chỉnh sửa: Câu hỏi có thể đang hiểu \"số thực x là số chẵn\" là một khẳng định về khái niệm, và nó sai vì khái niệm chẵn/lẻ chỉ áp dụng cho số nguyên. Dưới góc độ này, nó là một mệnh đề sai. Nếu hiểu theo hướng này thì có 3 mệnh đề (b, c, d). Thường thì d được coi là mệnh đề chứa biến. Tuy nhiên, xem xét các đáp án,",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q21",
+    "type": "question",
+    "text": "Chọn phát biểu không phải là mệnh đề.",
+    "options": [
+      "A. Số 19 chia hết cho 2.",
+      "B. Hình thoi có hai đường chéo vuông góc.",
+      "C. Hôm nay trời không mưa.",
+      "D. Berlin là thủ đô của Pháp."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A. Là một mệnh đề (sai).\n\nB. Là một mệnh đề (đúng).\n\nC. Đây là một câu khẳng định có tính đúng sai phụ thuộc vào thời điểm và địa điểm nói. Nó không có giá trị chân lý cố định, khách quan. Trong toán học, những câu như vậy thường không được xem là mệnh đề.\n\nD. Là một mệnh đề (sai, Paris mới là thủ đô của Pháp).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q22",
+    "type": "question",
+    "text": "Trong các câu sau đây, câu nào là mệnh đề?",
+    "options": [
+      "A. Bạn có chăm học không.",
+      "B. Các bạn hãy làm bài đi.",
+      "C. Việt Nam là một nước thuộc châu Á.",
+      "D. Anh học lớp mấy."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A và D là câu hỏi.\n\nB là câu mệnh lệnh.\n\nC là một câu khẳng định đúng, do đó là một mệnh đề.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q23",
+    "type": "question",
+    "text": "Câu nào trong các câu sau không phải là mệnh đề?",
+    "options": [
+      "A. 4/2 = 2.",
+      "B. √2 là một số hữu tỷ.",
+      "C. 2 + 2 = 5.",
+      "D. π có phải là một số hữu tỷ không?"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "A là mệnh đề (đúng).\n\nB là mệnh đề (sai).\n\nC là mệnh đề (sai).\n\nD là một câu hỏi, không phải là một câu khẳng định.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q24",
+    "type": "question",
+    "text": "Trong các câu sau, câu nào là mệnh đề?",
+    "options": [
+      "A. Tiết trời mùa thu thật dễ chịu!",
+      "B. Số 15 không chia hết cho 2.",
+      "C. Bạn An có đi học không?",
+      "D. Chúc các bạn học sinh thi đạt kết quả tốt!"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "A và D là câu cảm thán/lời chúc.\n\nC là câu hỏi.\n\nB là một khẳng định đúng, do đó là một mệnh đề.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q25",
+    "type": "question",
+    "text": "Khẳng định nào sau đây là mệnh đề?",
+    "options": [
+      "A. Sao hỏa không thuộc hệ thái dương.",
+      "B. Số x nhỏ hơn 1.",
+      "C. TP.HCM ở miền nào của nước Việt Nam.",
+      "D. Học hành tiến bộ nhé !"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "A. \"Sao hỏa không thuộc hệ thái dương\" là một khẳng định sai (Sao Hỏa thuộc Hệ Mặt Trời), do đó nó là một mệnh đề.\n\nB. Là mệnh đề chứa biến.\n\nC. Là câu hỏi.\n\nD. Là câu mệnh lệnh/lời chúc.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q26",
+    "type": "question",
+    "text": "Trong các câu sau, câu nào là mệnh đề?",
+    "options": [
+      "A. Số n là một số chẵn.",
+      "B. Hãy cố gắng học thật tốt!.",
+      "C. Số 24 chia hết cho 6.",
+      "D. Bạn đã đội mũ bảo hiểm chưa?"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A. Là mệnh đề chứa biến.\n\nB. Là câu mệnh lệnh.\n\nC. Là một khẳng định đúng (24 = 6 * 4), do đó là một mệnh đề.\n\nD. Là câu hỏi.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q27",
+    "type": "question",
+    "text": "Trong các câu sau, câu nào là mệnh đề?",
+    "options": [
+      "A. Nha Trang là một thành phố ven biển ở Việt Nam.",
+      "B. Bạn đi đâu đấy?.",
+      "C. Bài hát này hay thật!.",
+      "D. Không được nói chuyện riêng trong giờ học."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "A. Là một khẳng định đúng, do đó là một mệnh đề.\n\nB. Là câu hỏi.\n\nC. Là câu cảm thán.\n\nD. Là câu mệnh lệnh.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q28",
+    "type": "question",
+    "text": "Trong các phát biểu sau, phát biểu nào là mệnh đề đúng?",
+    "options": [
+      "A. Tổng của hai cạnh một tam giác lớn hơn cạnh thứ ba.",
+      "B. Bạn có chăm học không?",
+      "C. Con thì thấp hơn cha.",
+      "D. Tam giác ABC cân tại A thì BC = A"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "A. Đây là nội dung của bất đẳng thức tam giác, là một định lý toán học, do đó là một mệnh đề đúng.\n\nB. Là câu hỏi.\n\nC. Tính đúng sai không rõ ràng (tùy thuộc vào \"con\" nào, \"cha\" nào), không phải là mệnh đề toán học.\n\nD. Là một mệnh đề sai. Nếu tam giác ABC cân tại A thì AB = AC.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q29",
+    "type": "question",
+    "text": "Trong các mệnh đề sau, mệnh đề nào là mệnh đề đúng?",
+    "options": [
+      "A. 2 + 6 = 7.",
+      "B. x² + 1 > 0, ∀x ∈ ℝ.",
+      "C. 14 là số nguyên tố.",
+      "D. Nếu một tam giác có một góc bằng 60° thì tam giác đó là đều."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "A. Là mệnh đề sai (2 + 6 = 8).\n\nB. Là mệnh đề đúng. Vì ∀x ∈ ℝ, ta có x² ≥ 0, suy ra x² + 1 ≥ 1 > 0.\n\nC. Là mệnh đề sai (14 chia hết cho 2 và 7).\n\nD. Là mệnh đề sai. Một tam giác có một góc 60° chưa chắc là tam giác đều (ví dụ: tam giác vuông có các góc 30°, 60°, 90°).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q30",
+    "type": "question",
+    "text": "Trong các câu sau, câu nào là một mệnh đề đúng?",
+    "options": [
+      "A. √9 > 3\".",
+      "B. √9 ≥ 3\".",
+      "C. √9 < 3\".",
+      "D. √9 = 81\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta có √9 = 3.\n\nA. \"3 > 3\" là sai.\n\nB. \"3 ≥ 3\" là đúng (vì có dấu bằng).\n\nC. \"3 < 3\" là sai.\n\nD. \"3 = 81\" là sai.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q31",
+    "type": "question",
+    "text": "Trong các mệnh đề sau đây, mệnh đề nào đúng?",
+    "options": [
+      "A. Không có số chẵn nào là số nguyên tố.",
+      "B. ∀x ∈ ℝ, -x² < 0.",
+      "C. ∃x ∈ ℤ, 2x² – 8 = 0.",
+      "D. Phương trình 3x² – 6 = 0 có nghiệm hữu tỷ."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A. Sai. Số 2 là số nguyên tố chẵn.\n\nB. Sai. Với x = 0, thì -x² = 0, không thỏa mãn -x² < 0.\n\nC. Đúng. Giải phương trình 2x² – 8 = 0 ⇔ 2x² = 8 ⇔ x² = 4 ⇔ x = ±2. Cả 2 và -2 đều là số nguyên (ℤ). Vậy tồn tại x thuộc ℤ thỏa mãn.\n\nD. Sai. Giải phương trình 3x² – 6 = 0 ⇔ 3x² = 6 ⇔ x² = 2 ⇔ x = ±√2. Cả hai nghiệm đều là số vô tỉ, không phải số hữu tỉ.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q32",
+    "type": "question",
+    "text": "Trong các câu sau, có bao nhiêu câu là mệnh đề?\n(I) Hãy mở cửa ra!\n(II) Số 25 chia hết cho 8.\n(III) Số 17 là số nguyên tố.\n(IV) Bạn thích ăn phở không?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "(I) Là câu mệnh lệnh.\n\n(II) Là một khẳng định sai, do đó là một mệnh đề.\n\n(III) Là một khẳng định đúng, do đó là một mệnh đề.\n\n(IV) Là câu hỏi.\n\nVậy có 2 câu là mệnh đề: (II) và (III).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q33",
+    "type": "question",
+    "text": "Cho mệnh đề chứa biến P(x): ”x + 10 ≥ x²” với x là số tự nhiên. Mệnh đề nào sau đây sai?",
+    "options": [
+      "A. P(1).",
+      "B. P(2).",
+      "C. P(3).",
+      "D. P(4)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Ta thay lần lượt các giá trị của x vào mệnh đề P(x) để kiểm tra tính đúng sai:\n\nA. P(1): \"1 + 10 ≥ 1²\" ⇔ \"11 ≥ 1\" (Đúng).\n\nB. P(2): \"2 + 10 ≥ 2²\" ⇔ \"12 ≥ 4\" (Đúng).\n\nC. P(3): \"3 + 10 ≥ 3²\" ⇔ \"13 ≥ 9\" (Đúng).\n\nD. P(4): \"4 + 10 ≥ 4²\" ⇔ \"14 ≥ 16\" (Sai).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q34",
+    "type": "question",
+    "text": "Tìm tất cả các giá trị thực của x để mệnh đề P: “2x – 1 ≥ 0” là mệnh đề sai?",
+    "options": [
+      "A. x ≤ 1/2.",
+      "B. x ≥ 1/2.",
+      "C. x > 1/2.",
+      "D. x < 1/2."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Mệnh đề P: “2x – 1 ≥ 0” là mệnh đề sai khi và chỉ khi phủ định của nó là đúng.\n\nPhủ định của \"2x – 1 ≥ 0\" là \"2x – 1 < 0\".\n\nGiải bất phương trình: 2x – 1 < 0 ⇔ 2x < 1 ⇔ x < 1/2.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q35",
+    "type": "question",
+    "text": "Với giá trị nào của x ∈ ℝ thì mệnh đề chứa biến P(x): \"x + 1 < x²\" là đúng?",
+    "options": [
+      "A. x = 0.",
+      "B. x = 2.",
+      "C. x = 1.",
+      "D. x = 1/2."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta thay lần lượt các giá trị của x vào mệnh đề P(x):\n\nA. Với x = 0: \"0 + 1 < 0²\" ⇔ \"1 < 0\" (Sai).\n\nB. Với x = 2: \"2 + 1 < 2²\" ⇔ \"3 < 4\" (Đúng).\n\nC. Với x = 1: \"1 + 1 < 1²\" ⇔ \"2 < 1\" (Sai).\n\nD. Với x = 1/2: \"1/2 + 1 < (1/2)²\" ⇔ \"3/2 < 1/4\" (Sai).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q36",
+    "type": "question",
+    "text": "Cho mệnh đề chứa biến P(x): \"x² = 4\", x ∈ ℝ. Chọn mệnh đề đúng trong các mệnh đề sau.",
+    "options": [
+      "A. P(4).",
+      "B. P(–3).",
+      "C. P(–2).",
+      "D. P(–1)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề P(x) đúng khi giá trị của x thay vào làm cho đẳng thức \"x² = 4\" trở nên đúng.\n\nA. P(4): \"4² = 4\" ⇔ \"16 = 4\" (Sai).\n\nB. P(–3): \"(–3)² = 4\" ⇔ \"9 = 4\" (Sai).\n\nC. P(–2): \"(–2)² = 4\" ⇔ \"4 = 4\" (Đúng).\n\nD. P(–1): \"(–1)² = 4\" ⇔ \"1 = 4\" (Sai).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q37",
+    "type": "question",
+    "text": "Với giá trị nào của x mệnh đề chứa biến P(x): 2x² – 1 < 0 là mệnh đề đúng:",
+    "options": [
+      "A. 1.",
+      "B. 5.",
+      "C. 0.",
+      "D. 4/5."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Ta giải bất phương trình 2x² – 1 < 0 ⇔ 2x² < 1 ⇔ x² < 1/2 ⇔ -√(1/2) < x < √(1/2).\n\nTức là, -1/√2 < x < 1/√2, hay khoảng (-0.707; 0.707).\n\nKiểm tra các đáp án:\n\nA. x = 1 không thuộc khoảng trên.\n\nB. x = 5 không thuộc khoảng trên.\n\nC. x = 0 thuộc khoảng trên.\n\nD. x = 4/5 = 0.8 không thuộc khoảng trên.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q38",
+    "type": "question",
+    "text": "Trong các mệnh đề sau, mệnh đề nào đúng?",
+    "options": [
+      "A. Nếu em chăm chỉ thì em thành công.",
+      "B. Nếu a chia hết cho 9 thì a chia hết cho 3.",
+      "C. Nếu một tam giác có một góc bằng 60° thì tam giác đó đều.",
+      "D. Nếu a ≥ b thì a² ≥ b²."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "A. Đây là mệnh đề không thuộc toán học, tính đúng sai không thể xác định chặt chẽ.\n\nB. Đúng. Nếu a chia hết cho 9 thì a = 9k với k là số nguyên. Suy ra a = 3(3k), do đó a chia hết cho 3.\n\nC. Sai. Một tam giác có một góc 60° không đủ để kết luận nó là tam giác đều.\n\nD. Sai. Mệnh đề này không đúng với số âm. Ví dụ: a = -3, b = -4. Ta có -3 ≥ -4, nhưng (-3)² = 9 và (-4)² = 16, do đó 9 < 16, tức là a² < b².",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q39",
+    "type": "question",
+    "text": "Hãy chọn mệnh đề sai.",
+    "options": [
+      "A. 2 + √3 = 1/(2 – √3)",
+      "B. 1 là số nguyên tố.",
+      "C. (√3 + √2)² – (√2 – √3)² = 2√24",
+      "D. –2 ∈ ℤ."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "A. Ta có 1/(2 – √3) = (2 + √3) / ((2 – √3)(2 + √3)) = (2 + √3) / (4 – 3) = 2 + √3. Mệnh đề A đúng.\n\nB. Số nguyên tố là số tự nhiên lớn hơn 1, chỉ có hai ước là 1 và chính nó. Số 1 không phải là số nguyên tố. Mệnh đề B sai.\n\nC. (√3 + √2)² – (√2 – √3)² = (3 + 2√6 + 2) – (2 – 2√6 + 3) = (5 + 2√6) – (5 – 2√6) = 4√6 = √96. Ta có 2√24 = 2√(4*6) = 4√6. Mệnh đề C đúng.\n\nD. –2 là một số nguyên, thuộc tập hợp ℤ. Mệnh đề D đúng.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q40",
+    "type": "question",
+    "text": "Cho mệnh đề chứa biến P(x): \"x + 15 ≤ x²\" với x là số thực. Mệnh đề nào sau đây là mệnh đề đúng?",
+    "options": [
+      "A. P(2).",
+      "B. P(3).",
+      "C. P(–4).",
+      "D. P(0)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A. P(2): \"2 + 15 ≤ 2²\" ⇔ \"17 ≤ 4\" (Sai).\n\nB. P(3): \"3 + 15 ≤ 3²\" ⇔ \"18 ≤ 9\" (Sai).\n\nC. P(–4): \"–4 + 15 ≤ (–4)²\" ⇔ \"11 ≤ 16\" (Đúng).\n\nD. P(0): \"0 + 15 ≤ 0²\" ⇔ \"15 ≤ 0\" (Sai).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q41",
+    "type": "question",
+    "text": "Cho mệnh đề chứa biến P(x) = {x ∈ ℤ: |x² – 2x – 3| = x² + 2x + 3}. Trong đoạn [–2020; 2021] có bao nhiêu giá trị của x để mệnh đề chứa biến P(x) là mệnh đề đúng?",
+    "options": [
+      "A. 2020.",
+      "B. 2021.",
+      "C. 2022.",
+      "D. 2023."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta giải phương trình |x² – 2x – 3| = x² + 2x + 3.\n\nĐiều kiện để phương trình có nghĩa là vế phải không âm: x² + 2x + 3 ≥ 0. Biểu thức này có ∆' = 1² - 1*3 = -2 < 0 và hệ số a=1>0 nên x² + 2x + 3 > 0 với mọi x.\n\nPhương trình trở thành:\n\nx² – 2x – 3 = x² + 2x + 3 ⇔ –4x = 6 ⇔ x = –3/2 (không phải số nguyên, loại).\n\nx² – 2x – 3 = –(x² + 2x + 3) ⇔ x² – 2x – 3 = –x² – 2x – 3 ⇔ 2x² = 0 ⇔ x = 0 (là số nguyên, nhận).\n\nTuy nhiên, cần xét dấu của biểu thức trong trị tuyệt đối: x² – 2x – 3 = (x+1)(x-3).\n\nNế",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q42",
+    "type": "question",
+    "text": "Cho hai mệnh đề P và Q. Tìm điều kiện để mệnh đề P ⇒ Q sai.",
+    "options": [
+      "A. P đúng và Q đúng.",
+      "B. P sai và Q đúng.",
+      "C. P đúng và Q sai.",
+      "D. P sai và Q sai."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề kéo theo \"P ⇒ Q\" (Nếu P thì Q) chỉ sai trong một trường hợp duy nhất: khi mệnh đề P (giả thiết) đúng và mệnh đề Q (kết luận) sai.\n\nTrong tất cả các trường hợp còn lại (P sai; hoặc cả P và Q đều đúng), mệnh đề P ⇒ Q được coi là đúng.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q43",
+    "type": "question",
+    "text": "Trong các mệnh đề dưới đây, mệnh đề nào là mệnh đề kéo theo?",
+    "options": [
+      "A. “Nếu x > 1 thì x² > 1”.",
+      "B. x³ > 1 khi và chỉ khi x > 1\".",
+      "C. “1 là một số lẻ”.",
+      "D. “x² > 1 ⇔ x ∈ (–∞; –1) ∪ (1; +∞)”."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Mệnh đề kéo theo có cấu trúc \"Nếu P thì Q\" hoặc \"P kéo theo Q\" hoặc \"P là điều kiện đủ cho Q\".\n\nA. Có cấu trúc \"Nếu... thì...\", đây chính là mệnh đề kéo theo.\n\nB và D sử dụng thuật ngữ \"khi và chỉ khi\" hoặc \"⇔\", đây là mệnh đề tương đương.\n\nC là một mệnh đề đơn, không phải mệnh đề kéo theo.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q44",
+    "type": "question",
+    "text": "Trong các mệnh đề sau, mệnh đề nào sai?\nΑ. –π < –2 ⇔ π² < 4.\nΒ. π < 4 ⇔ π² < 16.",
+    "options": [
+      "A. Mệnh đề \"-π < -2\" là đúng (vì π ≈ 3.14, nên -3.14 < -2). Mệnh đề \"π² < 4\" là sai (vì π² ≈ 9.86 > 4). Một mệnh đề tương đương \"P ⇔ Q\" chỉ đúng khi P và Q có cùng giá trị chân lý. Ở đây P đúng, Q sai nên mệnh đề tương đương này sai.",
+      "B. Mệnh đề \"π < 4\" là đúng. Mệnh đề \"π² < 16\" là đúng. Do đó mệnh đề tương đương này đúng.",
+      "C. √23 < 5 ⇒ 2√23 < 2.5.",
+      "D. √23 < 5 ⇒ –2√23 > –2.5."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "A. Mệnh đề \"-π < -2\" là đúng (vì π ≈ 3.14, nên -3.14 < -2). Mệnh đề \"π² < 4\" là sai (vì π² ≈ 9.86 > 4). Một mệnh đề tương đương \"P ⇔ Q\" chỉ đúng khi P và Q có cùng giá trị chân lý. Ở đây P đúng, Q sai nên mệnh đề tương đương này sai.\n\nB. Mệnh đề \"π < 4\" là đúng. Mệnh đề \"π² < 16\" là đúng. Do đó mệnh đề tương đương này đúng.\n\nC. Mệnh đề \"√23 < 5\" là đúng (vì √23 ≈ 4.8 và √25 = 5). Mệnh đề \"2√23 < 2.5\" là sai. Đây là mệnh đề kéo theo có giả thiết đúng, kết luận sai, nên mệnh đề này sai.\n\nD. Mệnh đ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q45",
+    "type": "question",
+    "text": "Cách phát biểu nào sau đây không thể dùng để phát biểu mệnh đề: A ⇒",
+    "options": [
+      "A. Nếu A thì",
+      "B. ",
+      "C. A là điều kiện cần để có",
+      "D. A là điều kiện đủ để có"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề kéo theo A ⇒ B có thể được phát biểu theo nhiều cách:\n\n\"Nếu A thì B\" (định nghĩa cơ bản).\n\n\"A kéo theo B\".\n\n\"A là điều kiện đủ để có B\".\n\n\"B là điều kiện cần để có A\".\n\nCách phát biểu C: \"A là điều kiện cần để có B\" tương đương với mệnh đề B ⇒ A, chứ không phải A ⇒ B.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q46",
+    "type": "question",
+    "text": "Cho mệnh đề P ⇒ Q: \"Nếu 3² + 1 là số chẵn thì 3 là số lẻ\". Chọn mệnh đề đúng:",
+    "options": [
+      "A. Mệnh đề Q ⇒ P là mệnh đề sai.",
+      "B. Cả mệnh đề P ⇒ Q và Q ⇒ P đều sai.",
+      "C. Mệnh đề P ⇒ Q là mệnh đề sai.",
+      "D. Cả mệnh đề P ⇒ Q và Q ⇒ P đều đúng."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Xét mệnh đề P ⇒ Q:\n\nP: \"3² + 1 là số chẵn\". Ta có 3² + 1 = 10, là số chẵn. Vậy P đúng.\n\nQ: \"3 là số lẻ\". Đây là mệnh đề đúng.\n\nVì P đúng và Q đúng, nên mệnh đề P ⇒ Q đúng.\n\nXét mệnh đề đảo Q ⇒ P: \"Nếu 3 là số lẻ thì 3² + 1 là số chẵn\".\n\nQ đúng, P đúng.\n\nVì Q đúng và P đúng, nên mệnh đề Q ⇒ P đúng.\n\nVậy cả hai mệnh đề P ⇒ Q và Q ⇒ P đều đúng.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q47",
+    "type": "question",
+    "text": "Mệnh đề: “Nếu một tứ giác là hình bình hành thì nó là hình thang” có thể được phát biểu lại là",
+    "options": [
+      "A. Tứ giác là hình thang là điều kiện đủ để là hình bình hành.",
+      "B. Tứ giác là hình bình hành là điều kiện cần để là hình thang.",
+      "C. Tứ giác là hình thang là điều kiện cần để là hình bình hành.",
+      "D. Tứ giác là hình thang là điều kiện cần và đủ để là hình bình hành."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề đã cho có dạng \"Nếu P thì Q\" với:\n\nP: \"một tứ giác là hình bình hành\"\n\nQ: \"nó là hình thang\" (Hình bình hành là trường hợp đặc biệt của hình thang có hai cạnh bên song song).\n\nMệnh đề \"Nếu P thì Q\" tương đương với \"P là điều kiện đủ để có Q\" hoặc \"Q là điều kiện cần để có P\".\n\nÁp dụng vào mệnh đề: \"Một tứ giác là hình thang là điều kiện cần để nó là hình bình hành\". Điều này khớp với đáp án C.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q48",
+    "type": "question",
+    "text": "Tìm mệnh đề sai.",
+    "options": [
+      "A. Hình thang ABCD nội tiếp đường tròn (O) ⇔ ABCD là hình thang cân.",
+      "B. 63 chia hết cho 7 ⇒ Hình bình hành có hai đường chéo vuông góc.",
+      "C. Tam giác ABC vuông tại C ⇔ AB² = CA² + CB².",
+      "D. 10 chia hết cho 5 ⇔ Hình vuông có hai đường chéo bằng nhau và vuông góc nhau."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "A: Là một tính chất hình học đúng. Hình thang nội tiếp được đường tròn khi và chỉ khi nó là hình thang cân. Mệnh đề tương đương này đúng.\n\nB: Đây là mệnh đề kéo theo \"P ⇒ Q\". P: \"63 chia hết cho 7\" là mệnh đề đúng. Q: \"Hình bình hành có hai đường chéo vuông góc\" (đây là tính chất của hình thoi, không phải mọi hình bình hành) là một mệnh đề sai. Mệnh đề kéo theo có P đúng, Q sai là một mệnh đề sai.\n\nC: Đây là định lý Pythagoras và định lý đảo, là một mệnh đề tương đương đúng.\n\nD: Mệnh đề \"P ⇔ Q\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q49",
+    "type": "question",
+    "text": "Cho định lí \"∀x ∈ X, P(x) ⇒ Q(x)\". Chọn khẳng định không đúng.",
+    "options": [
+      "A. P(x) là điều kiện đủ để có Q(x).",
+      "B. Q(x) là điều kiện cần để có P(x).",
+      "C. P(x) là giả thiết và Q(x) là kết luận.",
+      "D. P(x) là điều kiện cần để có Q(x)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Từ định lý P(x) ⇒ Q(x), ta có các cách phát biểu tương đương:\n\nP(x) là giả thiết, Q(x) là kết luận. (Khẳng định C đúng)\n\nP(x) là điều kiện đủ để có Q(x). (Khẳng định A đúng)\n\nQ(x) là điều kiện cần để có P(x). (Khẳng định B đúng)\n\nKhẳng định D, \"P(x) là điều kiện cần để có Q(x)\", tương đương với Q(x) ⇒ P(x), đây là mệnh đề đảo của định lý ban đầu và không nhất thiết phải đúng. Do đó, đây là khẳng định không đúng về định lý đã cho.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q50",
+    "type": "question",
+    "text": "Trong các mệnh đề sau, mệnh đề nào có mệnh đề đảo đúng?",
+    "options": [
+      "A. Nếu số nguyên n có chữ số tận cùng là 0 thì số nguyên n chia hết cho 5.",
+      "B. Nếu tứ giác ABCD là hình thoi thì tứ giác ABCD có hai đường chéo vuông góc với nhau.",
+      "C. Nếu tứ giác ABCD có hai đường chéo cắt nhau tại trung điểm mỗi đường thì tứ giác ABCD là hình chữ nhật",
+      "D. Nếu tứ giác ABCD là hình chữ nhật thì tứ giác ABCD có hai đường chéo bằng nhau."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Ta xét mệnh đề đảo của từng phương án.\n\nA. Mệnh đề đảo: \"Nếu số nguyên n chia hết cho 5 thì có chữ số tận cùng là 0\". Mệnh đề này sai (ví dụ: n = 15).\n\nB. Mệnh đề đảo: \"Nếu tứ giác ABCD có hai đường chéo vuông góc với nhau thì nó là hình thoi\". Mệnh đề này sai (ví dụ: hình con diều có thể có hai đường chéo vuông góc nhưng không phải hình thoi).\n\nC. Mệnh đề gốc: \"Nếu một tứ giác là hình bình hành thì nó là hình chữ nhật\". Mệnh đề này sai. Mệnh đề đảo: \"Nếu tứ giác ABCD là hình chữ nhật thì nó có ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q51",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây đúng?",
+    "options": [
+      "A. Hai tam giác bằng nhau là điều kiện cần để diện tích của chúng bằng nhau.",
+      "B. Số tự nhiên chia hết cho 5 là điều kiện đủ để nó có tận cùng bằng 5.",
+      "C. Điều kiện đủ để hình bình hành ABCD là hình thoi.",
+      "D. Tứ giác ABCD là hình thoi là điều kiện cần và đủ để tứ giác đó là hình bình hành và có hai đường chéo vuông góc với nhau."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "A. \"Hai tam giác bằng nhau\" (P) là điều kiện cần để \"diện tích bằng nhau\" (Q). Phát biểu này tương đương với mệnh đề Q ⇒ P: \"Nếu hai tam giác có diện tích bằng nhau thì chúng bằng nhau\". Đây là mệnh đề sai (ví dụ một tam giác vuông có cạnh 3, 4, 5 và một tam giác có cạnh 2, 6, √40 cùng có diện tích là 6 nhưng không bằng nhau).\n\nB. \"n chia hết cho 5\" (P) là điều kiện đủ để \"n có tận cùng bằng 5\" (Q). Phát biểu này tương đương với P ⇒ Q: \"Nếu n chia hết cho 5 thì n có tận cùng bằng 5\". Đây là mệnh",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q52",
+    "type": "question",
+    "text": "Phát biểu nào sau đây là sai?",
+    "options": [
+      "A. Điều kiện cần và đủ để tập A có n phần tử là tập A có 2ⁿ tập con.",
+      "B. Tập A có 2ⁿ tập con là điều kiện cần để tập A có n phần tử.",
+      "C. Không thể phát biểu mệnh đề : \"Nếu tập A có n phần tử thì tập A có 2ⁿ tập con\" dưới dạng điều kiện cần, điều kiện đủ.",
+      "D. Tập A có n phần tử là điều kiện đủ để tập A có 2ⁿ tập con."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Xét mệnh đề \"Tập A có n phần tử\" (P) và \"Tập A có 2ⁿ tập con\" (Q). Ta có định lý P ⇔ Q là một mệnh đề đúng.\n\nA. Phát biểu \"P là điều kiện cần và đủ để có Q\". Đúng vì P ⇔ Q.\n\nB. Phát biểu \"Q là điều kiện cần để có P\". Đúng vì P ⇒ Q (một trong hai chiều của mệnh đề tương đương).\n\nD. Phát biểu \"P là điều kiện đủ để có Q\". Đúng vì P ⇒ Q.\n\nC. Phát biểu này sai, vì mệnh đề \"Nếu tập A có n phần tử thì tập A có 2ⁿ tập con\" là một mệnh đề tương đương, nên hoàn toàn có thể phát biểu dưới dạng điều kiện cầ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q53",
+    "type": "question",
+    "text": "Cho mệnh đề: “Một số là số chính phương khi và chỉ khi chữ số tận cùng của nó là: 0; 1; 4; 5; 6; 9. Xét các khẳng định sau.\n(1) Không thể phát biểu mệnh đề trên bằng thuật ngữ điều kiện cần và đủ.\n(2) Điều kiện cần để một số là số chính phương là chữ số tận cùng của nó là một trong các số 0; 1; 4; 5; 6; 9.\n(3) Một số là số chính phương là điều kiện đủ để chữ số tận cùng của nó là 0; 1; 4; 5; 6; 9.\n(4) Điều kiện cần để một số có chữ số tận cùng 0; 1; 4; 5; 6; 9 là số đó là số chính phương.\nHãy cho biết có bao nhiêu phát biểu đúng?",
+    "options": [
+      "A. 3.",
+      "B. 2.",
+      "C. 1.",
+      "D. 0."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Mệnh đề gốc \"P khi và chỉ khi Q\" là mệnh đề sai. Vì \"Một số là số chính phương\" ⇒ \"chữ số tận cùng là 0; 1; 4; 5; 6; 9\" là đúng, nhưng mệnh đề đảo \"chữ số tận cùng là 0; 1; 4; 5; 6; 9\" ⇒ \"Một số là số chính phương\" là sai (ví dụ: số 10 có tận cùng là 0 nhưng không phải số chính phương).\n\n(1) Sai. Mệnh đề \"khi và chỉ khi\" chính là \"điều kiện cần và đủ\".\n\n(2) \"Điều kiện cần để một số là số chính phương là chữ số tận cùng của nó là 0; 1; 4; 5; 6; 9\" tương đương với \"Nếu một số là số chính phương th",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q54",
+    "type": "question",
+    "text": "Cho mệnh đề: “Nếu một tam giác có hai góc bằng nhau thì tam giác đó là tam giác đều”. Mệnh đề nào dưới đây đúng?",
+    "options": [
+      "A. Điều kiện đủ để một tam giác là tam giác đều là tam giác đó có hai góc bằng nhau.",
+      "B. Một tam giác là tam giác đều là điều kiện cần để tam giác đó có hai góc bằng nhau.",
+      "C. Không thể phát biểu mệnh đề trên dưới dạng điều kiện cần, điều kiện đủ.",
+      "D. Điều kiện cần và đủ để tam giác đều là tam giác đó có hai góc bằng nhau."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề gốc \"Nếu một tam giác có hai góc bằng nhau thì tam giác đó là tam giác đều\" là một mệnh đề SAI (nó chỉ là tam giác cân).\n\nCác thuật ngữ \"điều kiện cần\", \"điều kiện đủ\", \"điều kiện cần và đủ\" chỉ được dùng để phát biểu các mệnh đề KÉO THEO ĐÚNG hoặc mệnh đề TƯƠNG ĐƯƠNG ĐÚNG.\n\nVì mệnh đề gốc là một mệnh đề kéo theo sai, nên nó không thể được phát biểu lại bằng các thuật ngữ này.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q55",
+    "type": "question",
+    "text": "Trong các phát biểu sau, phát biểu nào sai?",
+    "options": [
+      "A. Hình bình hành ABCD có hai đường chéo bằng nhau là điều kiện cần và đủ để ABCD là hình chữ nhật.",
+      "B. Tam giác ABC có một góc 60° là điều kiện đủ để tam giác ABC đều.",
+      "C. Số nguyên a chia hết cho 3 là điều kiện cần để a chia hết cho 6.",
+      "D. Số 3n – 5 (n ∈ ℕ) là số lẻ là điều kiện đủ để số 6n (n ∈ ℕ) là số chẵn."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "A. \"Hình bình hành có hai đường chéo bằng nhau ⇔ là hình chữ nhật\". Đây là một định lý đúng.\n\nB. \"Tam giác có một góc 60°\" (P) là điều kiện đủ cho \"tam giác đều\" (Q). Tương đương P ⇒ Q. Mệnh đề này sai. Một tam giác chỉ có một góc 60° chưa chắc đã đều.\n\nC. \"a chia hết cho 3\" là điều kiện cần cho \"a chia hết cho 6\". Tương đương \"Nếu a chia hết cho 6 thì a chia hết cho 3\". Mệnh đề này đúng.\n\nD. \"3n - 5 là số lẻ\" (P) là điều kiện đủ cho \"6n là số chẵn\" (Q). Tương đương P ⇒ Q. Mệnh đề Q (6n là số ch",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q56",
+    "type": "question",
+    "text": "Cách phát biểu nào sau đây không thể dùng để phát biểu mệnh đề: A ⇒ B",
+    "options": [
+      "A. A là điều kiện đủ để có",
+      "B. ",
+      "C. A kéo theo",
+      "D. A là điều kiện cần để có"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Mệnh đề kéo theo A ⇒ B được phát biểu là: \"Nếu A thì B\", \"A kéo theo B\", \"A là điều kiện đủ để có B\", \"B là điều kiện cần để có A\".\n\nPhát biểu \"A là điều kiện cần để có B\" tương đương với mệnh đề đảo B ⇒ A. Do đó, không thể dùng để phát biểu mệnh đề A ⇒ B.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q57",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây có mệnh đề đảo đúng?",
+    "options": [
+      "A. Nếu a = b thì a² = b².",
+      "B. Nếu một phương trình bậc hai có ∆ < 0 thì phương trình đó vô nghiệm.",
+      "C. Nếu một số chia hết cho 6 thì cũng chia hết cho 3.",
+      "D. Nếu hai góc đối đỉnh thì bằng nhau."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A. Mệnh đề đảo: \"Nếu a² = b² thì a = b\". Sai (ví dụ a = 1, b = -1).\n\nB. Mệnh đề đảo: \"Nếu một phương trình bậc hai vô nghiệm thì ∆ < 0\". Sai (có thể ∆ = 0, phương trình có nghiệm kép, nhưng nếu xét trong tập số thực thì nó vẫn có nghiệm). Chính xác hơn, nếu hệ số a=0 thì nó không còn là phương trình bậc hai. Mệnh đề gốc đúng trong tập số thực.\n\nC. Mệnh đề đảo: \"Nếu một số chia hết cho 3 thì cũng chia hết cho 6\". Sai (ví dụ: số 9). Mệnh đề gốc thì đúng. Chờ đã, tôi đọc lại câu hỏi. Câu hỏi yêu cầ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q58",
+    "type": "question",
+    "text": "Cho mệnh đề E: ”Nếu số nguyên có chữ số tận cùng bằng 0 thì chia hết cho 5”. Mệnh đề nào sau đây tương đương với mệnh đề E?",
+    "options": [
+      "A. Nếu số nguyên chia hết cho 5 thì có chữ số tận cùng bằng 0.",
+      "B. Nếu số nguyên không chia hết cho 5 thì không có tận cùng bằng 0.",
+      "C. Nếu số nguyên không có chữ số tận cùng bằng 0 thì chia hết cho 5.",
+      "D. Nếu số nguyên không có chữ số tận cùng bằng 0 thì không chia hết cho 5."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Mệnh đề E có dạng P ⇒ Q.\n\nP: \"số nguyên có chữ số tận cùng bằng 0\"\n\nQ: \"số nguyên đó chia hết cho 5\"\n\nMột mệnh đề tương đương với mệnh đề P ⇒ Q là mệnh đề phản đảo của nó: Q ⇒ P.\n\nPhủ định của P (P): \"số nguyên không có chữ số tận cùng bằng 0\".\n\nPhủ định của Q (Q): \"số nguyên không chia hết cho 5\".\n\nMệnh đề phản đảo là \"Nếu Q thì P\", tức là \"Nếu số nguyên không chia hết cho 5 thì không có tận cùng bằng 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q59",
+    "type": "question",
+    "text": "Mệnh đề P ⇔ Q chỉ đúng khi nào? (Hãy chọn đáp án chính xác nhất)",
+    "options": [
+      "A. Cả P và Q đều đúng.",
+      "B. Cả P và Q đều sai.",
+      "C. Cả P và Q đều cùng đúng hoặc cùng sai.",
+      "D. Cả P và Q đều vừa đúng vừa sai."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề tương đương P ⇔ Q được định nghĩa là (P ⇒ Q) và (Q ⇒ P).\n\nDựa trên bảng chân lý của phép tương đương logic, P ⇔ Q chỉ đúng khi P và Q có cùng giá trị chân lý. Tức là:\n\nP đúng và Q đúng.\n\nP sai và Q sai.\n\nĐáp án C gộp cả hai trường hợp này.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q61",
+    "type": "question",
+    "text": "Cho mệnh đề kéo theo: “Nếu hai tam giác bằng nhau thì chúng có diện tích bằng nhau”. Hãy phát biểu lại mệnh đề trên bằng cách sử dụng “điều kiện cần” hoặc “điều kiện đủ”.",
+    "options": [
+      "A. Hai tam giác bằng nhau là điều kiện đủ để hai tam giác có diện tích bằng nhau.",
+      "B. Điều kiện cần và đủ để hai tam giác có diện tích bằng nhau là hai tam giác bằng nhau.",
+      "C. Hai tam giác bằng nhau là điều kiện cần để hai tam giác có diện tích bằng nhau.",
+      "D. Điều kiện đủ để hai tam giác bằng nhau là hai tam giác có diện tích bằng nhau."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Mệnh đề có dạng \"Nếu P thì Q\" với:\n\nP: \"hai tam giác bằng nhau\"\n\nQ: \"chúng có diện tích bằng nhau\"\n\nPhát biểu này tương đương với \"P là điều kiện đủ để có Q\".\n\nVậy: \"Hai tam giác bằng nhau là điều kiện đủ để hai tam giác có diện tích bằng nhau\".\n\nNó cũng tương đương với \"Q là điều kiện cần để có P\": \"Hai tam giác có diện tích bằng nhau là điều kiện cần để hai tam giác bằng nhau\".\n\nĐáp án A khớp với phân tích. Đáp án D lặp lại A. Đáp án C sai. Đáp án B sai vì mệnh đề đảo không đúng.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q62",
+    "type": "question",
+    "text": "Cho P ⇔ Q là mệnh đề đúng. Khẳng định nào sau đây là sai?",
+    "options": [
+      "A. P ⇔ Q đúng.",
+      "B. Q ⇔ P sai.",
+      "C. P ⇔ Q sai.",
+      "D. P ⇔ Q sai."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Nếu P ⇔ Q đúng, có nghĩa là P và Q có cùng giá trị chân lý.\n\nA. P ⇔ Q đúng. Đây là phủ định của mệnh đề ban đầu. Nếu P và Q cùng đúng, thì P sai, Q sai => P ⇔ Q đúng. Nếu P và Q cùng sai, thì P đúng, Q đúng => P ⇔ Q đúng. Vậy A đúng.\n\nC. P ⇔ Q sai. Nếu P và Q cùng đúng, thì P sai, Q đúng => P ⇔ Q sai. Đúng.\n\nD. P ⇔ Q sai. Nếu P và Q cùng đúng, thì P đúng, Q sai => P ⇔ Q sai. Đúng.\n\nB. Q ⇔ P sai. Mệnh đề P ⇔ Q có tính giao hoán, tức là (P ⇔ Q) ⇔ (Q ⇔ P). Nếu P ⇔ Q là mệnh đề đúng, thì Q ⇔ P cũng ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q63",
+    "type": "question",
+    "text": "Cho hai tập hợp A và",
+    "options": [
+      "A. A ≠",
+      "B. Mệnh đề \"∀x, x ∈ A ⇒ x ∈ B\" tương đương với mệnh đề nào sau đây?",
+      "C. A ⊂",
+      "D. B ⊂"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề \"∀x, x ∈ A ⇒ x ∈ B\" có nghĩa là \"Với mọi phần tử x, nếu x thuộc A thì x cũng thuộc B\".\n\nĐây chính là định nghĩa của tập hợp con. A là tập con của B, ký hiệu là A ⊂ B.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q64",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây là mệnh đề sai?",
+    "options": [
+      "A. Một tam giác là đều khi và chỉ khi chúng có hai đường trung tuyến bằng nhau và có một góc bằng 60°.",
+      "B. Một tam giác là vuông khi và chỉ khi nó có một cạnh bình phương bằng tổng bình phương hai cạnh còn lại.",
+      "C. Một tứ giác là hình chữ nhật khi và chỉ khi chúng có 3 góc vuông.",
+      "D. Hai tam giác bằng nhau khi và chỉ khi chúng đồng dạng và có một góc bằng nhau."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "A. \"Tam giác đều ⇔ có 2 trung tuyến bằng nhau (tức là cân) và có 1 góc 60°\". Đây là mệnh đề đúng.\n\nB. Đây là phát biểu của định lý Pythagoras và định lý đảo, là mệnh đề tương đương đúng.\n\nC. \"Tứ giác là hình chữ nhật ⇔ có 3 góc vuông\". Đây là mệnh đề đúng (vì nếu có 3 góc vuông thì góc còn lại cũng là 90°).\n\nD. Mệnh đề này sai. Mệnh đề thuận \"Nếu hai tam giác bằng nhau thì chúng đồng dạng và có một góc bằng nhau\" là đúng. Tuy nhiên, mệnh đề đảo \"Nếu hai tam giác đồng dạng và có một góc bằng nhau",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q65",
+    "type": "question",
+    "text": "Cho hai mệnh đề A: “Năm 2019 là năm nhuận”; B: “Tứ giác có 4 cạnh bằng nhau là hình vuông”. Hãy cho biết trong các mệnh đề A ⇒ B, B ⇒ A, B ⇔ A có bao nhiêu mệnh đề sai?",
+    "options": [
+      "A. 0.",
+      "B. 3.",
+      "C. 2.",
+      "D. 1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Xét giá trị chân lý của A và B:\n\nA: \"Năm 2019 là năm nhuận\". 2019 không chia hết cho 4, nên đây là mệnh đề sai.\n\nB: \"Tứ giác có 4 cạnh bằng nhau là hình vuông\". Đây là mệnh đề sai (đó có thể là hình thoi không phải hình vuông).\n\nXét các mệnh đề kéo theo và tương đương:\n\nA ⇒ B: Vì A sai, nên mệnh đề kéo theo A ⇒ B luôn đúng.\n\nB ⇒ A: Vì B sai, nên mệnh đề kéo theo B ⇒ A luôn đúng.\n\nB ⇔ A: Vì cả A và B đều sai (cùng giá trị chân lý), nên mệnh đề tương đương B ⇔ A là đúng.\n\nVậy, cả 3 mệnh đề A ⇒ B, ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q66",
+    "type": "question",
+    "text": "Cho mệnh đề: “Nếu n là một số nguyên tố lớn 3 thì n² + 20 là một hợp số”. Mệnh đề nào sau đây tương đương với mệnh đề đã cho?",
+    "options": [
+      "A. Điều kiện cần và đủ để n² + 20 là một hợp số là n là một số nguyên tố lớn 3.",
+      "B. Điều kiện đủ để n² + 20 là một hợp số là n là một số nguyên tố lớn 3.",
+      "C. Điều kiện cần để n² + 20 là một hợp số là n là một số nguyên tố lớn 3.",
+      "D. n² + 20 là một hợp số là điều kiện đủ để n là một số nguyên tố lớn 3."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Mệnh đề đã cho có dạng \"Nếu P thì Q\".\n\nP: \"n là một số nguyên tố lớn 3\"\n\nQ: \"n² + 20 là một hợp số\"\n\nMệnh đề \"Nếu P thì Q\" tương đương với \"P là điều kiện đủ để có Q\".\n\nÁp dụng vào câu hỏi: \"n là một số nguyên tố lớn 3 là điều kiện đủ để n² + 20 là một hợp số\". Mệnh đề này có cấu trúc ngữ pháp khác với đáp án B nhưng về mặt logic là như nhau. Đáp án B: \"Điều kiện đủ để n² + 20 là một hợp số là n là một số nguyên tố lớn 3\" chính là cách phát biểu \"P là điều kiện đủ để có Q\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q67",
+    "type": "question",
+    "text": "Cho mệnh đề A: \"2 là số nguyên tố\". Mệnh đề phủ định của mệnh đề A là",
+    "options": [
+      "A. 2 không phải là số hữu tỷ.",
+      "B. 2 là số nguyên.",
+      "C. 2 không phải là số nguyên tố.",
+      "D. 2 là hợp số."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề A là \"2 là số nguyên tố\".\n\nMệnh đề phủ định của A, ký hiệu là A, là \"Không phải A\".\n\nTức là: \"2 không phải là số nguyên tố\".\n\nĐáp án D, \"2 là hợp số\", không hoàn toàn chính xác là phủ định, vì tập số tự nhiên còn có số 0 và 1 không phải là số nguyên tố cũng không phải là hợp số. Tuy nhiên, trong ngữ cảnh này, C là câu phủ định trực tiếp và chính xác nhất.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q68",
+    "type": "question",
+    "text": "Phủ định của mệnh đề “n > 9” là",
+    "options": [
+      "A. –n > 9\".",
+      "B. –n > –9\".",
+      "C. n < 9\".",
+      "D. n ≤ 9\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Phủ định của một mệnh đề chứa dấu so sánh \">\" là mệnh đề chứa dấu \"≤\".\n\nPhủ định của n > 9 là n không lớn hơn 9, tức là n nhỏ hơn hoặc bằng 9.\n\nKý hiệu là: n ≤ 9.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q69",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây là mệnh đề phủ định của mệnh đề: “Mọi động vật đều di chuyển”?",
+    "options": [
+      "A. Mọi động vật đều không di chuyển.",
+      "B. Mọi động vật đều đứng yên.",
+      "C. Có ít nhất một động vật không di chuyển.",
+      "D. Có ít nhất một động vật di chuyển."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề gốc có thể viết lại dưới dạng ký hiệu: \"∀x ∈ {Động vật}, P(x)\", với P(x) là \"x di chuyển\".\n\nPhủ định của mệnh đề này là \"∃x ∈ {Động vật}, P(x)\".\n\nP(x) là phủ định của P(x), tức là \"x không di chuyển\".\n\nVậy mệnh đề phủ định là: \"Tồn tại một động vật x sao cho x không di chuyển\", hay \"Có ít nhất một động vật không di chuyển\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q70",
+    "type": "question",
+    "text": "Cho mệnh đề A = “∃n ∈ ℕ : 3n + 1 là số lẻ”, mệnh đề phủ định của mệnh đề A và tính đúng, sai của mệnh đề phủ định là:",
+    "options": [
+      "A. Ā = “∀n ∈ ℕ : 3n + 1 là số chẵn”. Đây là mệnh đề đúng.",
+      "B. Ā = “∀n ∈ ℕ : 3n + 1 là số chẵn”. Đây là mệnh đề sai.",
+      "C. Ā = “∃n ∈ ℕ : 3n + 1 là số chẵn”. Đây là mệnh đề sai.",
+      "D. Ā = “∃n ∈ ℕ : 3n + 1 là số chẵn”. Đây là mệnh đề đúng."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Phủ định mệnh đề A:\n\nPhủ định của \"∃n ∈ ℕ\" là \"∀n ∈ ℕ\".\n\nPhủ định của \"3n + 1 là số lẻ\" là \"3n + 1 là số chẵn\".\n\nVậy Ā = “∀n ∈ ℕ : 3n + 1 là số chẵn”.\n\nXét tính đúng, sai của Ā:\n\nMệnh đề Ā khẳng định \"Với mọi số tự nhiên n, 3n + 1 là số chẵn\".\n\nTa chỉ cần tìm một trường hợp sai. Chọn n = 1 (là số tự nhiên), ta có 3(1) + 1 = 4 (số chẵn).\n\nChọn n = 2 (là số tự nhiên), ta có 3(2) + 1 = 7 (số lẻ).\n\nVì mệnh đề sai với n = 2, nên mệnh đề Ā là mệnh đề sai.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q71",
+    "type": "question",
+    "text": "Mệnh đề P(x): \"∀x ∈ ℝ, x² − x + 3 < 0\". Phủ định của mệnh đề P(x) là:",
+    "options": [
+      "A. ∃x ∈ ℝ, x² − x + 3 > 0.",
+      "B. ∀x ∈ ℝ, x² − x + 3 > 0.",
+      "C. ∀x ∉ ℝ, x² − x + 3 ≥ 0.",
+      "D. ∃x ∈ ℝ, x² − x + 3 ≥ 0."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Phủ định của \"∀x ∈ ℝ\" là \"∃x ∈ ℝ\".\n\nPhủ định của \"x² − x + 3 < 0\" là \"x² − x + 3 ≥ 0\".\n\nKết hợp lại, mệnh đề phủ định là: \"∃x ∈ ℝ, x² − x + 3 ≥ 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q72",
+    "type": "question",
+    "text": "Mệnh đề “∃x ∈ ℝ, x² = 3” khẳng định rằng:",
+    "options": [
+      "A. Bình phương của mỗi số thực bằng 3.",
+      "B. Có ít nhất một số thực mà bình phương của nó bằng 3.",
+      "C. Chỉ có một số thực có bình phương bằng 3.",
+      "D. Nếu x là số thực thì x² = 3."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ký hiệu \"∃\" đọc là \"tồn tại\" hoặc \"có ít nhất một\".\n\nMệnh đề “∃x ∈ ℝ, x² = 3” được đọc là \"Tồn tại một số thực x sao cho bình phương của x bằng 3\", hoặc \"Có ít nhất một số thực mà bình phương của nó bằng 3\".\n\nA sai, vì nó tương đương với \"∀x ∈ ℝ, x² = 3\".\n\nC sai, vì thực tế có hai số là √3 và -√3.\n\nD sai, đây là mệnh đề chứa biến, không phải là khẳng định của mệnh đề ban đầu.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q73",
+    "type": "question",
+    "text": "Mệnh đề P(x): \"∀x ∈ ℝ, x² − x + 7 < 0\". Phủ định của mệnh đề P là",
+    "options": [
+      "A. ∃x ∈ ℝ, x² − x + 7 > 0.",
+      "B. ∀x ∈ ℝ, x² − x + 7 > 0.",
+      "C. ∀x ∉ ℝ, x² − x + 7 ≥ 0.",
+      "D. ∃x ∈ ℝ, x² − x + 7 ≥ 0."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Phủ định của \"∀x ∈ ℝ\" là \"∃x ∈ ℝ\".\n\nPhủ định của \"x² − x + 7 < 0\" là \"x² − x + 7 ≥ 0\".\n\nKết hợp lại, mệnh đề phủ định là: \"∃x ∈ ℝ, x² − x + 7 ≥ 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q74",
+    "type": "question",
+    "text": "Mệnh đề phủ định của mệnh đề P(x): \"∃x ∈ ℝ : x² + 2x + 5 là số nguyên tố\" là",
+    "options": [
+      "A. ∀x ∉ ℝ : x² + 2x + 5 không là số nguyên tố.",
+      "B. ∃x ∈ ℝ : x² + 2x + 5 không là số nguyên tố.",
+      "C. ∀x ∈ ℝ : x² + 2x + 5 không là số nguyên tố.",
+      "D. ∃x ∈ ℝ : x² + 2x + 5 là số thực."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Phủ định của \"∃x ∈ ℝ\" là \"∀x ∈ ℝ\".\n\nPhủ định của \"x² + 2x + 5 là số nguyên tố\" là \"x² + 2x + 5 không là số nguyên tố\".\n\nKết hợp lại, mệnh đề phủ định là: \"∀x ∈ ℝ : x² + 2x + 5 không là số nguyên tố\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q75",
+    "type": "question",
+    "text": "Cho mệnh đề A = \"∀x ∈ ℝ: x² < x\". Trong các mệnh đề sau, mệnh đề nào là phủ định của mệnh đề A?",
+    "options": [
+      "A. ∃x ∈ ℝ : x² < x\".",
+      "B. “∃x ∈ ℝ : x² ≥ x”.",
+      "C. “∃x ∈ ℝ : x² < x”.",
+      "D. “∃x ∈ ℝ : x² ≤ x”."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Phủ định của \"∀x ∈ ℝ\" là \"∃x ∈ ℝ\".\n\nPhủ định của \"x² < x\" là \"x² ≥ x\".\n\nKết hợp lại, mệnh đề phủ định là: \"∃x ∈ ℝ : x² ≥ x\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q76",
+    "type": "question",
+    "text": "Cho mệnh đề P(x) = \"∃x ∈ ℝ : x + 1 ≥ 0\". Phát biểu nào sau đây là mệnh đề phủ định của mệnh đề P(x)?",
+    "options": [
+      "A. P(x) = \"∃x ∈ ℝ : x + 1 < 0\".",
+      "B. P(x) = \"∀x ∈ ℝ : x + 1 < 0\".",
+      "C. P(x) = \"∀x ∈ ℝ : x + 1 ≤ 0\".",
+      "D. P(x) = \"∃x ∈ ℝ : x + 1 ≤ 0\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Phủ định của \"∃x ∈ ℝ\" là \"∀x ∈ ℝ\".\n\nPhủ định của \"x + 1 ≥ 0\" là \"x + 1 < 0\".\n\nKết hợp lại, mệnh đề phủ định là: \"∀x ∈ ℝ : x + 1 < 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q77",
+    "type": "question",
+    "text": "Mệnh đề phủ định của mệnh đề P = “∀x ∈ ℕ : x² + x – 1 > 0” là:",
+    "options": [
+      "A. P = “∃x ∈ ℕ : x² + x – 1 > 0”.",
+      "B. P = “∃x ∈ ℕ : x² + x – 1 < 0”.",
+      "C. P = “∃x ∈ ℕ : x² + x – 1 ≤ 0”.",
+      "D. P = “∀x ∈ ℕ : x² + x – 1 ≤ 0”."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Phủ định của \"∀x ∈ ℕ\" là \"∃x ∈ ℕ\".\n\nPhủ định của \"x² + x – 1 > 0\" là \"x² + x – 1 ≤ 0\".\n\nKết hợp lại, mệnh đề phủ định là: \"∃x ∈ ℕ : x² + x – 1 ≤ 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q78",
+    "type": "question",
+    "text": "Mệnh đề nào sau là mệnh đề sai?",
+    "options": [
+      "A. ∀n ∈ ℕ : n ≤ 2n.",
+      "B. ∃n ∈ ℕ : n² = n.",
+      "C. ∀x ∈ ℝ : x² > 0.",
+      "D. ∃x ∈ ℝ : x > x²."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A. Đúng. Vì 2n - n = n ≥ 0 với mọi n ∈ ℕ.\n\nB. Đúng. Tồn tại n = 0 hoặc n = 1 thuộc ℕ thỏa mãn n² = n.\n\nC. Sai. Khi x = 0, ta có x² = 0, không thỏa mãn x² > 0. Mệnh đề này chỉ đúng với ∀x ∈ ℝ*.\n\nD. Đúng. Tồn tại x thỏa mãn x > x² ⇔ x(1 – x) > 0 ⇔ 0 < x < 1. Ví dụ x = 0.5.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q79",
+    "type": "question",
+    "text": "Mệnh đề “∃x ∈ ℝ, x² = 8\" Khẳng định rằng:",
+    "options": [
+      "A. Bình Phương của tất cả các số thực bằng 8.",
+      "B. Có duy nhất một số thực mà bình phương của nó bằng 8.",
+      "C. Nếu x là số thực thì x² = 8.",
+      "D. Có ít nhất một số thực mà bình phương của nó bằng 8."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Ký hiệu \"∃\" có nghĩa là \"tồn tại\" hoặc \"có ít nhất một\".\n\nMệnh đề “∃x ∈ ℝ, x² = 8” khẳng định rằng tồn tại ít nhất một số thực mà bình phương của nó bằng 8.\n\nA sai (tương đương với ∀).\n\nB sai (có 2 số là √8 và -√8).\n\nC là mệnh đề chứa biến.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q80",
+    "type": "question",
+    "text": "Phủ định của mệnh đề P(x): \"∃x ∈ ℝ, x² + 2x = 3\" là:",
+    "options": [
+      "A. ∃x ∈ ℝ, x² + 2x = 3\".",
+      "B. ∀x ∈ ℝ, x² + 2x = 3\".",
+      "C. ∃x ∈ ℝ, x² + 2x ≠ 3\".",
+      "D. ∀x ∈ ℝ, x² + 2x ≠ 3\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Phủ định của \"∃x ∈ ℝ\" là \"∀x ∈ ℝ\".\n\nPhủ định của \"x² + 2x = 3\" là \"x² + 2x ≠ 3\".\n\nKết hợp lại, mệnh đề phủ định là: \"∀x ∈ ℝ, x² + 2x ≠ 3\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q81",
+    "type": "question",
+    "text": "Trong các mệnh đề sau tìm mệnh đề sai?",
+    "options": [
+      "A. ∀n ∈ ℕ : n ≤ 2n.",
+      "B. ∃n ∈ ℕ : n + 1 > n.",
+      "C. ∀n ∈ ℝ : n² > 0.",
+      "D. ∃n ∈ ℝ : n² ≤ n."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A. Đúng, vì n ≥ 0 với mọi n ∈ ℕ.\n\nB. Đúng, vì 1 > 0 luôn đúng, nên n+1 > n luôn đúng với mọi n.\n\nC. Sai. Khi n = 0, ta có n² = 0, không thỏa mãn n² > 0.\n\nD. Đúng. Tồn tại n thỏa mãn n² ≤ n ⇔ n² - n ≤ 0 ⇔ n(n-1) ≤ 0 ⇔ 0 ≤ n ≤ 1. Ví dụ n = 0.5.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q82",
+    "type": "question",
+    "text": "Viết mệnh đề sau bằng cách sử dụng kí hiệu ∀ hoặc ∃: “Có một số nguyên bằng bình phương của chính nó”.",
+    "options": [
+      "A. ∀x ∈ ℝ, x = x².",
+      "B. ∀x ∈ ℤ, x² = x.",
+      "C. ∃x ∈ ℤ, x = x².",
+      "D. ∃x ∈ ℝ, x² – x = 0."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "\"Có một số\" tương ứng với ký hiệu \"∃\".\n\n\"số nguyên\" tương ứng với \"x ∈ ℤ\".\n\n\"bằng bình phương của chính nó\" tương ứng với \"x = x²\".\n\nKết hợp lại ta được: \"∃x ∈ ℤ, x = x²\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q83",
+    "type": "question",
+    "text": "Cho mệnh đề \"∀x ∈ ℝ, x² – 72x + 7 < 0\". Phủ định của mệnh đề trên là",
+    "options": [
+      "A. ∀x ∈ ℝ, x² – 72x + 7 ≥ 0.",
+      "B. ∃x ∈ ℝ, x² – 72x + 7 ≥ 0.",
+      "C. ∃x ∈ ℝ, x² – 72x + 7 > 0.",
+      "D. ∀x ∈ ℝ, x² – 72x + 7 > 0."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Phủ định của \"∀x ∈ ℝ\" là \"∃x ∈ ℝ\".\n\nPhủ định của \"x² – 72x + 7 < 0\" là \"x² – 72x + 7 ≥ 0\".\n\nKết hợp lại ta được: \"∃x ∈ ℝ, x² – 72x + 7 ≥ 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q84",
+    "type": "question",
+    "text": "Cho mệnh đề: \"∃x ∈ ℝ, x² + x + 1 = 0\". Mệnh đề phủ định của mệnh đề trên là:",
+    "options": [
+      "A. ∀x ∈ ℝ, x² + x + 1 = 1\".",
+      "B. ∀x ∈ ℝ, x² + x + 1 ≠ 0\".",
+      "C. ∀x ∈ ℝ, x² + x + 1 = 0\".",
+      "D. ∃x ∈ ℝ, x² + x + 1 ≠ 0\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Phủ định của \"∃x ∈ ℝ\" là \"∀x ∈ ℝ\".\n\nPhủ định của \"x² + x + 1 = 0\" là \"x² + x + 1 ≠ 0\".\n\nKết hợp lại ta được: \"∀x ∈ ℝ, x² + x + 1 ≠ 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q85",
+    "type": "question",
+    "text": "Trong các mệnh đề sau, mệnh đề nào đúng?",
+    "options": [
+      "A. “∃n ∈ ℕ, n(n + 1)(n + 2) là số lẻ”.",
+      "B. “∀x ∈ ℝ, x² < 4 ⇔ –2 < x < 2”.",
+      "C. “∃n ∈ ℕ, n² + 1 chia hết cho 3”.",
+      "D. “∀x ∈ ℝ, x² ≥ 9 ⇔ x ≥ ±3”."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "A. Sai. Tích của ba số tự nhiên liên tiếp luôn chia hết cho 2 (vì có ít nhất một số chẵn), nên không thể là số lẻ.\n\nB. Đúng. x² < 4 ⇔ |x| < 2 ⇔ –2 < x < 2. Đây là một mệnh đề tương đương đúng.\n\nC. Sai. Một số chính phương n² khi chia cho 3 chỉ có thể có số dư là 0 hoặc 1. Do đó n² + 1 khi chia cho 3 sẽ có số dư là 1 hoặc 2, không bao giờ chia hết cho 3.\n\nD. Sai. Ký hiệu \"x ≥ ±3\" không phải là ký hiệu toán học chuẩn. Mệnh đề đúng phải là \"x² ≥ 9 ⇔ (x ≥ 3 hoặc x ≤ -3)\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q86",
+    "type": "question",
+    "text": "Cho mệnh đề P: \"∀x ∈ ℤ, (2x + 1)² không chia hết cho 4\". Mệnh đề P là:",
+    "options": [
+      "A. ∃x ∈ ℤ, (2x + 1)² chia hết cho 4\".",
+      "B. ∃x ∈ ℤ, (2x + 1)² không chia hết cho 4\".",
+      "C. ∀x ∈ ℤ, (2x + 1)² không chia hết cho 4\".",
+      "D. ∀x ∈ ℤ, (2x + 1)² chia hết cho 4\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Mệnh đề P là phủ định của mệnh đề P.\n\nPhủ định của \"∀x ∈ ℤ\" là \"∃x ∈ ℤ\".\n\nPhủ định của \"(2x + 1)² không chia hết cho 4\" là \"(2x + 1)² chia hết cho 4\".\n\nKết hợp lại, mệnh đề phủ định P là: \"∃x ∈ ℤ, (2x + 1)² chia hết cho 4\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q87",
+    "type": "question",
+    "text": "Trong các mệnh đề sau, mệnh đề nào sai?",
+    "options": [
+      "A. ∃x ∈ ℝ : x² – 3x + 2 = 0.",
+      "B. ∀x ∈ ℝ : x² ≥ 0.",
+      "C. ∃n ∈ ℕ : n² = n.",
+      "D. ∀n ∈ ℕ thì n < 2n."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "A. Đúng. Phương trình x² – 3x + 2 = 0 có hai nghiệm x = 1 và x = 2, đều thuộc ℝ.\n\nB. Đúng. Bình phương của mọi số thực đều không âm.\n\nC. Đúng. Tồn tại n = 0 hoặc n = 1 thuộc ℕ thỏa mãn.\n\nD. Sai. Khi n = 0, ta có 0 < 2*0 ⇔ 0 < 0, điều này sai. Mệnh đề đúng phải là n ≤ 2n.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q88",
+    "type": "question",
+    "text": "Phủ định của mệnh đề: \"∃x ∈ ℕ : x² – 4x – 5 > 0\" là",
+    "options": [
+      "A. ∀x ∈ ℕ : x² – 4x – 5 < 0\".",
+      "B. ∀x ∈ ℕ : x² – 4x – 5 ≤ 0\".",
+      "C. ∀x ∈ ℕ : x² – 4x – 5 ≥ 0\".",
+      "D. ∀x ∈ ℕ : x² – 4x – 5 > 0\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Phủ định của \"∃x ∈ ℕ\" là \"∀x ∈ ℕ\".\n\nPhủ định của \"x² – 4x – 5 > 0\" là \"x² – 4x – 5 ≤ 0\".\n\nKết hợp lại ta được: \"∀x ∈ ℕ : x² – 4x – 5 ≤ 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q89",
+    "type": "question",
+    "text": "Mệnh đề phủ định của mệnh đề chứa biến P: \"∃x ∈ ℝ : 2x + 1 > 0\" là",
+    "options": [
+      "A. P: \"∀x ∈ ℝ : 2x + 1 ≤ 0\".",
+      "B. P: \"∀x ∈ ℝ : 2x + 1 < 0\".",
+      "C. P: \"∀x ∈ ℝ : 2x + 1 > 0\".",
+      "D. P: \"∃x ∈ ℝ : 2x + 1 ≤ 0\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Phủ định của \"∃x ∈ ℝ\" là \"∀x ∈ ℝ\".\n\nPhủ định của \"2x + 1 > 0\" là \"2x + 1 ≤ 0\".\n\nKết hợp lại ta được mệnh đề phủ định P là: \"∀x ∈ ℝ : 2x + 1 ≤ 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q90",
+    "type": "question",
+    "text": "Cho mệnh đề P: \"∃x ∈ ℝ, x² + 2x + 1 < 0\". Lập mệnh đề phủ định của mệnh đề P và xét tính đúng sai của mệnh đề đó.",
+    "options": [
+      "A. P: \"∀x ∈ ℝ, x² + 2x + 1 ≥ 0\" và đây là mệnh đề sai.",
+      "B. P: \"∀x ∈ ℝ, x² + 2x + 1 > 0\" và đây là mệnh đề sai.",
+      "C. P: \"∀x ∈ ℝ, x² + 2x + 1 ≥ 0\" và đây là mệnh đề đúng.",
+      "D. P: \"∀x ∈ ℝ, x² + 2x + 1 > 0\" và đây là mệnh đề đúng."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Lập mệnh đề phủ định:\n\nPhủ định của \"∃x ∈ ℝ\" là \"∀x ∈ ℝ\".\n\nPhủ định của \"x² + 2x + 1 < 0\" là \"x² + 2x + 1 ≥ 0\".\n\nVậy mệnh đề phủ định P là: \"∀x ∈ ℝ, x² + 2x + 1 ≥ 0\".\n\nXét tính đúng sai của P:\n\nTa có x² + 2x + 1 = (x + 1)².\n\nVì bình phương của một số thực luôn không âm, nên (x + 1)² ≥ 0 với mọi x ∈ ℝ.\n\nDo đó, mệnh đề P là một mệnh đề đúng.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q91",
+    "type": "question",
+    "text": "Mệnh đề phủ định của mệnh đề P: “∀x ∈ ℝ : x² + 1 > 0” là",
+    "options": [
+      "A. P: \"∃x ∈ ℝ : x² + 1 ≤ 0\".",
+      "B. P: \"∃x ∈ ℝ : x² + 1 < 0\".",
+      "C. P: \"∀x ∈ ℝ : x² + 1 ≤ 0\".",
+      "D. P: \"∀x ∈ ℝ : x² + 1 < 0\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Phủ định của \"∀x ∈ ℝ\" là \"∃x ∈ ℝ\".\n\nPhủ định của \"x² + 1 > 0\" là \"x² + 1 ≤ 0\".\n\nKết hợp lại, mệnh đề phủ định là: \"∃x ∈ ℝ : x² + 1 ≤ 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q92",
+    "type": "question",
+    "text": "Cho mệnh đề A: \"∀x ∈ ℝ | x² + x – 1 ≤ 0\". Mệnh đề phủ định của mệnh đề A là",
+    "options": [
+      "A. Ā: \"∃x ∈ ℝ | x² + x – 1 ≤ 0\".",
+      "B. Ā: \"∀x ∈ ℝ | x² + x – 1 ≥ 0\".",
+      "C. Ā: \"∀x ∈ ℝ | x² + x – 1 > 0\".",
+      "D. Ā: \"∃x ∈ ℝ | x² + x – 1 > 0\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Phủ định của \"∀x ∈ ℝ\" là \"∃x ∈ ℝ\".\n\nPhủ định của \"x² + x – 1 ≤ 0\" là \"x² + x – 1 > 0\".\n\nKết hợp lại, mệnh đề phủ định Ā là: \"∃x ∈ ℝ | x² + x – 1 > 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q93",
+    "type": "question",
+    "text": "Mệnh đề phủ định của mệnh đề P: \"∀x ∈ ℝ : x² + 1 > 2x\" là",
+    "options": [
+      "A. P: \"∃x ∈ ℝ : x² + 1 < 2x\".",
+      "B. P: \"∃x ∈ ℝ : x² + 1 ≤ 2x\".",
+      "C. P: \"∃x ∈ ℝ : x² + 1 > 2x\".",
+      "D. P: \"∀x ∈ ℝ : x² + 1 ≤ 2x\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Phủ định của \"∀x ∈ ℝ\" là \"∃x ∈ ℝ\".\n\nPhủ định của \"x² + 1 > 2x\" là \"x² + 1 ≤ 2x\".\n\nKết hợp lại, mệnh đề phủ định là: \"∃x ∈ ℝ : x² + 1 ≤ 2x\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q94",
+    "type": "question",
+    "text": "Phủ định của mệnh đề \"∃x ∈ ℝ : x² < 0\" là",
+    "options": [
+      "A. ∀x ∈ ℝ : x² ≤ 0.",
+      "B. ∃x ∈ ℝ : x² ≤ 0.",
+      "C. ∀x ∈ ℝ : x² < 0.",
+      "D. ∀x ∈ ℝ : x² ≥ 0."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Phủ định của \"∃x ∈ ℝ\" là \"∀x ∈ ℝ\".\n\nPhủ định của \"x² < 0\" là \"x² ≥ 0\".\n\nKết hợp lại, mệnh đề phủ định là: \"∀x ∈ ℝ : x² ≥ 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q95",
+    "type": "question",
+    "text": "Cho mệnh đề \"∃x ∈ ℤ, 4x² – 1 = 0\". Mệnh đề phủ định của mệnh đề trên là",
+    "options": [
+      "A. ∀x ∈ ℤ, 4x² – 1 = 0\".",
+      "B. ∀x ∈ ℤ, 4x² – 1 ≠ 0\".",
+      "C. ∀x ∈ ℤ, 4x² – 1 > 0\".",
+      "D. ∃x ∈ ℤ, 4x² – 1 ≠ 0\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Phủ định của \"∃x ∈ ℤ\" là \"∀x ∈ ℤ\".\n\nPhủ định của \"4x² – 1 = 0\" là \"4x² – 1 ≠ 0\".\n\nKết hợp lại, mệnh đề phủ định là: \"∀x ∈ ℤ, 4x² – 1 ≠ 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q96",
+    "type": "question",
+    "text": "Trong các mệnh đề sau, mệnh đề nào là mệnh đề sai?",
+    "options": [
+      "A. ∃x ∈ ℕ, x² = 3.",
+      "B. ∀n ∈ ℕ, n² – n ≥ 0.",
+      "C. ∀x ∈ ℕ, (x – 2)² < x².",
+      "D. ∃n ∈ ℕ, 3ⁿ < n + 3."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "A. Sai. Phương trình x² = 3 có nghiệm x = ±√3, không phải là số tự nhiên.\n\nB. Đúng. n² – n = n(n-1). Vì n ∈ ℕ, nếu n=0 hoặc n=1 thì n(n-1)=0. Nếu n≥2 thì cả n và n-1 đều dương, nên n(n-1)>0. Vậy n(n-1)≥0 luôn đúng.\n\nC. Sai. Với x=0, (0-2)² = 4 và 0²=0, 4<0 là sai. Với x=1, (1-2)²=1 và 1²=1, 1<1 là sai. Với x=2, (2-2)²=0 và 2²=4, 0<4 là đúng. Mệnh đề ∀ là sai.\n\nD. Đúng. Với n=1, 3¹ < 1+3 ⇔ 3<4. Đúng.\n\nSo sánh A và C: Cả A và C đều sai. Tuy nhiên, A sai một cách tuyệt đối (không có giá trị nào thỏ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q97",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây có mệnh đề phủ định đúng:",
+    "options": [
+      "A. ∀n ∈ ℕ : 2n ≥ n\".",
+      "B. ∀x ∈ ℝ : x < x + 1\".",
+      "C. ∃x ∈ ℝ : 3x = x² + 1\".",
+      "D. ∃x ∈ ℚ : x² = 2\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Mệnh đề phủ định đúng tức là mệnh đề gốc sai.\n\nA. \"∀n ∈ ℕ : 2n ≥ n\" ⇔ \"∀n ∈ ℕ : n ≥ 0\". Mệnh đề này đúng. Vậy phủ định của nó sai.\n\nB. \"∀x ∈ ℝ : x < x + 1\" ⇔ \"∀x ∈ ℝ : 0 < 1\". Mệnh đề này đúng. Vậy phủ định của nó sai.\n\nC. \"∃x ∈ ℝ : x² - 3x + 1 = 0\". Phương trình có ∆ = (-3)² - 411 = 5 > 0, nên có 2 nghiệm thực. Mệnh đề này đúng. Vậy phủ định của nó sai.\n\nD. \"∃x ∈ ℚ : x² = 2\". Mệnh đề này sai vì nghiệm của phương trình là x = ±√2, là các số vô tỉ. Vì mệnh đề gốc sai nên mệnh đề phủ định của nó (",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q98",
+    "type": "question",
+    "text": "Tìm mệnh đề đúng?",
+    "options": [
+      "A. ∃x ∈ ℝ : x² + 3 = 0\".",
+      "B. ∀x ∈ ℤ : x⁵ > x²\".",
+      "C. ∀x ∈ ℕ : (2x + 1)² – 1 chia hết cho 4\".",
+      "D. ∃x ∈ ℝ : x⁴ + 3x² + 2 = 0\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A. Sai. x² = -3 vô nghiệm trong ℝ.\n\nB. Sai. Với x = 0, 0⁵ > 0² là sai. Với x = 1, 1⁵ > 1² là sai. Với x = -1, (-1)⁵ > (-1)² ⇔ -1 > 1 là sai.\n\nC. Đúng. Ta có (2x + 1)² – 1 = (4x² + 4x + 1) – 1 = 4x² + 4x = 4x(x + 1). Biểu thức này luôn chia hết cho 4 với mọi x ∈ ℕ.\n\nD. Sai. Đặt t = x², t ≥ 0. Phương trình trở thành t² + 3t + 2 = 0, có nghiệm t = -1 và t = -2. Cả hai nghiệm đều không thỏa mãn t ≥ 0. Vậy phương trình vô nghiệm.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q99",
+    "type": "question",
+    "text": "Tìm mệnh đề phủ định của mệnh đề: P: \"∃x ∈ ℝ : 2x – 1 < 0\"",
+    "options": [
+      "A. P: \"∀x ∈ ℝ : 2x – 1 ≥ 0\".",
+      "B. P: \"∀x ∈ ℝ : 2x – 1 > 0\".",
+      "C. P: \"∀x ∈ ℝ : 2x – 1 ≤ 0\".",
+      "D. P: \"∃x ∈ ℝ : 2x – 1 > 0\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Phủ định của \"∃x ∈ ℝ\" là \"∀x ∈ ℝ\".\n\nPhủ định của \"2x – 1 < 0\" là \"2x – 1 ≥ 0\".\n\nKết hợp lại ta được: \"∀x ∈ ℝ : 2x – 1 ≥ 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q100",
+    "type": "question",
+    "text": "Mệnh đề phủ định của P: \"∀x ∈ ℝ, x² > 0\" là",
+    "options": [
+      "A. P: \"∀x ∈ ℝ, x² ≤ 0",
+      "B. P: \"∃x ∈ ℝ, x² ≤ 0",
+      "C. P: \"∃x ∈ ℝ, x² < 0",
+      "D. P: \"∀x ∈ ℝ, x² < 0"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Mệnh đề P: \"∀x ∈ ℝ, x² > 0\" là mệnh đề sai (vì tại x=0, x²=0).\n\nPhủ định của \"∀x ∈ ℝ\" là \"∃x ∈ ℝ\".\n\nPhủ định của \"x² > 0\" là \"x² ≤ 0\".\n\nKết hợp lại, mệnh đề phủ định P là: \"∃x ∈ ℝ, x² ≤ 0\". Mệnh đề phủ định này đúng (tồn tại x=0 sao cho 0²≤0).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  }
+]

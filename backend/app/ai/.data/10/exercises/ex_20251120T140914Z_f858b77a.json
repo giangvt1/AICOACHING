@@ -1,0 +1,142 @@
+{
+  "id": "ex_20251120T140914Z_f858b77a",
+  "user_id": 10,
+  "topic": "Chương V: Phương trình đường thẳng và đường tròn",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cho giá trị gần đúng của 3/7 là 0,429. Sai số tuyệt đối của số 0,429 là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 0,0001",
+        "B. 0,0002",
+        "C. 0,0004",
+        "D. 0,0005"
+      ],
+      "correct_index": 3,
+      "solution": "Giá trị đúng: ā = 3/7 ≈ 0,428571...\n\nGiá trị gần đúng: a = 0,429.\n\nSai số tuyệt đối Δa = |a - ā| = |0,429 - 0,428571...| ≈ 0,000428...\n\nSo sánh với các đáp án, ta thấy 0,000428... < 0,0005. Do đó, có thể nói sai số tuyệt đối không vượt quá 0,0005."
+    },
+    {
+      "question": "Số dân của một tỉnh là A = 1034258 ± 300 (người). Hãy tìm các chữ số chắc.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 1, 0, 3, 4, 5",
+        "B. 1, 0, 3, 4",
+        "C. 1, 0, 3, 4",
+        "D. 1, 0, 3"
+      ],
+      "correct_index": 1,
+      "solution": "Số gần đúng a = 1034258, độ chính xác d = 300.\n\nHàng của chữ số khác 0 đầu tiên bên trái của d là hàng trăm. Do đó, hàng không chắc chắn là hàng trăm.\n\nCác chữ số chắc (đáng tin) là các chữ số ở hàng cao hơn hàng không chắc chắn, tức là từ hàng nghìn trở lên.\n\nTrong số 1034258, các chữ số từ hàng nghìn trở về bên trái là: 4 (hàng nghìn), 3 (hàng chục nghìn), 0 (hàng trăm nghìn), 1 (hàng triệu).\n\nVậy các chữ số chắc là 1, 0, 3, 4."
+    },
+    {
+      "question": "Cho hình chữ nhật ABC",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 4,24",
+        "B. 2,242",
+        "C. 4,2",
+        "D. Gọi AL và CI tương ứng là đường cao của các tam giác ADB và BC"
+      ],
+      "correct_index": 0,
+      "solution": "Xét tam giác vuông ADB có đường cao AL ứng với cạnh huyền DB.\n\nĐộ dài đường chéo DB = DL + LI + IB = 1 + 1 + 1 = 3.\n\nTrong tam giác vuông, bình phương đường cao bằng tích hai hình chiếu của hai cạnh góc vuông trên cạnh huyền. Ta có: AL² = DL * LB = DL * (LI + IB) = 1 * (1 + 1) = 2. Suy ra AL = √2.\n\nDiện tích tam giác ADB là: S_ADB = (1/2) * AL * DB = (1/2) * √2 * 3 = (3√2)/2.\n\nDiện tích hình chữ nhật ABCD bằng hai lần diện tích tam giác ADB: S_ABCD = 2 * S_ADB = 3√2.\n\nTính giá trị số: 3√2 ≈ 4,24"
+    },
+    {
+      "question": "Trong các thí nghiệm hằng số C được xác định là 5,73675 với cận trên sai số tuyệt đối là d = 0,00421. Viết chuẩn giá trị gần đúng của C là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 5,74",
+        "B. 5,736",
+        "C. 5,737",
+        "D. 5,7368"
+      ],
+      "correct_index": 0,
+      "solution": "Độ chính xác d = 0,00421. Chữ số có nghĩa đầu tiên là 4, ở hàng phần nghìn.\n\nTa làm tròn số C = 5,73675 đến hàng cao hơn một bậc, là hàng phần trăm.\n\nChữ số hàng phần trăm là 3, chữ số bên phải là 6.\n\nVì 6 ≥ 5, ta làm tròn lên: 5,73 + 0,01 = 5,74."
+    },
+    {
+      "question": "Cho số a = 1754731, trong đó chỉ có chữ số hàng trăm trở lên là đáng tin. Hãy viết chuẩn số gần đúng của a.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 17547.10²",
+        "B. 17548.10²",
+        "C. 1754.10³",
+        "D. 1755.10²"
+      ],
+      "correct_index": 0,
+      "solution": "Chữ số đáng tin cuối cùng là ở hàng trăm (chữ số 7).\n\nViết dạng chuẩn là làm tròn đến chữ số đáng tin cuối cùng này.\n\nLàm tròn 1754731 đến hàng trăm: chữ số hàng chục là 3 (< 5), nên ta giữ nguyên hàng trăm.\n\nKết quả: 1754700.\n\nViết dưới dạng ký hiệu khoa học như đáp án: 1754700 = 17547 * 100 = 17547.10²."
+    },
+    {
+      "question": "Độ dài các cạnh của một đám vườn hình chữ nhật là x = 7,8m ± 2cm và y = 25,6m ± 4cm. Cách viết chuẩn của diện tích (sau khi quy tròn) là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 199m² ± 0,8m²",
+        "B. 199m² ± 1m²",
+        "C. 200m² ± 1cm²",
+        "D. 200m² ± 0,9m²"
+      ],
+      "correct_index": 0,
+      "solution": "x = 7,8 ± 0,02; y = 25,6 ± 0,04.\n\nDiện tích S = xy.\n\nGiá trị gần đúng S_approx = 7,8 * 25,6 = 199,68 m².\n\nSai số tương đối δS ≤ δx + δy ≤ (0,02/7,8) + (0,04/25,6) ≈ 0,00256 + 0,00156 = 0,00412.\n\nSai số tuyệt đối ΔS ≤ S_approx * δS ≈ 199,68 * 0,00412 ≈ 0,823 m².\n\nKết quả: S = 199,68 ± 0,823 m².\n\nLàm tròn: Sai số đến hàng phần mười, ta làm tròn diện tích đến hàng đơn vị. S_rounded = 200 m². ΔS_rounded ≈ 1 m². Kết quả là 200m² ± 1m². Tuy nhiên đáp án A gần với giá trị chưa làm tròn hơn.\n\nXét lại: 7"
+    },
+    {
+      "question": "Kết quả đo chiều rộng một căn phòng là 3,5 m với sai số tương đối là 1%. Sai số tuyệt đối của phép đo này là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 0,035 m",
+        "B. 0,35 m",
+        "C. 3,5 cm",
+        "D. Cả A và C đều đúng"
+      ],
+      "correct_index": 3,
+      "solution": "a = 3,5 m; δa = 1% = 0,01.\n\nSai số tuyệt đối Δa = a * δa = 3,5 * 0,01 = 0,035 m.\n\nĐổi ra cm: 0,035 m = 3,5 cm.\n\nCả hai đáp án A và C đều biểu diễn cùng một giá trị."
+    },
+    {
+      "question": "Mệnh đề phủ định của \"Tất cả các loài chim đều biết bay\" là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Tất cả các loài chim đều không biết bay",
+        "B. Không có loài chim nào biết bay",
+        "C. Có ít nhất một loài chim không biết bay",
+        "D. Có ít nhất một loài chim biết bay"
+      ],
+      "correct_index": 2,
+      "solution": "Mệnh đề gốc: \"∀ chim, chim biết bay\".\n\nPhủ định: \"∃ chim, chim không biết bay\".\n\nDiễn đạt bằng lời: \"Tồn tại ít nhất một loài chim không biết bay\"."
+    },
+    {
+      "question": "Biết số gần đúng a = 37975421 có độ chính xác d = 150. Hãy xác định các chữ số đáng tin của a.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 3, 7, 9",
+        "B. 3, 7, 9, 7",
+        "C. 3, 7, 9, 7, 5",
+        "D. 3, 7, 9, 7, 5, 4"
+      ],
+      "correct_index": 2,
+      "solution": "Độ chính xác d = 150, có chữ số khác 0 đầu tiên bên trái là 1, ở hàng trăm. Do đó, hàng không chắc chắn là hàng trăm.\n\nCác chữ số đáng tin (chữ số chắc) là các chữ số nằm ở hàng cao hơn hàng không chắc chắn. Tức là các chữ số từ hàng nghìn trở lên.\n\nTrong số a = 37975421, các chữ số từ hàng nghìn trở về bên trái là: 5 (hàng nghìn), 7 (hàng chục nghìn), 9 (hàng trăm nghìn), 7 (hàng triệu), 3 (hàng chục triệu).\n\nVậy các chữ số đáng tin là 3, 7, 9, 7, 5."
+    },
+    {
+      "question": "Một cái ruộng hình chữ nhật có chiều dài là x = 23m ± 0,01m và chiều rộng là y = 15m ± 0,01m. Chu vi của ruộng là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. P = 76m ± 0,4m",
+        "B. P = 76m ± 0,04m",
+        "C. P = 76m ± 0,02m",
+        "D. P = 76m ± 0,08m"
+      ],
+      "correct_index": 1,
+      "solution": "Chu vi P = 2(x + y).\n\nGiá trị gần đúng L = 2(23 + 15) = 76 m.\n\nSai số tuyệt đối ΔP ≤ 2(Δx + Δy) = 2(0,01 + 0,01) = 2(0,02) = 0,04 m.\n\nKết quả: P = 76m ± 0,04m."
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251120T140914Z"
+}

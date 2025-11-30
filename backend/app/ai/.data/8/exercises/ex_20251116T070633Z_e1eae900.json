@@ -1,0 +1,129 @@
+{
+  "id": "ex_20251116T070633Z_e1eae900",
+  "user_id": 8,
+  "topic": "Mệnh đề – Tập hợp",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Mệnh đề phủ định của mệnh đề P(x): \"∃x ∈ ℝ : x² + 2x + 5 là số nguyên tố\" là",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. ∀x ∉ ℝ : x² + 2x + 5 không là số nguyên tố.",
+        "B. ∃x ∈ ℝ : x² + 2x + 5 không là số nguyên tố.",
+        "C. ∀x ∈ ℝ : x² + 2x + 5 không là số nguyên tố.",
+        "D. ∃x ∈ ℝ : x² + 2x + 5 là số thực."
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Cho mệnh đề: “Nếu n là một số nguyên tố lớn 3 thì n² + 20 là một hợp số”. Mệnh đề nào sau đây tương đương với mệnh đề đã cho?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Điều kiện cần và đủ để n² + 20 là một hợp số là n là một số nguyên tố lớn 3.",
+        "B. Điều kiện đủ để n² + 20 là một hợp số là n là một số nguyên tố lớn 3.",
+        "C. Điều kiện cần để n² + 20 là một hợp số là n là một số nguyên tố lớn 3.",
+        "D. n² + 20 là một hợp số là điều kiện đủ để n là một số nguyên tố lớn 3."
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Mệnh đề phủ định của mệnh đề P = “∀x ∈ ℕ : x² + x – 1 > 0” là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. P = “∃x ∈ ℕ : x² + x – 1 > 0”.",
+        "B. P = “∃x ∈ ℕ : x² + x – 1 < 0”.",
+        "C. P = “∃x ∈ ℕ : x² + x – 1 ≤ 0”.",
+        "D. P = “∀x ∈ ℕ : x² + x – 1 ≤ 0”."
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Trong các mệnh đề sau đây, mệnh đề nào đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Không có số chẵn nào là số nguyên tố.",
+        "B. ∀x ∈ ℝ, -x² < 0.",
+        "C. ∃x ∈ ℤ, 2x² – 8 = 0.",
+        "D. Phương trình 3x² – 6 = 0 có nghiệm hữu tỷ."
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Phủ định của mệnh đề \"∀x ∈ ℝ, x² ≥ 0\" là mệnh đề:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. ∃x ∈ ℝ, x² ≥ 0\".",
+        "B. ∃x ∈ ℝ, x² > 0\".",
+        "C. ∃x ∈ ℝ, x² ≤ 0\".",
+        "D. ∃x ∈ ℝ, x² < 0\"."
+      ],
+      "correct_index": 3,
+      "solution": "D"
+    },
+    {
+      "question": "Phủ định của mệnh đề \"∃x ∈ ℝ, x² − x + 1 < 0\" là mệnh đề:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. ∀x ∈ ℝ, x² − x + 1 ≥ 0\".",
+        "B. ∀x ∈ ℝ, x² − x + 1 < 0\".",
+        "C. ∀x ∈ ℝ, x² − x + 1 > 0\".",
+        "D. ∃x ∈ ℝ, x² − x + 1 ≥ 0\"."
+      ],
+      "correct_index": 0,
+      "solution": "A"
+    },
+    {
+      "question": "Trong các mệnh đề sau tìm mệnh đề sai?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. ∀n ∈ ℕ : n ≤ 2n.",
+        "B. ∃n ∈ ℕ : n + 1 > n.",
+        "C. ∀n ∈ ℝ : n² > 0.",
+        "D. ∃n ∈ ℝ : n² ≤ n."
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Trong các câu sau có bao nhiêu câu là mệnh đề?\na) Huế là một thành phố của Việt Nam.\nb) Sông Hương làm thành phố Huế thêm thơ mộng.\nc) Hãy trả lời câu hỏi này!\nd) 5 + 9 = 24.\ne) 6 + 81 = 25.\nf) Bạn có rỗi tối nay không?\ng) x + 2 = 11.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 4.",
+        "B. 2.",
+        "C. 1.",
+        "D. 3."
+      ],
+      "correct_index": 0,
+      "solution": "A"
+    },
+    {
+      "question": "Mệnh đề nào sau là mệnh đề sai?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. ∀n ∈ ℕ : n ≤ 2n.",
+        "B. ∃n ∈ ℕ : n² = n.",
+        "C. ∀x ∈ ℝ : x² > 0.",
+        "D. ∃x ∈ ℝ : x > x²."
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251116T070633Z"
+}

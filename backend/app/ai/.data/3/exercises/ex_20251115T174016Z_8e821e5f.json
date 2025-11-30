@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251115T174016Z_8e821e5f",
+  "user_id": 3,
+  "topic": "Vectơ",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cho hình bình hành ABCD tâm O. Các véctơ ngược hướng với OB→ là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. BD→, OD→.",
+        "B. DB→, OD→, BO→.",
+        "C. DB→, DO→.",
+        "D. BD→, OD→, BO→"
+      ],
+      "correct_index": null,
+      "solution": null
+    },
+    {
+      "question": "Cho M là một điểm thuộc đoạn thẳng AB sao cho AB = 3AM. Hãy tìm khẳng định sai?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. |MB→| = 2|MA→|.",
+        "B. |MA→| = 2|MB→|.",
+        "C. |BA→| = 3|AM→|.",
+        "D. |AM→| = 1/2 |BM→|."
+      ],
+      "correct_index": null,
+      "solution": null
+    },
+    {
+      "question": "Câu 103. Có hai lực F₁→, F₂→ cùng tác động vào một vật đứng tại điểm O, biết hai lực F₁→, F₂→ đều có cường độ là 50 (N) và chúng hợp với nhau một góc 60°. Hỏi vật đó phải chịu một lực tổng hợp có cường độ bằng bao nhiêu?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 100 (N).",
+        "B. 50√3 (N).",
+        "C. 100√3 (N).",
+        "D. Đáp án khác."
+      ],
+      "correct_index": null,
+      "solution": null
+    },
+    {
+      "question": "Câu 97. Cho tam giác đều ABC cạnh a, mệnh đề nào sau đây đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. |AC→| = BC.",
+        "B. |AC→| = a.",
+        "C. |AB→| = |AC→|.",
+        "D. |AB→| = a."
+      ],
+      "correct_index": null,
+      "solution": null
+    },
+    {
+      "question": "Câu 109. Cho hình bình hành ABCD. Đẳng thức nào sau đây sai?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. |AC→| = |BD→|.",
+        "B. |BC→| = |DA→|.",
+        "C. |AD→| = |BC→|.",
+        "D. |AB→| = |CD→|."
+      ],
+      "correct_index": null,
+      "solution": null
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251115T174016Z"
+}

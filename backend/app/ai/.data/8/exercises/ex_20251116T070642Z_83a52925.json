@@ -1,0 +1,142 @@
+{
+  "id": "ex_20251116T070642Z_83a52925",
+  "user_id": 8,
+  "topic": "Mệnh đề – Tập hợp",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cho mệnh đề A: \"∀x ∈ ℝ | x² + x – 1 ≤ 0\". Mệnh đề phủ định của mệnh đề A là",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Ā: \"∃x ∈ ℝ | x² + x – 1 ≤ 0\".",
+        "B. Ā: \"∀x ∈ ℝ | x² + x – 1 ≥ 0\".",
+        "C. Ā: \"∀x ∈ ℝ | x² + x – 1 > 0\".",
+        "D. Ā: \"∃x ∈ ℝ | x² + x – 1 > 0\"."
+      ],
+      "correct_index": 3,
+      "solution": "D"
+    },
+    {
+      "question": "Trong các mệnh đề sau, mệnh đề nào là mệnh đề đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 2 + 6 = 7.",
+        "B. x² + 1 > 0, ∀x ∈ ℝ.",
+        "C. 14 là số nguyên tố.",
+        "D. Nếu một tam giác có một góc bằng 60° thì tam giác đó là đều."
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Cho định lí \"∀x ∈ X, P(x) ⇒ Q(x)\". Chọn khẳng định không đúng.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. P(x) là điều kiện đủ để có Q(x).",
+        "B. Q(x) là điều kiện cần để có P(x).",
+        "C. P(x) là giả thiết và Q(x) là kết luận.",
+        "D. P(x) là điều kiện cần để có Q(x)."
+      ],
+      "correct_index": 3,
+      "solution": "D"
+    },
+    {
+      "question": "Cho mệnh đề A: \"2 là số nguyên tố\". Mệnh đề phủ định của mệnh đề A là",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 2 không phải là số hữu tỷ.",
+        "B. 2 là số nguyên.",
+        "C. 2 không phải là số nguyên tố.",
+        "D. 2 là hợp số."
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Trong các mệnh đề dưới đây, mệnh đề nào là mệnh đề kéo theo?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. “Nếu x > 1 thì x² > 1”.",
+        "B. x³ > 1 khi và chỉ khi x > 1\".",
+        "C. “1 là một số lẻ”.",
+        "D. “x² > 1 ⇔ x ∈ (–∞; –1) ∪ (1; +∞)”."
+      ],
+      "correct_index": 0,
+      "solution": "A"
+    },
+    {
+      "question": "Mệnh đề nào sau đây là mệnh đề sai?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Một tam giác là đều khi và chỉ khi chúng có hai đường trung tuyến bằng nhau và có một góc bằng 60°.",
+        "B. Một tam giác là vuông khi và chỉ khi nó có một cạnh bình phương bằng tổng bình phương hai cạnh còn lại.",
+        "C. Một tứ giác là hình chữ nhật khi và chỉ khi chúng có 3 góc vuông.",
+        "D. Hai tam giác bằng nhau khi và chỉ khi chúng đồng dạng và có một góc bằng nhau."
+      ],
+      "correct_index": 3,
+      "solution": "D"
+    },
+    {
+      "question": "Cho mệnh đề: “Nếu n là một số nguyên tố lớn 3 thì n² + 20 là một hợp số”. Mệnh đề nào sau đây tương đương với mệnh đề đã cho?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Điều kiện cần và đủ để n² + 20 là một hợp số là n là một số nguyên tố lớn 3.",
+        "B. Điều kiện đủ để n² + 20 là một hợp số là n là một số nguyên tố lớn 3.",
+        "C. Điều kiện cần để n² + 20 là một hợp số là n là một số nguyên tố lớn 3.",
+        "D. n² + 20 là một hợp số là điều kiện đủ để n là một số nguyên tố lớn 3."
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Tìm mệnh đề phủ định của mệnh đề: P: \"∃x ∈ ℝ : 2x – 1 < 0\"",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. P: \"∀x ∈ ℝ : 2x – 1 ≥ 0\".",
+        "B. P: \"∀x ∈ ℝ : 2x – 1 > 0\".",
+        "C. P: \"∀x ∈ ℝ : 2x – 1 ≤ 0\".",
+        "D. P: \"∃x ∈ ℝ : 2x – 1 > 0\"."
+      ],
+      "correct_index": 0,
+      "solution": "A"
+    },
+    {
+      "question": "Cho mệnh đề kéo theo: “Nếu hai tam giác bằng nhau thì chúng có diện tích bằng nhau”. Hãy phát biểu lại mệnh đề trên bằng cách sử dụng “điều kiện cần” hoặc “điều kiện đủ”.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Hai tam giác bằng nhau là điều kiện đủ để hai tam giác có diện tích bằng nhau.",
+        "B. Điều kiện cần và đủ để hai tam giác có diện tích bằng nhau là hai tam giác bằng nhau.",
+        "C. Hai tam giác bằng nhau là điều kiện cần để hai tam giác có diện tích bằng nhau.",
+        "D. Điều kiện đủ để hai tam giác bằng nhau là hai tam giác có diện tích bằng nhau."
+      ],
+      "correct_index": 0,
+      "solution": "A"
+    },
+    {
+      "question": "Cho mệnh đề P: \"∃x ∈ ℝ, x² + 2x + 1 < 0\". Lập mệnh đề phủ định của mệnh đề P và xét tính đúng sai của mệnh đề đó.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. P: \"∀x ∈ ℝ, x² + 2x + 1 ≥ 0\" và đây là mệnh đề sai.",
+        "B. P: \"∀x ∈ ℝ, x² + 2x + 1 > 0\" và đây là mệnh đề sai.",
+        "C. P: \"∀x ∈ ℝ, x² + 2x + 1 ≥ 0\" và đây là mệnh đề đúng.",
+        "D. P: \"∀x ∈ ℝ, x² + 2x + 1 > 0\" và đây là mệnh đề đúng."
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251116T070642Z"
+}

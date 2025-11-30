@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251116T070517Z_c7f86ead",
+  "user_id": 8,
+  "topic": "Mệnh đề – Tập hợp",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cho mệnh đề A = \"∀x ∈ ℝ: x² < x\". Trong các mệnh đề sau, mệnh đề nào là phủ định của mệnh đề A?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. ∃x ∈ ℝ : x² < x\".",
+        "B. “∃x ∈ ℝ : x² ≥ x”.",
+        "C. “∃x ∈ ℝ : x² < x”.",
+        "D. “∃x ∈ ℝ : x² ≤ x”."
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Mệnh đề là một khẳng định:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Hoặc đúng hoặc sai.",
+        "B. Đúng.",
+        "C. Vừa đúng vừa sai.",
+        "D. Sai."
+      ],
+      "correct_index": 0,
+      "solution": "A"
+    },
+    {
+      "question": "Trong các mệnh đề sau đây, mệnh đề nào đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Không có số chẵn nào là số nguyên tố.",
+        "B. ∀x ∈ ℝ, -x² < 0.",
+        "C. ∃x ∈ ℤ, 2x² – 8 = 0.",
+        "D. Phương trình 3x² – 6 = 0 có nghiệm hữu tỷ."
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Trong các câu sau đây, câu nào là mệnh đề?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Bạn có chăm học không.",
+        "B. Các bạn hãy làm bài đi.",
+        "C. Việt Nam là một nước thuộc châu Á.",
+        "D. Anh học lớp mấy."
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Cho mệnh đề chứa biến P(x): \"x + 15 ≤ x²\" với x là số thực. Mệnh đề nào sau đây là mệnh đề đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. P(2).",
+        "B. P(3).",
+        "C. P(–4).",
+        "D. P(0)."
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251116T070517Z"
+}

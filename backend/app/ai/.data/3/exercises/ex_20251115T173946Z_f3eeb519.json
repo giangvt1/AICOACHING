@@ -1,0 +1,78 @@
+{
+  "id": "ex_20251115T173946Z_f3eeb519",
+  "user_id": 3,
+  "topic": "Mệnh đề – Tập hợp",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Câu 6. Trong các câu sau đây, câu nào là mệnh đề?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "a) 3 là số lẻ;",
+        "b) 1 + 2 > 3;",
+        "c) π là số vô tỉ phải không?",
+        "d) 0,0001 là số rất bé;",
+        "e) Đến năm 2050, con người sẽ đặt chân lên Sao Hoả."
+      ],
+      "correct_index": null,
+      "solution": null
+    },
+    {
+      "question": "Trong các tập hợp sau, tập hợp nào là tập rỗng?\nLời giải\nChọn B.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. M = {x ∈ ℕ|x² - 16 = 0}.",
+        "B. N = {x ∈ ℝ|x² + 2x + 5 = 0}.",
+        "C. P = {x ∈ ℝ|x² - 15 = 0}.",
+        "D. Q = {x ∈ ℚ|x² + 3x - 4 = 0}."
+      ],
+      "correct_index": null,
+      "solution": null
+    },
+    {
+      "question": "Phủ định của mệnh đề \" 5 + 8 = 13 \" là mệnh đề\nLời giải\nChọn D.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 5 + 8 ≠ 13.",
+        "B. 5 + 8 ≥ 13.",
+        "C. 5 + 8 > 13.",
+        "D. 5 + 8 < 13."
+      ],
+      "correct_index": null,
+      "solution": null
+    },
+    {
+      "question": "Cho các tập hợp A = {-1; 0; 1; 2}, B = {x | x - 1 > 0}. Tập hợp A \\ B bằng\nLời giải\nChọn D.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. {2};",
+        "B. {-1; 0; 1};",
+        "C. {1; 2};",
+        "D. {-1; 0}."
+      ],
+      "correct_index": null,
+      "solution": null
+    },
+    {
+      "question": "Cho hai tập hợp A = [-4; 3), B = (-2; +∞). A \\ B bằng:\nLời giải\nChọn D.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. [-4; -2).",
+        "B. {-4; -3; -2}.",
+        "C. [3; +∞).",
+        "D. [-4; -2]."
+      ],
+      "correct_index": null,
+      "solution": null
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251115T173946Z"
+}

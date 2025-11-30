@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "q1",
+    "type": "question",
+    "text": "Cặp số nào sau đây là nghiệm của bất phương trình -3x+5y≤6?",
+    "options": [
+      "A. (2;8).",
+      "B. (−10; −3) .",
+      "C. (3;3).",
+      "D. (0;2)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Để kiểm tra một cặp số (x; y) có là nghiệm của bất phương trình đã cho hay không, ta thay giá trị x và y của cặp số đó vào bất phương trình. Nếu thu được một bất đẳng thức đúng thì cặp số đó là nghiệm.\n\nĐáp án A: Với (x;y) = (2;8), ta có: -3(2) + 5(8) = -6 + 40 = 34. Vì 34 > 6 nên (2;8) không phải là nghiệm.\n\nĐáp án B: Với (x;y) = (−10; −3), ta có: -3(-10) + 5(-3) = 30 - 15 = 15. Vì 15 > 6 nên (−10; −3) không phải là nghiệm.\n\nĐáp án C: Với (x;y) = (3;3), ta có: -3(3) + 5(3) = -9 + 15 = 6. Vì 6 ≤",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q2",
+    "type": "question",
+    "text": "Miền nghiệm của bất phương trình 2x-3y>5 là nửa mặt phẳng (không kể đường thẳng d : 2x-3y = 5 ) không chứa điểm có toạ độ nào sau đây?",
+    "options": [
+      "A. (0;0).",
+      "B. (3;0).",
+      "C. (1;-2).",
+      "D. (-3;-4)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Để xác định một điểm có thuộc miền nghiệm của bất phương trình hay không, ta thay tọa độ điểm đó vào bất phương trình.\n\nĐáp án A: Với điểm (0;0), ta có 2(0) - 3(0) = 0. Vì 0 < 5, nên điểm (0;0) không thuộc miền nghiệm của bất phương trình 2x-3y>5. Do đó, miền nghiệm không chứa điểm (0;0).\n\nĐáp án B: Với điểm (3;0), ta có 2(3) - 3(0) = 6. Vì 6 > 5, nên điểm (3;0) thuộc miền nghiệm.\n\nĐáp án C: Với điểm (1;-2), ta có 2(1) - 3(-2) = 2 + 6 = 8. Vì 8 > 5, nên điểm (1;-2) thuộc miền nghiệm.\n\nĐáp án D: ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q3",
+    "type": "question",
+    "text": "Miền nghiệm của bất phương trình x−2y<4 được xác định bởi miền nào (nửa mặt phẳng không bị gạch và không kể d) sau đây?",
+    "options": [
+      "A. ",
+      "B. ",
+      "C. ",
+      "D. "
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Vẽ đường thẳng d: x - 2y = 4.\n\nCho x = 0 ⇒ y = -2. Ta có điểm (0; -2).\n\nCho y = 0 ⇒ x = 4. Ta có điểm (4; 0).\n\nĐường thẳng d đi qua hai điểm (0; -2) và (4; 0).\n\nXét một điểm không thuộc d, thường là gốc tọa độ O(0; 0).\n\nThay x = 0, y = 0 vào bất phương trình: 0 - 2(0) < 4 ⇔ 0 < 4. Đây là một bất đẳng thức đúng.\n\nKết luận miền nghiệm.\n\nVì bất đẳng thức đúng, miền nghiệm của bất phương trình là nửa mặt phẳng chứa điểm O(0; 0).\n\nĐối chiếu với các hình vẽ, hình B biểu diễn nửa mặt phẳng bờ là đường ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q4",
+    "type": "question",
+    "text": "Nửa mặt phẳng không bị gạch (không kể d) ở Hình 3 là miền nghiệm của bất phương trình nào sau đây?",
+    "options": [
+      "A. 3x + y < 3.",
+      "B. x + 3y > 3.",
+      "C. x + 3y < 3.",
+      "D. 3x + y > 3."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Xác định phương trình đường thẳng d.\n\nĐường thẳng d cắt trục Ox tại điểm (1; 0) và cắt trục Oy tại điểm (0; 3).\n\nPhương trình đoạn chắn của d là: x/1 + y/3 = 1 ⇔ 3x + y = 3.\n\nXác định bất phương trình.\n\nMiền nghiệm (phần không bị gạch) không chứa gốc tọa độ O(0; 0).\n\nLấy điểm O(0; 0) thay vào biểu thức 3x + y, ta được: 3(0) + 0 = 0.\n\nSo sánh kết quả với vế phải (là 3), ta có 0 < 3.\n\nVì miền nghiệm không chứa O(0; 0), nên bất phương trình phải có dạng ngược lại với kết quả khi thử điểm O. Do đó, ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q5",
+    "type": "question",
+    "text": "Nửa mặt phẳng không bị gạch (kể cả d) ở Hình 4 là miền nghiệm của bất phương trình nào sau đây?",
+    "options": [
+      "A. 2x - y ≤ 0.",
+      "B. 2x - y ≥ 0.",
+      "C. x - 2y ≥ 0.",
+      "D. x - 2y ≤ 0."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Xác định phương trình đường thẳng d.\n\nĐường thẳng d đi qua gốc tọa độ O(0; 0) và điểm (1; 2).\n\nPhương trình đường thẳng có dạng y = ax. Thay (1; 2) vào ta có 2 = a*1 ⇒ a = 2.\n\nVậy phương trình đường thẳng d là y = 2x ⇔ 2x - y = 0.\n\nXác định bất phương trình.\n\nVì đường thẳng đi qua gốc tọa độ, ta chọn một điểm khác không nằm trên đường thẳng, ví dụ điểm M(-1; 0) thuộc miền nghiệm.\n\nThay tọa độ M(-1; 0) vào biểu thức 2x - y, ta được: 2(-1) - 0 = -2.\n\nSo sánh với vế phải (là 0), ta có -2 < 0.\n\nVì m",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q6",
+    "type": "question",
+    "text": "Câu nào sau đây sai?. Miền nghiệm của bất phương trình −x+2+2(y-2)<2(1-x) là nửa mặt phẳng chứa điểm",
+    "options": [
+      "A. (0;0).",
+      "B. (1;1).",
+      "C. (4;2).",
+      "D. (1;-1)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Rút gọn bất phương trình:\n-x + 2 + 2y - 4 < 2 - 2x\n-x + 2y - 2 < 2 - 2x\nx + 2y < 4\n\nKiểm tra từng điểm:\n\nA. (0;0): 0 + 2(0) = 0 < 4. (Đúng) ⇒ Miền nghiệm chứa (0;0).\n\nB. (1;1): 1 + 2(1) = 3 < 4. (Đúng) ⇒ Miền nghiệm chứa (1;1).\n\nC. (4;2): 4 + 2(2) = 8. Vì 8 > 4. (Sai) ⇒ Miền nghiệm không chứa (4;2).\n\nD. (1;-1): 1 + 2(-1) = -1 < 4. (Đúng) ⇒ Miền nghiệm chứa (1;-1).\nCâu hỏi yêu cầu tìm câu sai, tức là tìm điểm không thuộc miền nghiệm.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q7",
+    "type": "question",
+    "text": "Câu nào sau đây đúng?. Miền nghiệm của bất phương trình 3(x-1)+4(y-2)<5x-3 là nửa mặt phẳng chứa điểm",
+    "options": [
+      "A. (0;0).",
+      "B. (-4;2).",
+      "C. (-2;2).",
+      "D. (-5;3)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Rút gọn bất phương trình:\n3x - 3 + 4y - 8 < 5x - 3\n3x + 4y - 11 < 5x - 3\n-2x + 4y < 8\n-x + 2y < 4\n\nKiểm tra từng điểm:\n\nA. (0;0): -(0) + 2(0) = 0 < 4. (Đúng) ⇒ Miền nghiệm chứa (0;0).\n\nB. (-4;2): -(-4) + 2(2) = 4 + 4 = 8. Vì 8 > 4. (Sai).\n\nC. (-2;2): -(-2) + 2(2) = 2 + 4 = 6. Vì 6 > 4. (Sai).\n\nD. (-5;3): -(-5) + 2(3) = 5 + 6 = 11. Vì 11 > 4. (Sai).\nCâu hỏi yêu cầu tìm câu đúng, tức là tìm điểm thuộc miền nghiệm.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q8",
+    "type": "question",
+    "text": "Câu nào sau đây sai?. Miền nghiệm của bất phương trình x+3+2(2y+5)<2(1-x) là nửa mặt phẳng chứa điểm",
+    "options": [
+      "A. (-3;-4).",
+      "B. (-2;-5).",
+      "C. (-1;-6).",
+      "D. (0;0)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Rút gọn bất phương trình:\nx + 3 + 4y + 10 < 2 - 2x\nx + 4y + 13 < 2 - 2x\n3x + 4y < -11\n\nKiểm tra từng điểm:\n\nA. (-3;-4): 3(-3) + 4(-4) = -9 - 16 = -25. Vì -25 < -11. (Đúng) ⇒ Miền nghiệm chứa (-3;-4).\n\nB. (-2;-5): 3(-2) + 4(-5) = -6 - 20 = -26. Vì -26 < -11. (Đúng) ⇒ Miền nghiệm chứa (-2;-5).\n\nC. (-1;-6): 3(-1) + 4(-6) = -3 - 24 = -27. Vì -27 < -11. (Đúng) ⇒ Miền nghiệm chứa (-1;-6).\n\nD. (0;0): 3(0) + 4(0) = 0. Vì 0 > -11. (Sai) ⇒ Miền nghiệm không chứa (0;0).\nCâu hỏi yêu cầu tìm câu sai, tức là ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q9",
+    "type": "question",
+    "text": "Câu nào sau đây đúng?. Miền nghiệm của bất phương trình 4(x-1)+5(y-3) > 2x−9 là nửa mặt phẳng chứa điểm",
+    "options": [
+      "A. (0;0).",
+      "B. (1;1).",
+      "C. (-1;1).",
+      "D. (2;5)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Rút gọn bất phương trình:\n4x - 4 + 5y - 15 > 2x - 9\n4x + 5y - 19 > 2x - 9\n2x + 5y > 10\n\nKiểm tra từng điểm:\n\nA. (0;0): 2(0) + 5(0) = 0. Vì 0 < 10. (Sai).\n\nB. (1;1): 2(1) + 5(1) = 7. Vì 7 < 10. (Sai).\n\nC. (-1;1): 2(-1) + 5(1) = 3. Vì 3 < 10. (Sai).\n\nD. (2;5): 2(2) + 5(5) = 4 + 25 = 29. Vì 29 > 10. (Đúng) ⇒ Miền nghiệm chứa (2;5).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q10",
+    "type": "question",
+    "text": "Miền nghiệm của bất phương trình 3x+2(y+3)>4(x+1)-y+3 là phần mặt phẳng chứa điểm nào?",
+    "options": [
+      "A. (3;0).",
+      "B. (3;1).",
+      "C. (1;1).",
+      "D. (0;0)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Rút gọn bất phương trình:\n3x + 2y + 6 > 4x + 4 - y + 3\n3x + 2y + 6 > 4x - y + 7\n-x + 3y > 1\n\nKiểm tra từng điểm:\n\nA. (3;0): -(3) + 3(0) = -3. Vì -3 < 1. (Sai).\n\nB. (3;1): -(3) + 3(1) = 0. Vì 0 < 1. (Sai).\n\nC. (1;1): -(1) + 3(1) = 2. Vì 2 > 1. (Đúng) ⇒ Miền nghiệm chứa (1;1).\n\nD. (0;0): -(0) + 3(0) = 0. Vì 0 < 1. (Sai).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q11",
+    "type": "question",
+    "text": "Miền nghiệm của bất phương trình 5(x+2)-9<2x-2y+7 là phần mặt phẳng không chứa điểm nào?",
+    "options": [
+      "A. (-2;1).",
+      "B. (2;3).",
+      "C. (2;-1).",
+      "D. (0;0)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Rút gọn bất phương trình:\n5x + 10 - 9 < 2x - 2y + 7\n5x + 1 < 2x - 2y + 7\n3x + 2y < 6\n\nKiểm tra từng điểm:\n\nA. (-2;1): 3(-2) + 2(1) = -6 + 2 = -4. Vì -4 < 6. (Đúng) ⇒ Miền nghiệm chứa (-2;1).\n\nB. (2;3): 3(2) + 2(3) = 6 + 6 = 12. Vì 12 > 6. (Sai) ⇒ Miền nghiệm không chứa (2;3).\n\nC. (2;-1): 3(2) + 2(-1) = 6 - 2 = 4. Vì 4 < 6. (Đúng) ⇒ Miền nghiệm chứa (2;-1).\n\nD. (0;0): 3(0) + 2(0) = 0. Vì 0 < 6. (Đúng) ⇒ Miền nghiệm chứa (0;0).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q12",
+    "type": "question",
+    "text": "Trong các cặp số sau đây, cặp nào không là nghiệm của bất phương trình 2x + y < 1?",
+    "options": [
+      "A. (-2;1).",
+      "B. (3;-7).",
+      "C. (0;1).",
+      "D. (0;0)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Ta thay lần lượt tọa độ các điểm vào bất phương trình:\n\nA. (-2;1): 2(-2) + 1 = -3 < 1. (Là nghiệm).\n\nB. (3;-7): 2(3) + (-7) = -1 < 1. (Là nghiệm).\n\nC. (0;1): 2(0) + 1 = 1. Vì 1 không nhỏ hơn 1 (1 < 1 là sai). (Không là nghiệm).\n\nD. (0;0): 2(0) + 0 = 0 < 1. (Là nghiệm).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q13",
+    "type": "question",
+    "text": "Trong các cặp số sau đây, cặp nào không là nghiệm của bất phương trình x-4y+5≥0?",
+    "options": [
+      "A. (-5;0).",
+      "B. (-2;1).",
+      "C. (1;-3).",
+      "D. (0;0)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta thay lần lượt tọa độ các điểm vào bất phương trình:\n\nA. (-5;0): -5 - 4(0) + 5 = 0 ≥ 0. (Là nghiệm).\n\nB. (-2;1): -2 - 4(1) + 5 = -1. Vì -1 < 0. (Không là nghiệm).\n\nC. (1;-3): 1 - 4(-3) + 5 = 1 + 12 + 5 = 18 ≥ 0. (Là nghiệm).\n\nD. (0;0): 0 - 4(0) + 5 = 5 ≥ 0. (Là nghiệm).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q14",
+    "type": "question",
+    "text": "Trong các bất phương trình sau, bất phương trình nào là bất phương trình bậc nhất hai ẩn?",
+    "options": [
+      "A. 2x-5y+3z ≤ 0.",
+      "B. 3x²+2x-4>0.",
+      "C. 2x² + 5y > 3.",
+      "D. 2x+3y < 5."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Bất phương trình bậc nhất hai ẩn có dạng ax + by < c (hoặc >, ≤, ≥), trong đó a, b không đồng thời bằng 0; x, y là các ẩn.\n\nA: Có 3 ẩn x, y, z.\n\nB: Có chứa x² (bậc 2) và chỉ có 1 ẩn x.\n\nC: Có chứa x² (bậc 2).\n\nD: Có dạng ax + by < c với a=2, b=3, c=5. Đây chính là bất phương trình bậc nhất hai ẩn.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q15",
+    "type": "question",
+    "text": "Điểm nào sau đây thuộc miền nghiệm của bất phương trình 2x+y-3>0?",
+    "options": [
+      "A. Q(-1;-3).",
+      "B. M(1; 3/2).",
+      "C. N(1;1).",
+      "D. P(-1; 3/2)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta thay lần lượt tọa độ các điểm vào bất phương trình:\n\nA. Q(-1;-3): 2(-1) + (-3) - 3 = -2 - 3 - 3 = -8 < 0. (Không thuộc).\n\nB. M(1; 3/2): 2(1) + 3/2 - 3 = 2 + 1.5 - 3 = 0.5 > 0. (Thuộc).\n\nC. N(1;1): 2(1) + 1 - 3 = 0. (Không thuộc vì dấu là \">\").\n\nD. P(-1; 3/2): 2(-1) + 3/2 - 3 = -2 + 1.5 - 3 = -3.5 < 0. (Không thuộc).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q16",
+    "type": "question",
+    "text": "Miền nghiệm của bất phương trình −3x + y + 2 ≤ 0 không chứa điểm nào sau đây?",
+    "options": [
+      "A. A(1; 2).",
+      "B. B(2; 1).",
+      "C. C(1; 1/2).",
+      "D. D(3 ; 1)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Ta thay lần lượt tọa độ các điểm vào bất phương trình để tìm điểm không thỏa mãn:\n\nA. A(1; 2): -3(1) + 2 + 2 = 1. Vì 1 > 0. (Không thỏa mãn) ⇒ Miền nghiệm không chứa A.\n\nB. B(2; 1): -3(2) + 1 + 2 = -3 ≤ 0. (Thỏa mãn).\n\nC. C(1; 1/2): -3(1) + 1/2 + 2 = -0.5 ≤ 0. (Thỏa mãn).\n\nD. D(3 ; 1): -3(3) + 1 + 2 = -6 ≤ 0. (Thỏa mãn).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q17",
+    "type": "question",
+    "text": "Miền nghiệm của bất phương trình x+3+2(2y+5) < 2(1-x) không chứa điểm nào sau đây?",
+    "options": [
+      "A. A(-1; -2).",
+      "B. B(-2/11; 1/11).",
+      "C. C(0; -3).",
+      "D. D(-4; 0)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Rút gọn bất phương trình:\nx + 3 + 4y + 10 < 2 - 2x\n3x + 4y + 11 < 0\n\nKiểm tra từng điểm:\n\nA. A(-1; -2): 3(-1) + 4(-2) + 11 = -3 - 8 + 11 = 0. (Không thỏa mãn vì 0 không nhỏ hơn 0).\n\nB. B(-2/11; 1/11): 3(-2/11) + 4(1/11) + 11 = -6/11 + 4/11 + 11 = -2/11 + 11 > 0. (Không thỏa mãn).\n\nC. C(0; -3): 3(0) + 4(-3) + 11 = -12 + 11 = -1 < 0. (Thỏa mãn).\n\nD. D(-4; 0): 3(-4) + 4(0) + 11 = -12 + 11 = -1 < 0. (Thỏa mãn).\nPhân tích lại đề bài: Có vẻ có sự nhầm lẫn trong các đáp án được cung cấp trong tài liệu.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q18",
+    "type": "question",
+    "text": "Miền nghiệm của bất phương trình 2x + y > 1 không chứa điểm nào sau đây?",
+    "options": [
+      "A. A(1; 1).",
+      "B. B(2; 2).",
+      "C. C(3; 3).",
+      "D. D(−1; −1)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Ta thay lần lượt tọa độ các điểm vào bất phương trình:\n\nA. A(1; 1): 2(1) + 1 = 3 > 1. (Thuộc).\n\nB. B(2; 2): 2(2) + 2 = 6 > 1. (Thuộc).\n\nC. C(3; 3): 2(3) + 3 = 9 > 1. (Thuộc).\n\nD. D(−1; −1): 2(-1) + (-1) = -3. Vì -3 < 1. (Không thuộc).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q19",
+    "type": "question",
+    "text": "Miền nghiệm của bất phương trình (1+√3)x−(1−√3) y ≥ 2 chứa điểm nào sau đây?",
+    "options": [
+      "A. A(1; −1).",
+      "B. B(−1; −1).",
+      "C. C(-1; 1).",
+      "D. D(−√3 ; √3)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Ta thay lần lượt tọa độ các điểm vào bất phương trình:\n\nA. A(1; −1): (1+√3)(1) - (1−√3)(-1) = 1 + √3 + 1 - √3 = 2. Vì 2 ≥ 2 là đúng. (Chứa).\n\nB. B(−1; −1): (1+√3)(-1) - (1−√3)(-1) = -1 - √3 + 1 - √3 = -2√3. Vì -2√3 < 2. (Không chứa).\n\nC. C(-1; 1): (1+√3)(-1) - (1−√3)(1) = -1 - √3 - 1 + √3 = -2. Vì -2 < 2. (Không chứa).\n\nD. D(−√3 ; √3): (1+√3)(-√3) - (1−√3)(√3) = -√3 - 3 - (√3 - 3) = -2√3. Vì -2√3 < 2. (Không chứa).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q20",
+    "type": "question",
+    "text": "Miền nghiệm của bất phương trình x−2+2(y-1) > 2x+4 chứa điểm nào sau đây?",
+    "options": [
+      "A. A(1; 1).",
+      "B. B(1; 5).",
+      "C. C(4; 3).",
+      "D. D(0; 4)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Rút gọn bất phương trình:\nx - 2 + 2y - 2 > 2x + 4\nx + 2y - 4 > 2x + 4\n-x + 2y > 8\n\nKiểm tra từng điểm:\n\nA. A(1; 1): -1 + 2(1) = 1. Vì 1 < 8. (Không chứa).\n\nB. B(1; 5): -1 + 2(5) = 9. Vì 9 > 8. (Chứa).\n\nC. C(4; 3): -4 + 2(3) = 2. Vì 2 < 8. (Không chứa).\n\nD. D(0; 4): -0 + 2(4) = 8. Vì 8 không lớn hơn 8. (Không chứa).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q21",
+    "type": "question",
+    "text": "Miền nghiệm của bất phương trình 2x−√2y+√2-2≤0 chứa điểm nào sau đây?",
+    "options": [
+      "A. A(1; 1).",
+      "B. B(1; 0).",
+      "C. C(√2 ; √2).",
+      "D. D(√2 ; −√2)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Ta thay lần lượt tọa độ các điểm vào bất phương trình:\n\nA. A(1; 1): 2(1) - √2(1) + √2 - 2 = 2 - √2 + √2 - 2 = 0. Vì 0 ≤ 0 là đúng. (Chứa).\n\nB. B(1; 0): 2(1) - √2(0) + √2 - 2 = 2 + √2 - 2 = √2. Vì √2 > 0. (Không chứa).\n\nC. C(√2 ; √2): 2(√2) - √2(√2) + √2 - 2 = 2√2 - 2 + √2 - 2 = 3√2 - 4. Vì 3√2 ≈ 4.24 > 4, nên 3√2 - 4 > 0. (Không chứa).\n\nD. D(√2 ; −√2): 2(√2) - √2(-√2) + √2 - 2 = 2√2 + 2 + √2 - 2 = 3√2. Vì 3√2 > 0. (Không chứa).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q22",
+    "type": "question",
+    "text": "Cho bất phương trình 2x+4y<5 có tập nghiệm là S. Khẳng định nào sau đây là khẳng định đúng ?",
+    "options": [
+      "A. (1;1) ∈ S.",
+      "B. (1;10) ∈ S.",
+      "C. (1;-1) ∈ S.",
+      "D. (1;5) ∈ S."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Ta thay lần lượt tọa độ các điểm vào bất phương trình:\n\nA. (1;1): 2(1) + 4(1) = 6. Vì 6 > 5. (Sai).\n\nB. (1;10): 2(1) + 4(10) = 42. Vì 42 > 5. (Sai).\n\nC. (1;-1): 2(1) + 4(-1) = -2. Vì -2 < 5. (Đúng).\n\nD. (1;5): 2(1) + 4(5) = 22. Vì 22 > 5. (Sai).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q23",
+    "type": "question",
+    "text": "Cho bất phương trình x-2y+5>0có tập nghiệm là S. Khẳng định nào sau đây là khẳng định đúng?",
+    "options": [
+      "A. (2;2) ∈ S.",
+      "B. (1;3) ∈ S .",
+      "C. (-2; 2) ∈ S .",
+      "D. (-2;4) ∈ S ."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta thay lần lượt tọa độ các điểm vào bất phương trình:\n\nA. (2;2): 2 - 2(2) + 5 = 3 > 0. (Đúng).\n\nB. (1;3): 1 - 2(3) + 5 = 0. Vì 0 không lớn hơn 0. (Sai).\n\nC. (-2; 2): -2 - 2(2) + 5 = -1 < 0. (Sai).\n\nD. (-2;4): -2 - 2(4) + 5 = -5 < 0. (Sai).\nPhân tích lại: Có thể có lỗi trong đề bài hoặc các đáp án. Kiểm tra lại:\nA. (2;2): 2 - 4 + 5 = 3 > 0. Đúng.\nB. (1;3): 1 - 6 + 5 = 0. Sai.\nNếu đề bài là x-2y+5 ≥ 0 thì A, B đều đúng. Với đề bài là x-2y+5 > 0, chỉ có A đúng. Trong tài liệu, đáp án được chọn là ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q24",
+    "type": "question",
+    "text": "Miền nghiệm của bất phương trình 3x – 2y > −6 là",
+    "options": [
+      "A. ",
+      "B. ",
+      "C. ",
+      "D. "
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Vẽ đường thẳng d: 3x - 2y = -6.\n\nCho x = 0 ⇒ y = 3. Ta có điểm (0; 3).\n\nCho y = 0 ⇒ x = -2. Ta có điểm (-2; 0).\n\nĐường thẳng d đi qua hai điểm (0; 3) và (-2; 0).\n\nXét điểm O(0; 0).\n\nThay x = 0, y = 0 vào bất phương trình: 3(0) - 2(0) > -6 ⇔ 0 > -6. Đây là một bất đẳng thức đúng.\n\nKết luận.\n\nMiền nghiệm là nửa mặt phẳng chứa điểm O(0; 0).\n\nVì dấu là \">\" nên không kể đường thẳng d.\n\nĐối chiếu các hình, hình A là nửa mặt phẳng có bờ là đường thẳng đi qua (0;3) và (-2;0), và chứa gốc tọa độ (phần kh",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q25",
+    "type": "question",
+    "text": "Miền nghiệm của bất phương trình 3x + 2y > 6 là",
+    "options": [
+      "A. ",
+      "B. ",
+      "C. ",
+      "D. "
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Vẽ đường thẳng d: 3x + 2y = 6.\n\nCho x = 0 ⇒ y = 3. Ta có điểm (0; 3).\n\nCho y = 0 ⇒ x = 2. Ta có điểm (2; 0).\n\nĐường thẳng d đi qua hai điểm (0; 3) và (2; 0).\n\nXét điểm O(0; 0).\n\nThay x = 0, y = 0 vào bất phương trình: 3(0) + 2(0) > 6 ⇔ 0 > 6. Đây là một bất đẳng thức sai.\n\nKết luận.\n\nMiền nghiệm là nửa mặt phẳng không chứa điểm O(0; 0).\n\nVì dấu là \">\" nên không kể đường thẳng d.\n\nĐối chiếu các hình, hình B là nửa mặt phẳng có bờ là đường thẳng đi qua (0;3) và (2;0), và không chứa gốc tọa độ (phầ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q26",
+    "type": "question",
+    "text": "Miền nghiệm của bất phương trình 3x + 2y > −6 là",
+    "options": [
+      "A. ",
+      "B. ",
+      "C. ",
+      "D. "
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Vẽ đường thẳng d: 3x + 2y = -6.\n\nCho x = 0 ⇒ y = -3. Ta có điểm (0; -3).\n\nCho y = 0 ⇒ x = -2. Ta có điểm (-2; 0).\n\nĐường thẳng d đi qua hai điểm (0; -3) và (-2; 0).\n\nXét điểm O(0; 0).\n\nThay x = 0, y = 0 vào bất phương trình: 3(0) + 2(0) > -6 ⇔ 0 > -6. Đây là một bất đẳng thức đúng.\n\nKết luận.\n\nMiền nghiệm là nửa mặt phẳng chứa điểm O(0; 0).\n\nĐối chiếu các hình, hình D là nửa mặt phẳng có bờ là đường thẳng đi qua (0;-3) và (-2;0), và chứa gốc tọa độ (phần không bị gạch).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q27",
+    "type": "question",
+    "text": "Cho bất phương trình-2x+√3y+√2 ≤ 0 có tập nghiệm là S. Khẳng định nào sau đây là khẳng định đúng?",
+    "options": [
+      "A. (1;1) ∈ S.",
+      "B. (√2/2; 0) ∈ S.",
+      "C. (1; −2) ∉ S.",
+      "D. (1;0) ∉ S."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta kiểm tra từng khẳng định:\n\nA. (1;1): -2(1) + √3(1) + √2 = -2 + √3 + √2 ≈ -2 + 1.73 + 1.41 = 1.14 > 0. Sai.\n\nB. (√2/2; 0): -2(√2/2) + √3(0) + √2 = -√2 + √2 = 0. Vì 0 ≤ 0 là đúng. Đúng.\n\nC. (1; −2): -2(1) + √3(-2) + √2 = -2 - 2√3 + √2 < 0. Vậy (1; -2) ∈ S. Khẳng định ∉ S là sai.\n\nD. (1;0): -2(1) + √3(0) + √2 = -2 + √2 < 0. Vậy (1; 0) ∈ S. Khẳng định ∉ S là sai.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q28",
+    "type": "question",
+    "text": "Cặp số (x; y) = (2;3) là nghiệm của bất phương trình nào sau đây?",
+    "options": [
+      "A. 4x > 3y.",
+      "B. x - 3y + 7 < 0.",
+      "C. 2x - 3y - 1 > 0.",
+      "D. x − y < 0."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Thay x=2, y=3 vào các bất phương trình:\n\nA: 4(2) > 3(3) ⇔ 8 > 9. Sai.\n\nB: 2 - 3(3) + 7 = 2 - 9 + 7 = 0. Vì 0 không nhỏ hơn 0. Sai.\n\nC: 2(2) - 3(3) - 1 = 4 - 9 - 1 = -6. Vì -6 < 0. Sai.\n\nD: 2 - 3 = -1 < 0. Đúng.\nPhân tích lại: Đáp án trong tài liệu chọn là D. Tuy nhiên, khi kiểm tra đáp án B, ta có 2 - 3(3) + 7 = 0. Bất phương trình là < 0 nên không đúng. Có thể có lỗi trong đáp án B. Đáp án D là đúng.\nGiả sử có lỗi in ấn ở đáp án B, ví dụ BPT là x-3y+7 <=0. Trong trường hợp đó B đúng. Nhưng theo",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q29",
+    "type": "question",
+    "text": "Cặp số (x₀; y₀) nào là nghiệm của bất phương trình 3x - 3y ≥ 4.",
+    "options": [
+      "A. (x₀; y₀) = (-2;2).",
+      "B. (x₀; y₀) = (5;1).",
+      "C. (x₀; y₀) = (-4;0).",
+      "D. (x₀; y₀) = (2;1)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta thay lần lượt tọa độ các điểm vào bất phương trình:\n\nA. (-2;2): 3(-2) - 3(2) = -6 - 6 = -12. Vì -12 < 4. (Không là nghiệm).\n\nB. (5;1): 3(5) - 3(1) = 15 - 3 = 12. Vì 12 ≥ 4. (Là nghiệm).\n\nC. (-4;0): 3(-4) - 3(0) = -12. Vì -12 < 4. (Không là nghiệm).\n\nD. (2;1): 3(2) - 3(1) = 6 - 3 = 3. Vì 3 < 4. (Không là nghiệm).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q30",
+    "type": "question",
+    "text": "Cặp số nào sau đây không phải là nghiệm của hệ bất phương trình {x+y-2≤0, 2x-3y+2>0}?",
+    "options": [
+      "A. (0;0).",
+      "B. (1;1).",
+      "C. (-1;1).",
+      "D. (-1;-1)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Ta kiểm tra từng cặp số với cả hai bất phương trình:\n\nA. (0;0):\n\n0 + 0 - 2 = -2 ≤ 0 (Đúng)\n\n2(0) - 3(0) + 2 = 2 > 0 (Đúng)\n\n⇒ (0;0) là nghiệm.\n\nB. (1;1):\n\n1 + 1 - 2 = 0 ≤ 0 (Đúng)\n\n2(1) - 3(1) + 2 = 1 > 0 (Đúng)\n\n⇒ (1;1) là nghiệm.\n\nC. (-1;1):\n\n-1 + 1 - 2 = -2 ≤ 0 (Đúng)\n\n2(-1) - 3(1) + 2 = -3 < 0 (Sai)\n\n⇒ (-1;1) không là nghiệm.\n\nD. (-1;-1):\n\n-1 + (-1) - 2 = -4 ≤ 0 (Đúng)\n\n2(-1) - 3(-1) + 2 = 3 > 0 (Đúng)\n\n⇒ (-1;-1) là nghiệm.\nPhân tích lại: Có lỗi trong đề bài hoặc phân tích. Kiểm tra lại C: -",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q31",
+    "type": "question",
+    "text": "Cặp số nào sau đây là nghiệm của hệ bất phương trình {x-2y<0, x+3y>-2, -x+y<3}?",
+    "options": [
+      "A. (1;0).",
+      "B. (-1;0).",
+      "C. (-2;3).",
+      "D. (0;-1)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta kiểm tra từng điểm:\n\nA. (1;0):\n\n1 - 2(0) = 1. 1 < 0 là sai.\n\nB. (-1;0):\n\n-1 - 2(0) = -1 < 0 (Đúng)\n\n-1 + 3(0) = -1 > -2 (Đúng)\n\n-(-1) + 0 = 1 < 3 (Đúng)\n\n⇒ (-1;0) là nghiệm.\n\nC. (-2;3):\n\n-2 - 2(3) = -8 < 0 (Đúng)\n\n-2 + 3(3) = 7 > -2 (Đúng)\n\n-(-2) + 3 = 5. 5 < 3 là sai.\n\nD. (0;-1):\n\n0 - 2(-1) = 2. 2 < 0 là sai.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q32",
+    "type": "question",
+    "text": "Cặp số nào sau đây không là nghiệm của hệ bất phương trình {x+y≤2, 2x-3y>-2}?",
+    "options": [
+      "A. (0;0).",
+      "B. (1;1).",
+      "C. (-1;1).",
+      "D. (−1; −1) ."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Ta kiểm tra từng điểm:\n\nA. (0;0):\n\n0 + 0 = 0 ≤ 2 (Đúng)\n\n2(0) - 3(0) = 0 > -2 (Đúng)\n\n⇒ (0;0) là nghiệm.\n\nB. (1;1):\n\n1 + 1 = 2 ≤ 2 (Đúng)\n\n2(1) - 3(1) = -1 > -2 (Đúng)\n\n⇒ (1;1) là nghiệm.\n\nC. (-1;1):\n\n-1 + 1 = 0 ≤ 2 (Đúng)\n\n2(-1) - 3(1) = -5. -5 > -2 là sai.\n\n⇒ (-1;1) không là nghiệm.\n\nD. (-1;-1):\n\n-1 + (-1) = -2 ≤ 2 (Đúng)\n\n2(-1) - 3(-1) = 1 > -2 (Đúng)\n\n⇒ (-1;-1) là nghiệm.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q33",
+    "type": "question",
+    "text": "Miền nghiệm của hệ bất phương trình {2x-5y>1, 2x+y>-5, x+y<-1} là phần mặt phẳng chứa điểm",
+    "options": [
+      "A. (0;0).",
+      "B. (1;0).",
+      "C. (0;2).",
+      "D. (0;-2)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Ta kiểm tra điểm nào thỏa mãn cả ba bất phương trình:\n\nA. (0;0):\n\nx + y < -1 ⇒ 0 + 0 < -1 (Sai).\n\nB. (1;0):\n\nx + y < -1 ⇒ 1 + 0 < -1 (Sai).\n\nC. (0;2):\n\nx + y < -1 ⇒ 0 + 2 < -1 (Sai).\n\nD. (0;-2):\n\n2(0) - 5(-2) = 10 > 1 (Đúng)\n\n2(0) + (-2) = -2 > -5 (Đúng)\n\n0 + (-2) = -2 < -1 (Đúng)\n\n⇒ (0;-2) thuộc miền nghiệm.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q34",
+    "type": "question",
+    "text": "Miền đa giác ABCD ở Hình 9 là miền nghiệm của hệ bất phương trình nào?",
+    "options": [
+      "A. {x+y≤4, x+y≥-1, x-y≤2, x-y≥-2}",
+      "B. {x-y≤4, x-y≥-1, x+y≤2, x+y≥-2}",
+      "C. {x+y≤1, x+y≥-4, x-y≤2, x-y≥-2}",
+      "D. {x-y≤1, x-y≥-4, x+y≤2, x+y≥-2}"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Xác định phương trình 4 đường thẳng là biên của miền nghiệm.\n\nĐường thẳng đi qua D(-2,0) và C(0,-2): x+y=-2, nhưng gốc tọa độ nằm trong miền nghiệm (0+0 > -2) nên BPT là x+y>=-2. Tuy nhiên, không có đáp án nào khớp.\n\nHãy xét các đường thẳng từ các đáp án.\n\nĐáp án A:\n\nx+y=4: đi qua (4,0) và (0,4). Gốc tọa độ O(0,0) thỏa 0<=4, nên miền nghiệm chứa O. Khớp hình.\n\nx+y=-1: đi qua (-1,0) và (0,-1). Gốc tọa độ O(0,0) thỏa 0>=-1, nên miền nghiệm chứa O. Khớp hình.\n\nx-y=2: đi qua (2,0) và (0,-2). Gốc tọa",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q35",
+    "type": "question",
+    "text": "Giá trị nhỏ nhất của biểu thức F = -x+y trên miền nghiệm của hệ bất phương trình {-2x+y≤2, -x+2y≥4, x+y≤5} là",
+    "options": [
+      "A. 0.",
+      "B. 1.",
+      "C. 2.",
+      "D. 3."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Xác định các đỉnh của miền nghiệm: Miền nghiệm là một tam giác có các đỉnh là giao điểm của các đường thẳng:\n\nd₁: -2x+y = 2\n\nd₂: -x+2y = 4\n\nd₃: x+y = 5\n\nTìm tọa độ các đỉnh:\n\nA = d₁ ∩ d₂: Giải hệ {-2x+y=2, -x+2y=4} ⇒ x=0, y=2. A(0;2).\n\nB = d₂ ∩ d₃: Giải hệ {-x+2y=4, x+y=5} ⇒ x=2, y=3. B(2;3).\n\nC = d₁ ∩ d₃: Giải hệ {-2x+y=2, x+y=5} ⇒ x=1, y=4. C(1;4).\n\nTính giá trị F tại các đỉnh:\n\nTại A(0;2): F = -0 + 2 = 2.\n\nTại B(2;3): F = -2 + 3 = 1.\n\nTại C(1;4): F = -1 + 4 = 3.\n\nSo sánh: Giá trị nhỏ nhất tro",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q36",
+    "type": "question",
+    "text": "Cho hệ bất phương trình {x-y > 0, x-3y+3 < 0, x+y-5 > 0}. Miền nghiệm của hệ là phần mặt phẳng chứa điểm:",
+    "options": [
+      "A. (5;3).",
+      "B. (0;0).",
+      "C. (1;-1).",
+      "D. (-2;2)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Ta kiểm tra điểm nào thỏa mãn cả ba bất phương trình:\n\nA. (5;3):\n\n5 - 3 = 2 > 0 (Đúng)\n\n5 - 3(3) + 3 = -1 < 0 (Đúng)\n\n5 + 3 - 5 = 3 > 0 (Đúng)\n\n⇒ (5;3) thuộc miền nghiệm.\n\nB. (0;0):\n\n0 - 0 > 0 (Sai).\n\nC. (1;-1):\n\n1 + (-1) - 5 = -5 > 0 (Sai).\n\nD. (-2;2):\n\n-2 - 2 < 0. vi phạm x-y>0 (Sai).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q37",
+    "type": "question",
+    "text": "Cho hệ bất phương trình {3x+y≥9, x≥y-3, 2y≥8-x, y≤6}. Miền nghiệm của hệ là phần mặt phẳng chứa điểm:",
+    "options": [
+      "A. (0;0).",
+      "B. (1;2).",
+      "C. (2;1).",
+      "D. (8;4)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Ta kiểm tra điểm nào thỏa mãn cả bốn bất phương trình:\n\nA. (0;0): 3(0)+0 = 0. 0 ≥ 9 là sai.\n\nB. (1;2): 3(1)+2 = 5. 5 ≥ 9 là sai.\n\nC. (2;1): 3(2)+1 = 7. 7 ≥ 9 là sai.\n\nD. (8;4):\n\n3(8)+4 = 28 ≥ 9 (Đúng)\n\n8 ≥ 4-3 = 1 (Đúng)\n\n2(4) = 8 ≥ 8-8 = 0 (Đúng)\n\n4 ≤ 6 (Đúng)\n\n⇒ (8;4) thuộc miền nghiệm.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q38",
+    "type": "question",
+    "text": "Cho hệ bất phương trình {x+y>0, 2x+5y<0}. Tập nghiệm S của hệ có dạng:",
+    "options": [
+      "A. (1;1) ∈ S.",
+      "B. (−1; −1) ∈ S.",
+      "C. (1;-1/2) ∈ S.",
+      "D. (1/2; -2/5) ∈ S."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Ta kiểm tra điểm nào thỏa mãn cả hai bất phương trình:\n\nA. (1;1): 1+1=2>0 (Đúng). 2(1)+5(1)=7. 7<0 là sai.\n\nB. (−1; −1): -1+(-1)=-2. -2>0 là sai.\n\nC. (1;-1/2): 1+(-1/2) = 1/2 > 0 (Đúng). 2(1)+5(-1/2) = 2 - 5/2 = -1/2 < 0 (Đúng). ⇒ (1;-1/2) là nghiệm.\n\nD. (1/2; -2/5): 2(1/2)+5(-2/5) = 1-2 = -1 < 0 (Đúng). 1/2 + (-2/5) = 1/10 > 0 (Đúng). ⇒ (1/2;-2/5) cũng là nghiệm.\nPhân tích lại: Cả C và D đều là nghiệm. Có thể có lỗi trong đề. Tuy nhiên, nếu phải chọn một, ta chọn C.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q39",
+    "type": "question",
+    "text": "Cho hệ bất phương trình {3x+y≥6, x≥y-3, 2y≥8-x, y≤4}. Miền nghiệm của hệ chứa điểm:",
+    "options": [
+      "A. (2;1).",
+      "B. (6;4).",
+      "C. (0;0).",
+      "D. (1;2)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta kiểm tra điểm nào thỏa mãn cả bốn bất phương trình:\n\nA. (2;1): 3(2)+1=7≥6 (Đúng). 2≥1-3=-2 (Đúng). 2(1)=2≥8-2=6 (Sai).\n\nB. (6;4): 3(6)+4=22≥6 (Đúng). 6≥4-3=1 (Đúng). 2(4)=8≥8-6=2 (Đúng). 4≤4 (Đúng). ⇒ (6;4) là nghiệm.\n\nC. (0;0): 3(0)+0=0≥6 (Sai).\n\nD. (1;2): 3(1)+2=5≥6 (Sai).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q40",
+    "type": "question",
+    "text": "Miền tam giác ABC kể cả ba cạnh trong hình là miền nghiệm của hệ bất phương trình nào trong bốn hệ dưới đây?",
+    "options": [
+      "A. {y≥0, 5x-4y≥10, 5x+4y≤10}",
+      "B. {x>0, 5x-4y≤10, 4x+5y≤10}",
+      "C. {x≥0, 4x-5y≤10, 5x+4y≤10}",
+      "D. {x≥0, 5x-4y≤10, 4x+5y≤10}"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Miền nghiệm nằm ở góc phần tư thứ nhất và trên các trục, nên x ≥ 0 và y ≥ 0. Đáp án A sai vì chỉ có y ≥ 0. B sai vì là x>0. C và D có x≥0, nhưng không có y≥0. Có thể đề bài thiếu y≥0.\n\nCạnh AB: đi qua A(0; 2.5) và B(2;0). Phương trình đoạn chắn: x/2 + y/2.5 = 1 ⇔ x/2 + 2y/5 = 1 ⇔ 5x+4y=10. Miền nghiệm chứa O(0,0), 0≤10, nên BPT là 5x+4y≤10.\n\nCạnh BC: đi qua B(2;0) và C(?.?). Giả sử C là giao điểm của 5x-4y=10 và x=0 thì C(0,-2.5) không khớp hình.\n\nXét đáp án D:\n\nx≥0: đúng.\n\n4x+5y≤10: đi qua (2.5",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q41",
+    "type": "question",
+    "text": "Cho hệ bất phương trình {x>0, x+√3y+1≤0}. Khẳng định nào sau đây là khẳng định đúng?",
+    "options": [
+      "A. (1; −1) ∈ S.",
+      "B. (1; −√3) ∈ S.",
+      "C. (−1;√5) ∉ S.",
+      "D. (−4;√3) ∈ S."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A. (1; −1): x=1>0 (Đúng). 1+√3(-1)+1 = 2-√3 > 0. (Sai).\n\nB. (1; −√3): x=1>0 (Đúng). 1+√3(-√3)+1 = 1-3+1 = -1 ≤ 0. (Đúng). Vậy B ∈ S.\n\nC. (−1;√5): x=-1. -1>0 là sai. Do đó (−1;√5) không thuộc S. Khẳng định ∉ S là đúng.\n\nD. (−4;√3): x=-4. -4>0 là sai.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q42",
+    "type": "question",
+    "text": "Cho hệ bất phương trình {x>0, x+√3y+1>0}. Khẳng định nào sau đây là khẳng định đúng?",
+    "options": [
+      "A. (−1;2) ∈ S.",
+      "B. (√2;0) ∉ S.",
+      "C. (1; −√3) ∈ S.",
+      "D. (√3;0) ∈ S."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "A. (−1;2): x=-1. -1>0 là sai.\n\nB. (√2;0): x=√2>0 (Đúng). √2+√3(0)+1 = √2+1 > 0 (Đúng). Vậy (√2;0) ∈ S. Khẳng định ∉ S là sai.\n\nC. (1; −√3): x=1>0 (Đúng). 1+√3(-√3)+1 = -1. -1>0 là sai.\n\nD. (√3;0): x=√3>0 (Đúng). √3+√3(0)+1 = √3+1 > 0 (Đúng). Vậy (√3;0) ∈ S. Khẳng định là đúng.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q43",
+    "type": "question",
+    "text": "Cho hệ bất phương trình {x-y>3, 1-1/2x+y>0}. Khẳng định nào sau đây là khẳng định đúng?",
+    "options": [
+      "A. (1;-2) ∈ S.",
+      "B. (2;1) ∈ S.",
+      "C. (5;-6) ∈ S.",
+      "D. S = ∅."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Từ BPT 1: y < x - 3.\nTừ BPT 2: y > (1/2)x - 1.\nKết hợp lại: (1/2)x - 1 < y < x - 3.\nĐiều kiện để hệ có nghiệm là (1/2)x - 1 < x - 3 ⇔ 2 < (1/2)x ⇔ x > 4.\nHệ có nghiệm. Hãy kiểm tra các điểm:\n\nA. (1;-2): 1-(-2)=3. 3>3 là sai.\n\nB. (2;1): 2-1=1. 1>3 là sai.\n\nC. (5;-6): 5-(-6)=11>3 (Đúng). 1-(1/2)(5)+(-6) = 1-2.5-6 = -7.5 < 0 (Sai).\nVậy không có điểm nào trong các đáp án thuộc S. Điều này không có nghĩa S = ∅.\nXét lại: 1 - 1/2x + y > 0 ⇔ 2 - x + 2y > 0 ⇔ x-2y < 2.\nTa có hệ {y < x-3, x-2y < 2}. Thay ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q44",
+    "type": "question",
+    "text": "Cho hệ bất phương trình {2x-3/2y≥1, 4x-3y≤2}. Tập nghiệm S là:",
+    "options": [
+      "A. một điểm.",
+      "B. một đường thẳng.",
+      "C. một nửa mặt phẳng.",
+      "D. rỗng."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Bất phương trình thứ nhất: 2x - (3/2)y ≥ 1 ⇔ 4x - 3y ≥ 2.\nTa có hệ: {4x - 3y ≥ 2, 4x - 3y ≤ 2}.\nĐể cả hai bất đẳng thức cùng thỏa mãn, chỉ có một khả năng duy nhất là 4x - 3y = 2.\nĐây là phương trình của một đường thẳng.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q45",
+    "type": "question",
+    "text": "Phần không gạch chéo ở hình sau đây là biểu diễn miền nghiệm của hệ bất phương trình nào trong bốn hệ A, B, C, D?",
+    "options": [
+      "A. {y>0, 3x+2y<6}",
+      "B. {y>0, 3x+2y<-6}",
+      "C. {x>0, 3x+2y<6}",
+      "D. {x>0, 3x+2y>-6}"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Miền nghiệm nằm ở bên phải trục Oy (trục tung), nên x > 0.\n\nĐường thẳng xiên đi qua (2,0) và (0,3). Phương trình là x/2 + y/3 = 1 ⇔ 3x + 2y = 6.\n\nMiền nghiệm chứa gốc tọa độ O(0,0). Thay vào 3x+2y ta có 3(0)+2(0)=0. Vì 0<6, nên bất phương trình là 3x + 2y < 6 (nét đứt).\n\nKết hợp lại, hệ bất phương trình là {x>0, 3x+2y<6}.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q46",
+    "type": "question",
+    "text": "Miền nghiệm của hệ bất phương trình {x-2y<0, x+3y>-2, y-x<3} chứa điểm nào sau đây?",
+    "options": [
+      "A. A(1; 0).",
+      "B. B(−2; 3).",
+      "C. C(0; −1).",
+      "D. D(−1; 0)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Ta kiểm tra các điểm:\n\nA(1;0): 1-2(0) = 1 > 0. Sai.\n\nB(−2; 3): y-x = 3-(-2)=5. 5<3 là sai.\n\nC(0; −1): x-2y = 0-2(-1)=2 > 0. Sai.\n\nD(−1; 0):\n\n-1 - 2(0) = -1 < 0 (Đúng)\n\n-1 + 3(0) = -1 > -2 (Đúng)\n\n0 - (-1) = 1 < 3 (Đúng)\n\n⇒ (−1;0) là nghiệm.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q47",
+    "type": "question",
+    "text": "Miền nghiệm của hệ bất phương trình {2x+3y-6<0, x≥0, 2x-3y-1≤0} chứa điểm nào sau đây?",
+    "options": [
+      "A. A(1; 2).",
+      "B. B(0; 2).",
+      "C. C(-1; 3).",
+      "D. D(0; -1/3)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Ta kiểm tra các điểm:\n\nA(1; 2): x=1≥0 (Đúng). 2(1)+3(2)-6=2>0. Sai.\n\nB(0; 2): x=0≥0 (Đúng). 2(0)+3(2)-6=0. 0<0 là sai.\n\nC(-1; 3): x=-1≥0. Sai.\n\nD(0; -1/3):\n\nx=0≥0 (Đúng)\n\n2(0)+3(-1/3)-6 = -1-6 = -7 < 0 (Đúng)\n\n2(0)-3(-1/3)-1 = 1-1 = 0 ≤ 0 (Đúng)\n\n⇒ (0;-1/3) là nghiệm.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q48",
+    "type": "question",
+    "text": "Miền nghiệm của hệ bất phương trình {2x-1≤0, -3x+5≤0} chứa điểm nào sau đây?",
+    "options": [
+      "A. Không có.",
+      "B. B(5/3; 2).",
+      "C. C(-3; 1).",
+      "D. D(1/2; 10)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Từ bất phương trình thứ nhất: 2x ≤ 1 ⇔ x ≤ 1/2.\nTừ bất phương trình thứ hai: -3x ≤ -5 ⇔ x ≥ 5/3.\nTa có hệ {x ≤ 1/2, x ≥ 5/3}.\nVì 1/2 = 0.5 và 5/3 ≈ 1.67, không có giá trị x nào có thể đồng thời nhỏ hơn hoặc bằng 0.5 và lớn hơn hoặc bằng 1.67.\nDo đó, hệ bất phương trình vô nghiệm.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q49",
+    "type": "question",
+    "text": "Miền nghiệm của hệ bất phương trình {3-y<0, 2x-3y+1>0} chứa điểm nào sau đây?",
+    "options": [
+      "A. A(3; 4).",
+      "B. B(4; 3).",
+      "C. C(7; 4).",
+      "D. D(4; 4)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Bất phương trình thứ nhất: 3 - y < 0 ⇔ y > 3.\nTa kiểm tra điều kiện này trước:\n\nA(3;4): y=4 > 3. Thỏa.\n\nB(4;3): y=3. 3>3 là sai.\n\nC(7;4): y=4 > 3. Thỏa.\n\nD(4;4): y=4 > 3. Thỏa.\nBây giờ kiểm tra BPT thứ hai với các điểm A, C, D:\n\nA(3;4): 2(3) - 3(4) + 1 = 6 - 12 + 1 = -5. -5>0 là sai.\n\nC(7;4): 2(7) - 3(4) + 1 = 14 - 12 + 1 = 3 > 0. Thỏa.\n\nD(4;4): 2(4) - 3(4) + 1 = 8 - 12 + 1 = -3. -3>0 là sai.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q50",
+    "type": "question",
+    "text": "Miền nghiệm của hệ bất phương trình {x-2y<0, x+3y>-2} không chứa điểm nào sau đây?",
+    "options": [
+      "A. A(−1; 0).",
+      "B. B(1; 0).",
+      "C. C(-3; 4).",
+      "D. D(0; 3)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta tìm điểm không thỏa mãn ít nhất một trong hai bất phương trình:\n\nA. A(−1; 0):\n\n-1 - 2(0) = -1 < 0 (Đúng)\n\n-1 + 3(0) = -1 > -2 (Đúng)\n\n⇒ (-1;0) là nghiệm.\n\nB. B(1; 0):\n\n1 - 2(0) = 1. 1<0 là sai.\n\n⇒ (1;0) không là nghiệm.\n\nC. C(-3; 4):\n\n-3 - 2(4) = -11 < 0 (Đúng)\n\n-3 + 3(4) = 9 > -2 (Đúng)\n\n⇒ (-3;4) là nghiệm.\n\nD. D(0; 3):\n\n0 - 2(3) = -6 < 0 (Đúng)\n\n0 + 3(3) = 9 > -2 (Đúng)\n\n⇒ (0;3) là nghiệm.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q51",
+    "type": "question",
+    "text": "Cặp số nào sau đây là nghiệm của hệ bất phương trình {x-2y<0, x+3y>-2, -x+y<3}?",
+    "options": [
+      "A. (1;0).",
+      "B. (-1;0).",
+      "C. (-2;3).",
+      "D. (0;-1)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta sẽ thay tọa độ của từng điểm vào hệ bất phương trình để kiểm tra.\n\nA. (1;0):\n\nThay vào BPT (1): 1 - 2(0) = 1. 1 < 0 là sai. Vậy (1;0) không là nghiệm.\n\nB. (-1;0):\n\nThay vào BPT (1): -1 - 2(0) = -1 < 0 (Đúng).\n\nThay vào BPT (2): -1 + 3(0) = -1 > -2 (Đúng).\n\nThay vào BPT (3): -(-1) + 0 = 1 < 3 (Đúng).\n\nCặp số (-1;0) thỏa mãn tất cả các bất phương trình.\n\nC. (-2;3):\n\nThay vào BPT (3): -(-2) + 3 = 5. 5 < 3 là sai. Vậy (-2;3) không là nghiệm.\n\nD. (0;-1):\n\nThay vào BPT (1): 0 - 2(-1) = 2. 2 < 0 là ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q52",
+    "type": "question",
+    "text": "Cặp số nào sau đây không là nghiệm của hệ bất phương trình {x+y≤2, 2x-3y>-2}?",
+    "options": [
+      "A. (0;0).",
+      "B. (1;1).",
+      "C. (-1;1).",
+      "D. (−1; −1) ."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Ta tìm cặp số không thỏa mãn ít nhất một trong hai bất phương trình.\n\nA. (0;0):\n\n0 + 0 = 0 ≤ 2 (Đúng).\n\n2(0) - 3(0) = 0 > -2 (Đúng).\n\n⇒ (0;0) là nghiệm.\n\nB. (1;1):\n\n1 + 1 = 2 ≤ 2 (Đúng).\n\n2(1) - 3(1) = -1 > -2 (Đúng).\n\n⇒ (1;1) là nghiệm.\n\nC. (-1;1):\n\n-1 + 1 = 0 ≤ 2 (Đúng).\n\n2(-1) - 3(1) = -5. Bất đẳng thức -5 > -2 là sai.\n\n⇒ (-1;1) không là nghiệm.\n\nD. (-1;-1):\n\n-1 + (-1) = -2 ≤ 2 (Đúng).\n\n2(-1) - 3(-1) = 1 > -2 (Đúng).\n\n⇒ (-1;-1) là nghiệm.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q53",
+    "type": "question",
+    "text": "Miền nghiệm của hệ bất phương trình {2x-5y>1, 2x+y>-5, x+y<-1} là phần mặt phẳng chứa điểm nào?",
+    "options": [
+      "A. (0;0).",
+      "B. (1;0).",
+      "C. (0;2).",
+      "D. (0;-2)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Ta kiểm tra xem điểm nào thỏa mãn đồng thời cả ba bất phương trình.\n\nA. (0;0): Thay vào BPT (3): 0 + 0 = 0. Bất đẳng thức 0 < -1 là sai.\n\nB. (1;0): Thay vào BPT (3): 1 + 0 = 1. Bất đẳng thức 1 < -1 là sai.\n\nC. (0;2): Thay vào BPT (3): 0 + 2 = 2. Bất đẳng thức 2 < -1 là sai.\n\nD. (0;-2):\n\nThay vào BPT (1): 2(0) - 5(-2) = 10 > 1 (Đúng).\n\nThay vào BPT (2): 2(0) + (-2) = -2 > -5 (Đúng).\n\nThay vào BPT (3): 0 + (-2) = -2 < -1 (Đúng).\n\nĐiểm (0;-2) thỏa mãn cả ba bất phương trình.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q54",
+    "type": "question",
+    "text": "Giá trị nhỏ nhất của biểu thức F = -x+y trên miền nghiệm của hệ bất phương trình {-2x+y≤2, -x+2y≥4, x+y≤5} là bao nhiêu?",
+    "options": [
+      "A. 0.",
+      "B. 1.",
+      "C. 2.",
+      "D. 3."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Xác định các đỉnh của miền nghiệm: Miền nghiệm là một đa giác lồi, giá trị nhỏ nhất và lớn nhất của biểu thức bậc nhất sẽ đạt tại các đỉnh của nó. Các đỉnh là giao điểm của các đường thẳng: d₁: -2x+y=2, d₂: -x+2y=4, d₃: x+y=5.\n\nTọa độ các đỉnh:\n\nGiao điểm A của d₁ và d₃: Giải hệ {-2x+y=2, x+y=5} ta được x=1, y=4. A(1;4).\n\nGiao điểm B của d₁ và d₂: Giải hệ {-2x+y=2, -x+2y=4} ta được x=0, y=2. B(0;2).\n\nGiao điểm C của d₂ và d₃: Giải hệ {-x+2y=4, x+y=5} ta được x=2, y=3. C(2;3).\n\nTính giá trị F = -",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q55",
+    "type": "question",
+    "text": "Trong các mệnh đề sau, mệnh đề nào là mệnh đề đúng?",
+    "options": [
+      "A. ∀x ∈ ℝ, x > -x\".",
+      "B. ∀x ∈ ℕ, x² ≥ x\".",
+      "C. ∃x ∈ ℤ, x² - x - 1 = 0\".",
+      "D. ∃x ∈ ℚ, x² = 3\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "A: Sai. Lấy x = -2 ∈ ℝ, ta có -2 > -(-2) ⇔ -2 > 2, là mệnh đề sai.\n\nB: Đúng. Với mọi số tự nhiên x, ta có x² - x = x(x-1). Nếu x=0 hoặc x=1 thì x(x-1)=0. Nếu x > 1 (x ∈ ℕ) thì x>0 và x-1>0, suy ra x(x-1)>0. Vậy x(x-1) ≥ 0 với mọi x ∈ ℕ, tức là x² ≥ x.\n\nC: Sai. Phương trình x² - x - 1 = 0 có hai nghiệm là x = (1±√5)/2, cả hai đều không phải là số nguyên.\n\nD: Sai. Phương trình x² = 3 có hai nghiệm là x = ±√3, cả hai đều không phải là số hữu tỉ.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q56",
+    "type": "question",
+    "text": "Phủ định của mệnh đề \"Có ít nhất một học sinh trong lớp 10A không thích môn Toán\" là mệnh đề nào sau đây?",
+    "options": [
+      "A. Mọi học sinh trong lớp 10A đều không thích môn Toán\".",
+      "B. Mọi học sinh trong lớp 10A đều thích môn Toán\".",
+      "C. Có ít nhất một học sinh trong lớp 10A thích môn Toán\".",
+      "D. Không có học sinh nào trong lớp 10A thích môn Toán\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Mệnh đề ban đầu có thể viết dưới dạng ký hiệu: \"∃x ∈ (lớp 10A), x không thích môn Toán\".\nPhủ định của mệnh đề \"∃x, P(x)\" là \"∀x, ¬P(x)\".\nTrong đó, ¬P(x) là phủ định của \"x không thích môn Toán\", tức là \"x thích môn Toán\".\nVậy mệnh đề phủ định là: \"∀x ∈ (lớp 10A), x thích môn Toán\", hay \"Mọi học sinh trong lớp 10A đều thích môn Toán\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q57",
+    "type": "question",
+    "text": "Cho mệnh đề P ⇒ Q. Mệnh đề đảo của mệnh đề đã cho là:",
+    "options": [
+      "A. Q ⇒ P.",
+      "B. ¬P ⇒ ¬Q.",
+      "C. ¬Q ⇒ ¬P.",
+      "D. Q ⇔ P."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Theo định nghĩa, cho mệnh đề kéo theo P ⇒ Q:\n\nMệnh đề Q ⇒ P được gọi là mệnh đề đảo của P ⇒ Q.\n\nMệnh đề ¬Q ⇒ ¬P được gọi là mệnh đề phản đảo của P ⇒ Q.\n\nMệnh đề ¬P ⇒ ¬Q được gọi là mệnh đề nghịch đảo (ít dùng).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q58",
+    "type": "question",
+    "text": "Trong các câu sau, câu nào không phải là mệnh đề?",
+    "options": [
+      "A. Số 2024 chia hết cho 4\".",
+      "B. Phương trình x² + 5 = 0 có nghiệm thực\".",
+      "C. Bạn cảm thấy bài tập này khó không?\".",
+      "D. π là một số hữu tỉ\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề là một khẳng định có tính đúng hoặc sai.\n\nA là một khẳng định đúng (mệnh đề đúng).\n\nB là một khẳng định sai (mệnh đề sai).\n\nC là một câu hỏi, không phải là khẳng định, nên không phải là mệnh đề.\n\nD là một khẳng định sai (mệnh đề sai).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q59",
+    "type": "question",
+    "text": "Cho tập hợp A = {x ∈ ℕ | x là ước của 12}. Liệt kê các phần tử của tập hợp",
+    "options": [
+      "A. ",
+      "B. A = {1, 2, 3, 4, 6, 12}.",
+      "C. A = {2, 3, 4, 6, 12}.",
+      "D. A = {0, 1, 2, 3, 4, 6, 12}."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Tập hợp A gồm các số tự nhiên (ℕ) là ước của 12. Các ước tự nhiên của 12 là các số tự nhiên mà 12 chia hết cho chúng. Đó là các số: 1, 2, 3, 4, 6, và 12.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q60",
+    "type": "question",
+    "text": "Cho hai tập hợp A = (-∞; 3] và B = (1; 5]. Tập hợp A ∪ B là:",
+    "options": [
+      "A. (1; 3].",
+      "B. (-∞; 5].",
+      "C. (3; 5].",
+      "D. (-∞; 1]."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Phép hợp (∪) của hai tập hợp là lấy tất cả các phần tử thuộc ít nhất một trong hai tập hợp.\nTa có thể biểu diễn trên trục số:\n\nTập A: //////////////////]\n-∞ 3\n\nTập B: (/////////////]\n1 5\nHợp hai tập hợp này lại, ta lấy phần được tô từ ganz trái đến điểm cuối cùng bên phải, tức là từ -∞ đến 5.\nVậy A ∪ B = (-∞; 5].",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q61",
+    "type": "question",
+    "text": "Cho hai tập hợp M = {1, 2, 3, 5} và N = {2, 4, 5, 6}. Tập hợp M ∩ N là:",
+    "options": [
+      "A. {2, 5}.",
+      "B. {1, 2, 3, 4, 5, 6}.",
+      "C. {1, 3}.",
+      "D. {4, 6}."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Phép giao (∩) của hai tập hợp là lấy các phần tử chung của cả hai tập hợp.\nSo sánh hai tập hợp M và N, ta thấy các phần tử chung là 2 và 5.\nVậy M ∩ N = {2, 5}.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q62",
+    "type": "question",
+    "text": "Mệnh đề phủ định của P: \"∀n ∈ ℕ, 2n + 1 là số lẻ\" là:",
+    "options": [
+      "A. ∀n ∈ ℕ, 2n + 1 là số chẵn\".",
+      "B. ∃n ∈ ℕ, 2n + 1 là số chẵn\".",
+      "C. ∃n ∈ ℕ, 2n + 1 là số lẻ\".",
+      "D. ∀n ∈ ℕ, 2n + 1 không phải là số lẻ\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Phủ định của mệnh đề \"∀x, P(x)\" là \"∃x, ¬P(x)\".\nTrong trường hợp này, ¬P(x) là phủ định của \"2n + 1 là số lẻ\", tức là \"2n + 1 là số chẵn\".\nVậy mệnh đề phủ định là \"∃n ∈ ℕ, 2n + 1 là số chẵn\".\nLưu ý: Mệnh đề D \"∀n ∈ ℕ, 2n + 1 không phải là số lẻ\" về mặt ý nghĩa tương đương với A, nhưng cách diễn đạt chuẩn của phủ định là đổi lượng từ và phủ định vị từ.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q63",
+    "type": "question",
+    "text": "Cho tập hợp X = {a, b, c}. Số tập hợp con của X là:",
+    "options": [
+      "A. 3.",
+      "B. 6.",
+      "C. 8.",
+      "D. 9."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Một tập hợp có n phần tử thì có 2ⁿ tập hợp con.\nTập hợp X có 3 phần tử (n=3).\nVậy số tập hợp con của X là 2³ = 8.\nCác tập con đó là: ∅, {a}, {b}, {c}, {a, b}, {a, c}, {b, c}, {a, b, c}.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q64",
+    "type": "question",
+    "text": "Cho A = [-5; 1] và B = (-3; 4). Tập hợp A \\ B là:",
+    "options": [
+      "A. [-5; -3].",
+      "B. [-5; -3).",
+      "C. (1; 4).",
+      "D. [-5; 4)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Phép hiệu A \\ B là tập hợp các phần tử thuộc A nhưng không thuộc B.\n\nA = [-5; 1]\n\nB = (-3; 4)\nTa lấy các phần tử trong đoạn [-5; 1] và loại bỏ đi những phần tử nằm trong khoảng (-3; 4).\nPhần bị loại bỏ là (-3; 1].\nPhần còn lại của A là [-5; -3].",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q65",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây có mệnh đề đảo là mệnh đề đúng?",
+    "options": [
+      "A. Nếu một số tự nhiên chia hết cho 6 thì nó chia hết cho 3\".",
+      "B. Nếu hai tam giác bằng nhau thì chúng có diện tích bằng nhau\".",
+      "C. Nếu một tứ giác là hình chữ nhật thì nó có hai đường chéo bằng nhau\".",
+      "D. Nếu một số tự nhiên là số lẻ thì bình phương của nó là số lẻ\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Ta xét mệnh đề đảo của từng câu:\n\nA: Mệnh đề đảo: \"Nếu một số tự nhiên chia hết cho 3 thì nó chia hết cho 6\". Mệnh đề này sai (ví dụ số 9).\n\nB: Mệnh đề đảo: \"Nếu hai tam giác có diện tích bằng nhau thì chúng bằng nhau\". Mệnh đề này sai.\n\nC: Mệnh đề đảo: \"Nếu một tứ giác có hai đường chéo bằng nhau thì nó là hình chữ nhật\". Mệnh đề này sai (ví dụ hình thang cân).\n\nD: Mệnh đề đảo: \"Nếu bình phương của một số tự nhiên là số lẻ thì số đó là số lẻ\". Mệnh đề này đúng. Vì nếu số đó là số chẵn (n = 2k) ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q66",
+    "type": "question",
+    "text": "Ký hiệu nào sau đây dùng để viết đúng mệnh đề \"√2 không phải là một số hữu tỉ\"?",
+    "options": [
+      "A. √2 = ℚ.",
+      "B. √2 ⊂ ℚ.",
+      "C. √2 ∉ ℚ.",
+      "D. √2 ∈ ℚ."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "√2 là một phần tử (số).\n\nℚ là tập hợp các số hữu tỉ.\n\nQuan hệ giữa một phần tử và một tập hợp được biểu diễn bằng ký hiệu ∈ (thuộc) hoặc ∉ (không thuộc).\n\n\"√2 không phải là một số hữu tỉ\" có nghĩa là phần tử √2 không thuộc tập hợp ℚ.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q67",
+    "type": "question",
+    "text": "Cho mệnh đề P: \"Nếu tam giác ABC vuông tại A thì AB² + AC² = BC²\". Mệnh đề P có thể phát biểu lại là:",
+    "options": [
+      "A. Tam giác ABC vuông tại A là điều kiện đủ để có AB² + AC² = BC²\".",
+      "B. Tam giác ABC vuông tại A là điều kiện cần để có AB² + AC² = BC²\".",
+      "C. AB² + AC² = BC² là điều kiện cần và đủ để tam giác ABC vuông tại A\".",
+      "D. Tam giác ABC vuông tại A là điều kiện cần và đủ để có AB² + AC² = BC²\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Trong mệnh đề P ⇒ Q:\n\nP là điều kiện đủ để có Q.\n\nQ là điều kiện cần để có P.\nỞ đây, P = \"Tam giác ABC vuông tại A\" và Q = \"AB² + AC² = BC²\".\nVậy, \"Tam giác ABC vuông tại A\" là điều kiện đủ để có \"AB² + AC² = BC²\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q68",
+    "type": "question",
+    "text": "Cho tập A = {x ∈ ℝ | x² - 4x + 3 = 0} và B = {1, 2, 3}. Khẳng định nào đúng?",
+    "options": [
+      "A. A =",
+      "B. ",
+      "C. B ⊂",
+      "D. A ∩ B = {1}."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Tìm các phần tử của tập A: Giải phương trình x² - 4x + 3 = 0. Phương trình có hai nghiệm là x=1 và x=3 (a+b+c=0).\nVậy A = {1, 3}.\n\nSo sánh A và B:\n\nB = {1, 2, 3}.\n\nMọi phần tử của A (là 1 và 3) đều thuộc B.\n\nTồn tại phần tử thuộc B (là 2) không thuộc A.\n\nDo đó, A là tập hợp con thực sự của B, hay A ⊂ B.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q69",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây là mệnh đề sai?",
+    "options": [
+      "A. ∃x ∈ ℝ, x > x²\".",
+      "B. ∀n ∈ ℕ, n² + 1 không chia hết cho 3\".",
+      "C. ∀x ∈ ℝ, |x| < 3 ⇔ x < 3\".",
+      "D. ∃a ∈ ℚ, a² = 2\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A: Đúng. Lấy x = 0.5 ∈ ℝ, ta có 0.5 > (0.5)² = 0.25.\n\nB: Đúng. Một số chính phương chia cho 3 chỉ có thể dư 0 hoặc 1. Nếu n chia hết cho 3, n² chia hết cho 3. Nếu n không chia hết cho 3, n² chia 3 dư 1. Vậy n²+1 không bao giờ chia hết cho 3.\n\nC: Sai. Mệnh đề |x| < 3 tương đương với -3 < x < 3, không tương đương với x < 3. Ví dụ, x = -4 thì x<3 nhưng |x|=4 không nhỏ hơn 3.\n\nD: Sai. Mệnh đề này khẳng định tồn tại số hữu tỉ mà bình phương bằng 2, điều này vô lý (√2 là số vô tỉ). Chỉnh sửa phân tích",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q70",
+    "type": "question",
+    "text": "Cho hai tập hợp A = {0; 1; 2; 3; 4} và B = {2; 3; 4; 5; 6}. Tập hợp (A \\ B) ∪ (B \\ A) là:",
+    "options": [
+      "A. {0; 1; 5; 6}.",
+      "B. {2; 3; 4}.",
+      "C. {0; 1; 2; 3; 4; 5; 6}.",
+      "D. {5; 6}."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Tính A \\ B: Các phần tử thuộc A nhưng không thuộc B.\nA \\ B = {0; 1}.\n\nTính B \\ A: Các phần tử thuộc B nhưng không thuộc A.\nB \\ A = {5; 6}.\n\nTính (A \\ B) ∪ (B \\ A): Hợp của hai tập hợp vừa tìm được.\n{0; 1} ∪ {5; 6} = {0; 1; 5; 6}.\n(Đây chính là phép hiệu đối xứng của hai tập hợp).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q71",
+    "type": "question",
+    "text": "Phát biểu nào sau đây là mệnh đề đúng?",
+    "options": [
+      "A. π < 3\".",
+      "B. x + y = 3\".",
+      "C. Phương trình 3x+6=0 có nghiệm dương\".",
+      "D. 17 là một số nguyên tố\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "A: Sai vì π ≈ 3.14 > 3.\n\nB: Là mệnh đề chứa biến, không phải mệnh đề vì chưa xác định được tính đúng sai.\n\nC: Phương trình 3x+6=0 có nghiệm x=-2, là nghiệm âm. Vậy mệnh đề này sai.\n\nD: Đúng. 17 là số tự nhiên lớn hơn 1, chỉ có hai ước là 1 và chính nó.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q72",
+    "type": "question",
+    "text": "Cho A là tập hợp các số tự nhiên chẵn nhỏ hơn 10, B là tập hợp các ước nguyên dương của 6. Tập hợp A ∩ B có bao nhiêu phần tử?",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Liệt kê các phần tử của A: A = {0, 2, 4, 6, 8}.\n\nLiệt kê các phần tử của B: B = {1, 2, 3, 6}.\n\nTìm A ∩ B: Các phần tử chung của A và B là {2, 6}.\n\nSố phần tử của A ∩ B là 2.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q73",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây tương đương với mệnh đề \"Nếu a và b là hai số lẻ thì a+b là một số chẵn\"?",
+    "options": [
+      "A. Nếu a+b không phải là số chẵn thì a và b không phải là hai số lẻ\".",
+      "B. Nếu a+b không phải là số chẵn thì a không phải là số lẻ hoặc b không phải là số lẻ\".",
+      "C. Nếu a hoặc b là số chẵn thì a+b là số lẻ\".",
+      "D. a và b là hai số lẻ là điều kiện cần để a+b là số chẵn\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Mệnh đề P ⇒ Q tương đương với mệnh đề phản đảo của nó là ¬Q ⇒ ¬P.\n\nP: \"a và b là hai số lẻ\".\n\nQ: \"a+b là một số chẵn\".\n\n¬Q: \"a+b không phải là số chẵn\".\n\n¬P: Phủ định của \"a là số lẻ VÀ b là số lẻ\" là \"a không phải số lẻ HOẶC b không phải số lẻ\" (tức là \"a chẵn hoặc b chẵn\").\nVậy mệnh đề phản đảo là: \"Nếu a+b không phải là số chẵn thì a không phải là số lẻ hoặc b không phải là số lẻ\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q74",
+    "type": "question",
+    "text": "Cho tập hợp C = (-5; 1] ∩ [-2; 4). Tập hợp C là:",
+    "options": [
+      "A. [-2; 1].",
+      "B. (-5; 4).",
+      "C. (-5; -2).",
+      "D. (1; 4)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Ta tìm phần giao (phần chung) của hai khoảng/đoạn:\n\nTập 1: (-5; 1]\n\nTập 2: [-2; 4)\nBiểu diễn trên trục số, phần chung bắt đầu từ -2 (bao gồm -2) và kết thúc tại 1 (bao gồm 1).\nVậy C = [-2; 1].",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q75",
+    "type": "question",
+    "text": "Cho mệnh đề chứa biến P(x): \"x² - 5x + 4 = 0\". Mệnh đề nào sau đây đúng?",
+    "options": [
+      "A. P(0).",
+      "B. P(2).",
+      "C. P(4).",
+      "D. P(5)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Ta thay các giá trị x vào biểu thức để xem giá trị nào làm cho mệnh đề đúng (tức là bằng 0).\n\nP(0): 0² - 5(0) + 4 = 4 ≠ 0. Sai.\n\nP(2): 2² - 5(2) + 4 = 4 - 10 + 4 = -2 ≠ 0. Sai.\n\nP(4): 4² - 5(4) + 4 = 16 - 20 + 4 = 0. Đúng.\n\nP(5): 5² - 5(5) + 4 = 25 - 25 + 4 = 4 ≠ 0. Sai.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q76",
+    "type": "question",
+    "text": "Ký hiệu khoa học của tập hợp các số thực là:",
+    "options": [
+      "A. ℕ",
+      "B. ℤ",
+      "C. ℚ",
+      "D. ℝ"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Theo quy ước toán học quốc tế:\n\nℕ: tập hợp các số tự nhiên.\n\nℤ: tập hợp các số nguyên.\n\nℚ: tập hợp các số hữu tỉ.\n\nℝ: tập hợp các số thực.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q77",
+    "type": "question",
+    "text": "Mệnh đề \"∀x ∈ ℝ, x² ≥ 0\" phát biểu bằng lời là:",
+    "options": [
+      "A. Mọi số thực đều có bình phương không âm\".",
+      "B. Có một số thực có bình phương không âm\".",
+      "C. Bình phương của mọi số thực đều dương\".",
+      "D. Nếu x là số thực thì x² > 0\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Ký hiệu ∀ đọc là \"với mọi\".\n\nx ∈ ℝ đọc là \"x là một số thực\".\n\nx² ≥ 0 đọc là \"bình phương của x lớn hơn hoặc bằng 0\" hoặc \"bình phương của x không âm\".\nGhép lại ta được: \"Với mọi số thực x, bình phương của x không âm\".\n\nB sai vì dùng \"có một\" (∃).\n\nC sai vì x² ≥ 0 bao gồm cả trường hợp bằng 0, không phải lúc nào cũng dương (ví dụ x=0).\n\nD sai vì thiếu lượng từ \"với mọi\" và dùng dấu \">\" thay vì \"≥\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q78",
+    "type": "question",
+    "text": "Cho X = {x ∈ ℝ | 2x-4 > 0} và Y = {x ∈ ℝ | x < 5}. Tập hợp X ∩ Y là:",
+    "options": [
+      "A. (2; 5).",
+      "B. [2; 5).",
+      "C. (-∞; 2).",
+      "D. (5; +∞)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Xác định tập X: 2x - 4 > 0 ⇔ 2x > 4 ⇔ x > 2. Vậy X = (2; +∞).\n\nXác định tập Y: Y = (-∞; 5).\n\nTìm X ∩ Y: Giao của (2; +∞) và (-∞; 5) là các số lớn hơn 2 và nhỏ hơn 5.\nVậy X ∩ Y = (2; 5).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q79",
+    "type": "question",
+    "text": "Lớp 10A có 25 học sinh giỏi Toán, 20 học sinh giỏi Lý, và 10 học sinh giỏi cả Toán và Lý. Hỏi lớp 10A có bao nhiêu học sinh giỏi ít nhất một trong hai môn Toán hoặc Lý?",
+    "options": [
+      "A. 35.",
+      "B. 45.",
+      "C. 55.",
+      "D. 30."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Gọi T là tập hợp học sinh giỏi Toán, L là tập hợp học sinh giỏi Lý.\nTa có: |T| = 25, |L| = 20, |T ∩ L| = 10.\nSố học sinh giỏi ít nhất một trong hai môn là số phần tử của tập hợp T ∪ L.\nÁp dụng công thức: |T ∪ L| = |T| + |L| - |T ∩ L|.\n|T ∪ L| = 25 + 20 - 10 = 35.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q80",
+    "type": "question",
+    "text": "Cho mệnh đề chứa biến P(n): \"n chia hết cho 5\". Tìm một giá trị của n để P(n) là mệnh đề đúng.",
+    "options": [
+      "A. n = 3.",
+      "B. n = 5.",
+      "C. n = 7.",
+      "D. n = 12."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta cần tìm số n trong các đáp án sao cho \"n chia hết cho 5\" là đúng.\n\nA: 3 không chia hết cho 5.\n\nB: 5 chia hết cho 5.\n\nC: 7 không chia hết cho 5.\n\nD: 12 không chia hết cho 5.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q81",
+    "type": "question",
+    "text": "Cho tập hợp E = {x ∈ ℤ | -2 < x ≤ 3}. Số phần tử của E là:",
+    "options": [
+      "A. 4.",
+      "B. 5.",
+      "C. 6.",
+      "D. 7."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Tập E gồm các số nguyên x thỏa mãn -2 < x ≤ 3.\nCác số nguyên đó là: -1, 0, 1, 2, 3.\nĐếm số phần tử, ta có 5 phần tử.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q82",
+    "type": "question",
+    "text": "Mệnh đề phủ định của mệnh đề \"Phương trình x² - 3x + 2 = 0 có nghiệm\" là:",
+    "options": [
+      "A. Phương trình x² - 3x + 2 = 0 có hai nghiệm phân biệt\".",
+      "B. Phương trình x² - 3x + 2 = 0 có vô số nghiệm\".",
+      "C. Phương trình x² - 3x + 2 = 0 có nghiệm kép\".",
+      "D. Phương trình x² - 3x + 2 = 0 vô nghiệm\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Mệnh đề P là \"phương trình có nghiệm\". Phủ định của P (¬P) là \"phương trình không có nghiệm\", hay \"phương trình vô nghiệm\". Các đáp án A, B, C đều là các trường hợp con của \"có nghiệm\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q83",
+    "type": "question",
+    "text": "Cho hai mệnh đề P: \"x là số chẵn\" và Q: \"x chia hết cho 2\". Phát biểu nào sau đây đúng?",
+    "options": [
+      "A. P là điều kiện cần để có Q.",
+      "B. P là điều kiện cần và đủ để có Q.",
+      "C. Q là điều kiện đủ để có P.",
+      "D. P là điều kiện đủ để có Q."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Một số nguyên x là số chẵn khi và chỉ khi nó chia hết cho 2.\nĐiều này có nghĩa là P ⇒ Q và Q ⇒ P đều đúng.\nKhi đó, P tương đương với Q (P ⇔ Q), và P là điều kiện cần và đủ để có Q (và ngược lại).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q84",
+    "type": "question",
+    "text": "Cho A = (-∞; 2] và B = [2; +∞). Tập hợp A ∩ B là:",
+    "options": [
+      "A. ∅ (tập rỗng).",
+      "B. {2}.",
+      "C. ℝ.",
+      "D. ."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta tìm phần tử chung duy nhất của A và B.\n\nA chứa tất cả các số nhỏ hơn hoặc bằng 2.\n\nB chứa tất cả các số lớn hơn hoặc bằng 2.\nSố duy nhất thỏa mãn cả hai điều kiện là số 2.\nVậy A ∩ B = {2}.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q85",
+    "type": "question",
+    "text": "Mệnh đề \"∃x ∈ ℝ, x² < 0\" là mệnh đề:",
+    "options": [
+      "A. Đúng, vì có số âm.",
+      "B. Sai, vì bình phương của mọi số thực đều không âm.",
+      "C. Đúng, vì có số 0.",
+      "D. Sai, vì không phải mọi số thực đều có bình phương âm."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Mệnh đề này khẳng định \"Tồn tại một số thực mà bình phương của nó là một số âm\".\nTa biết rằng với mọi số thực x, x² ≥ 0. Không có số thực nào có bình phương là số âm. Do đó, mệnh đề đã cho là sai.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q86",
+    "type": "question",
+    "text": "Cho các tập hợp A = {a, b, c, d} và B = {a, c, e}. Tìm tập hợp A \\",
+    "options": [
+      "A. {a, c}.",
+      "B. ",
+      "C. {b, d}.",
+      "D. {b, d, e}."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Tập hợp A \\ B gồm các phần tử thuộc A nhưng không thuộc B.\nCác phần tử của A là {a, b, c, d}.\nCác phần tử của B là {a, c, e}.\nTa loại bỏ các phần tử chung {a, c} khỏi A. Các phần tử còn lại là {b, d}.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q87",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây là phủ định của mệnh đề \"Mọi tam giác đều có ba góc bằng nhau\"?",
+    "options": [
+      "A. Mọi tam giác đều không có ba góc bằng nhau\".",
+      "B. Tồn tại một tam giác không có ba góc bằng nhau\".",
+      "C. Tồn tại một tam giác đều không có ba góc bằng nhau\".",
+      "D. Mọi tam giác không phải tam giác đều thì có ba góc không bằng nhau\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề có dạng \"∀x ∈ T, P(x)\" trong đó T là tập hợp các tam giác đều, P(x) là \"x có ba góc bằng nhau\".\nPhủ định là \"∃x ∈ T, ¬P(x)\".\nPhát biểu bằng lời: \"Tồn tại một tam giác đều không có ba góc bằng nhau\".\n(Lưu ý: Mệnh đề ban đầu là mệnh đề đúng, nên mệnh đề phủ định của nó phải là mệnh đề sai).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q88",
+    "type": "question",
+    "text": "Cho A = [-3, 5) và B = (2, 7]. Tìm A ∪",
+    "options": [
+      "A. [-3, 7].",
+      "B. ",
+      "C. [-3, 2].",
+      "D. (5, 7]."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Hợp của hai tập hợp là lấy tất cả các phần tử thuộc ít nhất một trong hai.\nTa lấy khoảng từ điểm bắt đầu nhỏ nhất đến điểm kết thúc lớn nhất.\nĐiểm bắt đầu nhỏ nhất là -3 (thuộc A).\nĐiểm kết thúc lớn nhất là 7 (thuộc B).\nVậy A ∪ B = [-3, 7].",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q89",
+    "type": "question",
+    "text": "Cho mệnh đề \"Nếu một số chia hết cho 9 thì nó chia hết cho 3\". Mệnh đề phản đảo của mệnh đề này là:",
+    "options": [
+      "A. Nếu một số không chia hết cho 9 thì nó không chia hết cho 3\".",
+      "B. Nếu một số chia hết cho 3 thì nó chia hết cho 9\".",
+      "C. Nếu một số không chia hết cho 3 thì nó không chia hết cho 9\".",
+      "D. Một số chia hết cho 9 khi và chỉ khi nó chia hết cho 3\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề có dạng P ⇒ Q. Mệnh đề phản đảo là ¬Q ⇒ ¬P.\n\nP: \"một số chia hết cho 9\".\n\nQ: \"nó chia hết cho 3\".\n\n¬Q: \"nó không chia hết cho 3\".\n\n¬P: \"một số không chia hết cho 9\".\nVậy mệnh đề phản đảo là: \"Nếu một số không chia hết cho 3 thì nó không chia hết cho 9\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q90",
+    "type": "question",
+    "text": "Số phần tử của tập hợp A = {k² + 1 | k ∈ ℤ, |k| ≤ 2} là:",
+    "options": [
+      "A. 5.",
+      "B. 4.",
+      "C. 3.",
+      "D. 2."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Các giá trị của k là các số nguyên thỏa mãn |k| ≤ 2. Vậy k ∈ {-2, -1, 0, 1, 2}.\n\nTính k² + 1 cho từng giá trị của k:\n\nk = -2 ⇒ (-2)² + 1 = 5.\n\nk = -1 ⇒ (-1)² + 1 = 2.\n\nk = 0 ⇒ 0² + 1 = 1.\n\nk = 1 ⇒ 1² + 1 = 2.\n\nk = 2 ⇒ 2² + 1 = 5.\n\nCác phần tử của A là {1, 2, 5}. Chú ý không liệt kê các phần tử trùng lặp.\n\nSố phần tử của A là 3.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q91",
+    "type": "question",
+    "text": "Trong các mệnh đề sau, mệnh đề nào sai?",
+    "options": [
+      "A. ∀x ∈ ℝ: x² > 0\".",
+      "B. ∃n ∈ ℕ: n² = n\".",
+      "C. ∀n ∈ ℕ: n ≤ 2n\".",
+      "D. ∃x ∈ ℝ: x < 1/x\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "A: Sai. Khi x = 0, x² = 0, không lớn hơn 0. Mệnh đề đúng phải là \"∀x ∈ ℝ: x² ≥ 0\".\n\nB: Đúng. Khi n = 0 hoặc n = 1 (thuộc ℕ), ta có n² = n.\n\nC: Đúng. Với mọi số tự nhiên n, ta có 2n - n = n ≥ 0, suy ra 2n ≥ n.\n\nD: Đúng. Lấy x = 0.5 ∈ ℝ, ta có 0.5 < 1/0.5 = 2.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q92",
+    "type": "question",
+    "text": "Cho A = (-2, 1), B = [-3, 5]. Tìm C = B \\",
+    "options": [
+      "A. ",
+      "B. [-3, -2] ∪.",
+      "C. (-3, -2) ∪ (1, 5).",
+      "D. [-3, -2] ∪ (1, 5]."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "C = B \\ A là tập hợp các phần tử thuộc B nhưng không thuộc A.\n\nB = [-3, 5]\n\nA = (-2, 1)\nTa lấy đoạn [-3, 5] và bỏ đi khoảng (-2, 1).\nKhi bỏ đi khoảng (-2, 1), các phần tử còn lại của B là:\n\nPhần bên trái: từ -3 đến -2 (bao gồm cả -3 và -2). Tức là [-3, -2].\n\nPhần bên phải: từ 1 đến 5 (bao gồm cả 1 và 5). Tức là.\nKết hợp lại, ta được C = [-3, -2] ∪.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q93",
+    "type": "question",
+    "text": "Cho mệnh đề P(x) : \"∀x ∈ ℝ, x²+2x+2 > 0\". Mệnh đề phủ định của P(x) là:",
+    "options": [
+      "A. ∀x ∈ ℝ, x²+2x+2 ≤ 0\".",
+      "B. ∀x ∈ ℝ, x²+2x+2 < 0\".",
+      "C. ∃x ∈ ℝ, x²+2x+2 ≤ 0\".",
+      "D. ∃x ∈ ℝ, x²+2x+2 < 0\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề gốc có dạng \"∀x, Q(x)\".\nPhủ định của nó là \"∃x, ¬Q(x)\".\n¬Q(x) là phủ định của \"x²+2x+2 > 0\", tức là \"x²+2x+2 ≤ 0\".\nVậy mệnh đề phủ định là \"∃x ∈ ℝ, x²+2x+2 ≤ 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q94",
+    "type": "question",
+    "text": "Cho A là tập hợp các số nguyên tố nhỏ hơn 10. Số tập con có 2 phần tử của A là:",
+    "options": [
+      "A. 4.",
+      "B. 6.",
+      "C. 8.",
+      "D. 10."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Liệt kê các phần tử của A: Các số nguyên tố nhỏ hơn 10 là {2, 3, 5, 7}. Vậy A có 4 phần tử.\n\nSố tập con có 2 phần tử của một tập có 4 phần tử là tổ hợp chập 2 của 4, ký hiệu là C(4,2).\nC(4,2) = 4! / (2! * (4-2)!) = 24 / (2 * 2) = 6.\n\nHoặc liệt kê trực tiếp: {2,3}, {2,5}, {2,7}, {3,5}, {3,7}, {5,7}. Có 6 tập con.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q95",
+    "type": "question",
+    "text": "Cho hai mệnh đề P: \"Tứ giác ABCD là hình vuông\" và Q: \"Tứ giác ABCD là hình thoi có một góc vuông\". Mối quan hệ giữa P và Q là:",
+    "options": [
+      "A. P là mệnh đề đảo của Q.",
+      "B. P tương đương với Q.",
+      "C. P là hệ quả của Q.",
+      "D. Q là hệ quả của P."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Theo định nghĩa:\n\nHình vuông là hình thoi có một góc vuông (P ⇒ Q là đúng).\n\nHình thoi có một góc vuông là hình vuông (Q ⇒ P là đúng).\nVì cả hai mệnh đề kéo theo đều đúng, nên P và Q là hai mệnh đề tương đương (P ⇔ Q).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q96",
+    "type": "question",
+    "text": "Cho A = {x ∈ N | (x-2)(x²-4x+3)=0}. Các phần tử của A là:",
+    "options": [
+      "A. {1, 2, 3}.",
+      "B. {1, 3}.",
+      "C. {2}.",
+      "D. {1, 2, 3, 4}."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Ta giải phương trình (x-2)(x²-4x+3)=0.\nĐiều này tương đương với:\n\nx - 2 = 0 ⇔ x = 2.\n\nx² - 4x + 3 = 0. Phương trình này có hai nghiệm là x = 1 và x = 3.\nTập hợp các nghiệm là {1, 2, 3}. Vì tất cả các nghiệm này đều là số tự nhiên (∈ N), nên A = {1, 2, 3}.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q97",
+    "type": "question",
+    "text": "Phủ định của mệnh đề \"Nếu trời mưa thì đường trơn\" là:",
+    "options": [
+      "A. Nếu trời không mưa thì đường không trơn\".",
+      "B. Trời mưa và đường không trơn\".",
+      "C. Trời không mưa và đường trơn\".",
+      "D. Nếu đường không trơn thì trời không mưa\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Mệnh đề có dạng P ⇒ Q.\nPhủ định của P ⇒ Q là ¬(P ⇒ Q), tương đương với P ∧ (¬Q).\n\nP: \"trời mưa\".\n\nQ: \"đường trơn\".\n\n¬Q: \"đường không trơn\".\nVậy mệnh đề phủ định là \"Trời mưa VÀ đường không trơn\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q98",
+    "type": "question",
+    "text": "Cho các tập hợp M={x∈N | x là bội của 2}, P={x∈N | x là bội của 6}. Khẳng định nào sau đây đúng?",
+    "options": [
+      "A. M ⊂ P.",
+      "B. P ⊂ M.",
+      "C. M = P.",
+      "D. M ∩ P = ∅."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "M là tập các số tự nhiên chẵn: {0, 2, 4, 6, 8, 10, 12, ...}.\n\nP là tập các số tự nhiên là bội của 6: {0, 6, 12, 18, ...}.\nMọi số là bội của 6 (chia hết cho 6) thì cũng chia hết cho 2 (là số chẵn). Do đó, mọi phần tử của P đều thuộc M. Vậy P là tập con của M (P ⊂ M).\nKhẳng định A sai vì ví dụ 2 ∈ M nhưng 2 ∉ P.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q99",
+    "type": "question",
+    "text": "Trong các mệnh đề sau, mệnh đề nào có giá trị chân lý là Sai?",
+    "options": [
+      "A. ∃n ∈ ℕ, n² = 2n.",
+      "B. ∃x ∈ ℚ, 4x² - 1 = 0.",
+      "C. ∀n ∈ ℕ, n³ > n.",
+      "D. ∀x ∈ ℝ, x² - 2x + 1 ≥ 0."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A: Đúng. Với n=2 ∈ ℕ, ta có 2² = 4 và 2(2) = 4.\n\nB: Đúng. 4x² - 1 = 0 ⇔ x² = 1/4 ⇔ x = ±1/2. Cả hai nghiệm đều là số hữu tỉ (∈ ℚ).\n\nC: Sai. Với n=1 ∈ ℕ, ta có 1³ = 1. Mệnh đề 1 > 1 là sai.\n\nD: Đúng. x² - 2x + 1 = (x-1)², mà bình phương của một số thực luôn không âm (≥ 0).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q100",
+    "type": "question",
+    "text": "Cho A = (-∞, m+1] và B = [2, +∞). Tìm m để A ∩ B = ∅.",
+    "options": [
+      "A. m < 1.",
+      "B. m ≤ 1.",
+      "C. m > 1.",
+      "D. m ≥ 1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Để giao của hai tập hợp A và B là rỗng, chúng không được có điểm chung nào.\nA = (-∞, m+1]\nB = [2, +∞)\nĐiều này xảy ra khi điểm cuối của tập A (là m+1) phải nhỏ hơn điểm đầu của tập B (là 2).\nTức là: m + 1 < 2.\nm < 1.\nNếu m+1 = 2 (tức m=1), thì A∩B={2} ≠ ∅.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  }
+]

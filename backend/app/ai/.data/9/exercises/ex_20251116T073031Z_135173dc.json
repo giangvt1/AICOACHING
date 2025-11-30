@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251116T073031Z_135173dc",
+  "user_id": 9,
+  "topic": "Vectơ",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cho hình bình hành ABCD tâm O. Các véctơ ngược hướng với OB là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. BD, O",
+        "B. DB, OD, BO.",
+        "C. DB, DO.",
+        "D."
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Cho hình bình hành ABC",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. DP = Q",
+        "B. Khẳng định nào đúng?",
+        "C. |PQ| = |MN|.",
+        "D. Trên các đoạn thẳng DC, AB theo thứ tự lấy các điểm M, N sao cho DM = BN. Gọi P là giao điểm của AM, DB và Q là giao điểm của CN, D"
+      ],
+      "correct_index": 0,
+      "solution": "A"
+    },
+    {
+      "question": "Cho hình bình hành ABC",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. AD = B",
+        "B. AB = A",
+        "C.",
+        "D. Khẳng định nào sau đây đúng?"
+      ],
+      "correct_index": 0,
+      "solution": "A"
+    },
+    {
+      "question": "Cho tam giác ABC có M, N, D lần lượt là trung điểm của AB, AC, B",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. AM, MB, N",
+        "B. MA, MB, N",
+        "C. Khi đó, các vectơ đối của vectơ DN là:",
+        "D."
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Cho tam giác đều cạnh 2a. Đẳng thức nào sau đây là đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. |AB| = |AC|",
+        "B. |AB| = 2a",
+        "C. AB = 2a",
+        "D. AB = AC"
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251116T073031Z"
+}

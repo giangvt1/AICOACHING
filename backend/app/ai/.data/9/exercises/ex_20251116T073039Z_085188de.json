@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251116T073039Z_085188de",
+  "user_id": 9,
+  "topic": "Tích vô hu?ng",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cho hai vectơ $\\vec{a}$ và $\\vec{b}$ khác vectơ không. Tích vô hướng của hai vectơ $\\vec{a}$ và $\\vec{b}$ được định nghĩa là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "Tích độ dài của hai vectơ nhân với cosin của góc giữa chúng.",
+        "Tổng độ dài của hai vectơ nhân với cosin của góc giữa chúng.",
+        "Tích độ dài của hai vectơ nhân với sin của góc giữa chúng.",
+        "Hiệu độ dài của hai vectơ nhân với cosin của góc giữa chúng."
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "Nếu hai vectơ $\\vec{a}$ và $\\vec{b}$ vuông góc với nhau, thì tích vô hướng của chúng bằng bao nhiêu?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "Độ dài của vectơ $\\vec{a}$"
+      ],
+      "correct_index": 1,
+      "solution": null
+    },
+    {
+      "question": "Cho tam giác ABC vuông tại A. Vectơ $\\vec{AB}$ và vectơ $\\vec{AC}$ có tích vô hướng là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "$\\vec{AB} \\cdot \\vec{AC} = AB \\cdot AC$",
+        "$\\vec{AB} \\cdot \\vec{AC} = 0$",
+        "$\\vec{AB} \\cdot \\vec{AC} = -AB \\cdot AC$",
+        "$\\vec{AB} \\cdot \\vec{AC} = \\frac{1}{2} AB \\cdot AC$"
+      ],
+      "correct_index": 1,
+      "solution": null
+    },
+    {
+      "question": "Cho hai vectơ $\\vec{u} = (1, 2)$ và $\\vec{v} = (3, -1)$. Tích vô hướng $\\vec{u} \\cdot \\vec{v}$ bằng bao nhiêu?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "1",
+        "0",
+        "5",
+        "-1"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "Trong không gian, tích vô hướng của hai vectơ $\\vec{a} = (a_1, a_2, a_3)$ và $\\vec{b} = (b_1, b_2, b_3)$ được tính như thế nào?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "$a_1 b_1 + a_2 b_2 + a_3 b_3$",
+        "$a_1 b_1 - a_2 b_2 - a_3 b_3$",
+        "$a_1 b_1 + a_2 b_2 - a_3 b_3$",
+        "$a_1 + b_1 + a_2 + b_2 + a_3 + b_3$"
+      ],
+      "correct_index": 0,
+      "solution": null
+    }
+  ],
+  "contexts": [],
+  "used_model": "gemini-1.5-flash",
+  "created_at": "20251116T073039Z"
+}

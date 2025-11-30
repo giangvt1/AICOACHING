@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251120T141646Z_0649c342",
+  "user_id": 10,
+  "topic": "Chương IV: Vectơ",
+  "difficulty": 3,
+  "format": "open",
+  "items": [
+    {
+      "question": "Cho vectơ a ≠ 0. Vectơ nào sau đây cùng hướng với vectơ -2a?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 2a",
+        "B. 3a",
+        "C. -3a",
+        "D. a"
+      ],
+      "correct_index": 2,
+      "solution": "Hai vectơ u và v cùng hướng khi và chỉ khi u = k.v với k > 0.\n\nVectơ -2a có hệ số là -2 < 0, do đó nó ngược hướng với a.\n\nTa cần tìm một vectơ cũng ngược hướng với a.\n\nA. 2a: cùng hướng với a.\n\nB. 3a: cùng hướng với a.\n\nC. -3a: ngược hướng với a. Do đó, -3a cùng hướng với -2a.\n\nD. a: cùng hướng với a."
+    },
+    {
+      "question": "Cho lục giác đều ABCDEF tâm O. Hãy tìm các vectơ khác vectơ-không có điểm đầu, điểm cuối là đỉnh của lục giác và tâm O sao cho bằng với AB?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. FO, OC, FD",
+        "B. FO, AC, ED",
+        "C. BO, OC, ED",
+        "D. FO, OC, ED"
+      ],
+      "correct_index": 3,
+      "solution": "Vectơ bằng vectơ AB phải cùng hướng và có cùng độ dài với AB.\n\nFO: Tứ giác ABOF là hình bình hành (cụ thể là hình thoi), nên FO // AB và FO = AB. Hai vectơ này cùng hướng. Vậy FO = AB.\n\nOC: Tứ giác ABCO là hình bình hành (hình thoi), nên OC // AB và OC = AB. Hai vectơ này cùng hướng. Vậy OC = AB.\n\nED: Cạnh đối của lục giác đều, ED // AB và ED = AB. Hai vectơ này cùng hướng. Vậy ED = AB.\n\nFD và AC là các đường chéo, không cùng phương với AB."
+    },
+    {
+      "question": "Cho tứ giác ABC",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 4",
+        "B. 6",
+        "C. 8",
+        "D. Số các vectơ khác 0 có điểm đầu và cuối là đỉnh của tứ giác bằng:"
+      ],
+      "correct_index": 3,
+      "solution": "Một vectơ được xác định bởi một cặp điểm có thứ tự (điểm đầu, điểm cuối).\n\nVới 4 đỉnh A, B, C, D, ta có thể tạo ra các cặp điểm có thứ tự.\n\nSố cách chọn điểm đầu: 4 cách (A, B, C, hoặc D).\n\nSau khi chọn điểm đầu, số cách chọn điểm cuối (phải khác điểm đầu để vectơ khác 0): 3 cách.\n\nTheo quy tắc nhân, tổng số vectơ có thể tạo thành là: 4 × 3 = 12.\n\nCác vectơ đó là: AB, AC, AD, BA, BC, BD, CA, CB, CD, DA, DB, DC."
+    },
+    {
+      "question": "Cho ba vectơ a, b, c khác vectơ không. Nếu a cùng phương với b và b cùng phương với c thì:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. a và c có thể không cùng phương.",
+        "B. a và c luôn cùng hướng.",
+        "C. a và c luôn cùng phương.",
+        "D. a và c luôn ngược hướng."
+      ],
+      "correct_index": 2,
+      "solution": "Đây là tính chất bắc cầu của quan hệ cùng phương.\n\na cùng phương với b nghĩa là giá của a song song hoặc trùng với giá của b.\n\nb cùng phương với c nghĩa là giá của b song song hoặc trùng với giá của c.\n\nTừ hai điều trên, suy ra giá của a song song hoặc trùng với giá của c.\n\nDo đó, a và c luôn cùng phương.\n\nB và D sai vì chúng có thể cùng hướng hoặc ngược hướng. Ví dụ: nếu a cùng hướng b, b ngược hướng c thì a ngược hướng c."
+    },
+    {
+      "question": "Cho hình thoi ABCD có tâm I. Hãy cho biết số khẳng định đúng trong các khẳng định sau?\na) |AB| = |BC| b) AB = DC c) IA = -IC\nd) |IB| = |IA| e) AB = BC f) 2|IA| = |BD|",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 3.",
+        "B. 4.",
+        "C. 5.",
+        "D. 6."
+      ],
+      "correct_index": 1,
+      "solution": "a) |AB| = |BC|: Đúng, các cạnh của hình thoi bằng nhau.\n\nb) AB = DC: Đúng, trong hình bình hành (hình thoi), hai cạnh đối AB và DC tạo thành hai vectơ bằng nhau.\n\nc) IA = -IC: Đúng, I là trung điểm của AC nên IA và IC là hai vectơ đối.\n\nd) |IB| = |IA|: Sai, hai nửa đường chéo của hình thoi không nhất thiết bằng nhau.\n\ne) AB = BC (vectơ): Sai, hai vectơ này không cùng hướng.\n\nf) 2|IA| = |BD|: Sai, 2|IA| = |AC|. |AC| không nhất thiết bằng |BD|.\n\nVậy có 3 khẳng định đúng là a, b, c. Lời giải trong"
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251120T141646Z"
+}

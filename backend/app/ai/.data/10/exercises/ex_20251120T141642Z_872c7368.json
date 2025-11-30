@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251120T141642Z_872c7368",
+  "user_id": 10,
+  "topic": "Chương IV: Vectơ",
+  "difficulty": 3,
+  "format": "open",
+  "items": [
+    {
+      "question": "Mệnh đề đảo của mệnh đề \"Nếu một tứ giác là hình thoi thì nó có hai đường chéo vuông góc\" là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Nếu một tứ giác không phải là hình thoi thì nó không có hai đường chéo vuông góc.",
+        "B. Nếu một tứ giác có hai đường chéo vuông góc thì nó là hình thoi.",
+        "C. Nếu một tứ giác có hai đường chéo không vuông góc thì nó không phải là hình thoi.",
+        "D. Một tứ giác là hình thoi khi và chỉ khi nó có hai đường chéo vuông góc."
+      ],
+      "correct_index": 1,
+      "solution": "Mệnh đề kéo theo có dạng P => Q. Mệnh đề đảo của nó là Q => P.\n\nTrong mệnh đề đã cho:\n\nP: \"Một tứ giác là hình thoi\".\n\nQ: \"Nó có hai đường chéo vuông góc\".\n\nMệnh đề đảo Q => P là: \"Nếu một tứ giác có hai đường chéo vuông góc thì nó là hình thoi\"."
+    },
+    {
+      "question": "Cho hình bình hành ABC",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. DP = Q",
+        "B. Khẳng định nào đúng?",
+        "C. |PQ| = |MN|.",
+        "D. Trên các đoạn thẳng DC, AB theo thứ tự lấy các điểm M, N sao cho DM = BN. Gọi P là giao điểm của AM, DB và Q là giao điểm của CN, D"
+      ],
+      "correct_index": 0,
+      "solution": "Xét hai tam giác ΔADM và ΔCBN, có AD = CB, DM = BN, và góc ADM = góc CBN (so le trong).\n\nVậy ΔADM = ΔCBN (c.g.c). Suy ra AM = CN và AM // CN. Do đó AMCN là hình bình hành.\n\nXét hai tam giác ΔDPM và ΔBQN.\n\nTa có DM = BN (giả thiết).\n\nGóc PDM = góc QBN (so le trong vì AD//BC).\n\nGóc DMP = góc BNQ (so le trong vì AM//CN).\n\nVậy ΔDPM = ΔBQN (g.c.g).\n\nSuy ra DP = QB."
+    },
+    {
+      "question": "Cho hình bình hành ABGE. Đẳng thức nào sau đây đúng.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. BA = EG.",
+        "B. AG = BE.",
+        "C. GA = -BE.",
+        "D. BA = -GE."
+      ],
+      "correct_index": 3,
+      "solution": "Nếu ABGE là hình bình hành thì các cặp cạnh đối song song và bằng nhau, tạo thành các vectơ bằng nhau.\n\nAB = EG và BG = AE.\n\nA. BA = EG: Sai, BA = -AB = -EG.\n\nB. AG và BE là hai đường chéo, chúng không bằng nhau.\n\nD. BA = -AB. GE = -EG. Vì AB = EG nên -AB = -EG. Vậy BA = GE. Đẳng thức này đúng."
+    },
+    {
+      "question": "Cho vectơ a. Mệnh đề nào sau đây đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Có vô số vectơ u mà |u| = |a|.",
+        "B. Có duy nhất một u mà u = a.",
+        "C. Có duy nhất một u mà u = -a.",
+        "D. Không có vectơ u nào mà |u| = |a|."
+      ],
+      "correct_index": 0,
+      "solution": "|u| = |a| nghĩa là vectơ u có cùng độ dài với vectơ a.\n\nA. Có vô số vectơ có cùng độ dài cho trước. Tập hợp các điểm ngọn của chúng (nếu lấy chung gốc O) sẽ tạo thành một đường tròn. Do đó mệnh đề này đúng.\n\nB. u = a là một vectơ duy nhất. Mệnh đề này sai, vì nó chỉ là một trường hợp trong vô số trường hợp ở A.\n\nC. u = -a là một vectơ duy nhất. Mệnh đề này sai.\n\nD. Sai, ít nhất có vectơ a và -a thỏa mãn."
+    },
+    {
+      "question": "Cho tam giác đều ABC cạnh a, mệnh đề nào sau đây đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. |AC| = |BC|.",
+        "B. |AC| = a.",
+        "C. AB = A",
+        "D. |AB| = a."
+      ],
+      "correct_index": 3,
+      "solution": "Tam giác ABC đều cạnh a, nghĩa là ba cạnh AB, BC, CA đều có độ dài bằng a.\n\nA. |AC| = |BC| là đẳng thức về độ dài. AC = a và BC = a, nên |AC| = |BC| là đúng.\n\nB. |AC| = a là đúng.\n\nC. AB = AC là đẳng thức vectơ, nó đòi hỏi hai vectơ phải cùng hướng và cùng độ dài. Vectơ AB và AC có cùng độ dài nhưng không cùng hướng (góc giữa chúng là 60°). Do đó, mệnh đề này sai.\n\nD. |AB| = a là đúng.\n\nLưu ý: Câu hỏi có thể có nhiều đáp án đúng về mặt toán học (A, B, D). Tuy nhiên, trong các bài tập trắc nghiệm"
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251120T141642Z"
+}

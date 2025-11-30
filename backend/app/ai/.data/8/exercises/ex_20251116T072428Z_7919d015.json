@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251116T072428Z_7919d015",
+  "user_id": 8,
+  "topic": "Mệnh đề – Tập hợp",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cho mệnh đề P ⇒ Q: \"Nếu 3² + 1 là số chẵn thì 3 là số lẻ\". Chọn mệnh đề đúng:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Mệnh đề Q ⇒ P là mệnh đề sai.",
+        "B. Cả mệnh đề P ⇒ Q và Q ⇒ P đều sai.",
+        "C. Mệnh đề P ⇒ Q là mệnh đề sai.",
+        "D. Cả mệnh đề P ⇒ Q và Q ⇒ P đều đúng."
+      ],
+      "correct_index": 3,
+      "solution": "D"
+    },
+    {
+      "question": "Cho mệnh đề chứa biến P(x): \"x² = 4\", x ∈ ℝ. Chọn mệnh đề đúng trong các mệnh đề sau.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. P(4).",
+        "B. P(–3).",
+        "C. P(–2).",
+        "D. P(–1)."
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Cách phát biểu nào sau đây không thể dùng để phát biểu mệnh đề: A ⇒",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Nếu A thì",
+        "B.",
+        "C. A là điều kiện cần để có",
+        "D. A là điều kiện đủ để có"
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Mệnh đề nào sau đây đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Hai tam giác bằng nhau là điều kiện cần để diện tích của chúng bằng nhau.",
+        "B. Số tự nhiên chia hết cho 5 là điều kiện đủ để nó có tận cùng bằng 5.",
+        "C. Điều kiện đủ để hình bình hành ABCD là hình thoi.",
+        "D. Tứ giác ABCD là hình thoi là điều kiện cần và đủ để tứ giác đó là hình bình hành và có hai đường chéo vuông góc với nhau."
+      ],
+      "correct_index": 3,
+      "solution": "D"
+    },
+    {
+      "question": "Trong các phát biểu sau, phát biểu nào sai?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Hình bình hành ABCD có hai đường chéo bằng nhau là điều kiện cần và đủ để ABCD là hình chữ nhật.",
+        "B. Tam giác ABC có một góc 60° là điều kiện đủ để tam giác ABC đều.",
+        "C. Số nguyên a chia hết cho 3 là điều kiện cần để a chia hết cho 6.",
+        "D. Số 3n – 5 (n ∈ ℕ) là số lẻ là điều kiện đủ để số 6n (n ∈ ℕ) là số chẵn."
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251116T072428Z"
+}

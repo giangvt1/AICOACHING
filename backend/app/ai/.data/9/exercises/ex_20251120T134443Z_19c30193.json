@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251120T134443Z_19c30193",
+  "user_id": 9,
+  "topic": "Chương I: Mệnh đề và Tập hợp",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cho mệnh đề \"∃x ∈ ℤ, 4x² – 1 = 0\". Mệnh đề phủ định của mệnh đề trên là",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. ∀x ∈ ℤ, 4x² – 1 = 0\".",
+        "B. ∀x ∈ ℤ, 4x² – 1 ≠ 0\".",
+        "C. ∀x ∈ ℤ, 4x² – 1 > 0\".",
+        "D. ∃x ∈ ℤ, 4x² – 1 ≠ 0\"."
+      ],
+      "correct_index": 1,
+      "solution": "B"
+    },
+    {
+      "question": "Trong các mệnh đề sau tìm mệnh đề sai?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. ∀n ∈ ℕ : n ≤ 2n.",
+        "B. ∃n ∈ ℕ : n + 1 > n.",
+        "C. ∀n ∈ ℝ : n² > 0.",
+        "D. ∃n ∈ ℝ : n² ≤ n."
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Trong các mệnh đề sau, mệnh đề nào sai?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. ∃x ∈ ℝ : x² – 3x + 2 = 0.",
+        "B. ∀x ∈ ℝ : x² ≥ 0.",
+        "C. ∃n ∈ ℕ : n² = n.",
+        "D. ∀n ∈ ℕ thì n < 2n."
+      ],
+      "correct_index": 3,
+      "solution": "D"
+    },
+    {
+      "question": "Trong các mệnh đề sau, mệnh đề nào sai?\nΑ. –π < –2 ⇔ π² < 4.\nΒ. π < 4 ⇔ π² < 16.",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Mệnh đề \"-π < -2\" là đúng (vì π ≈ 3.14, nên -3.14 < -2). Mệnh đề \"π² < 4\" là sai (vì π² ≈ 9.86 > 4). Một mệnh đề tương đương \"P ⇔ Q\" chỉ đúng khi P và Q có cùng giá trị chân lý. Ở đây P đúng, Q sai nên mệnh đề tương đương này sai.",
+        "B. Mệnh đề \"π < 4\" là đúng. Mệnh đề \"π² < 16\" là đúng. Do đó mệnh đề tương đương này đúng.",
+        "C. √23 < 5 ⇒ 2√23 < 2.5.",
+        "D. √23 < 5 ⇒ –2√23 > –2.5."
+      ],
+      "correct_index": 0,
+      "solution": "A"
+    },
+    {
+      "question": "Cho mệnh đề A: \"∀x ∈ ℝ | x² + x – 1 ≤ 0\". Mệnh đề phủ định của mệnh đề A là",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Ā: \"∃x ∈ ℝ | x² + x – 1 ≤ 0\".",
+        "B. Ā: \"∀x ∈ ℝ | x² + x – 1 ≥ 0\".",
+        "C. Ā: \"∀x ∈ ℝ | x² + x – 1 > 0\".",
+        "D. Ā: \"∃x ∈ ℝ | x² + x – 1 > 0\"."
+      ],
+      "correct_index": 3,
+      "solution": "D"
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251120T134443Z"
+}

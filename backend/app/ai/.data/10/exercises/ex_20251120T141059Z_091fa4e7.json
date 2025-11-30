@@ -1,0 +1,142 @@
+{
+  "id": "ex_20251120T141059Z_091fa4e7",
+  "user_id": 10,
+  "topic": "Chương II: Bất phương trình",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cho bất phương trình 2x+4y<5 có tập nghiệm là S. Khẳng định nào sau đây là khẳng định đúng ?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. (1;1) ∈ S.",
+        "B. (1;10) ∈ S.",
+        "C. (1;-1) ∈ S.",
+        "D. (1;5) ∈ S."
+      ],
+      "correct_index": 2,
+      "solution": "Ta thay lần lượt tọa độ các điểm vào bất phương trình:\n\nA. (1;1): 2(1) + 4(1) = 6. Vì 6 > 5. (Sai).\n\nB. (1;10): 2(1) + 4(10) = 42. Vì 42 > 5. (Sai).\n\nC. (1;-1): 2(1) + 4(-1) = -2. Vì -2 < 5. (Đúng).\n\nD. (1;5): 2(1) + 4(5) = 22. Vì 22 > 5. (Sai)."
+    },
+    {
+      "question": "Nửa mặt phẳng không bị gạch (không kể d) ở Hình 3 là miền nghiệm của bất phương trình nào sau đây?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 3x + y < 3.",
+        "B. x + 3y > 3.",
+        "C. x + 3y < 3.",
+        "D. 3x + y > 3."
+      ],
+      "correct_index": 3,
+      "solution": "Xác định phương trình đường thẳng d.\n\nĐường thẳng d cắt trục Ox tại điểm (1; 0) và cắt trục Oy tại điểm (0; 3).\n\nPhương trình đoạn chắn của d là: x/1 + y/3 = 1 ⇔ 3x + y = 3.\n\nXác định bất phương trình.\n\nMiền nghiệm (phần không bị gạch) không chứa gốc tọa độ O(0; 0).\n\nLấy điểm O(0; 0) thay vào biểu thức 3x + y, ta được: 3(0) + 0 = 0.\n\nSo sánh kết quả với vế phải (là 3), ta có 0 < 3.\n\nVì miền nghiệm không chứa O(0; 0), nên bất phương trình phải có dạng ngược lại với kết quả khi thử điểm O. Do đó,"
+    },
+    {
+      "question": "Cho A = (-2, 1), B = [-3, 5]. Tìm C = B \\",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A.",
+        "B. [-3, -2] ∪.",
+        "C. (-3, -2) ∪ (1, 5).",
+        "D. [-3, -2] ∪ (1, 5]."
+      ],
+      "correct_index": 1,
+      "solution": "C = B \\ A là tập hợp các phần tử thuộc B nhưng không thuộc A.\n\nB = [-3, 5]\n\nA = (-2, 1)\nTa lấy đoạn [-3, 5] và bỏ đi khoảng (-2, 1).\nKhi bỏ đi khoảng (-2, 1), các phần tử còn lại của B là:\n\nPhần bên trái: từ -3 đến -2 (bao gồm cả -3 và -2). Tức là [-3, -2].\n\nPhần bên phải: từ 1 đến 5 (bao gồm cả 1 và 5). Tức là.\nKết hợp lại, ta được C = [-3, -2] ∪."
+    },
+    {
+      "question": "Cho hệ bất phương trình {3x+y≥9, x≥y-3, 2y≥8-x, y≤6}. Miền nghiệm của hệ là phần mặt phẳng chứa điểm:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. (0;0).",
+        "B. (1;2).",
+        "C. (2;1).",
+        "D. (8;4)."
+      ],
+      "correct_index": 3,
+      "solution": "Ta kiểm tra điểm nào thỏa mãn cả bốn bất phương trình:\n\nA. (0;0): 3(0)+0 = 0. 0 ≥ 9 là sai.\n\nB. (1;2): 3(1)+2 = 5. 5 ≥ 9 là sai.\n\nC. (2;1): 3(2)+1 = 7. 7 ≥ 9 là sai.\n\nD. (8;4):\n\n3(8)+4 = 28 ≥ 9 (Đúng)\n\n8 ≥ 4-3 = 1 (Đúng)\n\n2(4) = 8 ≥ 8-8 = 0 (Đúng)\n\n4 ≤ 6 (Đúng)\n\n⇒ (8;4) thuộc miền nghiệm."
+    },
+    {
+      "question": "Cho hai mệnh đề P: \"x là số chẵn\" và Q: \"x chia hết cho 2\". Phát biểu nào sau đây đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. P là điều kiện cần để có Q.",
+        "B. P là điều kiện cần và đủ để có Q.",
+        "C. Q là điều kiện đủ để có P.",
+        "D. P là điều kiện đủ để có Q."
+      ],
+      "correct_index": 1,
+      "solution": "Một số nguyên x là số chẵn khi và chỉ khi nó chia hết cho 2.\nĐiều này có nghĩa là P ⇒ Q và Q ⇒ P đều đúng.\nKhi đó, P tương đương với Q (P ⇔ Q), và P là điều kiện cần và đủ để có Q (và ngược lại)."
+    },
+    {
+      "question": "Cho A là tập hợp các số nguyên tố nhỏ hơn 10. Số tập con có 2 phần tử của A là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. 4.",
+        "B. 6.",
+        "C. 8.",
+        "D. 10."
+      ],
+      "correct_index": 1,
+      "solution": "Liệt kê các phần tử của A: Các số nguyên tố nhỏ hơn 10 là {2, 3, 5, 7}. Vậy A có 4 phần tử.\n\nSố tập con có 2 phần tử của một tập có 4 phần tử là tổ hợp chập 2 của 4, ký hiệu là C(4,2).\nC(4,2) = 4! / (2! * (4-2)!) = 24 / (2 * 2) = 6.\n\nHoặc liệt kê trực tiếp: {2,3}, {2,5}, {2,7}, {3,5}, {3,7}, {5,7}. Có 6 tập con."
+    },
+    {
+      "question": "Cho các tập hợp A = {a, b, c, d} và B = {a, c, e}. Tìm tập hợp A \\",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. {a, c}.",
+        "B.",
+        "C. {b, d}.",
+        "D. {b, d, e}."
+      ],
+      "correct_index": 2,
+      "solution": "Tập hợp A \\ B gồm các phần tử thuộc A nhưng không thuộc B.\nCác phần tử của A là {a, b, c, d}.\nCác phần tử của B là {a, c, e}.\nTa loại bỏ các phần tử chung {a, c} khỏi A. Các phần tử còn lại là {b, d}."
+    },
+    {
+      "question": "Cho bất phương trình x-2y+5>0có tập nghiệm là S. Khẳng định nào sau đây là khẳng định đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. (2;2) ∈ S.",
+        "B. (1;3) ∈ S .",
+        "C. (-2; 2) ∈ S .",
+        "D. (-2;4) ∈ S ."
+      ],
+      "correct_index": 1,
+      "solution": "Ta thay lần lượt tọa độ các điểm vào bất phương trình:\n\nA. (2;2): 2 - 2(2) + 5 = 3 > 0. (Đúng).\n\nB. (1;3): 1 - 2(3) + 5 = 0. Vì 0 không lớn hơn 0. (Sai).\n\nC. (-2; 2): -2 - 2(2) + 5 = -1 < 0. (Sai).\n\nD. (-2;4): -2 - 2(4) + 5 = -5 < 0. (Sai).\nPhân tích lại: Có thể có lỗi trong đề bài hoặc các đáp án. Kiểm tra lại:\nA. (2;2): 2 - 4 + 5 = 3 > 0. Đúng.\nB. (1;3): 1 - 6 + 5 = 0. Sai.\nNếu đề bài là x-2y+5 ≥ 0 thì A, B đều đúng. Với đề bài là x-2y+5 > 0, chỉ có A đúng. Trong tài liệu, đáp án được chọn là"
+    },
+    {
+      "question": "Phát biểu nào sau đây là mệnh đề đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. π < 3\".",
+        "B. x + y = 3\".",
+        "C. Phương trình 3x+6=0 có nghiệm dương\".",
+        "D. 17 là một số nguyên tố\"."
+      ],
+      "correct_index": 3,
+      "solution": "A: Sai vì π ≈ 3.14 > 3.\n\nB: Là mệnh đề chứa biến, không phải mệnh đề vì chưa xác định được tính đúng sai.\n\nC: Phương trình 3x+6=0 có nghiệm x=-2, là nghiệm âm. Vậy mệnh đề này sai.\n\nD: Đúng. 17 là số tự nhiên lớn hơn 1, chỉ có hai ước là 1 và chính nó."
+    },
+    {
+      "question": "Cho hệ bất phương trình {x>0, x+√3y+1≤0}. Khẳng định nào sau đây là khẳng định đúng?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. (1; −1) ∈ S.",
+        "B. (1; −√3) ∈ S.",
+        "C. (−1;√5) ∉ S.",
+        "D. (−4;√3) ∈ S."
+      ],
+      "correct_index": 2,
+      "solution": "A. (1; −1): x=1>0 (Đúng). 1+√3(-1)+1 = 2-√3 > 0. (Sai).\n\nB. (1; −√3): x=1>0 (Đúng). 1+√3(-√3)+1 = 1-3+1 = -1 ≤ 0. (Đúng). Vậy B ∈ S.\n\nC. (−1;√5): x=-1. -1>0 là sai. Do đó (−1;√5) không thuộc S. Khẳng định ∉ S là đúng.\n\nD. (−4;√3): x=-4. -4>0 là sai."
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251120T141059Z"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251126T152439Z_ca46d420",
+  "user_id": 10,
+  "topic": "Chương I: Mệnh đề và Tập hợp",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cách phát biểu nào sau đây không thể dùng để phát biểu mệnh đề: A ⇒ B",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. A là điều kiện đủ để có",
+        "B.",
+        "C. A kéo theo",
+        "D. A là điều kiện cần để có"
+      ],
+      "correct_index": 3,
+      "solution": "Mệnh đề kéo theo A ⇒ B được phát biểu là: \"Nếu A thì B\", \"A kéo theo B\", \"A là điều kiện đủ để có B\", \"B là điều kiện cần để có A\".\n\nPhát biểu \"A là điều kiện cần để có B\" tương đương với mệnh đề đảo B ⇒ A. Do đó, không thể dùng để phát biểu mệnh đề A ⇒ B."
+    },
+    {
+      "question": "Phủ định của mệnh đề “n > 9” là",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. –n > 9\".",
+        "B. –n > –9\".",
+        "C. n < 9\".",
+        "D. n ≤ 9\"."
+      ],
+      "correct_index": 3,
+      "solution": "Phủ định của một mệnh đề chứa dấu so sánh \">\" là mệnh đề chứa dấu \"≤\".\n\nPhủ định của n > 9 là n không lớn hơn 9, tức là n nhỏ hơn hoặc bằng 9.\n\nKý hiệu là: n ≤ 9."
+    },
+    {
+      "question": "Phủ định của mệnh đề \"∀x ∈ ℝ, x² ≥ 0\" là mệnh đề:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. ∃x ∈ ℝ, x² ≥ 0\".",
+        "B. ∃x ∈ ℝ, x² > 0\".",
+        "C. ∃x ∈ ℝ, x² ≤ 0\".",
+        "D. ∃x ∈ ℝ, x² < 0\"."
+      ],
+      "correct_index": 3,
+      "solution": "Quy tắc phủ định mệnh đề chứa ký hiệu ∀, ∃: Phủ định của \"∀x ∈ X, P(x)\" là \"∃x ∈ X, P(x)\".\n\nÁp dụng vào mệnh đề đã cho:\n\nPhủ định của \"∀x ∈ ℝ\" là \"∃x ∈ ℝ\".\n\nPhủ định của \"x² ≥ 0\" là \"x² < 0\".\n\nKết hợp lại, mệnh đề phủ định là: \"∃x ∈ ℝ, x² < 0\"."
+    },
+    {
+      "question": "Phủ định của mệnh đề \"∀x ∈ ℝ, |x| ≥ x\" là mệnh đề:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. ∀x ∈ ℝ, |x| < x\".",
+        "B. ∃x ∈ ℝ, |x| ≤ x\".",
+        "C. ∃x ∈ ℝ, |x| < x\".",
+        "D. ∃x ∈ ℝ, |x| > x\"."
+      ],
+      "correct_index": 2,
+      "solution": "Quy tắc phủ định mệnh đề chứa ký hiệu ∀, ∃: Phủ định của \"∀x ∈ X, P(x)\" là \"∃x ∈ X, P(x)\".\n\nÁp dụng vào mệnh đề đã cho:\n\nPhủ định của \"∀x ∈ ℝ\" là \"∃x ∈ ℝ\".\n\nPhủ định của \"|x| ≥ x\" là \"|x| < x\".\n\nKết hợp lại, mệnh đề phủ định là: \"∃x ∈ ℝ, |x| < x\"."
+    },
+    {
+      "question": "Mệnh đề phủ định của P: \"∀x ∈ ℝ, x² > 0\" là",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. P: \"∀x ∈ ℝ, x² ≤ 0",
+        "B. P: \"∃x ∈ ℝ, x² ≤ 0",
+        "C. P: \"∃x ∈ ℝ, x² < 0",
+        "D. P: \"∀x ∈ ℝ, x² < 0"
+      ],
+      "correct_index": 1,
+      "solution": "Mệnh đề P: \"∀x ∈ ℝ, x² > 0\" là mệnh đề sai (vì tại x=0, x²=0).\n\nPhủ định của \"∀x ∈ ℝ\" là \"∃x ∈ ℝ\".\n\nPhủ định của \"x² > 0\" là \"x² ≤ 0\".\n\nKết hợp lại, mệnh đề phủ định P là: \"∃x ∈ ℝ, x² ≤ 0\". Mệnh đề phủ định này đúng (tồn tại x=0 sao cho 0²≤0)."
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251126T152439Z"
+}

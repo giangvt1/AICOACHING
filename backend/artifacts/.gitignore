@@ -1,0 +1,7 @@
+# Ignore intermediate conversion files
+reconverted/
+fixed/
+
+# Keep only final JSON
+!json/
+

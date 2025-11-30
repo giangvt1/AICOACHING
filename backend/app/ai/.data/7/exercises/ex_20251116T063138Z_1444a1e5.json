@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251116T063138Z_1444a1e5",
+  "user_id": 7,
+  "topic": "T?a d? vecto",
+  "difficulty": 5,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cho tam giác ABC. Gọi I là trung điểm của BC. Vectơ nào sau đây bằng vectơ AI?",
+      "type": "mcq",
+      "difficulty": 5,
+      "options": [
+        "a) (AB + AC) / 2",
+        "b) AB + AC",
+        "c) (AB - AC) / 2",
+        "d) AC - AB"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "Cho hình bình hành ABCD. Vectơ nào sau đây bằng vectơ AC?",
+      "type": "mcq",
+      "difficulty": 5,
+      "options": [
+        "a) AB + AD",
+        "b) AB - AD",
+        "c) AD - AB",
+        "d) AB + BC"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "Cho ba điểm A, B, C phân biệt. Điều kiện cần và đủ để ba điểm A, B, C thẳng hàng là:",
+      "type": "mcq",
+      "difficulty": 5,
+      "options": [
+        "a) Vectơ AB = Vectơ BC",
+        "b) Vectơ AB = k * Vectơ AC với k khác 0",
+        "c) Vectơ AB = k * Vectơ BC với k khác 0",
+        "d) Vectơ AC = k * Vectơ AB với k khác 0"
+      ],
+      "correct_index": 3,
+      "solution": null
+    },
+    {
+      "question": "Cho hai vectơ a và b không cùng phương. Vectơ nào sau đây không thể biểu diễn được dưới dạng tổ hợp tuyến tính của a và b?",
+      "type": "mcq",
+      "difficulty": 5,
+      "options": [
+        "a) 2a + 3b",
+        "b) -a + 5b",
+        "c) 0a + 0b",
+        "d) Vectơ c sao cho c, a, b không đồng phẳng"
+      ],
+      "correct_index": 3,
+      "solution": null
+    },
+    {
+      "question": "Cho tam giác ABC và điểm M tùy ý. Đặt GA = MA - MB, GB = MB - MC, GC = MC - MA. Vectơ nào sau đây bằng vectơ không?",
+      "type": "mcq",
+      "difficulty": 5,
+      "options": [
+        "a) GA + GB + GC",
+        "b) GA - GB + GC",
+        "c) GA + GB - GC",
+        "d) -GA + GB + GC"
+      ],
+      "correct_index": 0,
+      "solution": null
+    }
+  ],
+  "contexts": [],
+  "used_model": "gemini-1.5-flash",
+  "created_at": "20251116T063138Z"
+}

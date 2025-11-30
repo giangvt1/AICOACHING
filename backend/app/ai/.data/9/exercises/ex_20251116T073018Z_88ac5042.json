@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251116T073018Z_88ac5042",
+  "user_id": 9,
+  "topic": "Hàm số – Đồ thị",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Trong các câu sau, câu nào là mệnh đề?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. An học lớp mấy?",
+        "B. Các bạn hãy đọc đi!",
+        "C. Hôm nay là thứ mấy?",
+        "D. Việt Nam là một nước thuộc Châu Á."
+      ],
+      "correct_index": 3,
+      "solution": "D"
+    },
+    {
+      "question": "Phủ định của mệnh đề \"∃x ∈ ℝ, x² − x + 1 < 0\" là mệnh đề:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. ∀x ∈ ℝ, x² − x + 1 ≥ 0\".",
+        "B. ∀x ∈ ℝ, x² − x + 1 < 0\".",
+        "C. ∀x ∈ ℝ, x² − x + 1 > 0\".",
+        "D. ∃x ∈ ℝ, x² − x + 1 ≥ 0\"."
+      ],
+      "correct_index": 0,
+      "solution": "A"
+    },
+    {
+      "question": "Mệnh đề nào sau là mệnh đề sai?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. ∀n ∈ ℕ : n ≤ 2n.",
+        "B. ∃n ∈ ℕ : n² = n.",
+        "C. ∀x ∈ ℝ : x² > 0.",
+        "D. ∃x ∈ ℝ : x > x²."
+      ],
+      "correct_index": 2,
+      "solution": "C"
+    },
+    {
+      "question": "Phủ định của mệnh đề \"∃x ∈ ℚ, x = 1/x\" là mệnh đề:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. ∃x ∈ ℚ, x ≠ 1/x\".",
+        "B. ∀x ∈ ℚ, x = 1/x\".",
+        "C. ∀x ∉ ℚ, x ≠ 1/x\".",
+        "D. ∀x ∈ ℚ, x ≠ 1/x\"."
+      ],
+      "correct_index": 3,
+      "solution": "D"
+    },
+    {
+      "question": "Mệnh đề nào sau đây là mệnh đề sai?",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "A. Một tam giác là đều khi và chỉ khi chúng có hai đường trung tuyến bằng nhau và có một góc bằng 60°.",
+        "B. Một tam giác là vuông khi và chỉ khi nó có một cạnh bình phương bằng tổng bình phương hai cạnh còn lại.",
+        "C. Một tứ giác là hình chữ nhật khi và chỉ khi chúng có 3 góc vuông.",
+        "D. Hai tam giác bằng nhau khi và chỉ khi chúng đồng dạng và có một góc bằng nhau."
+      ],
+      "correct_index": 3,
+      "solution": "D"
+    }
+  ],
+  "contexts": [],
+  "used_model": "artifacts",
+  "created_at": "20251116T073018Z"
+}

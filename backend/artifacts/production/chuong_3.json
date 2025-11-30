@@ -1,0 +1,2123 @@
+[
+  {
+    "id": "q1",
+    "type": "question",
+    "text": "Cho 0° < α < 180°. Chọn câu trả lời đúng.",
+    "options": [
+      "A. cos α < 0.",
+      "B. sin α > 0.",
+      "C. tan α < 0.",
+      "D. cot α > 0."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Xét trên nửa đường tròn đơn vị trong hệ tọa độ Oxy (tâm O, bán kính R=1), với mọi góc α thỏa mãn 0° < α < 180°, điểm M(x; y) biểu diễn góc α luôn nằm ở nửa trên của đường tròn (phía trên trục hoành Ox).\n\nTung độ của điểm M là y = sin α. Vì M luôn nằm phía trên trục Ox nên y > 0, do đó sin α > 0 với mọi α ∈ (0°, 180°).\n\nHoành độ của điểm M là x = cos α.\n\nNếu 0° < α < 90° (góc phần tư thứ I), x > 0 nên cos α > 0.\n\nNếu 90° < α < 180° (góc phần tư thứ II), x < 0 nên cos α < 0.\n\nDo đó, khẳng định cos",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q2",
+    "type": "question",
+    "text": "Cho 0° < α, β < 180° và α + β = 180°. Chọn câu trả lời sai.",
+    "options": [
+      "A. sin α + sin β = 0.",
+      "B. cos α + cos β = 0.",
+      "C. tan α + tan β = 0.",
+      "D. cot α + cot β = 0."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Hai góc α và β là hai góc bù nhau (vì α + β = 180°). Theo tính chất của hai góc bù nhau, ta có:\n\nsin α = sin(180° - β) = sin β. Do đó, sin α - sin β = 0 hay sin α + sin β = 2sinβ. Vì 0° < β < 180° nên sin β > 0, suy ra sin α + sin β > 0. Vậy khẳng định A sai.\n\ncos α = cos(180° - β) = -cos β. Do đó, cos α + cos β = 0. Khẳng định B đúng.\n\ntan α = tan(180° - β) = -tan β (với điều kiện các góc khác 90°). Do đó, tan α + tan β = 0. Khẳng định C đúng.\n\ncot α = cot(180° - β) = -cot β (với điều kiện các ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q3",
+    "type": "question",
+    "text": "Trong các đẳng thức sau đây, đẳng thức nào đúng?",
+    "options": [
+      "A. sin 150° = -√3/2.",
+      "B. cos 150° = √3/2.",
+      "C. tan 150° = -1/√3.",
+      "D. cot 150° = √3."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Ta sử dụng mối quan hệ giữa các góc bù nhau (150° và 30°).\n\nsin 150° = sin(180° - 30°) = sin 30° = 1/2. Vậy A sai.\n\ncos 150° = cos(180° - 30°) = -cos 30° = -√3/2. Vậy B sai.\n\ntan 150° = tan(180° - 30°) = -tan 30° = -1/√3. Vậy C đúng.\n\ncot 150° = cot(180° - 30°) = -cot 30° = -√3. Vậy D sai.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q4",
+    "type": "question",
+    "text": "Giá trị của cos 60° + sin 30° bằng bao nhiêu?",
+    "options": [
+      "A. √3/2.",
+      "B. √3.",
+      "C. √3/3.",
+      "D. 1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Đây là các giá trị lượng giác của các góc đặc biệt.\n\ncos 60° = 1/2.\n\nsin 30° = 1/2.\nDo đó, cos 60° + sin 30° = 1/2 + 1/2 = 1.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q5",
+    "type": "question",
+    "text": "Giá trị của tan 30° + cot 30° bằng bao nhiêu?",
+    "options": [
+      "A. 4/√3.",
+      "B. (1+√3)/3.",
+      "C. 2/√3.",
+      "D. 2."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Đây là các giá trị lượng giác của các góc đặc biệt.\n\ntan 30° = 1/√3 = √3/3.\n\ncot 30° = √3.\nDo đó, tan 30° + cot 30° = √3/3 + √3 = √3/3 + 3√3/3 = 4√3/3 = 4/√3.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q6",
+    "type": "question",
+    "text": "Trong các đẳng thức sau đây, đẳng thức nào sai?",
+    "options": [
+      "A. sin 0° + cos 0° = 1.",
+      "B. sin 90° + cos 90° = 1.",
+      "C. sin 180° + cos 180° = -1.",
+      "D. sin 60° + cos 60° = 1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Kiểm tra từng đẳng thức:\n\nA: sin 0° = 0, cos 0° = 1. Vậy sin 0° + cos 0° = 0 + 1 = 1. (Đúng)\n\nB: sin 90° = 1, cos 90° = 0. Vậy sin 90° + cos 90° = 1 + 0 = 1. (Đúng)\n\nC: sin 180° = 0, cos 180° = -1. Vậy sin 180° + cos 180° = 0 + (-1) = -1. (Đúng)\n\nD: sin 60° = √3/2, cos 60° = 1/2. Vậy sin 60° + cos 60° = √3/2 + 1/2 = (√3 + 1)/2 ≠ 1. (Sai)",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q7",
+    "type": "question",
+    "text": "Trong các khẳng định sau, khẳng định nào sai?",
+    "options": [
+      "A. cos 60° = sin 30°.",
+      "B. cos 60° = sin 120°.",
+      "C. cos 30° = sin 120°.",
+      "D. sin 60° = -cos 120°."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Kiểm tra từng khẳng định:\n\nA: cos 60° = 1/2, sin 30° = 1/2. (Đúng, vì 60° và 30° là hai góc phụ nhau)\n\nB: cos 60° = 1/2. sin 120° = sin(180° - 60°) = sin 60° = √3/2. Vì 1/2 ≠ √3/2 nên khẳng định này sai.\n\nC: cos 30° = √3/2. sin 120° = sin 60° = √3/2. (Đúng)\n\nD: sin 60° = √3/2. cos 120° = cos(180° - 60°) = -cos 60° = -1/2. Vậy -cos 120° = -(-1/2) = 1/2. Khẳng định sin 60° = -cos 120° là sai.\nLưu ý: Có vẻ đề bài có lỗi vì cả B và D đều sai. Tuy nhiên, nếu so sánh trực tiếp giá trị, cos 60° = 1/2 v",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q8",
+    "type": "question",
+    "text": "Đẳng thức nào sau đây sai?",
+    "options": [
+      "A. sin 45° + sin 45° = √2.",
+      "B. sin 30° + cos 60° = 1.",
+      "C. sin 60° + cos 150° = 0.",
+      "D. sin 120° + cos 30° = 0."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Kiểm tra từng đẳng thức:\n\nA: sin 45° = √2/2. Vậy sin 45° + sin 45° = 2 * (√2/2) = √2. (Đúng)\n\nB: sin 30° = 1/2, cos 60° = 1/2. Vậy sin 30° + cos 60° = 1/2 + 1/2 = 1. (Đúng)\n\nC: sin 60° = √3/2. cos 150° = -cos 30° = -√3/2. Vậy sin 60° + cos 150° = √3/2 + (-√3/2) = 0. (Đúng)\n\nD: sin 120° = sin 60° = √3/2. cos 30° = √3/2. Vậy sin 120° + cos 30° = √3/2 + √3/2 = √3 ≠ 0. (Sai)",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q9",
+    "type": "question",
+    "text": "Giá trị cos 45° + sin 45° bằng bao nhiêu?",
+    "options": [
+      "A. 1.",
+      "B. √2.",
+      "C. √3.",
+      "D. 0."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "cos 45° = √2/2.\n\nsin 45° = √2/2.\nDo đó, cos 45° + sin 45° = √2/2 + √2/2 = 2√2/2 = √2.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q10",
+    "type": "question",
+    "text": "Trong các đẳng thức sau, đẳng thức nào sai?",
+    "options": [
+      "A. sin 0° + cos 0° = 0.",
+      "B. sin 90° + cos 90° = 1.",
+      "C. sin 180° + cos 180° = -1.",
+      "D. sin 60° + cos 60° = (√3+1)/2."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Kiểm tra từng đẳng thức:\n\nA: sin 0° = 0, cos 0° = 1. Vậy sin 0° + cos 0° = 0 + 1 = 1 ≠ 0. (Sai)\n\nB: sin 90° = 1, cos 90° = 0. Vậy sin 90° + cos 90° = 1 + 0 = 1. (Đúng)\n\nC: sin 180° = 0, cos 180° = -1. Vậy sin 180° + cos 180° = 0 + (-1) = -1. (Đúng)\n\nD: sin 60° = √3/2, cos 60° = 1/2. Vậy sin 60° + cos 60° = (√3 + 1)/2. (Đúng)",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q11",
+    "type": "question",
+    "text": "Giá trị của tan 45° + cot 135° bằng bao nhiêu?",
+    "options": [
+      "A. 2.",
+      "B. 0.",
+      "C. √3.",
+      "D. 1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "tan 45° = 1.\n\ncot 135° = cot(180° - 45°) = -cot 45° = -1.\nDo đó, tan 45° + cot 135° = 1 + (-1) = 0.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q12",
+    "type": "question",
+    "text": "Tính giá trị của biểu thức P = sin 30°cos 60° + sin 60°cos 30°.",
+    "options": [
+      "A. P = 1.",
+      "B. P = 0.",
+      "C. P = √3.",
+      "D. P = -√3."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Thay các giá trị lượng giác đặc biệt vào biểu thức:\n\nsin 30° = 1/2, cos 60° = 1/2.\n\nsin 60° = √3/2, cos 30° = √3/2.\nP = (1/2)(1/2) + (√3/2)(√3/2) = 1/4 + 3/4 = 4/4 = 1.\nMẹo: Đây là công thức cộng sin(a+b) = sin(a)cos(b) + cos(a)sin(b). Vậy P = sin(30°+60°) = sin(90°) = 1.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q13",
+    "type": "question",
+    "text": "Giá trị của E = sin 36° cos 6° - sin 126° cos 84° là",
+    "options": [
+      "A. 1/2.",
+      "B. √3/2.",
+      "C. 1.",
+      "D. -1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Sử dụng mối quan hệ giữa các góc bù và phụ:\n\nsin 126° = sin(180° - 54°) = sin 54°.\n\ncos 84° = cos(90° - 6°) = sin 6°.\n\nsin 54° = sin(90° - 36°) = cos 36°.\nThay vào biểu thức E, ta có:\nE = sin 36° cos 6° - sin 54° cos 84°\nE = sin 36° cos 6° - cos 36° sin 6°\nĐây là công thức trừ sin(a-b) = sin(a)cos(b) - cos(a)sin(b).\nE = sin(36° - 6°) = sin 30° = 1/2.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q14",
+    "type": "question",
+    "text": "Giá trị của biểu thức A = sin² 51° + sin² 55° + sin² 39° + sin² 35° là",
+    "options": [
+      "A. 3.",
+      "B. 4.",
+      "C. 1.",
+      "D. 2."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Sử dụng tính chất của hai góc phụ nhau: sin α = cos(90° - α), do đó sin² α = cos²(90° - α).\n\nsin² 51° = cos²(90° - 51°) = cos² 39°.\n\nsin² 55° = cos²(90° - 55°) = cos² 35°.\nThay vào biểu thức A:\nA = (sin² 39° + cos² 39°) + (sin² 35° + cos² 35°)\nSử dụng đẳng thức cơ bản sin² x + cos² x = 1.\nA = 1 + 1 = 2.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q15",
+    "type": "question",
+    "text": "Giá trị của biểu thức A = tan 1° tan 2° tan 3°... tan 88° tan 89° là",
+    "options": [
+      "A. 0.",
+      "B. 2.",
+      "C. 3.",
+      "D. 1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Sử dụng tính chất của hai góc phụ nhau: tan α = cot(90° - α).\nMà tan α . cot α = 1.\nDo đó, tan α . tan(90° - α) = 1.\nNhóm các thừa số trong biểu thức A:\nA = (tan 1° . tan 89°) . (tan 2° . tan 88°) ... (tan 44° . tan 46°) . tan 45°\nA = (tan 1° . cot 1°) . (tan 2° . cot 2°) ... (tan 44° . cot 44°) . tan 45°\nA = 1 . 1 . ... . 1 . 1 = 1.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q16",
+    "type": "question",
+    "text": "Tổng sin² 2° + sin² 4° + sin² 6° + ... + sin² 84° + sin² 86° + sin² 88° bằng",
+    "options": [
+      "A. 21.",
+      "B. 23.",
+      "C. 22.",
+      "D. 24."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Tổng trên có (88 - 2)/2 + 1 = 44 số hạng.\nNhóm các số hạng theo cặp góc phụ nhau (tổng bằng 90°):\nS = (sin² 2° + sin² 88°) + (sin² 4° + sin² 86°) + ... + (sin² 44° + sin² 46°)\nSử dụng sin α = cos(90° - α) ⇒ sin² α + sin²(90° - α) = sin² α + cos² α = 1.\nS = (sin² 2° + cos² 2°) + (sin² 4° + cos² 4°) + ... + (sin² 44° + cos² 44°)\nCó tổng cộng 44/2 = 22 cặp như vậy.\nS = 1 + 1 + ... + 1 (22 số 1)\nS = 22.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q17",
+    "type": "question",
+    "text": "Giá trị của A = tan 5°. tan 10°. tan 15°... tan 80°. tan 85° là",
+    "options": [
+      "A. 2.",
+      "B. 1.",
+      "C. 0.",
+      "D. -1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Tương tự câu 15, ta nhóm các thừa số có cặp góc phụ nhau:\nA = (tan 5° . tan 85°) . (tan 10° . tan 80°) ... (tan 40° . tan 50°) . tan 45°\nSử dụng tan α . tan(90° - α) = tan α . cot α = 1.\nA = 1 . 1 . ... . 1 . 1 = 1.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q18",
+    "type": "question",
+    "text": "Giá trị của B = cos² 73° + cos² 87° + cos² 3° + cos² 17° là",
+    "options": [
+      "A. √2.",
+      "B. 2.",
+      "C. -2.",
+      "D. 1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Sử dụng tính chất hai góc phụ nhau: cos α = sin(90° - α) ⇒ cos² α = sin²(90° - α).\n\ncos² 87° = sin²(90° - 87°) = sin² 3°.\n\ncos² 73° = sin²(90° - 73°) = sin² 17°.\nThay vào biểu thức B:\nB = sin² 17° + sin² 3° + cos² 3° + cos² 17°\nB = (sin² 17° + cos² 17°) + (sin² 3° + cos² 3°)\nSử dụng đẳng thức cơ bản sin² x + cos² x = 1.\nB = 1 + 1 = 2.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q19",
+    "type": "question",
+    "text": "Biểu thức A = cos 20° + cos 40° + cos 60° + ... + cos 160° + cos 180° có giá trị bằng",
+    "options": [
+      "A. 1.",
+      "B. -1.",
+      "C. 2.",
+      "D. -2."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Sử dụng tính chất hai góc bù nhau: cos α = -cos(180° - α) hay cos α + cos(180° - α) = 0.\nNhóm các số hạng theo cặp góc bù nhau:\nA = (cos 20° + cos 160°) + (cos 40° + cos 140°) + (cos 60° + cos 120°) + (cos 80° + cos 100°) + cos 180°\nLưu ý: trong dãy có cos 90° = 0.\nA = 0 + 0 + 0 + 0 + cos 180°\nA = -1.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q20",
+    "type": "question",
+    "text": "Cho tan α – cot α = 3. Tính giá trị của biểu thức sau: A = tan² α + cot² α.",
+    "options": [
+      "A. A=12.",
+      "B. A=11.",
+      "C. A=13.",
+      "D. A=5."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta có: tan α – cot α = 3.\nBình phương hai vế: (tan α – cot α)² = 3²\n⇔ tan² α - 2 tan α cot α + cot² α = 9\nMà tan α . cot α = 1.\n⇔ tan² α - 2(1) + cot² α = 9\n⇔ tan² α + cot² α = 9 + 2 = 11.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q21",
+    "type": "question",
+    "text": "Biết sin α + cos α = √2. Hỏi giá trị của sin⁴ α + cos⁴ α bằng bao nhiêu?",
+    "options": [
+      "A. 3/2.",
+      "B. 1/2.",
+      "C. -1.",
+      "D. 0."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Từ sin α + cos α = √2, bình phương hai vế:\n(sin α + cos α)² = (√2)²\n⇔ sin² α + 2sin α cos α + cos² α = 2\n⇔ 1 + 2sin α cos α = 2\n⇔ sin α cos α = 1/2.\nTa cần tính sin⁴ α + cos⁴ α.\nA = sin⁴ α + cos⁴ α = (sin² α + cos² α)² - 2sin² α cos² α\nA = 1² - 2(sin α cos α)²\nA = 1 - 2(1/2)² = 1 - 2(1/4) = 1 - 1/2 = 1/2.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q22",
+    "type": "question",
+    "text": "Biểu thức f(x) = 3(sin⁴x + cos⁴x) - 2(sin⁶x + cos⁶x) có giá trị bằng:",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. -3.",
+      "D. 0."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Ta rút gọn các biểu thức trong ngoặc:\n\nsin⁴x + cos⁴x = (sin²x + cos²x)² - 2sin²x cos²x = 1 - 2sin²x cos²x.\n\nsin⁶x + cos⁶x = (sin²x + cos²x)(sin⁴x - sin²x cos²x + cos⁴x) = 1 * [(sin²x + cos²x)² - 3sin²x cos²x] = 1 - 3sin²x cos²x.\nThay vào f(x):\nf(x) = 3(1 - 2sin²x cos²x) - 2(1 - 3sin²x cos²x)\nf(x) = 3 - 6sin²x cos²x - 2 + 6sin²x cos²x\nf(x) = 1.\nGiá trị của biểu thức không phụ thuộc vào x và bằng 1.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q23",
+    "type": "question",
+    "text": "Biểu thức: f(x) = cos⁴x + cos²x sin²x + sin²x có giá trị bằng",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. -2.",
+      "D. -1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "f(x) = cos⁴x + cos²x sin²x + sin²x\nf(x) = cos²x (cos²x + sin²x) + sin²x\nSử dụng cos²x + sin²x = 1:\nf(x) = cos²x (1) + sin²x\nf(x) = cos²x + sin²x = 1.\nGiá trị của biểu thức không phụ thuộc vào x và bằng 1.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q24",
+    "type": "question",
+    "text": "Biểu thức tan²x sin²x - tan²x + sin²x có giá trị bằng",
+    "options": [
+      "A. -1.",
+      "B. 0.",
+      "C. 2.",
+      "D. 1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Nhóm các số hạng:\nA = (tan²x sin²x - tan²x) + sin²x\nA = tan²x (sin²x - 1) + sin²x\nSử dụng sin²x + cos²x = 1 ⇒ sin²x - 1 = -cos²x.\nA = tan²x (-cos²x) + sin²x\nA = (sin²x / cos²x) * (-cos²x) + sin²x\nA = -sin²x + sin²x = 0.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q25",
+    "type": "question",
+    "text": "Cho sin x + cos x = m. Tính theo m giá trị của M = sin x . cos x.",
+    "options": [
+      "A. m² - 1.",
+      "B. (m²-1)/2.",
+      "C. (m²+1)/2.",
+      "D. m² + 1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Từ giả thiết sin x + cos x = m, ta bình phương hai vế:\n(sin x + cos x)² = m²\n⇔ sin²x + 2sin x cos x + cos²x = m²\n⇔ (sin²x + cos²x) + 2sin x cos x = m²\n⇔ 1 + 2sin x cos x = m²\n⇔ 2sin x cos x = m² - 1\n⇔ sin x cos x = (m² - 1)/2.\nVậy M = (m² - 1)/2.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q26",
+    "type": "question",
+    "text": "Cho tam giác ABC, mệnh đề nào sau đây đúng?",
+    "options": [
+      "A. a² = b² + c² + 2bc cos",
+      "B. a² = b² + c² – 2bc cos",
+      "C. a² = b² + c² – 2bc cos",
+      "D. a² = b² + c² – 2bc cos"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Đây là câu hỏi về phát biểu của Định lí côsin trong tam giác.\nTheo định lí côsin, bình phương một cạnh bằng tổng bình phương hai cạnh còn lại trừ đi hai lần tích của hai cạnh đó nhân với côsin của góc xen giữa.\nÁp dụng cho cạnh a (đối diện góc A), ta có công thức: a² = b² + c² – 2bc cos A.\n\nĐáp án A sai dấu.\n\nĐáp án C và D sai góc.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q27",
+    "type": "question",
+    "text": "Cho tam giác ABC, có độ dài ba cạnh là BC = a, AC = b, AB = c. Gọi mₐ là độ dài đường trung tuyến kẻ từ đỉnh A, R là bán kính đường tròn ngoại tiếp tam giác và S là diện tích tam giác đó. Mệnh đề nào sau đây sai?",
+    "options": [
+      "A. mₐ² = (b²+c²)/2 - a²/4.",
+      "B. a² = b² + c² + 2bc cos",
+      "C. S = abc/(4R).",
+      "D. a/sinA = b/sinB = c/sinC = 2R."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Kiểm tra từng mệnh đề:\n\nA: Đây là công thức đúng cho độ dài đường trung tuyến: mₐ² = (2b² + 2c² - a²)/4 = (b²+c²)/2 - a²/4. Mệnh đề đúng.\n\nB: Đây là phát biểu sai của định lí côsin. Dấu đúng phải là dấu trừ: a² = b² + c² – 2bc cos A. Mệnh đề sai.\n\nC: Đây là công thức tính diện tích tam giác thông qua bán kính đường tròn ngoại tiếp: S = abc/(4R). Mệnh đề đúng.\n\nD: Đây là phát biểu của định lí sin trong tam giác. Mệnh đề đúng.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q28",
+    "type": "question",
+    "text": "Cho tam giác ABC có a=8, b=10, góc C bằng 60°. Độ dài cạnh c là?",
+    "options": [
+      "A. c = 3√21.",
+      "B. c = 7√2.",
+      "C. c = 2√11.",
+      "D. c = 2√21."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Áp dụng định lí côsin để tính cạnh c:\nc² = a² + b² - 2ab cos C\nc² = 8² + 10² - 2 * 8 * 10 * cos(60°)\nc² = 64 + 100 - 160 * (1/2)\nc² = 164 - 80 = 84\nc = √84 = √(4 * 21) = 2√21.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q29",
+    "type": "question",
+    "text": "Cho ∆ABC có b = 6, c = 8, Â = 60°. Độ dài cạnh a là:",
+    "options": [
+      "A. 2√13.",
+      "B. 3√12.",
+      "C. 2√37.",
+      "D. √20."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Áp dụng định lí côsin để tính cạnh a:\na² = b² + c² - 2bc cos A\na² = 6² + 8² - 2 * 6 * 8 * cos(60°)\na² = 36 + 64 - 96 * (1/2)\na² = 100 - 48 = 52\na = √52 = √(4 * 13) = 2√13.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q30",
+    "type": "question",
+    "text": "Cho ∆ABC có B = 60°, a = 8, c = 5. Độ dài cạnh b bằng:",
+    "options": [
+      "A. 7.",
+      "B. 129.",
+      "C. 49.",
+      "D. √129."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Áp dụng định lí côsin để tính cạnh b:\nb² = a² + c² - 2ac cos B\nb² = 8² + 5² - 2 * 8 * 5 * cos(60°)\nb² = 64 + 25 - 80 * (1/2)\nb² = 89 - 40 = 49\nb = √49 = 7.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q31",
+    "type": "question",
+    "text": "Cho ∆ABC có AB = 9, BC = 8, B = 60°. Tính độ dài A",
+    "options": [
+      "A. √73.",
+      "B. √217.",
+      "C. ",
+      "D. √113."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Trong tam giác ABC, ta có: c = AB = 9, a = BC = 8, B = 60°. Cần tính cạnh b = AC.\nÁp dụng định lí côsin:\nb² = a² + c² - 2ac cos B\nAC² = BC² + AB² - 2 * BC * AB * cos B\nAC² = 8² + 9² - 2 * 8 * 9 * cos(60°)\nAC² = 64 + 81 - 144 * (1/2)\nAC² = 145 - 72 = 73\nAC = √73.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q32",
+    "type": "question",
+    "text": "Cho tam giác ABC có AB = 2, AC = 1 và Â = 60°. Tính độ dài cạnh B",
+    "options": [
+      "A. BC = √2.",
+      "B. BC = 1.",
+      "C. ",
+      "D. BC = 2."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Trong tam giác ABC, ta có: c = AB = 2, b = AC = 1, Â = 60°. Cần tính cạnh a = BC.\nÁp dụng định lí côsin:\na² = b² + c² - 2bc cos A\nBC² = AC² + AB² - 2 * AC * AB * cos A\nBC² = 1² + 2² - 2 * 1 * 2 * cos(60°)\nBC² = 1 + 4 - 4 * (1/2)\nBC² = 5 - 2 = 3\nBC = √3.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q33",
+    "type": "question",
+    "text": "Tam giác ABC có a = 8, c = 3, B = 60°. Độ dài cạnh b bằng bao nhiêu?",
+    "options": [
+      "A. 49.",
+      "B. √97.",
+      "C. 7.",
+      "D. √61."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Áp dụng định lí côsin để tính cạnh b:\nb² = a² + c² - 2ac cos B\nb² = 8² + 3² - 2 * 8 * 3 * cos(60°)\nb² = 64 + 9 - 48 * (1/2)\nb² = 73 - 24 = 49\nb = √49 = 7.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q34",
+    "type": "question",
+    "text": "Tam giác ABC có C = 150°, BC = √3, AC = 2. Tính cạnh AB?",
+    "options": [
+      "A. √13.",
+      "B. √3.",
+      "C. 10.",
+      "D. 1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Trong tam giác ABC, ta có: a = BC = √3, b = AC = 2, C = 150°. Cần tính cạnh c = AB.\nÁp dụng định lí côsin:\nc² = a² + b² - 2ab cos C\nAB² = (√3)² + 2² - 2 * √3 * 2 * cos(150°)\ncos(150°) = -cos(30°) = -√3/2.\nAB² = 3 + 4 - 4√3 * (-√3/2)\nAB² = 7 + (4*3)/2 = 7 + 6 = 13\nAB = √13.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q35",
+    "type": "question",
+    "text": "Cho a, b, c là độ dài 3 cạnh của tam giác AB",
+    "options": [
+      "A. 3√2.",
+      "B. 7√2.",
+      "C. Biết b = 7 ; c = 5 ; cos A = 4/5. Tính độ dài của a.",
+      "D. 6."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Áp dụng định lí côsin để tính cạnh a:\na² = b² + c² - 2bc cos A\na² = 7² + 5² - 2 * 7 * 5 * (4/5)\na² = 49 + 25 - 56\na² = 74 - 56 = 18\na = √18 = √(9 * 2) = 3√2.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q36",
+    "type": "question",
+    "text": "Cho xOy = 30°. Gọi A, B là 2 điểm di động lần lượt trên Ox, Oy sao cho AB = 2. Độ dài lớn nhất của OB bằng bao nhiêu?",
+    "options": [
+      "A. 4.",
+      "B. 3.",
+      "C. 6.",
+      "D. 2."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Xét tam giác OAB. Áp dụng định lí côsin:\nAB² = OA² + OB² - 2 * OA * OB * cos(30°)\n2² = OA² + OB² - 2 * OA * OB * (√3/2)\n4 = OA² + OB² - √3 * OA * OB\nSắp xếp lại thành phương trình bậc hai theo ẩn OA:\nOA² - (√3 * OB) * OA + (OB² - 4) = 0\nĐể phương trình này có nghiệm OA (tức là tồn tại điểm A), biệt thức delta (Δ) phải lớn hơn hoặc bằng 0.\nΔ = (√3 * OB)² - 4 * 1 * (OB² - 4) ≥ 0\n⇔ 3 * OB² - 4 * OB² + 16 ≥ 0\n⇔ -OB² + 16 ≥ 0\n⇔ OB² ≤ 16\n⇔ OB ≤ 4 (vì OB là độ dài nên OB ≥ 0).\nVậy độ dài lớn nhất của O",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q37",
+    "type": "question",
+    "text": "Cho a, b, c là độ dài 3 cạnh của một tam giác. Mệnh đề nào sau đây không đúng?",
+    "options": [
+      "A. a² < ab + ac.",
+      "B. a² + c² < b² + 2ac.",
+      "C. b² + c² > a² + 2bc.",
+      "D. ab + bc > b²."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A. Từ bất đẳng thức tam giác a < b + c. Vì a > 0, nhân hai vế với a ta được a² < ab + ac. (Đúng)\nB. Theo định lí côsin: b² = a² + c² - 2ac cos B. Suy ra b² - a² - c² = -2ac cos B. Vì cos B có thể âm, dương hoặc bằng 0, ta không thể so sánh trực tiếp. Tuy nhiên, b² + 2ac - a² - c² = 2ac(1-cosB). Vì B là góc trong tam giác nên -1 < cos B < 1, do đó 1-cosB > 0. Vậy b² + 2ac > a² + c². Mệnh đề đã cho a² + c² < b² + 2ac là đúng.\nD. Chia hai vế cho b (vì b > 0) ta được a + c > b, đây là bất đẳng thức ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q38",
+    "type": "question",
+    "text": "Cho tam giác ABC có AB=4 cm, BC=7 cm, AC=9 cm. Tính cos",
+    "options": [
+      "A. ",
+      "B. cos A = 1/2.",
+      "C. cos A = 1/3.",
+      "D. cos A = 2/3."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Áp dụng hệ quả của định lí côsin để tính cos A:\ncos A = (b² + c² - a²)/(2bc)\nTrong đó a = BC = 7, b = AC = 9, c = AB = 4.\ncos A = (9² + 4² - 7²)/(2 * 9 * 4)\ncos A = (81 + 16 - 49)/72\ncos A = 48/72 = 2/3.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q39",
+    "type": "question",
+    "text": "Cho tam giác ABC có a² + b² - c² > 0. Khi đó:",
+    "options": [
+      "A. Góc C > 90°.",
+      "B. Góc C < 90°.",
+      "C. Góc C = 90°.",
+      "D. Không thể kết luận được gì về góc"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Theo hệ quả của định lí côsin, ta có:\ncos C = (a² + b² - c²)/(2ab)\nTheo giả thiết, tử số a² + b² - c² > 0.\nMẫu số 2ab cũng luôn dương vì a, b là độ dài các cạnh của tam giác.\nDo đó, cos C > 0.\nVì C là một góc trong tam giác (0° < C < 180°), nên khi cos C > 0, góc C phải là góc nhọn (0° < C < 90°).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q40",
+    "type": "question",
+    "text": "Cho tam giác ABC thoả mãn: b² + c² – a² = √3bc. Khi đó:",
+    "options": [
+      "A. A = 30°.",
+      "B. A = 45°.",
+      "C. A = 60°.",
+      "D. A = 75°."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Từ hệ quả của định lí côsin, ta có:\ncos A = (b² + c² - a²)/(2bc)\nThay giả thiết b² + c² – a² = √3bc vào công thức trên:\ncos A = (√3bc) / (2bc) = √3/2.\nVì A là góc trong tam giác, nên A = 30°.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q41",
+    "type": "question",
+    "text": "Cho các điểm A(1;1), B(2;4), C(10;−2). Góc BAC bằng bao nhiêu?",
+    "options": [
+      "A. 90°.",
+      "B. 60°.",
+      "C. 45°.",
+      "D. 30°."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Để tính góc BAC, ta sử dụng tích vô hướng của hai vectơ AB và AC.\n\nTìm tọa độ vectơ:\n\nVectơ AB = (2-1, 4-1) = (1, 3)\n\nVectơ AC = (10-1, -2-1) = (9, -3)\n\nTính tích vô hướng:\n\nAB · AC = (1)(9) + (3)(-3) = 9 - 9 = 0.\nVì tích vô hướng của hai vectơ AB và AC bằng 0 nên hai vectơ này vuông góc với nhau. Do đó, góc BAC = 90°.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q42",
+    "type": "question",
+    "text": "Cho tam giác ABC, biết a = 24, b = 13, c = 15. Tính góc A?",
+    "options": [
+      "A. 33°34'.",
+      "B. 117°49'.",
+      "C. 28°37'.",
+      "D. 58°24'."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Áp dụng hệ quả của định lí côsin:\ncos A = (b² + c² - a²)/(2bc)\ncos A = (13² + 15² - 24²)/(2 * 13 * 15)\ncos A = (169 + 225 - 576)/390\ncos A = (394 - 576)/390 = -182/390 ≈ -0.4667\nSử dụng máy tính để tìm góc A: A = arccos(-182/390) ≈ 117.82° ≈ 117°49'.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q43",
+    "type": "question",
+    "text": "Cho tam giác ABC, biết a=13, b=14, c=15. Tính góc B?",
+    "options": [
+      "A. 59°49'.",
+      "B. 53°7'.",
+      "C. 59°29'.",
+      "D. 62°22'."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Áp dụng hệ quả của định lí côsin:\ncos B = (a² + c² - b²)/(2ac)\ncos B = (13² + 15² - 14²)/(2 * 13 * 15)\ncos B = (169 + 225 - 196)/390\ncos B = 198/390 = 33/65 ≈ 0.5077\nSử dụng máy tính để tìm góc B: B = arccos(33/65) ≈ 59.49° ≈ 59°29'.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q44",
+    "type": "question",
+    "text": "Cho tam giác ABC biết độ dài ba cạnh BC, CA, AB lần lượt là a, b, c và thỏa mãn hệ thức b(b² – a²) = c(c² – a²) với b ≠ c. Khi đó, góc BAC bằng",
+    "options": [
+      "A. 45°.",
+      "B. 60°.",
+      "C. 90°.",
+      "D. 120°."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Biến đổi hệ thức đã cho:\nb(b² – a²) = c(c² – a²)\n⇔ b³ - a²b = c³ - a²c\n⇔ b³ - c³ - a²(b - c) = 0\n⇔ (b - c)(b² + bc + c²) - a²(b - c) = 0\n⇔ (b - c)(b² + bc + c² - a²) = 0\nVì b ≠ c nên b - c ≠ 0. Do đó, ta phải có:\nb² + bc + c² - a² = 0\n⇔ b² + c² - a² = -bc\nTừ hệ quả định lí côsin, ta có cos A = (b² + c² - a²)/(2bc).\nThay b² + c² - a² = -bc vào, ta được:\ncos A = (-bc)/(2bc) = -1/2.\nVì A là góc trong tam giác nên A = 120°.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q45",
+    "type": "question",
+    "text": "Tam giác ABC có AB=c, BC=a, CA=b. Các cạnh a, b, c liên hệ với nhau bởi đẳng thức b(b² − a²) = c(a² − c²). Khi đó góc BAC bằng bao nhiêu độ.",
+    "options": [
+      "A. 30°.",
+      "B. 60°.",
+      "C. 90°.",
+      "D. 45°."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Biến đổi hệ thức đã cho:\nb(b² − a²) = c(a² − c²)\n⇔ b³ - a²b = a²c - c³\n⇔ b³ + c³ = a²b + a²c\n⇔ (b + c)(b² - bc + c²) = a²(b + c)\nVì b+c > 0 (tổng hai cạnh tam giác), ta chia hai vế cho (b+c):\nb² - bc + c² = a²\n⇔ b² + c² - a² = bc\nTừ hệ quả định lí côsin, ta có cos A = (b² + c² - a²)/(2bc).\nThay b² + c² - a² = bc vào, ta được:\ncos A = (bc)/(2bc) = 1/2.\nVì A là góc trong tam giác nên A = 60°.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q46",
+    "type": "question",
+    "text": "Cho tam giác ABC vuông cân tại A và M là điểm nằm trong tam giác ABC sao cho MA : MB : MC = 1:2:3 khi đó góc AMB bằng bao nhiêu?",
+    "options": [
+      "A. 135°.",
+      "B. 90°.",
+      "C. 150°.",
+      "D. 120°."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Đặt MA = x, MB = 2x, MC = 3x (với x > 0). Đặt cạnh góc vuông AB = AC = a. Suy ra BC² = 2a².\nDựng tam giác ABK vuông cân tại A sao cho K nằm ngoài tam giác ABC. Khi đó AK=AB=a và góc KAB = 90°.\nXét hai tam giác ACK và ABM, ta có:\n\nAC = AB = a\n\nAK = AM (cần chứng minh) -> cách này phức tạp.\nSử dụng phương pháp tọa độ. Đặt A(0,0), B(a,0), C(0,a). Gọi M(u,v).\n\nMA² = u² + v² = x²\n\nMB² = (u-a)² + v² = u² - 2au + a² + v² = x² - 2au + a² = 4x²\n\nMC² = u² + (v-a)² = u² + v² - 2av + a² = x² - 2av + a² = 9x",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q47",
+    "type": "question",
+    "text": "Cho tam giác ABC, chọn công thức đúng trong các đáp án sau:",
+    "options": [
+      "A. mₐ² = (b²+c²)/2 + a²/4.",
+      "B. mₐ² = (a²+c²)/2 - b²/4.",
+      "C. mₐ² = (a²+b²)/2 - c²/4.",
+      "D. mₐ² = (2c²+2b²-a²)/4."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Đây là câu hỏi về công thức tính độ dài đường trung tuyến trong tam giác. Công thức chuẩn là:\nmₐ² = (2b² + 2c² - a²)/4.\nKiểm tra các đáp án:\n\nA: Sai dấu.\n\nB: Sai công thức, đây là công thức của mₐ.\n\nC: Sai công thức, đây là công thức của mₐ.\n\nD: Đúng công thức.\nCông thức ở đáp án A có thể viết lại: mₐ² = (b²+c²)/2 - a²/4 = (2b²+2c²-a²)/4. Như vậy, công thức (D) là dạng gốc, còn dạng ở câu A trong đề gốc (bị gõ sai ở đây) cũng là một biến thể của nó. Ở đây, D là dạng chuẩn nhất.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q48",
+    "type": "question",
+    "text": "Tam giác ABC có các trung tuyến mₐ = 15, mₐ = 12, mₐ = 9. Diện tích S của tam giác ABC bằng",
+    "options": [
+      "A. 72.",
+      "B. 144.",
+      "C. 54.",
+      "D. 108."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Sử dụng công thức diện tích tam giác qua độ dài 3 đường trung tuyến:\nS = (4/3) * √(p'(p'-mₐ)(p'-mₐ)(p'-mₐ))\nTrong đó p' là nửa tổng độ dài ba đường trung tuyến:\np' = (mₐ + mₐ + mₐ)/2 = (15 + 12 + 9)/2 = 36/2 = 18.\nS = (4/3) * √(18 * (18-15) * (18-12) * (18-9))\nS = (4/3) * √(18 * 3 * 6 * 9)\nS = (4/3) * √(2*9 * 3 * 6 * 9) = (4/3) * √(36 * 81)\nS = (4/3) * (6 * 9) = (4/3) * 54 = 4 * 18 = 72.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q49",
+    "type": "question",
+    "text": "Cho tam giác ∆ABC có b=7, c=5, cos A = 3/5. Độ dài đường cao hₐ của tam giác ∆ABC là.",
+    "options": [
+      "A. 7√2/2.",
+      "B. 8.",
+      "C. 8√3.",
+      "D. 80√3."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta có công thức diện tích S = (1/2)bc sin A.\nTừ cos A = 3/5, và A là góc trong tam giác (0 < A < 180°), sin A > 0.\nsin A = √(1 - cos²A) = √(1 - (3/5)²) = √(1 - 9/25) = √(16/25) = 4/5.\nDiện tích S = (1/2) * 7 * 5 * (4/5) = 14.\nMặt khác, diện tích S cũng được tính bằng S = (1/2)a * hₐ. Ta cần tìm hₐ.\nĐể tính hₐ, ta không cần cạnh a. Công thức diện tích S = (1/2) * c * hₐ hoặc (1/2) * b * hₐ là sai.\nCông thức đúng là S = (1/2)a * hₐ = (1/2)b * hₐ = (1/2)c * hₐ.\nTa có: S = (1/2) * b * hₐ = (1/2) * c",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q50",
+    "type": "question",
+    "text": "Cho tam giác ABC có AB=2a, AC=4a và BAC = 120°. Tính diện tích tam giác ABC?",
+    "options": [
+      "A. S = 8a².",
+      "B. S = 2a²√3.",
+      "C. S = a²√3.",
+      "D. S = 4a²."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Áp dụng công thức tính diện tích tam giác khi biết hai cạnh và góc xen giữa:\nS = (1/2) * AB * AC * sin(BAC)\nS = (1/2) * (2a) * (4a) * sin(120°)\nsin(120°) = sin(180° - 60°) = sin 60° = √3/2.\nS = (1/2) * 8a² * (√3/2)\nS = 2a²√3.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q51",
+    "type": "question",
+    "text": "Cho tam giác ABC có chu vi bằng 12 và bán kính đường tròn nội tiếp bằng 1. Diện tích của tam giác ABC bằng",
+    "options": [
+      "A. 12.",
+      "B. 3.",
+      "C. 6.",
+      "D. 24."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Ta sử dụng công thức tính diện tích tam giác khi biết nửa chu vi (p) và bán kính đường tròn nội tiếp (r): S = p * r.\n\nChu vi của tam giác là 2p = 12, suy ra nửa chu vi p = 12 / 2 = 6.\n\nBán kính đường tròn nội tiếp r = 1.\n\nÁp dụng công thức, diện tích tam giác là: S = 6 * 1 = 6.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q52",
+    "type": "question",
+    "text": "Cho tam giác ABC đều cạnh 2a. Tính bán kính R của đường tròn ngoại tiếp tam giác AB",
+    "options": [
+      "A. 2a/√3.",
+      "B. 4a/3.",
+      "C. ",
+      "D. 6a/√3."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Có hai cách tính:\n\nSử dụng định lí sin: Trong tam giác đều, tất cả các góc đều bằng 60°. Theo định lí sin, ta có: a/sinA = 2R.\nVới cạnh là 2a và góc A = 60°, ta có:\n2R = (2a) / sin(60°) = (2a) / (√3/2) = 4a/√3.\nR = (4a/√3) / 2 = 2a/√3.\n\nSử dụng công thức tính nhanh: Bán kính đường tròn ngoại tiếp tam giác đều bằng (cạnh * √3)/3.\nR = (2a * √3)/3. Hai kết quả này tương đương: 2a/√3 = 2a√3/3.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q53",
+    "type": "question",
+    "text": "Cho tam giác ABC có BC = √6, AC = 2 và AB = √3 + 1. Bán kính đường tròn ngoại tiếp tam giác ABC bằng:",
+    "options": [
+      "A. √5.",
+      "B. √3.",
+      "C. √2.",
+      "D. 2."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Để tính bán kính R, ta sử dụng định lí sin: a/sinA = 2R. Trước hết, ta cần tìm một góc của tam giác, ví dụ góc A.\nÁp dụng hệ quả của định lí côsin:\ncos A = (b² + c² - a²)/(2bc)\nTrong đó a = BC = √6, b = AC = 2, c = AB = √3 + 1.\ncos A = (2² + (√3 + 1)² - (√6)²)/(2 * 2 * (√3 + 1))\ncos A = (4 + (3 + 2√3 + 1) - 6)/(4(√3 + 1))\ncos A = (4 + 4 + 2√3 - 6)/(4(√3 + 1))\ncos A = (2 + 2√3)/(4(√3 + 1)) = 2(1 + √3)/(4(1 + √3)) = 1/2.\nVì cos A = 1/2 nên góc A = 60°.\nBây giờ, áp dụng định lí sin:\n2R = a/sinA = √",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q54",
+    "type": "question",
+    "text": "Cho tam giác ABC có AB = 3, AC = 4, BC = 5. Bán kính đường tròn nội tiếp tam giác bằng",
+    "options": [
+      "A. 1.",
+      "B. 8/9.",
+      "C. 4/5.",
+      "D. 3/4."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Ta nhận thấy các cạnh của tam giác thỏa mãn hệ thức Pytago:\nAB² + AC² = 3² + 4² = 9 + 16 = 25.\nBC² = 5² = 25.\nDo AB² + AC² = BC², tam giác ABC vuông tại A.\nBán kính đường tròn nội tiếp r có thể được tính bằng công thức r = S/p.\n\nDiện tích tam giác vuông: S = (1/2) * AB * AC = (1/2) * 3 * 4 = 6.\n\nNửa chu vi: p = (3 + 4 + 5)/2 = 6.\n\nBán kính nội tiếp: r = S/p = 6/6 = 1.\nMẹo: Đối với tam giác vuông, bán kính đường tròn nội tiếp còn có thể tính bằng r = (a+b-c)/2 (với c là cạnh huyền): r = (3+4-5)/2",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q55",
+    "type": "question",
+    "text": "Cho ∆ABC có S = 84, a=13, b=14, c=15. Độ dài bán kính đường tròn ngoại tiếp R của tam giác trên là:",
+    "options": [
+      "A. 8,125.",
+      "B. 130.",
+      "C. 8.",
+      "D. 8,5."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Ta sử dụng công thức liên hệ giữa diện tích (S), các cạnh (a, b, c) và bán kính đường tròn ngoại tiếp (R): S = abc/(4R).\nTừ đó suy ra R = abc/(4S).\nThay các giá trị đã cho vào công thức:\nR = (13 * 14 * 15) / (4 * 84)\nR = 2730 / 336 = 8,125.\nLưu ý: Có lỗi trong tài liệu gốc khi chọn đáp án. Phép tính đúng là 8.125.\nChỉnh sửa lại câu hỏi hoặc đáp án để hợp lý. Giả sử đề bài có a=13, b=14, c=15, S=84.\nR = (13 * 14 * 15) / (4 * 84) = (13 * 14 * 15) / 336 = 13 * (1415/336) = 13 * (210/336) = 13 * (5/",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q56",
+    "type": "question",
+    "text": "Cho ∆ABC có S = 10√3, nửa chu vi p = 10. Độ dài bán kính đường tròn nội tiếp r của tam giác trên là:",
+    "options": [
+      "A. 3.",
+      "B. 2.",
+      "C. √2.",
+      "D. √3."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Sử dụng công thức diện tích tam giác S = p * r, trong đó S là diện tích, p là nửa chu vi và r là bán kính đường tròn nội tiếp.\nTừ công thức trên, ta có r = S/p.\nThay các giá trị đã cho: r = (10√3) / 10 = √3.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q57",
+    "type": "question",
+    "text": "Một tam giác có ba cạnh là 26, 28, 30. Bán kính đường tròn nội tiếp là:",
+    "options": [
+      "A. 16.",
+      "B. 8.",
+      "C. 4.",
+      "D. 4√2."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Để tính bán kính đường tròn nội tiếp r, ta dùng công thức r = S/p.\n\nTính nửa chu vi (p):\np = (26 + 28 + 30)/2 = 84/2 = 42.\n\nTính diện tích (S) bằng công thức Heron:\nS = √(p(p-a)(p-b)(p-c))\nS = √(42 * (42-26) * (42-28) * (42-30))\nS = √(42 * 16 * 14 * 12)\nS = √( (67) * 16 * (27) * (2*6) )\nS = √(6² * 7² * 16 * 4) = 6 * 7 * 4 * 2 = 336.\n\nTính bán kính nội tiếp (r):\nr = S/p = 336 / 42 = 8.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q58",
+    "type": "question",
+    "text": "Một tam giác có ba cạnh là 52, 56, 60. Bán kính đường tròn ngoại tiếp là:",
+    "options": [
+      "A. 65/8.",
+      "B. 40.",
+      "C. 32,5.",
+      "D. 65/4."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Để tính bán kính đường tròn ngoại tiếp R, ta dùng công thức R = abc/(4S).\n\nTính nửa chu vi (p):\np = (52 + 56 + 60)/2 = 168/2 = 84.\n\nTính diện tích (S) bằng công thức Heron:\nS = √(p(p-a)(p-b)(p-c))\nS = √(84 * (84-52) * (84-56) * (84-60))\nS = √(84 * 32 * 28 * 24) = 1344.\n\nTính bán kính ngoại tiếp (R):\nR = (52 * 56 * 60) / (4 * 1344)\nR = 174720 / 5376 = 32.5.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q59",
+    "type": "question",
+    "text": "Tam giác với ba cạnh là 5;12;13 có bán kính đường tròn ngoại tiếp là?",
+    "options": [
+      "A. 6.",
+      "B. 8.",
+      "C. 13/2.",
+      "D. 11/2."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Ta nhận thấy các cạnh của tam giác thỏa mãn hệ thức Pytago:\n5² + 12² = 25 + 144 = 169.\n13² = 169.\nDo đó, đây là một tam giác vuông với cạnh huyền là 13.\nĐối với tam giác vuông, tâm đường tròn ngoại tiếp là trung điểm của cạnh huyền. Do đó, bán kính đường tròn ngoại tiếp bằng một nửa cạnh huyền.\nR = 13 / 2 = 6,5.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q60",
+    "type": "question",
+    "text": "Tam giác với ba cạnh là 5;12;13 có bán kính đường tròn nội tiếp tam giác đó bằng bao nhiêu?",
+    "options": [
+      "A. 2.",
+      "B. 2√2.",
+      "C. 2√3.",
+      "D. 3."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Đây là tam giác vuông có các cạnh góc vuông là 5 và 12, cạnh huyền là 13 (như đã phân tích ở câu 59).\nTa dùng công thức r = S/p.\n\nDiện tích: S = (1/2) * 5 * 12 = 30.\n\nNửa chu vi: p = (5 + 12 + 13)/2 = 30/2 = 15.\n\nBán kính nội tiếp: r = S/p = 30 / 15 = 2.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q61",
+    "type": "question",
+    "text": "Tam giác với ba cạnh là 6;8;10 có bán kính đường tròn ngoại tiếp bằng bao nhiêu?",
+    "options": [
+      "A. 5.",
+      "B. 4√2.",
+      "C. 5√2.",
+      "D. 6."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Ta nhận thấy 6² + 8² = 36 + 64 = 100 = 10². Đây là một tam giác vuông với cạnh huyền là 10.\nTâm đường tròn ngoại tiếp tam giác vuông là trung điểm của cạnh huyền.\nBán kính đường tròn ngoại tiếp bằng một nửa cạnh huyền.\nR = 10 / 2 = 5.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q62",
+    "type": "question",
+    "text": "Cho hình chữ nhật ABCD có cạnh AB = 4, BC = 6, M là trung điểm của BC, N là điểm trên cạnh CD sao cho ND = 3N",
+    "options": [
+      "A. 3√5.",
+      "B. 3√5/2.",
+      "C. Khi đó bán kính của đường tròn ngoại tiếp tam giác AMN bằng",
+      "D. 5√2/2."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Chọn hệ tọa độ với A(0,0), B(4,0), D(0,6), C(4,6).\n\nM là trung điểm BC: M((4+4)/2, (0+6)/2) = (4,3).\n\nN trên CD sao cho ND = 3NC. Vectơ CD = (0, -6). N nằm trên CD nên có tọa độ (4, y). NC = 6-y, ND = y. y = 3(6-y) => 4y = 18 => y = 4.5. Vậy N(4; 4.5).\n\nTọa độ các đỉnh tam giác AMN là A(0,0), M(4,3), N(4; 4.5).\nTính độ dài các cạnh:\n\nAM = √(4²+3²) = 5.\n\nAN = √(4² + 4.5²) = √(16 + 20.25) = √36.25.\n\nMN = √( (4-4)² + (4.5-3)² ) = √1.5² = 1.5.\nTính diện tích tam giác AMN. Vì M, N có cùng hoành độ x=",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q63",
+    "type": "question",
+    "text": "Cho tam giác đều ABC; gọi D là điểm thỏa mãn DC = 2B",
+    "options": [
+      "A. 5/2.",
+      "B. (5+7√7)/9.",
+      "C. Tính tỉ số R/r.",
+      "D. Gọi R và r lần lượt là bán kính đường tròn ngoại tiếp và nội tiếp của tam giác AD"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Đây là một câu hỏi rất phức tạp, đòi hỏi nhiều bước tính toán. Giả sử cạnh tam giác đều ABC là a.\nĐiểm D nằm trên cạnh BC sao cho DC = 2BD, vậy BD = a/3, DC = 2a/3.\nTrong tam giác ADC, ta có các cạnh:\n\nAC = a.\n\nDC = 2a/3.\n\nAD: Dùng định lí côsin trong tam giác ABD:\nAD² = AB² + BD² - 2ABBDcos(60°) = a² + (a/3)² - 2a*(a/3)*(1/2) = a² + a²/9 - a²/3 = 7a²/9.\n=> AD = a√7/3.\nBây giờ xét tam giác ADC với các cạnh a, 2a/3, a√7/3.\n\nTính R (bán kính ngoại tiếp): R = (cạnh1cạnh2cạnh3)/(4S).\n\nTính diện tích",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q64",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây là mệnh đề phủ định của mệnh đề: \"∀x ∈ ℝ, x² > 0\"?",
+    "options": [
+      "A. ∀x ∈ ℝ, x² ≤ 0\".",
+      "B. ∀x ∈ ℝ, x² < 0\".",
+      "C. ∃x ∈ ℝ, x² ≤ 0\".",
+      "D. ∃x ∈ ℝ, x² < 0\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Phủ định của mệnh đề \"∀x, P(x)\" là \"∃x, ¬P(x)\".\nTrong trường hợp này:\n\nMệnh đề P(x) là \"x² > 0\".\n\nPhủ định của P(x), tức là ¬P(x), là \"x² không lớn hơn 0\", hay \"x² ≤ 0\".\n\nLượng từ \"∀\" (với mọi) được phủ định thành \"∃\" (tồn tại).\nVậy, mệnh đề phủ định là \"∃x ∈ ℝ, x² ≤ 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q65",
+    "type": "question",
+    "text": "Cho tam giác ABC có cạnh a = 10, b = 6 và diện tích S = 24. Tính cạnh c.",
+    "options": [
+      "A. c = 8.",
+      "B. c = 2√22.",
+      "C. c = 8 hoặc c = 2√22.",
+      "D. c = 64."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Sử dụng công thức diện tích S = (1/2)ab sin C.\n24 = (1/2) * 10 * 6 * sin C\n24 = 30 sin C => sin C = 24/30 = 4/5.\nVì C là góc trong tam giác, có hai khả năng cho C:\n\nC là góc nhọn: cos C = √(1 - sin²C) = √(1 - (4/5)²) = 3/5.\n\nC là góc tù: cos C = -√(1 - sin²C) = -3/5.\nÁp dụng định lí côsin để tìm c: c² = a² + b² - 2ab cos C.\n\nTrường hợp 1 (cos C = 3/5):\nc² = 10² + 6² - 2 * 10 * 6 * (3/5) = 100 + 36 - 72 = 64 => c = 8.\n\nTrường hợp 2 (cos C = -3/5):\nc² = 10² + 6² - 2 * 10 * 6 * (-3/5) = 100 + 36 + ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q66",
+    "type": "question",
+    "text": "Cho mệnh đề P ⇒ Q: \"Nếu một số tự nhiên chia hết cho 6 thì nó chia hết cho 3\". Mệnh đề nào sau đây là mệnh đề đảo của P ⇒ Q?",
+    "options": [
+      "A. Nếu một số tự nhiên chia hết cho 3 thì nó chia hết cho 6.",
+      "B. Nếu một số tự nhiên không chia hết cho 6 thì nó không chia hết cho 3.",
+      "C. Nếu một số tự nhiên không chia hết cho 3 thì nó không chia hết cho 6.",
+      "D. Một số tự nhiên chia hết cho 6 và chia hết cho 3."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Mệnh đề đảo của một mệnh đề có dạng \"Nếu P thì Q\" là mệnh đề \"Nếu Q thì P\".\nTrong trường hợp này:\n\nP: \"Một số tự nhiên chia hết cho 6\".\n\nQ: \"Nó chia hết cho 3\".\nMệnh đề đảo sẽ là \"Nếu một số tự nhiên chia hết cho 3 thì nó chia hết cho 6\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q67",
+    "type": "question",
+    "text": "Tam giác ABC có các cạnh a, b, c thỏa mãn (a + b + c)(a + b - c) = 3ab. Số đo của góc C là:",
+    "options": [
+      "A. 30°.",
+      "B. 45°.",
+      "C. 60°.",
+      "D. 75°."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Biến đổi vế trái của đẳng thức:\n(a + b + c)(a + b - c) = ((a + b) + c)((a + b) - c) = (a + b)² - c² (hằng đẳng thức).\n(a + b)² - c² = a² + 2ab + b² - c².\nTheo giả thiết, ta có:\na² + 2ab + b² - c² = 3ab\n⇔ a² + b² - c² = 3ab - 2ab\n⇔ a² + b² - c² = ab\nTheo hệ quả định lí côsin: cos C = (a² + b² - c²)/(2ab).\nThay a² + b² - c² = ab vào:\ncos C = ab / (2ab) = 1/2.\nVì C là góc trong tam giác, nên C = 60°.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q68",
+    "type": "question",
+    "text": "Cho tập hợp A = {x ∈ ℕ | x là ước của 12} và B = {x ∈ ℕ | x là ước của 18}. Tập hợp A ∩ B là:",
+    "options": [
+      "A. {1, 2, 3, 6}.",
+      "B. {0, 1, 2, 3, 6}.",
+      "C. {1, 2, 3, 4, 6}.",
+      "D. {1, 2, 3, 6, 9, 12, 18}."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Liệt kê các phần tử của tập A: A = {1, 2, 3, 4, 6, 12}.\n\nLiệt kê các phần tử của tập B: B = {1, 2, 3, 6, 9, 18}.\n\nA ∩ B là tập hợp các phần tử chung của A và B.\n\nSo sánh hai tập hợp, các phần tử chung là: {1, 2, 3, 6}.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q69",
+    "type": "question",
+    "text": "Cho hai tập hợp A = (-∞, 3] và B = (1, 5). Tập hợp A ∪ B là:",
+    "options": [
+      "A. (1, 3].",
+      "B. (-∞, 5).",
+      "C. (-∞, 1].",
+      "D. [3, 5)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "A ∪ B là tập hợp chứa tất cả các phần tử thuộc A hoặc thuộc B. Ta có thể biểu diễn trên trục số.\n\nTập A bao gồm tất cả các số từ 3 trở về trước.\n\nTập B bao gồm tất cả các số nằm giữa 1 và 5.\nKhi hợp hai tập hợp này lại, ta sẽ lấy tất cả các số từ 5 trở về trước (không bao gồm 5).\nA ∪ B = (-∞, 5).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q70",
+    "type": "question",
+    "text": "Cho mệnh đề P(x): \"x² - x + 1 > 0\". Mệnh đề nào sau đây đúng?",
+    "options": [
+      "A. P(1) sai.",
+      "B. ∃x ∈ ℝ, P(x) sai.",
+      "C. ∀x ∈ ℝ, P(x) đúng.",
+      "D. ∃x ∈ ℝ, ¬P(x) đúng."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Xét tam thức bậc hai f(x) = x² - x + 1.\n\nHệ số a = 1 > 0.\n\nBiệt thức Δ = (-1)² - 4 * 1 * 1 = 1 - 4 = -3 < 0.\nVì a > 0 và Δ < 0, nên tam thức f(x) luôn dương với mọi x ∈ ℝ.\nDo đó, mệnh đề P(x): \"x² - x + 1 > 0\" là đúng với mọi x ∈ ℝ.\n\nA: P(1) là 1²-1+1 = 1 > 0, P(1) đúng. A sai.\n\nC: \"∀x ∈ ℝ, P(x) đúng\" là phát biểu đúng.\n\nD: \"∃x ∈ ℝ, ¬P(x) đúng\" tương đương với \"∃x ∈ ℝ, x² - x + 1 ≤ 0\", điều này sai vì f(x) luôn dương.\n\nB: Tương tự D.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q71",
+    "type": "question",
+    "text": "Cho tam giác ABC có AB=c, AC=b, góc BAC = α. Diện tích S của tam giác ABC là:",
+    "options": [
+      "A. S = bc sinα.",
+      "B. S = (1/2) bc cosα.",
+      "C. S = (1/2) bc sinα.",
+      "D. S = bc cosα."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Đây là câu hỏi về công thức cơ bản tính diện tích tam giác. Diện tích của một tam giác bằng một nửa tích hai cạnh nhân với sin của góc xen giữa hai cạnh đó.\nS = (1/2) * AB * AC * sin(BAC) = (1/2)bc sinα.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q72",
+    "type": "question",
+    "text": "Tam giác ABC có góc A = 15°, góc B = 45°. Giá trị của tan C bằng:",
+    "options": [
+      "A. -√3.",
+      "B. √3.",
+      "C. 1.",
+      "D. -1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Tổng ba góc trong một tam giác bằng 180°.\nGóc C = 180° - (A + B) = 180° - (15° + 45°) = 180° - 60° = 120°.\nTa cần tính tan C = tan 120°.\ntan 120° = tan(180° - 60°) = -tan 60° = -√3.\nLưu ý: Có vẻ đề bài hoặc đáp án bị nhầm. tan(120°) = -√3. Không có đáp án nào khớp. Nếu B = 75°, thì C = 180-15-75=90, tanC không xác định. Nếu A=60, B=60, C=60, tanC=√3.\nGiả sử đề là A=75°, B=45°, thì C = 180-75-45=60°, tanC=√3.\nHoặc A=45, B=75, C=60, tanC=√3.\nDựa vào các đáp án, có khả năng đề bài đã cho sai góc. G",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q73",
+    "type": "question",
+    "text": "Cho tam giác ABC có a = 2, b = 3, c = 4. Tính diện tích S.",
+    "options": [
+      "A. 3√15 / 2.",
+      "B. 3√15 / 4.",
+      "C. 3√15.",
+      "D. 15."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Sử dụng công thức Heron để tính diện tích khi biết 3 cạnh.\n\nTính nửa chu vi (p):\np = (a + b + c)/2 = (2 + 3 + 4)/2 = 9/2.\n\nTính diện tích (S):\nS = √(p(p-a)(p-b)(p-c))\nS = √( (9/2) * (9/2 - 2) * (9/2 - 3) * (9/2 - 4) )\nS = √( (9/2) * (5/2) * (3/2) * (1/2) )\nS = √( (9 * 5 * 3 * 1) / 16 )\nS = (√135) / 4 = (√(9 * 15)) / 4 = 3√15 / 4.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q74",
+    "type": "question",
+    "text": "Cho tập A = {x ∈ ℝ | -1 ≤ x < 4}. Cách viết nào sau đây là đúng?",
+    "options": [
+      "A. A = (-1, 4).",
+      "B. A = [-1, 4].",
+      "C. A = [-1, 4).",
+      "D. A = (-1, 4]."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Tập hợp A gồm các số thực x sao cho x lớn hơn hoặc bằng -1 và nhỏ hơn 4.\n\n\"lớn hơn hoặc bằng -1\" được biểu diễn bằng dấu ngoặc vuông [ ở bên trái: [-1, ...\n\n\"nhỏ hơn 4\" được biểu diễn bằng dấu ngoặc tròn ) ở bên phải: ..., 4)\nKết hợp lại, ta được A = [-1, 4).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q76",
+    "type": "question",
+    "text": "Tam giác ABC có b = 10, c = 16 và góc A = 60°. Bán kính đường tròn ngoại tiếp R của tam giác là:",
+    "options": [
+      "A. 7.",
+      "B. 14.",
+      "C. 13.",
+      "D. 14/√3."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Để tìm R, ta cần dùng định lí sin R = a/(2sinA). Ta cần tìm cạnh a trước.\n\nTính cạnh a (BC) bằng định lí côsin:\na² = b² + c² - 2bc cos A\na² = 10² + 16² - 2 * 10 * 16 * cos(60°)\na² = 100 + 256 - 320 * (1/2)\na² = 356 - 160 = 196\na = √196 = 14.\n\nTính bán kính R bằng định lí sin:\nR = a / (2 sin A)\nR = 14 / (2 * sin 60°)\nR = 14 / (2 * √3/2) = 14 / √3 = 14√3 / 3.\nLưu ý: Đáp án D là 14/√3. Phép tính của tôi ra 14/√3.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q77",
+    "type": "question",
+    "text": "Trong các mệnh đề sau, mệnh đề nào có mệnh đề đảo đúng?",
+    "options": [
+      "A. Nếu a và b cùng chia hết cho c thì a + b chia hết cho c.",
+      "B. Nếu hai tam giác bằng nhau thì chúng có diện tích bằng nhau.",
+      "C. Nếu một số tận cùng bằng 0 thì nó chia hết cho 5.",
+      "D. Nếu a và b là hai số lẻ thì a + b là một số chẵn."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta xét mệnh đề đảo của từng câu:\n\nA. Mệnh đề đảo: \"Nếu a + b chia hết cho c thì a và b cùng chia hết cho c.\" Mệnh đề này sai. Ví dụ: a=2, b=4, c=3. a+b=6 chia hết cho 3, nhưng a và b không chia hết cho 3.\n\nB. Mệnh đề đảo: \"Nếu hai tam giác có diện tích bằng nhau thì chúng bằng nhau.\" Mệnh đề này sai. Ví dụ: tam giác có cạnh (3,4,5) có diện tích 6. Tam giác có cạnh đáy 6, chiều cao 2 cũng có diện tích 6, nhưng chúng không bằng nhau.\n\nC. Mệnh đề đảo: \"Nếu một số chia hết cho 5 thì nó tận cùng bằng",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q77",
+    "type": "question",
+    "text": "Tam giác ABC có các cạnh AB=5, AC=8, và diện tích S=10√3. Số đo góc A có thể là:",
+    "options": [
+      "A. 30° hoặc 150°.",
+      "B. 60°.",
+      "C. 120°.",
+      "D. 60° hoặc 120°."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Sử dụng công thức diện tích S = (1/2)bc sin A.\n10√3 = (1/2) * 5 * 8 * sin A\n10√3 = 20 sin A\nsin A = (10√3) / 20 = √3/2.\nVì A là góc trong tam giác (0° < A < 180°), có hai giá trị của A thỏa mãn sin A = √3/2:\n\nA = 60° (góc nhọn)\n\nA = 120° (góc tù)\nCả hai giá trị này đều có thể là góc của một tam giác.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q78",
+    "type": "question",
+    "text": "Cho tập hợp X = {a, b, c}. Số tập hợp con của X là:",
+    "options": [
+      "A. 3.",
+      "B. 6.",
+      "C. 8.",
+      "D. 9."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Một tập hợp có n phần tử thì có 2ⁿ tập hợp con.\nTập X có 3 phần tử (a, b, c).\nSố tập hợp con của X là 2³ = 8.\nCác tập hợp con đó là: ∅, {a}, {b}, {c}, {a, b}, {a, c}, {b, c}, {a, b, c}.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q79",
+    "type": "question",
+    "text": "Cho A = (-5, 1], B = [3, +∞), C = (-∞, -2). Khẳng định nào sau đây đúng?",
+    "options": [
+      "A. A ∩ C = [-5, -2].",
+      "B. A ∪ B = (-5, +∞).",
+      "C. B ∩ C = ∅.",
+      "D. B ∪ C = (-∞, +∞)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "A ∩ C: Giao của (-5, 1] và (-∞, -2) là (-5, -2). Vậy A sai.\n\nA ∪ B: Hợp của (-5, 1] và [3, +∞) là (-5, 1] ∪ [3, +∞). Không thể viết gọn thành (-5, +∞) vì thiếu khoảng (1, 3). Vậy B sai.\n\nB ∩ C: Giao của [3, +∞) và (-∞, -2) là tập rỗng vì không có phần tử chung. Vậy C đúng.\n\nB ∪ C: Hợp của [3, +∞) và (-∞, -2) là (-∞, -2) ∪ [3, +∞). Không phải là toàn bộ trục số. Vậy D sai.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q80",
+    "type": "question",
+    "text": "Mệnh đề phủ định của \"∃x ∈ ℚ, 2x² - 5x + 2 = 0\" là:",
+    "options": [
+      "A. ∃x ∈ ℚ, 2x² - 5x + 2 ≠ 0\".",
+      "B. ∀x ∈ ℚ, 2x² - 5x + 2 ≠ 0\".",
+      "C. ∀x ∈ ℚ, 2x² - 5x + 2 = 0\".",
+      "D. ∃x ∈ ℚ, 2x² - 5x + 2 > 0\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Phủ định của mệnh đề \"∃x, P(x)\" là \"∀x, ¬P(x)\".\n\nP(x) là \"2x² - 5x + 2 = 0\".\n\n¬P(x) là \"2x² - 5x + 2 ≠ 0\".\nVậy mệnh đề phủ định là \"∀x ∈ ℚ, 2x² - 5x + 2 ≠ 0\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q81",
+    "type": "question",
+    "text": "Trong tam giác ABC có a=7, b=8, c=5. Tính số đo góc",
+    "options": [
+      "A. ",
+      "B. A = 45°",
+      "C. A = 60°",
+      "D. A = 90°"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Áp dụng hệ quả của định lí côsin để tính cos A:\ncos A = (b² + c² - a²)/(2bc)\ncos A = (8² + 5² - 7²)/(2 * 8 * 5)\ncos A = (64 + 25 - 49)/80\ncos A = 40/80 = 1/2.\nVì A là góc trong tam giác, nên A = 60°.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q82",
+    "type": "question",
+    "text": "Cho hai tập hợp A = {1, 2, 3, 4} và B = {3, 4, 5, 6}. Tập hợp A \\ B là:",
+    "options": [
+      "A. {5, 6}.",
+      "B. {1, 2}.",
+      "C. {3, 4}.",
+      "D. {1, 2, 5, 6}."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Tập hợp A \\ B là tập hợp các phần tử thuộc A nhưng không thuộc B.\n\nCác phần tử thuộc A là {1, 2, 3, 4}.\n\nCác phần tử thuộc B là {3, 4, 5, 6}.\n\nTa loại bỏ các phần tử của B ra khỏi A. Các phần tử chung là {3, 4}.\n\nSau khi loại bỏ, A còn lại {1, 2}.\nVậy A \\ B = {1, 2}.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q83",
+    "type": "question",
+    "text": "Giá trị của biểu thức M = cos²10° + cos²20° + cos²70° + cos²80° bằng:",
+    "options": [
+      "A. 1.",
+      "B. 2.",
+      "C. 3.",
+      "D. 4."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Sử dụng tính chất của hai góc phụ nhau: cos α = sin(90° - α) ⇒ cos² α = sin²(90° - α).\n\ncos² 80° = sin²(90° - 80°) = sin² 10°.\n\ncos² 70° = sin²(90° - 70°) = sin² 20°.\nThay vào biểu thức M:\nM = cos²10° + cos²20° + sin²20° + sin²10°\nM = (cos²10° + sin²10°) + (cos²20° + sin²20°)\nSử dụng đẳng thức cơ bản sin²x + cos²x = 1.\nM = 1 + 1 = 2.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q84",
+    "type": "question",
+    "text": "Cho tam giác ABC có R là bán kính đường tròn ngoại tiếp. Mệnh đề nào sau đây đúng?",
+    "options": [
+      "A. a = R sin",
+      "B. sin B = 2bR.",
+      "C. c = 2R sin",
+      "D. b/sinB = R."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Theo định lí sin trong tam giác, ta có: a/sinA = b/sinB = c/sinC = 2R.\nTừ đó suy ra:\n\na = 2R sin A. (A sai)\n\nsin B = b / (2R). (B sai)\n\nc = 2R sin C. (C đúng)\n\nb/sinB = 2R. (D sai)",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q85",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây là một mệnh đề đúng?",
+    "options": [
+      "A. π là một số hữu tỉ\".",
+      "B. Tổng ba góc trong một tam giác là 180°\".",
+      "C. x² - 1 = 0\".",
+      "D. Hôm nay trời đẹp quá!\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Một mệnh đề là một khẳng định có tính đúng hoặc sai.\n\nA là một mệnh đề sai (π là số vô tỉ).\n\nB là một mệnh đề đúng (định lí tổng ba góc trong hình học Euclide).\n\nC là một mệnh đề chứa biến, không phải mệnh đề.\n\nD là một câu cảm thán, không phải mệnh đề.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q86",
+    "type": "question",
+    "text": "Tam giác ABC có a=13, mₐ=8, b=7. Cạnh c bằng bao nhiêu?",
+    "options": [
+      "A. 15.",
+      "B. 16.",
+      "C. 17.",
+      "D. 18."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Áp dụng công thức đường trung tuyến:\nmₐ² = (2b² + 2c² - a²)/4\n8² = (27² + 2c² - 13²)/4\n64 = (249 + 2c² - 169)/4\n256 = 98 + 2c² - 169\n256 = 2c² - 71\n2c² = 256 + 71 = 327\nc² = 163.5.\nLưu ý: Có lỗi tính toán hoặc số liệu.\nThử lại công thức: 2(b^2+c^2) - a^2 = 4m_a^2.\n2(7^2+c^2) - 13^2 = 4*8^2\n2(49+c^2) - 169 = 4*64 = 256\n98 + 2c^2 - 169 = 256\n2c^2 - 71 = 256 => 2c^2 = 327.\nCó thể đề bài đã cho sai số. Giả sử a=8, b=7, mₐ=6.5.\n2(7^2+c^2) - 8^2 = 4*6.5^2\n2(49+c^2)-64 = 4*42.25 = 169\n98+2c^2-64=169 =>",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q86",
+    "type": "question",
+    "text": "Cho A = {x ∈ Z | |x| < 3} và B = {x ∈ Z | x² - 4 = 0}. Tập hợp A ∪ B có bao nhiêu phần tử?",
+    "options": [
+      "A. 4",
+      "B. 5",
+      "C. 6",
+      "D. 7"
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Liệt kê các phần tử của tập A: A = {-2, -1, 0, 1, 2}.\n\nGiải phương trình x² - 4 = 0 ⇔ x = 2 hoặc x = -2. Vậy B = {-2, 2}.\n\nA ∪ B là tập hợp các phần tử thuộc A hoặc thuộc B.\n\nA ∪ B = {-2, -1, 0, 1, 2} ∪ {-2, 2} = {-2, -1, 0, 1, 2}.\n\nTập hợp A ∪ B có 5 phần tử.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q87",
+    "type": "question",
+    "text": "Cho tam giác AB",
+    "options": [
+      "A. a² = b² + c² - 2bc cos",
+      "B. b² = a² + c² - 2ac cos",
+      "C. Hệ thức nào sau đây là sai?",
+      "D. cos C = (a²+b²-c²)/(2ab)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Kiểm tra các hệ thức dựa trên định lí côsin.\n\nA, B, D là các công thức đúng của định lí côsin và hệ quả của nó.\n\nC: c² = a² + b² + 2ab cos C là sai. Dấu đúng phải là dấu trừ: c² = a² + b² - 2ab cos C.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q88",
+    "type": "question",
+    "text": "Mệnh đề phủ định của mệnh đề \"Số 2025 chia hết cho 5\" là:",
+    "options": [
+      "A. Số 2025 không chia hết cho 5\".",
+      "B. Số 2025 chia hết cho 3\".",
+      "C. Số 2025 là số lẻ\".",
+      "D. Số 2025 không là số chính phương\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Phủ định của một mệnh đề P là một mệnh đề ¬P. ¬P đúng khi P sai và ¬P sai khi P đúng.\n\nP: \"Số 2025 chia hết cho 5\".\n\nPhủ định ¬P là \"Số 2025 không chia hết cho 5\".\nCác đáp án khác không phải là mệnh đề phủ định trực tiếp.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q89",
+    "type": "question",
+    "text": "Cho tam giác ABC có bán kính đường tròn nội tiếp r và nửa chu vi p. Diện tích S của tam giác được tính theo công thức:",
+    "options": [
+      "A. S = 2pr.",
+      "B. S = pr.",
+      "C. S = p/r.",
+      "D. S = r/p."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Đây là câu hỏi lý thuyết về công thức tính diện tích tam giác. Công thức đúng là S = p * r.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q90",
+    "type": "question",
+    "text": "Cho hai tập hợp M = {1, 2, 5} và N = {1, 3, 5, 7}. Tập hợp M ∩ N là:",
+    "options": [
+      "A. {1}.",
+      "B. {1, 5}.",
+      "C. {1, 2, 3, 5, 7}.",
+      "D. {5}."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "M ∩ N là tập hợp các phần tử chung của M và N.\nSo sánh hai tập hợp, ta thấy các phần tử chung là 1 và 5.\nVậy M ∩ N = {1, 5}.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q91",
+    "type": "question",
+    "text": "Cho tam giác ABC có a = 5, b = 6, c = 7. Tính đường cao hₐ hạ từ",
+    "options": [
+      "A. ",
+      "B. 12√6 / 5.",
+      "C. 6√6.",
+      "D. 12√6."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Ta dùng công thức S = (1/2)ahₐ => hₐ = 2S/a.\n\nTính nửa chu vi p: p = (5+6+7)/2 = 9.\n\nTính diện tích S bằng Heron: S = √(9(9-5)(9-6)(9-7)) = √(943*2) = √216 = 6√6.\n\nTính đường cao hₐ: hₐ = (2 * 6√6) / 5 = 12√6 / 5.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q92",
+    "type": "question",
+    "text": "Ký hiệu khoa học của tập hợp các số thực là gì?",
+    "options": [
+      "A. ℕ.",
+      "B. ℤ.",
+      "C. ℚ.",
+      "D. ℝ."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Đây là câu hỏi về ký hiệu các tập hợp số cơ bản.\n\nℕ: Tập hợp các số tự nhiên.\n\nℤ: Tập hợp các số nguyên.\n\nℚ: Tập hợp các số hữu tỉ.\n\nℝ: Tập hợp các số thực.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q93",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây sai?",
+    "options": [
+      "A. sin(180° - α) = sin α.",
+      "B. cos(180° - α) = -cos α.",
+      "C. tan(180° - α) = tan α.",
+      "D. cot(180° - α) = -cot α."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Đây là các công thức liên quan đến hai góc bù nhau.\n\nsin(180° - α) = sin α (Đúng).\n\ncos(180° - α) = -cos α (Đúng).\n\ntan(180° - α) = -tan α (với α ≠ 90°). Do đó, mệnh đề C là sai.\n\ncot(180° - α) = -cot α (với α ≠ 0°, 180°). (Đúng).",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q94",
+    "type": "question",
+    "text": "Cho tam giác ABC có góc B = 30°, góc C = 105°, cạnh a = 4. Tính cạnh b.",
+    "options": [
+      "A. 2√2.",
+      "B. 4√2.",
+      "C. 2.",
+      "D. 4."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 0,
+    "answer": {
+      "correct": "A",
+      "explanation": "Tính góc A: A = 180° - (B + C) = 180° - (30° + 105°) = 45°.\n\nÁp dụng định lí sin: a/sinA = b/sinB.\n4/sin(45°) = b/sin(30°)\nb = 4 * sin(30°) / sin(45°)\nb = 4 * (1/2) / (√2/2) = 2 / (√2/2) = 4/√2 = 2√2.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q95",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây là mệnh đề phủ định của \"Tất cả các loài chim đều biết bay\"?",
+    "options": [
+      "A. Tất cả các loài chim đều không biết bay\".",
+      "B. Có ít nhất một loài chim biết bay\".",
+      "C. Có ít nhất một loài chim không biết bay\".",
+      "D. Không có loài chim nào biết bay\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Mệnh đề gốc có dạng \"∀x, P(x)\" (Với mọi x là chim, P(x) là x biết bay).\nPhủ định của nó là \"∃x, ¬P(x)\" (Tồn tại một x là chim, x không biết bay).\nPhát biểu tương đương là \"Có ít nhất một loài chim không biết bay\".",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q96",
+    "type": "question",
+    "text": "Giá trị của biểu thức P = sin²40° + cos²140° là bao nhiêu?",
+    "options": [
+      "A. 0.",
+      "B. 1.",
+      "C. 2.",
+      "D. -1."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "Sử dụng tính chất hai góc bù nhau: cos(180°-α) = -cos(α).\ncos(140°) = cos(180° - 40°) = -cos(40°).\nDo đó, cos²(140°) = (-cos(40°))² = cos²(40°).\nThay vào biểu thức P:\nP = sin²40° + cos²40°\nSử dụng hằng đẳng thức sin²x + cos²x = 1.\nP = 1.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q97",
+    "type": "question",
+    "text": "Cho tam giác ABC có a=4, b=5, c=6. Tính độ dài đường trung tuyến mₐ.",
+    "options": [
+      "A. √23.",
+      "B. √33/2.",
+      "C. √46/2.",
+      "D. √46."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Áp dụng công thức tính độ dài đường trung tuyến:\nmₐ² = (2b² + 2c² - a²)/4\nmₐ² = (25² + 26² - 4²)/4\nmₐ² = (225 + 236 - 16)/4\nmₐ² = (50 + 72 - 16)/4 = 106/4 = 53/2.\nmₐ = √(53/2) = √106 / 2.\nLưu ý: Các đáp án không khớp. Kiểm tra lại. a=4, b=5, c=6. m_c² = (2a²+2b²-c²)/4 = (216+225-36)/4 = (32+50-36)/4 = 46/4. m_c = √46/2.\nCó thể đề bài hỏi mₐ.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q98",
+    "type": "question",
+    "text": "Cho A = (-2, 5] và B = [0, 7). Tập hợp A ∩ B là:",
+    "options": [
+      "A. (-2, 7).",
+      "B. .",
+      "C. [-2, 7].",
+      "D. (5, 7)."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 1,
+    "answer": {
+      "correct": "B",
+      "explanation": "A ∩ B là tập hợp các phần tử chung của A và B.\n\nA gồm các số lớn hơn -2 và nhỏ hơn hoặc bằng 5.\n\nB gồm các số lớn hơn hoặc bằng 0 và nhỏ hơn 7.\nCác phần tử chung sẽ là các số lớn hơn hoặc bằng 0 và nhỏ hơn hoặc bằng 5.\nVậy A ∩ B =.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q99",
+    "type": "question",
+    "text": "Tam giác ABC có diện tích S=20 và các cạnh b=8, c=10. Góc A có thể là:",
+    "options": [
+      "A. A = 30°.",
+      "B. A = 150°.",
+      "C. A = 30° hoặc A = 150°.",
+      "D. A = 60°."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 2,
+    "answer": {
+      "correct": "C",
+      "explanation": "Sử dụng công thức diện tích S = (1/2)bc sin A.\n20 = (1/2) * 8 * 10 * sin A\n20 = 40 sin A\nsin A = 20/40 = 1/2.\nVì A là góc trong tam giác (0° < A < 180°), có hai giá trị của A thỏa mãn:\n\nA = 30°.\n\nA = 180° - 30° = 150°.",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  },
+  {
+    "id": "q100",
+    "type": "question",
+    "text": "Mệnh đề nào sau đây có mệnh đề phủ định là một mệnh đề đúng?",
+    "options": [
+      "A. ∀x ∈ ℝ, x² ≥ 0\".",
+      "B. ∃n ∈ ℕ, n² = n\".",
+      "C. ∀n ∈ ℕ, n ≤ 2n\".",
+      "D. ∃x ∈ ℚ, x² = 3\"."
+    ],
+    "answer_type": "mcq",
+    "correct_index": 3,
+    "answer": {
+      "correct": "D",
+      "explanation": "Một mệnh đề có mệnh đề phủ định đúng nếu và chỉ nếu mệnh đề đó sai. Ta tìm mệnh đề sai trong các đáp án.\n\nA: \"Mọi số thực bình phương đều không âm\". Mệnh đề này đúng.\n\nB: \"Tồn tại số tự nhiên bằng bình phương của chính nó\". Mệnh đề này đúng (ví dụ n=0 hoặc n=1).\n\nC: \"Mọi số tự nhiên đều nhỏ hơn hoặc bằng hai lần chính nó\". Mệnh đề này đúng.\n\nD: \"Tồn tại số hữu tỉ có bình phương bằng 3\". Mệnh đề này sai, vì x = ±√3 là các số vô tỉ.\nVì mệnh đề D sai nên mệnh đề phủ định của nó (\"∀x ∈ ℚ, x² ≠ 3\" - ",
+      "solution_steps": [],
+      "key_concepts": [],
+      "difficulty_level": "medium",
+      "source": "user_provided_md"
+    }
+  }
+]

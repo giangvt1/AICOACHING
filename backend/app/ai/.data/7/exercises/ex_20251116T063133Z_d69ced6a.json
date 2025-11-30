@@ -1,0 +1,77 @@
+{
+  "id": "ex_20251116T063133Z_d69ced6a",
+  "user_id": 7,
+  "topic": "T?a d? vecto",
+  "difficulty": 3,
+  "format": "mcq",
+  "items": [
+    {
+      "question": "Cho hai vectơ $\\vec{a} = (2, -1)$ và $\\vec{b} = (-3, 4)$. Tọa độ của vectơ $\\vec{a} + \\vec{b}$ là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "$(5, -5)$",
+        "$(-1, 3)$",
+        "$(1, -7)$",
+        "$(-5, 5)$"
+      ],
+      "correct_index": 1,
+      "solution": null
+    },
+    {
+      "question": "Cho vectơ $\\vec{u} = (5, 2)$. Tọa độ của vectơ $2\\vec{u}$ là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "$(10, 4)$",
+        "$(7, 4)$",
+        "$(5, 4)$",
+        "$(10, 2)$"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "Cho ba điểm $A(1, 2)$, $B(3, -1)$, $C(0, 4)$. Tọa độ của vectơ $\\vec{AB}$ là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "$(2, -3)$",
+        "$(4, 1)$",
+        "$(-1, 2)$",
+        "$(3, -1)$"
+      ],
+      "correct_index": 0,
+      "solution": null
+    },
+    {
+      "question": "Cho vectơ $\\vec{v} = (-2, 5)$. Vectơ đối của $\\vec{v}$ có tọa độ là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "$(-2, 5)$",
+        "$(2, -5)$",
+        "$(2, 5)$",
+        "$(-2, -5)$"
+      ],
+      "correct_index": 1,
+      "solution": null
+    },
+    {
+      "question": "Cho hai vectơ $\\vec{x} = (1, -2)$ và $\\vec{y} = (3, 1)$. Tọa độ của vectơ $\\vec{x} - \\vec{y}$ là:",
+      "type": "mcq",
+      "difficulty": 3,
+      "options": [
+        "$(4, -1)$",
+        "$(-2, -3)$",
+        "$(2, 3)$",
+        "$(4, -3)$"
+      ],
+      "correct_index": 1,
+      "solution": null
+    }
+  ],
+  "contexts": [],
+  "used_model": "gemini-1.5-flash",
+  "created_at": "20251116T063133Z"
+}
