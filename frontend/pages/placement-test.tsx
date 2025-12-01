@@ -424,7 +424,7 @@ export default function PlacementTestPage() {
                         )}
                         
                         {/* Detailed Solution Button */}
-                        {(review.solution_steps?.length > 0 || review.key_concepts?.length > 0) && (
+                        {((review.solution_steps?.length ?? 0) > 0 || (review.key_concepts?.length ?? 0) > 0) && (
                           <button
                             onClick={() => setSelectedDetailQuestion(review)}
                             className="text-blue-600 hover:text-blue-800 font-semibold text-sm flex items-center gap-1 transition"
