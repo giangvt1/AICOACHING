@@ -144,10 +144,32 @@ def load_questions_from_files(file_paths: List[str], auto_generate_answers: bool
                     continue
                 
                 # Always MCQ at this point (already filtered above)
+                # ✅ Read difficulty from JSON answer data
+                answer_data = item.get("answer", {})
+                
+                # Map difficulty_level string to number (1-5)
+                difficulty_map = {
+                    "easy": 2,
+                    "medium": 3,
+                    "hard": 4,
+                    "very_hard": 5,
+                    "very_easy": 1
+                }
+                
+                # Get difficulty from answer metadata or use number directly
+                difficulty_level = answer_data.get("difficulty_level", "medium")
+                difficulty_number = answer_data.get("difficulty_number", None)
+                
+                # Prefer difficulty_number if available, otherwise map from level
+                if difficulty_number and isinstance(difficulty_number, int) and 1 <= difficulty_number <= 5:
+                    difficulty = difficulty_number
+                else:
+                    difficulty = difficulty_map.get(difficulty_level, 3)
+                
                 question = {
                     "question": text,
                     "type": "mcq",
-                    "difficulty": 3,  # Default, can be adjusted
+                    "difficulty": difficulty,  # ✅ From JSON metadata
                     "options": [opt.strip() for opt in options],
                 }
                 

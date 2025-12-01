@@ -22,19 +22,63 @@ def _use_openai() -> bool:
 def explain(payload: ExplainRequest, db: Session = Depends(get_db), current: Student = Depends(get_current_student)):
     text = payload.problem.strip()
     if not text:
-        return AssistantResponse(text="Vui lòng nhập đề bài cần giải thích.")
+        return AssistantResponse(text="Vui lòng nhập câu hỏi hoặc đề bài cần giải thích.")
+
+    # System prompt for AI assistant
+    system_prompt = """Bạn là một trợ lý AI chuyên về Toán học lớp 10, thân thiện và nhiệt tình.
+
+NHIỆM VỤ:
+- Giải thích các khái niệm Toán học một cách dễ hiểu, súc tích
+- Giải chi tiết từng bước các bài toán
+- Cung cấp ví dụ minh họa khi cần
+- Trả lời các câu hỏi liên quan đến Toán 10
+
+NỘI DUNG CHƯƠNG TRÌNH TOÁN 10:
+1. Mệnh đề và Tập hợp
+2. Bất phương trình (bậc nhất, bậc hai, chứa dấu giá trị tuyệt đối)
+3. Góc lượng giác và Hệ thức lượng (sin, cos, tan, cot)
+4. Vectơ (phép toán, tích vô hướng)
+5. Phương trình đường thẳng và đường tròn
+
+PHONG CÁCH:
+- Sử dụng tiếng Việt rõ ràng, dễ hiểu
+- Giải thích từng bước logic
+- Khuyến khích học sinh tư duy
+- Thân thiện, động viên
+- Sử dụng emoji phù hợp 😊 📝 ✅ 💡
+
+ĐỊNH DẠNG TRẠLỜI:
+- Với bài toán: Giải từng bước rõ ràng
+- Với câu hỏi lý thuyết: Giải thích khái niệm + ví dụ
+- Kết luận ngắn gọn ở cuối
+"""
 
     if _use_gemini():
         try:
             import google.generativeai as genai  # type: ignore
             genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
-            model = genai.GenerativeModel("gemini-2.0-flash-exp")
-            prompt = f"Hãy giải thích bước-by-bước bài toán Toán 10 bằng tiếng Việt:\n\n{text}"
-            resp = model.generate_content(prompt)
+            
+            # Use system instruction for better context
+            model = genai.GenerativeModel(
+                "gemini-2.0-flash-exp",
+                system_instruction=system_prompt
+            )
+            
+            # Generate response
+            resp = model.generate_content(text)
             out = resp.text or ""
-            return AssistantResponse(text=out.strip())
+            
+            # Clean up response
+            response_text = out.strip()
+            if not response_text:
+                response_text = "Xin lỗi, tôi không thể trả lời câu hỏi này. Bạn có thể diễn đạt lại được không? 🤔"
+            
+            return AssistantResponse(text=response_text)
         except Exception as e:
-            return AssistantResponse(text=f"[Gemini lỗi] {e}")
+            error_msg = str(e)
+            if "404" in error_msg:
+                return AssistantResponse(text="⚠️ Model AI tạm thời không khả dụng. Vui lòng thử lại sau.")
+            return AssistantResponse(text=f"⚠️ Có lỗi xảy ra: {error_msg}")
 
     if _use_openai():
         try:

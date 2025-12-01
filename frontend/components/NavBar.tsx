@@ -28,13 +28,13 @@ export default function NavBar() {
   const isActive = (path: string) => router.pathname === path;
   
   const navLinks = [
-    { href: '/', label: 'Home', icon: '🏠' },
-    { href: '/diagnostic', label: 'Diagnostic', icon: '📝' },
-    { href: '/analysis', label: 'Analysis', icon: '📊' },
-    { href: '/learning-path', label: 'Learning Path', icon: '🗺️' },
-    { href: '/exercises', label: 'Exercises', icon: '✨' },
-    { href: '/progress', label: 'Progress', icon: '📈' },
-    { href: '/profile', label: 'Profile', icon: '👤' },
+    { href: '/', label: 'Trang chủ', icon: '🏠' },
+    { href: '/diagnostic', label: 'Chẩn đoán', icon: '📝' },
+    { href: '/analysis', label: 'Phân tích', icon: '📊' },
+    { href: '/learning-path', label: 'Lộ trình học', icon: '🗺️' },
+    { href: '/exercises', label: 'Bài tập', icon: '✨' },
+    { href: '/progress', label: 'Tiến độ', icon: '📈' },
+    { href: '/profile', label: 'Hồ sơ', icon: '👤' },
   ];
   
   return (
@@ -56,7 +56,7 @@ export default function NavBar() {
             }`}
           >
             <span className="text-2xl animate-float">🤖</span>
-            <span>AI Coach</span>
+            <span>AI Learning Coach</span>
           </Link>
 
           {/* Desktop Navigation */}
@@ -92,7 +92,7 @@ export default function NavBar() {
                     : 'bg-white/20 text-white hover:bg-white/30'
                 }`}
               >
-                Logout
+                Đăng xuất
               </button>
             ) : (
               <Link
@@ -103,7 +103,7 @@ export default function NavBar() {
                     : 'bg-white/20 text-white hover:bg-white/30'
                 }`}
               >
-                Login
+                Đăng nhập
               </Link>
             )}
           </div>
@@ -178,7 +178,7 @@ export default function NavBar() {
                         : 'bg-white/20 text-white hover:bg-white/30'
                     }`}
                   >
-                    Logout
+                    Đăng xuất
                   </button>
                 ) : (
                   <Link
@@ -190,7 +190,7 @@ export default function NavBar() {
                     }`}
                     onClick={() => setMobileMenuOpen(false)}
                   >
-                    Login
+                    Đăng nhập
                   </Link>
                 )}
               </div>

@@ -93,8 +93,9 @@ export async function apiLogin(email: string, password: string) {
 }
 
 // Placement Test APIs
-export async function apiGeneratePlacementTest(numQuestions: number = 15) {
-  return apiPost('/ai/placement-test/generate', { num_questions: numQuestions });
+export async function apiGeneratePlacementTest(numQuestions: number = 20) {
+  // Default: 20 questions total = 4 questions per chapter × 5 chapters
+  return apiPost('/ai/placement-test/generate', { questions_per_chapter: Math.floor(numQuestions / 5) });
 }
 
 export async function apiSubmitPlacementTest(testId: string, answers: Record<string, string>) {

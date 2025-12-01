@@ -108,26 +108,7 @@ export default function LoginPage() {
           </div>
         </div>
 
-        {/* Demo Hint & Admin Login Link */}
-        <div className="mt-6 text-center animate-fade-in space-y-3">
-          <div className="bg-yellow-50 border-2 border-yellow-200 rounded-xl p-4">
-            <p className="text-xs font-medium text-yellow-800 mb-1">💡 Demo Account (Student)</p>
-            <p className="text-xs text-yellow-700">
-              Email: <span className="font-mono">demo@example.com</span> | 
-              Password: <span className="font-mono">demo123</span>
-            </p>
-          </div>
-          
-          <div className="bg-orange-50 border-2 border-orange-200 rounded-xl p-4">
-            <p className="text-xs font-medium text-orange-800 mb-2">👨‍💼 Administrator?</p>
-            <a 
-              href="/admin/login" 
-              className="inline-block bg-gradient-admin text-white px-4 py-2 rounded-lg font-semibold text-xs hover:shadow-lg hover:-translate-y-0.5 transition-all"
-            >
-              Go to Admin Login →
-            </a>
-          </div>
-        </div>
+        
       </div>
     </div>
   );

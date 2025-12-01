@@ -94,7 +94,8 @@ export default function PlacementTestPage() {
     try {
       setLoading(true);
       setError(null);
-      const data = await apiGeneratePlacementTest(15);
+      // ✅ Generate 20 questions (4 per chapter x 5 chapters) as per project specification
+      const data = await apiGeneratePlacementTest(20);
       setTest(data);
       setTimeLeft(data.time_limit_minutes * 60); // Convert to seconds
       setShowInstructions(true);

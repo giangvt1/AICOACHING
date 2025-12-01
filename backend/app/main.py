@@ -6,7 +6,9 @@ from sqlalchemy.orm import Session
 from .database import Base, engine, SessionLocal
 from .seed import ensure_seed
 
-from .routers import auth, profile, catalog, diagnostic, analysis, learning_path, sessions, progress, questions, assistant, admin, admin_auth
+from .routers import auth, profile, catalog, diagnostic, analysis, learning_path, sessions, progress, questions, assistant
+# Admin routers commented out (not in MVP scope)
+# from .routers import admin, admin_auth
 from .chat import router as chat_router
 from .ai import router as ai_router
 
@@ -40,7 +42,13 @@ def root():
 
 # Routers
 app.include_router(auth.router)
-app.include_router(admin_auth.router)
+
+# ====== Admin Routes (DISABLED - Not in MVP scope per KHKT report) ======
+# Admin portal is disabled to focus on student-facing features only
+# Uncomment below if admin features are needed in future
+# app.include_router(admin_auth.router)
+# app.include_router(admin.router)
+
 app.include_router(profile.router)
 app.include_router(catalog.router)
 app.include_router(diagnostic.router)

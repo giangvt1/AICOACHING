@@ -16,8 +16,10 @@
       "explanation": "Xác định chữ số ở hàng cần làm tròn (hàng chục). Chữ số hàng chục của 219,46 là 1.\n\nXét chữ số ngay bên phải hàng làm tròn, đó là chữ số hàng đơn vị: 9.\n\nÁp dụng quy tắc làm tròn: Vì chữ số bên phải là 9 (lớn hơn hoặc bằng 5), ta cộng thêm 1 vào chữ số hàng chục (1 + 1 = 2) và thay tất cả các chữ số bên phải nó bằng số 0.\n\nSố 219,46 trở thành 220.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp quy tắc làm tròn số đến hàng chục, chỉ cần 1 bước xác định và áp dụng quy tắc."
     }
   },
   {
@@ -37,8 +39,10 @@
       "explanation": "Độ chính xác d = 500. Chữ số có nghĩa đầu tiên của d là 5, nằm ở hàng trăm.\n\nTheo quy tắc làm tròn số với độ chính xác cho trước, ta làm tròn số đã cho đến hàng cao hơn một bậc so với hàng của chữ số có nghĩa đầu tiên của d. Hàng cao hơn hàng trăm là hàng nghìn.\n\nDo đó, ta quy tròn số 673582 đến hàng nghìn.\n\nChữ số hàng nghìn là 3. Chữ số ngay bên phải nó là 5.\n\nVì 5 ≥ 5, ta cộng 1 vào chữ số hàng nghìn (3 + 1 = 4) và thay các chữ số bên phải bằng 0.\n\nSố sau khi quy tròn là 674000.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp quy tắc làm tròn số với độ chính xác cho trước, chỉ qua 1 bước xác định hàng làm tròn và 1 bước làm tròn."
     }
   },
   {
@@ -58,8 +62,10 @@
       "explanation": "Xét tam giác vuông ADB có đường cao AL ứng với cạnh huyền DB.\n\nĐộ dài đường chéo DB = DL + LI + IB = 1 + 1 + 1 = 3.\n\nTrong tam giác vuông, bình phương đường cao bằng tích hai hình chiếu của hai cạnh góc vuông trên cạnh huyền. Ta có: AL² = DL * LB = DL * (LI + IB) = 1 * (1 + 1) = 2. Suy ra AL = √2.\n\nDiện tích tam giác ADB là: S_ADB = (1/2) * AL * DB = (1/2) * √2 * 3 = (3√2)/2.\n\nDiện tích hình chữ nhật ABCD bằng hai lần diện tích tam giác ADB: S_ABCD = 2 * S_ADB = 3√2.\n\nTính giá trị số: 3√2 ≈ 4,24",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "hard",
+      "source": "user_provided_md",
+      "difficulty_number": 4,
+      "difficulty_reasoning": "Câu hỏi yêu cầu áp dụng định lý về đường cao trong tam giác vuông và tính toán diện tích hình chữ nhật, đòi hỏi kết hợp nhiều kiến thức và suy luận."
     }
   },
   {
@@ -80,7 +86,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu xác định chữ số đáng tin dựa trên độ chính xác, đòi hỏi hiểu và áp dụng quy tắc xác định hàng không chắc chắn."
     }
   },
   {
@@ -100,8 +108,10 @@
       "explanation": "Sai số tương đối δa của số gần đúng a được ước lượng qua công thức: δa ≤ d / |a|.\n\nVới a = 7975421 và d = 150, ta có: δa ≤ 150 / 7975421.\n\nThực hiện phép tính: 150 / 7975421 ≈ 0,0000188.\n\nTa cần tìm một chặn trên cho giá trị này trong các đáp án.\n\nSo sánh 0,0000188 với các đáp án:\n\n0,0000188 > 0,0000099 (Loại A)\n\n0,0000188 < 0,000039 (Nhận B)\n\nVậy ta có thể ước lượng δa ≤ 0,000039.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp công thức tính sai số tương đối và thực hiện một phép chia đơn giản."
     }
   },
   {
@@ -122,7 +132,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng công thức tính sai số tuyệt đối từ sai số tương đối và sau đó thực hiện làm tròn số theo quy tắc, kết hợp hai kiến thức."
     }
   },
   {
@@ -143,7 +155,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính toán chu vi và ước lượng sai số tuyệt đối, đòi hỏi vận dụng công thức tính chu vi và quy tắc cộng sai số."
     }
   },
   {
@@ -163,8 +177,10 @@
       "explanation": "Tính diện tích gần đúng:\n\nS_approx = 3,456 * 12,732 ≈ 44,002 m².\n\nƯớc lượng sai số tuyệt đối (ΔS):\n\nSử dụng sai số tương đối: δS ≤ δx + δy.\n\nδx ≤ 0,01 / 3,456 ≈ 0,00289\n\nδy ≤ 0,015 / 12,732 ≈ 0,00118\n\nδS ≤ 0,00289 + 0,00118 = 0,00407.\n\nSai số tuyệt đối ΔS = S_approx * δS ≤ 44,002 * 0,00407 ≈ 0,179.\n\nLàm tròn, ta có thể ước lượng ΔS ≤ 0,176 (giá trị ở đáp án A).",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "hard",
+      "source": "user_provided_md",
+      "difficulty_number": 4,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính toán diện tích và ước lượng sai số tuyệt đối, đòi hỏi kết hợp kiến thức về tính toán diện tích hình chữ nhật và công thức tính sai số trong phép nhân, cùng với việc xử lý các giá trị gần đúng."
     }
   },
   {
@@ -184,8 +200,10 @@
       "explanation": "Giá trị gần đúng: a = 355/113 ≈ 3,14159292.\n\nKhoảng giá trị của số đúng: 3,14159265 < π < 3,14159266.\n\nSai số tuyệt đối là Δa = |a - π|.\n\nTa có: a - 3,14159266 ≈ 3,14159292 - 3,14159266 = 0,00000026.\n\nVà: a - 3,14159265 ≈ 3,14159292 - 3,14159265 = 0,00000027.\n\nVì π nằm giữa hai cận trên, nên hiệu a - π cũng sẽ nằm giữa hai hiệu số trên: 0,00000026 < a - π < 0,00000027.\n\nDo đó, sai số tuyệt đối |a - π| < 0,00000027 hay Δa < 2,7.10⁻⁷.\n\nTa có thể chọn một chặn trên lớn hơn giá trị này. Trong các đá",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "hard",
+      "source": "user_provided_md",
+      "difficulty_number": 4,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính sai số tuyệt đối, đòi hỏi việc so sánh một số thập phân với một khoảng giá trị và biến đổi về dạng lũy thừa của 10, kết hợp kiến thức về số gần đúng và sai số."
     }
   },
   {
@@ -206,7 +224,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng công thức tính sai số tuyệt đối từ sai số tương đối và thực hiện làm tròn để viết kết quả dưới dạng chuẩn, đòi hỏi 2-3 bước tính toán và hiểu biết về quy ước làm tròn số."
     }
   },
   {
@@ -226,8 +246,10 @@
       "explanation": "Phân tích đề bài: Tương tự câu 10, có sự mâu thuẫn.\n\nĐộ chính xác d = 0,75 m (tức Δa ≤ 0,75).\n\nSai số tương đối δa ≤ 1,5% = 0,015.\n\nTừ công thức δa = Δa / a, ta có a = Δa / δa.\n\nNếu ta lấy giá trị lớn nhất có thể của các sai số, a ≈ Δa / δa = 0,75 / 0,015 = 50 m. Kết quả này không hợp lý với các đáp án.\n\nNếu giả sử ký hiệu \"%\" là lỗi đánh máy của \"‰\" (phần nghìn), thì δa ≤ 1,5‰ = 0,0015.\n\nKhi đó, a ≈ 0,75 / 0,0015 = 500 m. Kết quả này khớp với đáp án C.\n\nDựa trên giả định trên, độ dài gần đúng c",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "hard",
+      "source": "user_provided_md",
+      "difficulty_number": 4,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng công thức sai số tương đối và tuyệt đối, đồng thời cần suy luận để xử lý mâu thuẫn trong đề bài bằng cách giả định lỗi đánh máy, đòi hỏi nhiều bước và kiến thức."
     }
   },
   {
@@ -248,7 +270,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng kiến thức về sai số tuyệt đối, sai số tương đối và viết số dưới dạng chuẩn, đòi hỏi 2-3 bước tính toán và kết hợp kiến thức."
     }
   },
   {
@@ -269,7 +293,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng công thức tính sai số tuyệt đối và quy tắc làm tròn số theo sai số, đòi hỏi 2-3 bước tính toán và áp dụng kiến thức về sai số."
     }
   },
   {
@@ -290,7 +316,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng định nghĩa chữ số chắc chắn và thực hiện so sánh nhiều lần, kết hợp kiến thức về số thập phân."
     }
   },
   {
@@ -311,7 +339,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính sai số tuyệt đối, đòi hỏi vận dụng công thức và thực hiện phép tính với số thập phân và phân số, qua 2-3 bước tính toán."
     }
   },
   {
@@ -332,7 +362,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính sai số tuyệt đối, đòi hỏi vận dụng công thức và thực hiện phép trừ, làm tròn số qua vài bước tính toán."
     }
   },
   {
@@ -353,7 +385,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng kiến thức về sai số tương đối và sai số tuyệt đối để xác định các chữ số không đáng tin, đòi hỏi 2-3 bước suy luận."
     }
   },
   {
@@ -373,8 +407,10 @@
       "explanation": "Giá trị gần đúng a = 3,14.\n\nGiá trị đúng π ≈ 3,14159265...\n\nSai số tuyệt đối Δa = |π - a| ≈ |3,14159 - 3,14| = 0,00159.\n\nGiá trị 0,00159 gần nhất với 0,002. Hoặc có thể hiểu là sai số không vượt quá 0,002.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính sai số tuyệt đối từ giá trị gần đúng và giá trị thực, chỉ cần áp dụng công thức và thực hiện một phép trừ đơn giản."
     }
   },
   {
@@ -395,7 +431,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu xác định số chữ số chắc của một giá trị gần đúng, đòi hỏi việc áp dụng định nghĩa và quy tắc xác định chữ số chắc dựa trên sai số tuyệt đối."
     }
   },
   {
@@ -415,8 +453,10 @@
       "explanation": "Ba chữ số đáng tin đầu tiên là 2, 5, 7.\n\nĐể viết dạng chuẩn, ta làm tròn số đến chữ số đáng tin cuối cùng (hàng phần trăm).\n\nChữ số hàng phần trăm là 7, chữ số bên phải nó là 6.\n\nVì 6 ≥ 5, ta làm tròn lên: 2,57 + 0,01 = 2,58.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp quy tắc làm tròn số để xác định chữ số đáng tin, chỉ cần một bước tính toán đơn giản."
     }
   },
   {
@@ -437,7 +477,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng định nghĩa chữ số chắc và sai số tuyệt đối, đòi hỏi 2-3 bước suy luận để xác định hàng không chắc chắn và đếm chữ số chắc."
     }
   },
   {
@@ -457,8 +499,10 @@
       "explanation": "Độ chính xác của một số gần đúng là một số dương lớn hơn hoặc bằng sai số tuyệt đối của số đó.\n\nĐề bài cho biết \"độ chính xác là 1/4 ngày\", nghĩa là sai số tuyệt đối không vượt quá 1/4 ngày.\n\nΔa ≤ 1/4. Do đó, sai số tuyệt đối được lấy là 1/4.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu nhận biết và áp dụng trực tiếp định nghĩa sai số tuyệt đối từ thông tin độ chính xác đã cho."
     }
   },
   {
@@ -478,8 +522,10 @@
       "explanation": "Đổi đơn vị: 2cm = 0,02m; 4cm = 0,04m.\n\nx = 7,8 ± 0,02 (m); y = 25,6 ± 0,04 (m).\n\nChu vi P = 2(x + y).\n\nGiá trị gần đúng chu vi L = 2(7,8 + 25,6) = 2(33,4) = 66,8 m.\n\nSai số tuyệt đối ΔL ≤ 2(Δx + Δy) = 2(0,02 + 0,04) = 0,12 m = 12 cm.\n\nKết quả: P = 66,8m ± 0,12m = 66,8m ± 12cm.\n\nLàm tròn kết quả: vì sai số đến hàng phần mười của mét (hàng chục của cm), ta làm tròn giá trị chu vi đến hàng mét. 66,8m làm tròn thành 67m.\n\nKết quả cuối cùng dưới dạng chuẩn là 67m ± 12cm.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "hard",
+      "source": "user_provided_md",
+      "difficulty_number": 4,
+      "difficulty_reasoning": "Câu hỏi yêu cầu kết hợp kiến thức về tính toán chu vi hình chữ nhật với quy tắc cộng sai số tuyệt đối và làm tròn kết quả theo sai số."
     }
   },
   {
@@ -499,8 +545,10 @@
       "explanation": "x = 7,8 ± 0,02; y = 25,6 ± 0,04.\n\nDiện tích S = xy.\n\nGiá trị gần đúng S_approx = 7,8 * 25,6 = 199,68 m².\n\nSai số tương đối δS ≤ δx + δy ≤ (0,02/7,8) + (0,04/25,6) ≈ 0,00256 + 0,00156 = 0,00412.\n\nSai số tuyệt đối ΔS ≤ S_approx * δS ≈ 199,68 * 0,00412 ≈ 0,823 m².\n\nKết quả: S = 199,68 ± 0,823 m².\n\nLàm tròn: Sai số đến hàng phần mười, ta làm tròn diện tích đến hàng đơn vị. S_rounded = 200 m². ΔS_rounded ≈ 1 m². Kết quả là 200m² ± 1m². Tuy nhiên đáp án A gần với giá trị chưa làm tròn hơn.\n\nXét lại: 7",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "hard",
+      "source": "user_provided_md",
+      "difficulty_number": 4,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính toán sai số tuyệt đối và tương đối của diện tích hình chữ nhật, đòi hỏi kết hợp kiến thức về đo lường, sai số và phép nhân, cùng với kỹ năng làm tròn số phức tạp."
     }
   },
   {
@@ -521,7 +569,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính chu vi và sai số tuyệt đối của hình chữ nhật, đòi hỏi vận dụng công thức tính chu vi và quy tắc cộng sai số, qua 2-3 bước tính toán."
     }
   },
   {
@@ -541,8 +591,10 @@
       "explanation": "Đổi đơn vị: x = 200 ± 1 cm; y = 500 ± 2 cm.\n\nDiện tích S = xy. Giá trị gần đúng S_approx = 200 * 500 = 100000 cm² = 10 m².\n\nTính sai số:\n\n199 ≤ x ≤ 201\n\n498 ≤ y ≤ 502\n\n199 * 498 ≤ S ≤ 201 * 502\n\n99102 ≤ S ≤ 100902\n\nTrung điểm là (99102 + 100902)/2 = 100002.\n\nSai số là (100902 - 99102)/2 = 900.\n\nVậy S = 100002 ± 900 cm². Kết quả này gần với đáp án A.\n\nSử dụng sai số tương đối: ΔS ≤ S_approx * (Δx/x + Δy/y) = 100000 * (1/200 + 2/500) = 100000 * (0,005 + 0,004) = 100000 * 0,009 = 900 cm².\n\nCả hai c",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "hard",
+      "source": "user_provided_md",
+      "difficulty_number": 4,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính diện tích và sai số tuyệt đối của hình chữ nhật, đòi hỏi kết hợp kiến thức về hình học, sai số và phép tính toán học phức tạp."
     }
   },
   {
@@ -563,7 +615,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính sai số tuyệt đối và xác định số chữ số chắc dựa trên dữ liệu đo lường, đòi hỏi vận dụng công thức tính giá trị trung bình và hiểu biết về quy tắc xác định chữ số chắc."
     }
   },
   {
@@ -584,7 +638,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng quy tắc làm tròn số với sai số cho trước, kết hợp kiến thức về chữ số có nghĩa và làm tròn số."
     }
   },
   {
@@ -605,7 +661,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính chu vi hình tròn với sai số cho trước, kết hợp kiến thức về hình tròn và sai số tuyệt đối, đòi hỏi 2-3 bước tính toán và áp dụng quy tắc làm tròn."
     }
   },
   {
@@ -625,8 +683,10 @@
       "explanation": "Cạnh a = 2,4m ± 1cm = 2,4 ± 0,01 m.\n\nDiện tích toàn phần S = 6a².\n\nGiá trị gần đúng S_approx = 6 * (2,4)² = 34,56 m².\n\nSai số tương đối δS ≤ 2 * δa = 2 * (0,01 / 2,4) ≈ 0,00833.\n\nSai số tuyệt đối ΔS ≤ S_approx * δS ≈ 34,56 * 0,00833 ≈ 0,288 m².\n\nKết quả: S = 34,56 ± 0,288 m².\n\nLàm tròn: Sai số ở hàng phần mười. Ta làm tròn S đến hàng đơn vị. 34,56 làm tròn thành 35. Sai số làm tròn thành 0,3. Kết quả là 35 ± 0,3 m².\n\nLời giải trang 21 ra 34m² ± 0,3m². Có thể có sự khác biệt trong cách làm tròn. ",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "hard",
+      "source": "user_provided_md",
+      "difficulty_number": 4,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính toán diện tích toàn phần của hình lập phương với sai số, kết hợp kiến thức về hình học không gian và sai số thực nghiệm, đòi hỏi nhiều bước tính toán và biến đổi."
     }
   },
   {
@@ -647,7 +707,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu áp dụng công thức tính sai số tương đối từ sai số tuyệt đối và giá trị gần đúng, sau đó chuyển đổi sang phần trăm."
     }
   },
   {
@@ -668,7 +730,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính sai số tuyệt đối, đòi hỏi việc thực hiện phép trừ phân số và so sánh kết quả với các đáp án, liên quan đến 2-3 bước tính toán."
     }
   },
   {
@@ -689,7 +753,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng quy tắc làm tròn số dựa trên sai số tuyệt đối, kết hợp kiến thức về chữ số có nghĩa và làm tròn số."
     }
   },
   {
@@ -710,7 +776,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu làm tròn số theo chữ số đáng tin và viết dưới dạng chuẩn, kết hợp kiến thức về số đáng tin và biểu diễn số."
     }
   },
   {
@@ -731,7 +799,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính diện tích và sai số tương đối, đòi hỏi vận dụng công thức tính diện tích và quy tắc cộng sai số tương đối, qua 2-3 bước tính toán."
     }
   },
   {
@@ -751,8 +821,10 @@
       "explanation": "Chu vi gần đúng L = 2(2 + 5) = 14 m.\n\nSai số tuyệt đối ΔL ≤ 2(Δx + Δy) = 2(1cm + 2cm) = 6cm = 0,06 m.\n\nSai số tương đối δL ≤ ΔL / L = 0,06 / 14 ≈ 0,00428.\n\nCác đáp án A, B, C đều ghi chu vi là 22,4. Đây là một lỗi sai. Chu vi đúng là 14m. Do đó không có đáp án đúng.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "hard",
+      "source": "user_provided_md",
+      "difficulty_number": 4,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính toán chu vi và sai số tương đối của hình chữ nhật, đòi hỏi kết hợp kiến thức về hình học và sai số, cùng với việc xử lý các phép tính liên quan đến sai số tuyệt đối và tương đối."
     }
   },
   {
@@ -773,7 +845,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu xác định số chữ số chắc dựa trên sai số tuyệt đối, đòi hỏi hiểu biết về khái niệm sai số và cách xác định chữ số chắc."
     }
   },
   {
@@ -793,8 +867,10 @@
       "explanation": "Ký hiệu khoa học có dạng a * 10ⁿ, với 1 ≤ |a| < 10.\n\nTa dời dấu phẩy sang phải 5 vị trí để được số -5,67.\n\n-5,67 thỏa mãn điều kiện 1 ≤ |-5,67| < 10.\n\nVì đã dời dấu phẩy sang phải 5 vị trí, số mũ của 10 là -5.\n\nKết quả: –5,67.10⁻⁵.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp định nghĩa ký hiệu khoa học và thực hiện một bước chuyển đổi đơn giản."
     }
   },
   {
@@ -814,8 +890,10 @@
       "explanation": "Để làm tròn đến hàng phần trăm, ta xét chữ số ở hàng phần nghìn.\n\n√8 = 2,8284... Chữ số hàng phần trăm là 2, chữ số hàng phần nghìn là 8.\n\nVì 8 ≥ 5, ta làm tròn lên: 2,82 + 0,01 = 2,83.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp quy tắc làm tròn số đến hàng phần trăm."
     }
   },
   {
@@ -835,8 +913,10 @@
       "explanation": "Dùng máy tính, √10 ≈ 3,162277...\n\nLàm tròn đến hàng phần trăm, ta xét chữ số hàng phần nghìn là 2.\n\nVì 2 < 5, ta giữ nguyên chữ số hàng phần trăm.\n\nKết quả là 3,16.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp chức năng máy tính và quy tắc làm tròn cơ bản."
     }
   },
   {
@@ -857,7 +937,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng công thức tính sai số tương đối và chuyển đổi đơn vị, đòi hỏi 2-3 bước tính toán."
     }
   },
   {
@@ -878,7 +960,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng công thức tính sai số tuyệt đối từ sai số tương đối, đòi hỏi 2-3 bước tính toán và hiểu biết về mối quan hệ giữa hai loại sai số."
     }
   },
   {
@@ -899,7 +983,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính toán sai số tuyệt đối cho nhiều giá trị và so sánh chúng, đòi hỏi vận dụng công thức và thực hiện nhiều bước tính toán."
     }
   },
   {
@@ -920,7 +1006,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu áp dụng công thức tính chu vi hình chữ nhật và quy tắc tính sai số tuyệt đối của tổng, sau đó nhân với một hằng số."
     }
   },
   {
@@ -941,7 +1029,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu áp dụng công thức tính diện tích hình chữ nhật và tính sai số tuyệt đối dựa trên sai số tương đối của các đại lượng đo, đòi hỏi 2-3 bước tính toán và kết hợp kiến thức về đo lường."
     }
   },
   {
@@ -962,7 +1052,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu áp dụng công thức tính chu vi và quy tắc cộng sai số tuyệt đối, sau đó tính sai số tương đối, đòi hỏi 2-3 bước tính toán và kết hợp kiến thức về sai số."
     }
   },
   {
@@ -982,8 +1074,10 @@
       "explanation": "√3 ≈ 1,7320508...\n\nLàm tròn đến hàng phần trăm: xét chữ số hàng phần nghìn là 2. Vì 2 < 5, giữ nguyên. Kết quả là 1,73.\n\nLàm tròn đến hàng phần nghìn: xét chữ số hàng phần chục nghìn là 0. Vì 0 < 5, giữ nguyên. Kết quả là 1,732.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp quy tắc làm tròn số đến một chữ số thập phân cho trước."
     }
   },
   {
@@ -1003,8 +1097,10 @@
       "explanation": "π² ≈ 9,8696044...\n\nLàm tròn đến hàng phần trăm: xét chữ số hàng phần nghìn là 9. Vì 9 ≥ 5, làm tròn lên. 9,86 + 0,01 = 9,87.\n\nLàm tròn đến hàng phần nghìn: xét chữ số hàng phần chục nghìn là 6. Vì 6 ≥ 5, làm tròn lên. 9,869 + 0,001 = 9,870.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp quy tắc làm tròn số đến một chữ số thập phân cho trước."
     }
   },
   {
@@ -1025,7 +1121,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng quy tắc làm tròn số dựa trên độ chính xác cho trước, đòi hỏi 2-3 bước suy luận và áp dụng công thức làm tròn."
     }
   },
   {
@@ -1046,7 +1144,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng quy tắc làm tròn số dựa trên độ chính xác cho trước, đòi hỏi 2-3 bước suy luận và áp dụng công thức làm tròn."
     }
   },
   {
@@ -1067,7 +1167,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Bài toán yêu cầu đổi đơn vị thời gian và thực hiện phép nhân, sau đó viết kết quả dưới dạng kí hiệu khoa học, kết hợp kiến thức vật lý cơ bản và toán học."
     }
   },
   {
@@ -1088,7 +1190,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu xác định chữ số chắc dựa trên sai số tuyệt đối, đòi hỏi hiểu biết về quy tắc làm tròn và xác định hàng không chắc chắn."
     }
   },
   {
@@ -1109,7 +1213,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính toán sai số tuyệt đối, xác định chữ số chắc và làm tròn số theo quy tắc, kết hợp kiến thức về sai số và làm tròn số."
     }
   },
   {
@@ -1130,7 +1236,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu xác định dạng chuẩn của số gần đúng dựa trên độ chính xác cho trước, đòi hỏi việc xác định chữ số chắc và áp dụng quy tắc viết dạng chuẩn."
     }
   },
   {
@@ -1151,7 +1259,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng công thức tính sai số tương đối và xác định chữ số chắc, sau đó làm tròn số, đòi hỏi 2-3 bước tính toán và kết hợp kiến thức về sai số và làm tròn."
     }
   },
   {
@@ -1172,7 +1282,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu xác định chữ số chắc chắn dựa trên sai số cho trước, đòi hỏi hiểu biết về sai số thực nghiệm và áp dụng quy tắc làm tròn."
     }
   },
   {
@@ -1193,7 +1305,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu chuyển đổi số gần đúng sang dạng chuẩn, đòi hỏi hiểu biết về sai số và cách biểu diễn khoa học, kết hợp 2-3 bước biến đổi."
     }
   },
   {
@@ -1214,7 +1328,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng quy tắc làm tròn số dựa trên sai số tuyệt đối, kết hợp kiến thức về số gần đúng và làm tròn số."
     }
   },
   {
@@ -1234,8 +1350,10 @@
       "explanation": "Số ban đầu ā = 7216,4.\n\nSố quy tròn a = 7216.\n\nSai số tuyệt đối Δa = |a - ā| = |7216 - 7216,4| = |-0,4| = 0,4.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu áp dụng trực tiếp công thức tính sai số tuyệt đối sau khi quy tròn số."
     }
   },
   {
@@ -1256,7 +1374,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính sai số tuyệt đối sau khi quy tròn số, đòi hỏi 2-3 bước tính toán và áp dụng công thức."
     }
   },
   {
@@ -1276,8 +1396,10 @@
       "explanation": "Tính giá trị trung bình:\n\nh_tb = (15,6 + 15,8 + 15,4 + 15,7 + 15,9) / 5 = 78,4 / 5 = 15,68 m.\n\nXác định sai số:\n\nĐộ chính xác của dụng cụ đo là 1dm = 0,1m.\n\nSai số ngẫu nhiên được đánh giá qua độ lệch chuẩn hoặc sai số trung bình. Sai số của giá trị trung bình là Δh_tb = max(|h_i - h_tb|) = max(|15,4 - 15,68|, |15,9 - 15,68|) = max(0,28, 0,22) = 0,28 m.\n\nTổng sai số = sai số dụng cụ + sai số ngẫu nhiên = 0,1 + 0,28 = 0,38 m = 3,8 dm.\n\nViết kết quả: h = 15,68 ± 0,38 m.\n\nLàm tròn và so sánh: Làm t",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "hard",
+      "source": "user_provided_md",
+      "difficulty_number": 4,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính toán giá trị trung bình, sai số ngẫu nhiên và sai số tổng, sau đó làm tròn và so sánh với các đáp án, đòi hỏi kết hợp nhiều kiến thức và quy trình tính toán phức tạp."
     }
   },
   {
@@ -1297,8 +1419,10 @@
       "explanation": "Mệnh đề gốc có dạng \"∀x, P(x)\".\n\nPhủ định của \"∀\" là \"∃\".\n\nPhủ định của \"P(x)\", tức là phủ định của \"x² + 1 > 0\", là \"x² + 1 ≤ 0\".\n\nKết hợp lại, mệnh đề phủ định là \"∃x ∈ ℝ, x² + 1 ≤ 0\".",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu áp dụng quy tắc phủ định của mệnh đề chứa lượng từ và phủ định của một bất đẳng thức đơn giản."
     }
   },
   {
@@ -1318,8 +1442,10 @@
       "explanation": "Mệnh đề P có dạng \"Nếu A thì B\".\n\nMệnh đề đảo có dạng \"Nếu B thì A\".\n\nTrong trường hợp này, A là \"tam giác ABC là tam giác vuông tại A\" và B là \"AB² + AC² = BC²\".\n\nVậy mệnh đề đảo là \"Nếu AB² + AC² = BC² thì tam giác ABC là tam giác vuông tại A\".",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu xác định mệnh đề đảo của một mệnh đề cho sẵn, chỉ cần áp dụng đúng định nghĩa mệnh đề đảo."
     }
   },
   {
@@ -1339,8 +1465,10 @@
       "explanation": "Phép hợp của hai tập hợp (A ∪ B) là tập hợp chứa tất cả các phần tử thuộc A hoặc thuộc B (hoặc cả hai).\n\nLiệt kê tất cả các phần tử từ cả hai tập, không lặp lại: {1, 3, 5, 7, 4, 6}.\n\nSắp xếp lại cho dễ nhìn: {1, 3, 4, 5, 6, 7}.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp định nghĩa phép hợp của hai tập hợp và thực hiện một bước liệt kê các phần tử."
     }
   },
   {
@@ -1360,8 +1488,10 @@
       "explanation": "Tập hợp C gồm các số tự nhiên x (x ∈ ℕ).\n\nĐiều kiện là x lớn hơn 2 (x > 2) và nhỏ hơn hoặc bằng 7 (x ≤ 7).\n\nCác số tự nhiên thỏa mãn điều kiện này là: 3, 4, 5, 6, 7.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp định nghĩa tập hợp và điều kiện cho trước để liệt kê các phần tử."
     }
   },
   {
@@ -1381,8 +1511,10 @@
       "explanation": "A. Đúng, vì có x = 3 hoặc x = -3 thuộc Z thỏa mãn x² = 9.\n\nB. Đúng, vì mọi số tự nhiên x đều không âm, nên x + 1 luôn lớn hơn 0.\n\nC. Sai, vì π là một số vô tỉ, không thể biểu diễn dưới dạng phân số a/b.\n\nD. Đúng.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu nhận biết mệnh đề sai, đòi hỏi hiểu biết về các loại số và kiến thức địa lý cơ bản, có thể trả lời bằng cách kiểm tra từng đáp án."
     }
   },
   {
@@ -1403,7 +1535,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng công thức tính sai số tương đối và chuyển đổi đơn vị, đòi hỏi 2-3 bước tính toán."
     }
   },
   {
@@ -1423,8 +1557,10 @@
       "explanation": "Hàng phần trăm là chữ số 2.\n\nChữ số ngay bên phải nó là 4.\n\nVì 4 < 5, ta giữ nguyên chữ số hàng phần trăm và bỏ các chữ số phía sau.\n\nKết quả: 8,12.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp quy tắc làm tròn số đến hàng phần trăm, chỉ cần một bước so sánh đơn giản."
     }
   },
   {
@@ -1445,7 +1581,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu xác định hai tập hợp dựa trên điều kiện cho trước, sau đó thực hiện phép trừ tập hợp, đòi hỏi 2-3 bước tính toán và kết hợp kiến thức về phương trình, bất phương trình và tập hợp."
     }
   },
   {
@@ -1465,8 +1603,10 @@
       "explanation": "\"Mọi\" tương ứng với ký hiệu ∀ (với mọi).\n\n\"số tự nhiên\" tương ứng với tập hợp ℕ (x ∈ ℕ).\n\n\"đều lớn hơn hoặc bằng 0\" tương ứng với biểu thức x ≥ 0.\n\nGhép lại ta được: ∀x ∈ ℕ, x ≥ 0.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp định nghĩa và ký hiệu của mệnh đề phổ biến và tồn tại."
     }
   },
   {
@@ -1486,8 +1626,10 @@
       "explanation": "Tính thể tích gần đúng:\n\nV_approx = (4/3) * 3,14 * (5,0)³ ≈ 523,33 cm³.\n\nTính sai số tương đối:\n\nδV ≈ 3 * δr (vì V tỉ lệ với r³ và sai số của hằng số 4/3 và π được bỏ qua).\n\nδr = d/r = 0,1 / 5,0 = 0,02.\n\nδV ≈ 3 * 0,02 = 0,06.\n\nTính sai số tuyệt đối:\n\nΔV ≈ V_approx * δV ≈ 523,33 * 0,06 ≈ 31,4.\n\nKết quả: V ≈ 523,3 ± 31,4 cm³.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "hard",
+      "source": "user_provided_md",
+      "difficulty_number": 4,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính toán thể tích gần đúng và sai số tuyệt đối, đòi hỏi kết hợp công thức tính thể tích hình cầu với kiến thức về sai số tương đối và tuyệt đối, cùng với việc biến đổi công thức."
     }
   },
   {
@@ -1507,8 +1649,10 @@
       "explanation": "Chữ số hàng nghìn là 4.\n\nChữ số ngay bên phải nó là 5.\n\nVì 5 ≥ 5, ta cộng 1 vào chữ số hàng nghìn (4 + 1 = 5) và thay các chữ số bên phải bằng 0.\n\nKết quả: 35000.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp quy tắc làm tròn số cơ bản với một bước tính toán đơn giản."
     }
   },
   {
@@ -1528,8 +1672,10 @@
       "explanation": "A. P(1): 1² - 4 = -3 ≠ 0. Sai.\n\nB. P(4): 4² - 4 = 12 ≠ 0. Sai.\n\nC. P(-2): (-2)² - 4 = 4 - 4 = 0. Đúng.\n\nD. P(0): 0² - 4 = -4 ≠ 0. Sai.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu thay giá trị của biến vào mệnh đề và kiểm tra tính đúng sai, là một dạng vận dụng trực tiếp định nghĩa mệnh đề chứa biến."
     }
   },
   {
@@ -1549,8 +1695,10 @@
       "explanation": "Mệnh đề gốc có thể viết lại là: \"∃ học sinh, học sinh đó không làm bài tập\".\n\nPhủ định của \"∃\" là \"∀\".\n\nPhủ định của \"không làm bài tập\" là \"làm bài tập\".\n\nKết hợp lại, mệnh đề phủ định là: \"∀ học sinh, học sinh đó làm bài tập\", tức là \"Mọi học sinh trong lớp đều làm bài tập về nhà\".",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu áp dụng quy tắc phủ định của mệnh đề chứa lượng từ 'tồn tại' và phủ định của một mệnh đề đơn giản."
     }
   },
   {
@@ -1570,8 +1718,10 @@
       "explanation": "Phép hiệu M \\ N là tập hợp các phần tử thuộc M nhưng không thuộc N.\n\nCác phần tử của M là a, b, c.\n\nPhần tử b của M cũng thuộc N.\n\nCác phần tử a, c của M không thuộc N.\n\nVậy M \\ N = {a, c}.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp định nghĩa phép hiệu hai tập hợp với một bước xác định các phần tử."
     }
   },
   {
@@ -1591,8 +1741,10 @@
       "explanation": "δa = Δa / |a| = 0,005 / 1,234.\n\nδa ≈ 0,00405.\n\nĐổi ra phần trăm: 0,00405 * 100% ≈ 0,4%.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu áp dụng trực tiếp công thức tính sai số tương đối với một bước tính toán đơn giản."
     }
   },
   {
@@ -1612,8 +1764,10 @@
       "explanation": "d = 0,05. Hàng không chắc chắn là hàng phần trăm.\n\nTa làm tròn số 2,236 đến hàng cao hơn một bậc, là hàng phần mười.\n\nChữ số hàng phần mười là 2, chữ số bên phải là 3 (< 5), giữ nguyên.\n\nKết quả là 2,2.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp quy tắc làm tròn số với độ chính xác cho trước."
     }
   },
   {
@@ -1634,7 +1788,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu xác định mệnh đề tương đương với mệnh đề cho trước, đòi hỏi hiểu và áp dụng quy tắc về mệnh đề phản đảo."
     }
   },
   {
@@ -1654,8 +1810,10 @@
       "explanation": "A ∩ B là tập hợp các số thực x sao cho x thuộc cả A và B.\n\nx ∈ A ⇔ x ≤ 5.\n\nx ∈ B ⇔ x > 2.\n\nKết hợp cả hai điều kiện: 2 < x ≤ 5.\n\nĐây chính là khoảng (2, 5].",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tìm giao của hai tập hợp số thực, chỉ cần áp dụng định nghĩa giao và so sánh các khoảng số."
     }
   },
   {
@@ -1675,8 +1833,10 @@
       "explanation": "Giá trị gần đúng a = 10,25. Độ chính xác d = 0,01.\n\nGiá trị đúng ā nằm trong đoạn [a - d, a + d].\n\na - d = 10,25 - 0,01 = 10,24.\n\na + d = 10,25 + 0,01 = 10,26.\n\nVậy chiều dài sợi dây nằm trong đoạn [10,24; 10,26].",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp công thức xác định khoảng sai số của một đại lượng đo."
     }
   },
   {
@@ -1696,8 +1856,10 @@
       "explanation": "A, B, C là các số đúng, chính xác tuyệt đối. Số π là một hằng số toán học, số học sinh là số đếm, số 2 trong phương trình là một hệ số chính xác.\n\nD là kết quả của một phép đo, luôn có sai số do dụng cụ và người đo, do đó nó là một số gần đúng.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu nhận biết khái niệm số gần đúng thông qua các ví dụ thực tế, chỉ cần vận dụng định nghĩa cơ bản."
     }
   },
   {
@@ -1717,8 +1879,10 @@
       "explanation": "Mệnh đề gốc có dạng \"∀x, (P(x) ∨ Q(x))\".\n\nPhủ định của nó là \"∃x, ¬(P(x) ∨ Q(x))\", tương đương với \"∃x, (¬P(x) ∧ ¬Q(x))\".\n\nP(x): \"x là số chẵn\". ¬P(x): \"x không là số chẵn\".\n\nQ(x): \"x là số lẻ\". ¬Q(x): \"x không là số lẻ\".\n\nVậy mệnh đề phủ định là: \"Tồn tại một số nguyên x, x không là số chẵn và x không là số lẻ\".",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu áp dụng quy tắc phủ định của mệnh đề chứa lượng từ và phép hội/phân, chỉ cần 1 bước biến đổi trực tiếp."
     }
   },
   {
@@ -1739,7 +1903,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu áp dụng công thức tính chu vi hình vuông và quy tắc tính sai số tuyệt đối của tích, đòi hỏi 2-3 bước tính toán."
     }
   },
   {
@@ -1760,7 +1926,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tính sai số tuyệt đối của một giá trị gần đúng, đòi hỏi hiểu biết về khái niệm sai số và thực hiện một vài phép tính toán học."
     }
   },
   {
@@ -1781,7 +1949,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tìm ước của hai số và sau đó tìm giao của hai tập hợp ước đó, đòi hỏi 2-3 bước tính toán và kết hợp kiến thức về tập hợp và ước số."
     }
   },
   {
@@ -1801,8 +1971,10 @@
       "explanation": "Sai số tuyệt đối = |số quy tròn - số ban đầu|.\n\nΔa = |9,8 - 9,845| = |-0,045| = 0,045.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu áp dụng trực tiếp công thức tính sai số tuyệt đối sau khi quy tròn số."
     }
   },
   {
@@ -1823,7 +1995,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu xét mệnh đề đảo của nhiều mệnh đề và kiểm tra tính đúng sai, đòi hỏi vận dụng kiến thức về logic mệnh đề và các tính chất hình học, số học."
     }
   },
   {
@@ -1844,7 +2018,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu xác định số chữ số chắc chắn dựa trên số gần đúng và độ chính xác, đòi hỏi hiểu biết về quy ước làm tròn và xác định hàng không chắc chắn."
     }
   },
   {
@@ -1864,8 +2040,10 @@
       "explanation": "Để đưa về dạng a × 10ⁿ với 1 ≤ a < 10, ta dời dấu phẩy từ cuối sang trái 8 vị trí.\n\nTa được số 1,5.\n\nVì dời sang trái 8 vị trí nên số mũ của 10 là 8.\n\nKết quả: 1,5 × 10⁸.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp định nghĩa ký hiệu khoa học và thực hiện một bước chuyển đổi số đơn giản."
     }
   },
   {
@@ -1886,7 +2064,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu áp dụng công thức tính chu vi và ước lượng sai số tuyệt đối, đòi hỏi 2-3 bước tính toán và kết hợp kiến thức về sai số."
     }
   },
   {
@@ -1906,8 +2086,10 @@
       "explanation": "Chữ số hàng phần nghìn là 8.\n\nChữ số bên phải là 2.\n\nVì 2 < 5, ta giữ nguyên chữ số hàng phần nghìn.\n\nKết quả: 2,718.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp quy tắc làm tròn số đến một chữ số thập phân cụ thể."
     }
   },
   {
@@ -1927,8 +2109,10 @@
       "explanation": "Mệnh đề gốc: \"∀ chim, chim biết bay\".\n\nPhủ định: \"∃ chim, chim không biết bay\".\n\nDiễn đạt bằng lời: \"Tồn tại ít nhất một loài chim không biết bay\".",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu áp dụng trực tiếp quy tắc phủ định của mệnh đề chứa lượng từ 'với mọi'."
     }
   },
   {
@@ -1948,8 +2132,10 @@
       "explanation": "a = 3,5 m; δa = 1% = 0,01.\n\nSai số tuyệt đối Δa = a * δa = 3,5 * 0,01 = 0,035 m.\n\nĐổi ra cm: 0,035 m = 3,5 cm.\n\nCả hai đáp án A và C đều biểu diễn cùng một giá trị.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp công thức tính sai số tuyệt đối từ sai số tương đối và giá trị đo."
     }
   },
   {
@@ -1969,8 +2155,10 @@
       "explanation": "Điều kiện x ≥ -2 (có dấu bằng) tương ứng với ngoặc vuông [.\n\nĐiều kiện x < 3 (không có dấu bằng) tương ứng với ngoặc tròn ).\n\nKết hợp lại ta có đoạn [-2, 3).",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp định nghĩa về ký hiệu khoảng, đoạn để biểu diễn tập hợp số thực."
     }
   },
   {
@@ -1991,7 +2179,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu xác định mệnh đề đúng bằng cách kiểm tra tính đúng sai của từng mệnh đề, đòi hỏi kiến thức về lượng từ, tính chất chia hết và định lý cơ bản trong hình học."
     }
   },
   {
@@ -2012,7 +2202,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng quy tắc làm tròn số với độ chính xác cho trước, đòi hỏi 2-3 bước tính toán và hiểu biết về cách xác định hàng làm tròn."
     }
   },
   {
@@ -2032,8 +2224,10 @@
       "explanation": "A ∩ B là tập hợp các phần tử thuộc cả A và B.\n\nPhần tử duy nhất thỏa mãn cả hai điều kiện x ≤ 2 và x ≥ 2 là x = 2.\n\nVậy giao của hai tập hợp là {2}.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu tìm giao của hai tập hợp số, chỉ cần áp dụng định nghĩa giao và xác định phần tử chung duy nhất."
     }
   },
   {
@@ -2053,8 +2247,10 @@
       "explanation": "a = 25 cm, δa ≤ 0,4% = 0,004.\n\nΔa ≤ a * δa = 25 * 0,004 = 0,1 cm.",
       "solution_steps": [],
       "key_concepts": [],
-      "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "difficulty_level": "easy",
+      "source": "user_provided_md",
+      "difficulty_number": 2,
+      "difficulty_reasoning": "Câu hỏi yêu cầu vận dụng trực tiếp công thức tính sai số tuyệt đối từ sai số tương đối và giá trị đo."
     }
   },
   {
@@ -2075,7 +2271,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu xác định mối quan hệ logic giữa hai mệnh đề về hình học, đòi hỏi hiểu biết về định nghĩa hình vuông và hình chữ nhật, cũng như cách suy luận mệnh đề kéo theo."
     }
   },
   {
@@ -2096,7 +2294,9 @@
       "solution_steps": [],
       "key_concepts": [],
       "difficulty_level": "medium",
-      "source": "user_provided_md"
+      "source": "user_provided_md",
+      "difficulty_number": 3,
+      "difficulty_reasoning": "Câu hỏi yêu cầu xác định số chữ số chắc chắn dựa trên sai số cho trước, đòi hỏi hiểu biết về khái niệm sai số và áp dụng vào việc đếm chữ số."
     }
   }
 ]

@@ -18,10 +18,10 @@ export default function ChatWidget() {
   const [loading, setLoading] = useState(false);
 
   const quickQuestions = [
-    'Giải thích bất phương trình bậc nhất',
-    'Hướng dẫn tính giá trị lượng giác',
-    'Cách giải hệ bất phương trình',
-    'Vectơ là gì?'
+    '📐 Bất phương trình bậc nhất là gì?',
+    '📊 Cách tính sin, cos, tan?',
+    '➕ Phép toán vectơ cơ bản',
+    '🔢 Giải phương trình đường tròn'
   ];
 
   const handleSend = async () => {
@@ -37,15 +37,17 @@ export default function ChatWidget() {
         problem: input
       });
       
+      // Backend returns { text: "..." }
       const assistantMessage: Message = {
         role: 'assistant',
-        content: response.explanation || 'Xin lỗi, tôi không thể trả lời câu hỏi này.'
+        content: response.text || response.explanation || 'Xin lỗi, tôi không thể trả lời câu hỏi này. 🤔'
       };
       setMessages(prev => [...prev, assistantMessage]);
     } catch (err: any) {
+      console.error('Chat error:', err);
       const errorMessage: Message = {
         role: 'assistant',
-        content: 'Xin lỗi, đã có lỗi xảy ra. Vui lòng thử lại sau.'
+        content: '⚠️ Xin lỗi, đã có lỗi xảy ra. Vui lòng thử lại sau hoặc diễn đạt câu hỏi khác.'
       };
       setMessages(prev => [...prev, errorMessage]);
     } finally {
