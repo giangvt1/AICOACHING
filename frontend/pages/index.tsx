@@ -18,6 +18,7 @@ type ProgressData = {
   discipline_score: number;
   topics_mastered: number;
   weak_topics: number;
+  completion_rate: number; 
 };
 
 export default function HomePage() {
