@@ -37,17 +37,11 @@ AI Learning Coach là một nền tảng học tập thông minh giúp học sin
 ### 1️⃣ Cài đặt Backend
 
 ```bash
+Active conda enviroment
+conda active myenv
+
 # Di chuyển vào thư mục backend
 cd backend
-
-# Tạo môi trường ảo (khuyến nghị)
-python -m venv venv
-
-# Kích hoạt môi trường ảo
-# Windows:
-venv\Scripts\activate
-# Linux/Mac:
-source venv/bin/activate
 
 # Cài đặt dependencies
 pip install -r requirements.txt
