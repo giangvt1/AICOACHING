@@ -1,0 +1,36 @@
+# AI Learning Coach - Python Dependencies
+# ==========================================
+
+# Web Framework
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+
+# Database & ORM
+SQLAlchemy==2.0.36
+alembic==1.13.2
+pyodbc>=4.0.39
+
+# Data Validation
+pydantic==2.9.2
+email-validator>=2.0.0
+
+# Authentication & Security
+passlib[bcrypt]==1.7.4
+bcrypt==4.0.1
+python-jose[cryptography]==3.3.0
+
+# File Upload & Processing
+python-multipart==0.0.12
+
+# PDF Processing
+pdfminer.six>=20231228
+pdfplumber>=0.11.0
+pypdf>=4.2.0
+
+# AI & LLM Integration
+openai>=1.51.0
+google-generativeai>=0.7.2
+
+# Utilities
+python-dotenv>=1.0.1
+requests>=2.32.0
